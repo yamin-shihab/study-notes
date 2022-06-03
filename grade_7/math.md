@@ -19,7 +19,7 @@ This subject probably involves the least amount of studying because you'll be th
 ## Integers
 
 * Positive numbers are above **0**, and negative numbers are below **0** and are prefixed with a "-".
-* It may sometimes be more clear to surround numbers with parenthesis.
+* It may sometimes be more clear to surround numbers with parentheses.
 * If you are adding/subtracting two numbers that are positive and negative, you can reverse the sign (negative or not) of the second number, and reverse the operation (addition to subtraction and vice versa).
 * Number tiles are a way to represent numbers by having specific tiles for either **-1** or **+1**.
 * For example, *red tiles can be positive, and yellow tiles can be negative*.
@@ -44,7 +44,7 @@ This subject probably involves the least amount of studying because you'll be th
 * Front-end estimations is only using the whole number of a decimal number. *(1.4 -> 1, 5.6 -> 5, 66.9 -> 66)*
 * Rounding estimation is rounding to the nearest nth (tenth, hundredth, thousandth) place. *(1.4 -> 1, 5.6 -> 6, 66.9 -> 67)*
 * PEDMAS (how dare people say BEDMAS!) is the order in which operations are applied in an equation.
-* Parenthesis, Exponent, Division/Multiplication, Addition/Subtraction.
+* Parentheses, Exponent, Division/Multiplication, Addition/Subtraction.
 * Note that when division/multiplication or addition/subtraction is reached, it is either one of the parts of those current pairs are applied from left to right.
 
 ## Fractions, Decimals, and Percents
@@ -73,3 +73,25 @@ This subject probably involves the least amount of studying because you'll be th
 * To convert from a decimal to a percent, either multiply the decimal by **100**, or move the decimal **2** places to the right, and always add the **%** sign. *(0.18 -> 18%)*
 * To convert from percent to decimal, drop the **%** sign, and either move the decimal **2** places to the left, or divide the number by **100**. *(75% -> 0.75)*
 * When comparing fractions, decimals, and percents, it's best to convert them all to one of those formats, then reorder them, then turn them back to their original form.
+
+## Statistics and Probability
+
+* The mean of a group of numbers can be considered the "average".
+* It can be calculated by summing up all the numbers together and dividing it by the number of numbers. *(2, 5, 1, 7 -> 16 -> 4)*
+* The median is the medium number in a group of ordered numbers. *(4, 5, 9, 1, 0 -> 9)*
+* The mode of a group of numbers is the number that occurs most time. *(3, 9, 3, 1, 0 -> 3)*
+* Those three are Measures of Central Tendency (mostly used for finding the average).
+* The range (not a Measure of Central Tendency), is the difference between the biggest and smallest numbers in a group of numbers. *(3, 7, 1, 9, 5 -> 8)*
+* An outlier is a abnormally large or small number in a group of numbers, relative to the other numbers. *(3, 9, 1, 435, 4 -> 435)*
+* A circle graph shows how categories of data compare to each other as a whole.
+* It's a circle divided into section.
+* They need a title, labels/a legend, the sum of 360 for the total degrees, and data is reported as percentages.
+* To find the angle in degrees for a sector, turn the percent into a decimal, and multiply each decimal by 360, then round the number. Use a protractor to measure each angle. *(56% -> 0.56 * 360 -> 201.6 degrees)*
+* You can draw the circle by tracing a circular object, or using a compass.
+* The favorable outcome is the event you are looking to occur in a probability experiment.
+* Possible outcomes are the possible outcomes in a probability experiment.
+* Probability(event) = favorable outcomes/possible outcomes.
+* An independent event is an event in a group of events that doesn't affect the probability of the other events.
+* Either a tree diagram or a table of outcomes can be used to represent possible outcomes of events.
+* A tree diagram starts and branches out for each event. The amount of branches from each branch is the possible number of outcomes. The amount of branches at the end is the total overall amount of possible outcomes.
+* A table of outcomes only works with **2** events (unless you want to traverse the nth dimension). It is a table where the rows represent the possible outcomes of the first event, and the columns represent the second.
