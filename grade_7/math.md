@@ -1,6 +1,6 @@
 # Math 7
 
-This subject probably involves the least amount of studying because you'll be thinking more than the other subjects instead of just remembering.
+This subject probably involves the least amount of studying because you'll be thinking more than the other subjects instead of just remembering. Practicing word problems is also cool for practice.
 
 ## Divisibility Rules
 
@@ -35,3 +35,13 @@ This subject probably involves the least amount of studying because you'll be th
 2. Can the amount from the second number be taken away from the first number? If so, do so.
 3. If not, make enough zero pairs to subtract the second number (by adding negative tiles if more positive tiles are needed to be subtracted, or by adding positive tiles if more negative tiles are needed to be subtracted).
 * Subtracting example: ***5** - **-2**: draw **5** red tiles, there are no yellow (negative) tiles to take away (you need **two**), draw **2** zero pairs for **2** yellow tiles, remove the **2** yellow tiles, you now have **7** red tiles, the answer is 7*.
+
+## Decimals
+
+* You should know basic math operations by now (like long addition, subtraction, division, and multiplication).
+* The product is the answer of multiplication, the quotient is the answer of division.
+* Front-end estimations is only using the whole number of a decimal number. *(1.4 -> 1, 5.6 -> 5, 66.9 -> 66)*
+* Rounding estimation is rounding to the nearest nth (tenth, hundredth, thousandth) place. *(1.4 -> 1, 5.6 -> 6, 66.9 -> 67)*
+* PEDMAS (how dare people say BEDMAS!) is the order in which operations are applied in an equation.
+* Parenthesis, Exponent, Division/Multiplication, Addition/Subtraction.
+* Note that when division/multiplication or addition/subtraction is reached, it is either one of the parts of those current pairs are applied from left to right.
