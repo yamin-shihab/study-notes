@@ -14,3 +14,24 @@ This subject probably involves the least amount of studying because you'll be th
 * A number is divisible by **9** when the sum of all digits is a multiple of **9**. *(496, 18, 51 840)*
 * A number is divisible by **10** when the last digit is a **0**. *(40, 500, 48 620)*
 * You can use a Venn Diagram to sort numbers by their divisibility (the two circle chart thingy with a separate spot in the middle).
+
+## Integers
+
+* Positive numbers are above **0**, and negative numbers are below **0** and are prefixed with a "-".
+* It may sometimes be more clear to surround numbers with parenthesis.
+* If you are adding/subtracting two numbers that are positive and negative, you can reverse the sign (negative or not) of the second number, and reverse the operation (addition to subtraction and vice versa).
+* Number tiles are a way to represent numbers by having specific tiles for either **-1** or **+1**.
+* For example, *red tiles can be positive, and yellow tiles can be negative*.
+* One tile from each together make a zero pair (which are usually circled together into a "bubble").
+* A zero pair is equal to... Well, **0**.
+* So for example, ***5** red tiles and **2** yellow tiles make **3***
+* To add two numbers represented by number tiles:
+1. Model both numbers with number tiles.
+2. Circle all zero pairs.
+3. Count the remaining number tiles; that's the answer.
+* Adding example: ***-6** + **2**: draw **6** yellow tiles, **2** red tiles are added, remove the **two** zero pairs, there are now **4** yellow tiles, the answer is **-4***.
+* To subtract two numbers represented by number tiles:
+1. Model the first number with number tiles.
+2. Can the amount from the second number be taken away from the first number? If so, do so.
+3. If not, make enough zero pairs to subtract the second number (by adding negative tiles if more positive tiles are needed to be subtracted, or by adding positive tiles if more negative tiles are needed to be subtracted).
+* Subtracting example: ***5** - **-2**: draw **5** red tiles, there are no yellow (negative) tiles to take away (you need **two**), draw **2** zero pairs for **2** yellow tiles, remove the **2** yellow tiles, you now have **7** red tiles, the answer is 7*.

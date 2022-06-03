@@ -14,6 +14,7 @@ My (so far only) grade 7 Alberta curriculum finals study guides. Feel free to sh
 * Don't make parts too long.
 * Use correct spelling and grammar.
 * I like the Oxford Comma.
+* I like contractions.
 * Separate every three digits of a number with a space (not a comma).
 * You may use *italics*, **bold**, and ALL-CAPS for emphasis (***ONLY FOR EMPHASIS***).
 * I prefer to use **bold for numbers**, and *italics for examples*.
