@@ -94,6 +94,7 @@ This subject probably involves the least amount of studying because you'll be th
 * A table of outcomes only works with **2** events (unless you want to traverse the nth dimension). It is a table where the rows represent the possible outcomes of the first event, and the columns represent the second.
 
 ## Fraction Operations
+
 * Equivalent fractions are fractions that all represent the same amount, despite being different (imagine groups of small pizza slices being in the shape of one big pizza slice). *(3/9, 1/3, 2/6)*
 * An equivalent fraction can be made from a fraction by multiplying/dividing both the numerator and the denominator by the same number. *(2/5 -> 4/10)*
 * A simplified fraction is the smallest possible equivalent fraction for a fraction.
@@ -107,3 +108,25 @@ This subject probably involves the least amount of studying because you'll be th
 * To make a fraction's denominator common with another, multiply/divide both the numerator and denominator till it is. *(3/6, 1/12 -> 6/12, 1/12)*
 * To add fractions, make sure there is a common denominator, then just add the numerators and keep the denominators the same. *(2/7 + 3/7 = 5/7)*
 * To subtract fractions, make sure there is a common denominator, then just subtract the numerators and keep the denominators the same *(4/6 - 3/6 = 1/6)*
+
+## Patterns and Relations
+
+* An expression is a mathematical phrase made up of numbers and/or variables connected by operations. The variable can represent any number we choose. *(3 - 5, 8, 2 - x)*
+* An equation is a mathematical statement containing two expressions separated by an equals sign. The variable only has one value. *(3 - 5 = -2, 3x = 6, x = 8)*
+* A constant term is a number that doesn't change. It increases or decreases the value of an expression. *(3, 62, 92)*
+* A variable is a letter or symbol representing an unknown number. *(x, y, i)*
+* A numerical coefficient is a number that multiplies the variable. *(3x, 5y, 9i)*
+* A term is a constant or variable separated by a + or - sign. *(-6, -z, 3)*
+* When multiplying, you cannot use an X because it can be confused with the common variable name, x. Instead, use a numerical coefficient with or without parentheses. *(3(6), 7x, 2(9))*
+* To evaluate an expression, substitute all occurrences of variable with their given value. *(3n where n = 12 -> 36)*
+* A table of values is a table showing two sets of related numbers.
+* Patterns can be described by expressions which can be displayed in a table of values.
+* The left column has the inputs (x), the right column has the outputs (y).
+* So x is usually used as an input, and y as an output.
+* They can be solved with an expression applied with every input.
+* A relation is a rule that allows you to use one number to get another number. It has two variables on opposite sides of an =. *(y = 4x + 8)*
+* A relation can be written by analyzing a pattern forming from a table of values.
+* A relation can be graphed by having inputs on the x-axis, and on the y-axis the answers.
+* Continuous data is data that can be measured, and has a line going through the coordinates on the graph. *(people's heights, widths, temperature)*
+* Discrete data is data that can be counted, and only has dot coordinates on the graph. *(students in class, tickets, month)*
+* Graphs need a title, a manipulated (independent) variable and a label on the x-axis, a responding (dependent) variable and a label on the y-axis, proper scales for data, bars are evenly spaced, and everything is neat and organized with a ruler.
