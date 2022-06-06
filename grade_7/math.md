@@ -18,7 +18,7 @@ This subject probably involves the least amount of studying because you'll be th
 
 ## Integers
 
-* Positive numbers are above **0**, and negative numbers are below **0** and are prefixed with a "-".
+* Positive numbers are above **0**, and negative numbers are below **0** and are prefixed with a **-**.
 * It may sometimes be more clear to surround numbers with parentheses.
 * If you are adding/subtracting two numbers that are positive and negative, you can reverse the sign (negative or not) of the second number, and reverse the operation (addition to subtraction and vice versa).
 * Number tiles are a way to represent numbers by having specific tiles for either **-1** or **+1**.
@@ -49,7 +49,7 @@ This subject probably involves the least amount of studying because you'll be th
 
 ## Fractions, Decimals, and Percents
 
-* Percent means out of 100.
+* Percent means out of **100**.
 * A terminating decimal number has a finite number of decimal places. *(4.6, 16.72, 134.154)*
 * A repeating decimal number has a specific pattern of numbers that repeat forever. *(PI, 10 / 3, 100 / 33)*
 * Repeating decimal numbers have a straight line on top of them to show that they are repeating from the current decimals.
@@ -79,11 +79,11 @@ This subject probably involves the least amount of studying because you'll be th
 * The mode of a group of numbers is the number that occurs most time. *(3, 9, 3, 1, 0 -> 3)*
 * Those three are Measures of Central Tendency (mostly used for finding the average).
 * The range (not a Measure of Central Tendency), is the difference between the biggest and smallest numbers in a group of numbers. *(3, 7, 1, 9, 5 -> 8)*
-* An outlier is a abnormally large or small number in a group of numbers, relative to the other numbers. *(3, 9, 1, 435, 4 -> 435)*
+* An outlier is an abnormally large or small number in a group of numbers, relative to the other numbers. *(3, 9, 1, 435, 4 -> 435)*
 * A circle graph shows how categories of data compare to each other as a whole.
 * It's a circle divided into section.
-* They need a title, labels/a legend, the sum of 360 for the total degrees, and data is reported as percentages.
-* To find the angle in degrees for a sector, turn the percent into a decimal, and multiply each decimal by 360, then round the number. Use a protractor to measure each angle. *(56% -> 0.56 * 360 = 201.6 degrees)*
+* They need a title, labels/a legend, the sum of **360** for the total degrees, and data is reported as percentages.
+* To find the angle in degrees for a sector, turn the percent into a decimal, and multiply each decimal by **360**, then round the number. Use a protractor to measure each angle. *(56% -> 0.56 * 360 = 201.6 degrees)*
 * You can draw the circle by tracing a circular object, or using a compass.
 * The favorable outcome is the event you are looking to occur in a probability experiment.
 * Possible outcomes are the possible outcomes in a probability experiment.
@@ -114,19 +114,58 @@ This subject probably involves the least amount of studying because you'll be th
 * An expression is a mathematical phrase made up of numbers and/or variables connected by operations. The variable can represent any number we choose. *(3 - 5, 8, 2 - x)*
 * An equation is a mathematical statement containing two expressions separated by an equals sign. The variable only has one value. *(3 - 5 = -2, 3x = 6, x = 8)*
 * A constant term is a number that doesn't change. It increases or decreases the value of an expression. *(3, 62, 92)*
-* A variable is a letter or symbol representing an unknown number. *(x, y, i)*
+* A variable is a letter or symbol representing an unknown number. *(x, y, n)*
 * A numerical coefficient is a number that multiplies the variable. *(3x, 5y, 9i)*
-* A term is a constant or variable separated by a + or - sign. *(-6, -z, 3)*
-* When multiplying, you cannot use an X because it can be confused with the common variable name, x. Instead, use a numerical coefficient with or without parentheses. *(3(6), 7x, 2(9))*
+* A term is a constant or variable separated by a **+** or **-** sign. *(-6, -z, 3)*
+* When multiplying, you cannot use an X because it can be confused with the common variable name, *x*. Instead, use a numerical coefficient with or without parentheses. *(3(6), 7x, 2(9))*
 * To evaluate an expression, substitute all occurrences of variable with their given value. *(3n where n = 12 -> 36)*
 * A table of values is a table showing two sets of related numbers.
 * Patterns can be described by expressions which can be displayed in a table of values.
-* The left column has the inputs (x), the right column has the outputs (y).
-* So x is usually used as an input, and y as an output.
+* The left column has the inputs (*x*), the right column has the outputs (*y*).
+* So *x* is usually used as an input, and *y* as an output.
 * They can be solved with an expression applied with every input.
-* A relation is a rule that allows you to use one number to get another number. It has two variables on opposite sides of an =. *(y = 4x + 8)*
+* A relation is a rule that allows you to use a number to get another number. It has **2** variables on opposite sides of an **=** *(y = 4x + 8)*
 * A relation can be written by analyzing a pattern forming from a table of values.
-* A relation can be graphed by having inputs on the x-axis, and on the y-axis the answers.
+* A relation can be graphed by having inputs on the *x*-axis, and on the *y*-axis the answers.
 * Continuous data is data that can be measured, and has a line going through the coordinates on the graph. *(people's heights, widths, temperature)*
 * Discrete data is data that can be counted, and only has dot coordinates on the graph. *(students in class, tickets, month)*
-* Graphs need a title, a manipulated (independent) variable and a label on the x-axis, a responding (dependent) variable and a label on the y-axis, proper scales for data, bars are evenly spaced, and everything is neat and organized with a ruler.
+* Graphs need a title, a manipulated (independent) variable and a label on the *x*-axis, a responding (dependent) variable and a label on the *y*-axis, proper scales for data, bars are evenly spaced, and everything is neat and organized with a ruler.
+
+## Geometry
+
+* A Cartesian plane is a **2** dimensional coordinate plane, with **4** quadrants.
+* The first is top right, second is top left, third is bottom left, and fourth is bottom right.
+* The *y*-axis increases the higher it is, and decreases the lower it is.
+* The *x*-axis increases the more to the right it is, and decreases the more to the left it is.
+* When representing coordinates, we put *x* in the left, and *y* in the right, of a pair of parentheses. *((3, 5), (2, -5), (-2, -6))*
+* The point of origin is the center. *(0, 0)*
+* Shapes can be plotted on a plane by putting points on it and connecting them. *((4, 5), (3, 5), (-2, -5))*
+* A transformation is change to a shape's points, to change the shape.
+* A shapes points are usually represented by capital letters. *(A, B, C, D)*
+* The points of the second shape made after a transformation must be the same letters but suffixed by a *'*, and are called {letter} + "prime". *(A', B', C', D')*
+* Two transformations make a double prime. *(A", B", C", D")*
+* A translation slides a shape along a straight line without turning. *(move 3 up and 8 down = (3, -8))*
+* A reflection flips a shape across a line of reflection, mirroring the shape. *(reflect over x-axis, reflect over y-axis, line of reflection y = 2)*
+* A rotation rotates a shape around a point. The point is sometimes the origin point. It must rotate at an angle and in a direction. *(rotate around (3, -6) 90 degrees counter clockwise)*
+* Bisect means to cut into **2**, since bi means **2**, and sect means cut.
+* A line is infinite, and its representation has **2** arrows.
+* A ray is infinite from a point, and its representation has **1** arrow.
+* A line segment is finite, and its representation has **0** arrows.
+* Drawing a line to divide a line segment into **2** equal parts is bisecting the segment.
+* The line drawn is the bisector.
+* When it is drawn at a **90**-degree right angle, it is called a perpendicular bisector.
+* So perpendicular lines are lines that intersect to form a **90**-degree right angle.
+* After drawing a segment, it can have a perpendicular bisector made using a compass, by opening it up to greater than half the segment length, then draw an arch from one point, then from the other. Where they intersect are the points for the bisector.
+* Making one with a protractor should be straightforward.
+* Notation to represent the whole thing is the **2** segment point letters, followed by a small horizontal line with a small vertical line coming out its top, followed by the **2** points of the bisector. *(AB+CD (replace the plus sign))*
+* Parallel lines are lines that never intersect onto each other, and are always the same distance away.
+* They can be made with a protractor by making a perpendicular line through a line, and then making another through the perpendicular line just made.
+* With a compass, make a perpendicular line through a line, and then making another through the perpendicular line just made.
+* Parallel lines can be labeled with the **2** letters for the points of the first line, then **||***, then the **2** letters for the points of the second line. *(AB||EF)*
+* An acute angle is an angle that is less than a **90**-degree right angle. *(35, 56, 61)*
+* An obtuse angle is an angle that is more than a **90**-degree right angle. *(105, 352, 126)*
+* An angle bisector is a line that divides an angle into **2** equal parts.
+* Equal angles are represented by the same symbol.
+* To make one with a protractor, simply measure half of the angle, then draw the bisector.
+* To make one with a compass, draw an arc from the point of the angle, then for each of the **2** intersections made, draw another arc at the point of intersection. Where the final **2** arcs intersect, that's the point of the bisector.
+* An angle bisector is represented by an < then first the points of the two angle lines with the angle point in between, then the first angle line followed by the angle point and the bisector **=** the second angle line followed by the angle point and the bisector. *(ABC, ABD = CBD)*
