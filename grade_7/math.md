@@ -22,7 +22,7 @@ This subject probably involves the least amount of studying because you'll be th
 * It may sometimes be more clear to surround numbers with parentheses.
 * If you are adding/subtracting two numbers that are positive and negative, you can reverse the sign (negative or not) of the second number, and reverse the operation (addition to subtraction and vice versa).
 * Number tiles are a way to represent numbers by having specific tiles for either **-1** or **+1**.
-* For example, *red tiles can be positive, and yellow tiles can be negative*.
+* For example, *red/black tiles can be positive, and yellow/white tiles can be negative*.
 * One tile from each together make a zero pair (which are usually circled together into a "bubble").
 * A zero pair is equal to... Well, **0**.
 * So for example, ***5** red tiles and **2** yellow tiles make **3***
@@ -112,7 +112,7 @@ This subject probably involves the least amount of studying because you'll be th
 ## Patterns and Relations
 
 * An expression is a mathematical phrase made up of numbers and/or variables connected by operations. The variable can represent any number we choose. *(3 - 5, 8, 2 - x)*
-* An equation is a mathematical statement containing two expressions separated by an equals sign. The variable only has one value. *(3 - 5 = -2, 3x = 6, x = 8)*
+* An equation is a mathematical statement, or sentence, containing two expressions separated by an equals sign. The variable only has one value. *(3 - 5 = -2, 3x = 6, x = 8)*
 * A constant term is a number that doesn't change. It increases or decreases the value of an expression. *(3, 62, 92)*
 * A variable is a letter or symbol representing an unknown number. *(x, y, n)*
 * A numerical coefficient is a number that multiplies the variable. *(3x, 5y, 9i)*
@@ -169,3 +169,14 @@ This subject probably involves the least amount of studying because you'll be th
 * To make one with a protractor, simply measure half of the angle, then draw the bisector.
 * To make one with a compass, draw an arc from the point of the angle, then for each of the **2** intersections made, draw another arc at the point of intersection. Where the final **2** arcs intersect, that's the point of the bisector.
 * An angle bisector is represented by an < then first the points of the two angle lines with the angle point in between, then the first angle line followed by the angle point and the bisector **=** the second angle line followed by the angle point and the bisector. *(ABC, ABD = CBD)*
+
+## Equations
+
+* Equations can be represented using number tiles by using a long tile as an *x* tile. *(a long x tile and 3 negative white tiles = 4 positive black tiles, means x - 3 = 4)*
+* This makes two expressions on either side of the equation.
+* To solve an equation using number tiles, all tiles on the side with the *x* tile must be removed by making zero tiles, so that the *x* can be isolated.
+* Add the opposite of the tiles of the side, and add the same to the other side. *(to solve: a long x tile with 2 positive black tiles = 6 negative white tiles, add 2 negative white tiles to make all the tiles on the left zero pairs, while increasing the right side to -8, making x = -8)*
+* A balance scale can be used to represent equations by having a balanced balance scale with each side having weights with a number, and one side having an *x* weight.
+* To solve an equation using a balance scale, we must isolate the *x* on one side by removing all other numbers on that side.
+* We remove the required numbers on the *x* side, and then the same ones on the other side, this keeps it balanced.
+* To solve an equation normally, we also must isolate the *x* variable, by performing the reverse of PEDMAS, and the reverse operators. *(3x + 3 = 9 -> 3x = 6 -> x = 2)*
