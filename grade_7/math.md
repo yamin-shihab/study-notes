@@ -138,7 +138,7 @@ This subject probably involves the least amount of studying because you'll be th
 * The *y*-axis increases the higher it is, and decreases the lower it is.
 * The *x*-axis increases the more to the right it is, and decreases the more to the left it is.
 * When representing coordinates, we put *x* in the left, and *y* in the right, of a pair of parentheses. *((3, 5), (2, -5), (-2, -6))*
-* The point of origin is the center. *(0, 0)*
+* The point of origin is the center. ***(0, 0)**
 * Shapes can be plotted on a plane by putting points on it, and connecting them. *((4, 5), (3, 5), (-2, -5))*
 * A transformation is change to a shape's points, to change the shape.
 * A shapes points are usually represented by capital letters. *(A, B, C, D)*
@@ -200,7 +200,7 @@ This subject probably involves the least amount of studying because you'll be th
 * The diameter is across the circle, and is twice the radius.
 * The circumference is the length around a circle.
 * The circumference divided by the diameter is always equal to the irrational (repeating without a pattern) number known as **pi** (represented by the Greek character of the same name).
-* The first 10 digits of **pi** are 3.141592653, but usually 3.14 is just used.
-* The formula for circle circumference: **pi(d)**, or **2pi(r).
+* The first **10** digits of **pi** are **3.141592653**, but usually **3.14** is just used.
+* The formula for circle circumference: **pi(d)**, or **2pi(r)**.
 * The formula for circle area: **pi(r2)**.
 * Some shapes are made up of other shapes, so the area/perimeter of those shapes can be added, or subtracted together.
