@@ -10,20 +10,21 @@ My (so far only) grade 7 Alberta curriculum finals study guides. Feel free to sh
 * Each unit is a header 2 after that.
 * Sections are separated by a newline.
 * Parts of a unit are part of an unordered list.
-* Use * instead of - or + for unordered lists.
+* Use * instead of -, or + for unordered lists.
 * Don't make parts too long.
-* Use correct spelling and grammar.
+* Use correct spelling, and grammar.
 * I like the Oxford Comma.
 * I like contractions.
 * Separate every three digits of a number with a space (not a comma).
 * You may use *italics*, **bold**, and ALL-CAPS for emphasis (***ONLY FOR EMPHASIS***).
 * I prefer to use **bold for numbers**, and *italics for examples*.
+* I prefer to use ASCII characters for compatibility.
 * ***Please*** stay consistent.
 * If you only want to point something simple out, submit an issue (not a pull request).
 
 ## To-do
 
-* [ ] Math 7
+* [x] Math 7
 * [ ] English Language Arts 7
 * [ ] Science 7
 * [ ] Social Studies 7
