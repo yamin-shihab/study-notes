@@ -186,21 +186,21 @@ This subject probably involves the least amount of studying because you'll be th
 * Perimeter is the length around a shape, area is the total space inside.
 * Length is the length of the sides, and width is of the top, and bottom.
 * Base is the width of the bottom, and height is how tall the whole shape is (not a side).
-* Formula for square perimeter: **P = 4s**.
-* Formula for rectangle/square perimeter: **P = 2b + 2h**, or **P = 2w + 2h**.
-* Formula for square perimeter: **A = s2**.
-* Formula for rectangle/square area: **A = bh** or, **A = wh**.
+* Formula for square perimeter: **P = 4s**. *(4(3) = 12)*
+* Formula for rectangle/square perimeter: **P = 2b + 2h**, or **P = 2w + 2h**. *(2(3) + 2(7) = 26)*
+* Formula for square area: **A = s2**. *(5 to the power of 2 = 25)*
+* Formula for rectangle/square area: **A = bh** or, **A = wh**. *(3(5) = 15)*
 * By removing the rearranging the **2** triangles on the sides of a parallelogram, you make a rectangle.
-* Formula for parallelogram perimeter: **P = 2b + 2h** or, **P = 2w + 2h**.
-* Formula for parallelogram area: **A = bh**.
+* Formula for parallelogram perimeter: **P = 2b + 2h** or, **P = 2w + 2h**. *(2(6) + 2(9) = 30)*
+* Formula for parallelogram area: **A = bh**. *(3(8) = 24)*
 * Two triangles will always make a parallelogram, or a rectangle.
-* Formula for triangle perimeter: **a + b + c**.
-* Formula for triangle area: **bh / 2**.
+* Formula for triangle perimeter: **a + b + c**. *(3 + 8 + 2)*
+* Formula for triangle area: **bh / 2**. *(8(6) / 2 = 24)*
 * The radius of a circle is the length from the center to the edge.
 * The diameter is across the circle, and is twice the radius.
 * The circumference is the length around a circle.
 * The circumference divided by the diameter is always equal to the irrational (repeating without a pattern) number known as **pi** (represented by the Greek character of the same name).
 * The first **10** digits of **pi** are **3.141592653**, but usually **3.14** is just used.
-* The formula for circle circumference: **pi(d)**, or **2pi(r)**.
-* The formula for circle area: **pi(r2)**.
+* The formula for circle circumference: **pi(d)**, or **2pi(r)**. *(2(3.14(6)) = 37.68)*
+* The formula for circle area: **pi(r2)**. *(3.14(3 to the power of 2) = 28.26)*
 * Some shapes are made up of other shapes, so the area/perimeter of those shapes can be added, or subtracted together.
