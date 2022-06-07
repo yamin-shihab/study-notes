@@ -30,6 +30,20 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Subordinating conjunctions include: *after, although, as, because, even if, even though, if, in order to, once, provided that, rather than, since, so that, than, that, though, unless, until, when, whenever, where, whereas, wherever, whether, while, why*.
 * A complex sentence contains an independent and dependent clause. They begin with a subordinating conjunction. *(Because the boys went to the park, they didn't go to the zoo.)*
 
+## Reading Strategies
+
+* When reading, you should ask questions to yourself about the text. *(Does the text make sense? What is happening? Am I confused? What does this word mean? Should I speed up or slow down? Do I need to reread this? I know I understand this because...)*
+* Skimming means your eyes are quickly looking over the page in motions to see how many paragraphs there are, looking for bold/underlined/italicized words, and visuals/headers. This lets you preview and get acquainted with the text.
+* Scanning means your eyes are searching for particular information on the page and are moving until they find something you're looking for.
+* You should sometimes ask yourself what the text is mainly about.
+* You should pay attention to the important parts and details of paragraphs and sentences.
+* You should pay attention to facts and details as evidence to support the main idea and any questions you have.
+* It's also a good idea to look at the order and sequence of parts of text.
+* Annotating is pointing specific pats of the text for later reference.
+* While reading the text, you can circle unfamiliar words, note any clues the author gives, underline or highlight major events and the main conflict, write any connections you have, and identify what you feel about some text.
+* After reading, you can draw conclusions, evaluate what the author did best, determine deeper meanings, make connections, and determine the meaning of the title.
+* You can use any signs/symbols/marks you want to use.
+
 ## Paragraphs
 
 * An information paragraph informs, classifies, compares, and explains how, why, or what.
