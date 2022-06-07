@@ -71,6 +71,22 @@ This subject probably involves the least amount of studying because you'll be th
 * To convert from percent to decimal, drop the **%** sign, and either move the decimal **2** places to the left, or divide the number by **100**. *(75% -> 0.75)*
 * When comparing fractions, decimals, and percents, it's best to convert them all to one of those formats, then reorder them, then turn them back to their original form.
 
+## Fraction Operations
+
+* Equivalent fractions are fractions that all represent the same amount, despite being different (imagine groups of small pizza slices being in the shape of one big pizza slice). *(3/9, 1/3, 2/6)*
+* An equivalent fraction can be made from a fraction by multiplying/dividing both the numerator, and the denominator by the same number. *(2/5 -> 4/10)*
+* A simplified fraction is the smallest possible equivalent fraction for a fraction.
+* To find one for a fraction, divide the numerator, and denominator by the largest common factor. *(65/100's largest common factor is 5 -> 65 / 5 = 13, 100 / 5 = 20 -> simplified fraction: 13/20)*
+* There are **2** ways to represent a number larger than **1** with a fraction.
+* An improper fraction has a numerator larger than, or equal to the denominator. *(3/2, 5/5, 6/2)*
+* A mixed number is a whole number along with a proper fraction beside it. *(5 3/4, 2 4/6, 1 6/10)*
+* To convert from improper to mixed, divide the numerator by the denominator, that's the whole number, then the remainder is the numerator. *(5/4 -> 1 1/4)*
+* To convert from mixed to improper, multiply the whole number by the denominator, add that to the numerator, then write the result on top of the denominator. *(2 3/5 -> 13/5)*
+* A common denominator is a denominator that's the same between two numbers. *(3/5, 1/5)*
+* To make a fraction's denominator common with another, multiply/divide both the numerator, and denominator till it is. *(3/6, 1/12 -> 6/12, 1/12)*
+* To add fractions, make sure there is a common denominator, then just add the numerators, and keep the denominators the same. *(2/7 + 3/7 = 5/7)*
+* To subtract fractions, make sure there is a common denominator, then just subtract the numerators, and keep the denominators the same *(4/6 - 3/6 = 1/6)*
+
 ## Statistics, and Probability
 
 * The mean of a group of numbers can be considered the "average".
@@ -93,22 +109,6 @@ This subject probably involves the least amount of studying because you'll be th
 * A tree diagram starts, and branches out for each event. The amount of branches from each branch is the possible number of outcomes. The amount of branches at the end is the total overall amount of possible outcomes.
 * A table of outcomes only works with **2** events (unless you want to traverse the nth dimension). It is a table where the rows represent the possible outcomes of the first event, and the columns represent the second.
 
-## Fraction Operations
-
-* Equivalent fractions are fractions that all represent the same amount, despite being different (imagine groups of small pizza slices being in the shape of one big pizza slice). *(3/9, 1/3, 2/6)*
-* An equivalent fraction can be made from a fraction by multiplying/dividing both the numerator, and the denominator by the same number. *(2/5 -> 4/10)*
-* A simplified fraction is the smallest possible equivalent fraction for a fraction.
-* To find one for a fraction, divide the numerator, and denominator by the largest common factor. *(65/100's largest common factor is 5 -> 65 / 5 = 13, 100 / 5 = 20 -> simplified fraction: 13/20)*
-* There are **2** ways to represent a number larger than **1** with a fraction.
-* An improper fraction has a numerator larger than, or equal to the denominator. *(3/2, 5/5, 6/2)*
-* A mixed number is a whole number along with a proper fraction beside it. *(5 3/4, 2 4/6, 1 6/10)*
-* To convert from improper to mixed, divide the numerator by the denominator, that's the whole number, then the remainder is the numerator. *(5/4 -> 1 1/4)*
-* To convert from mixed to improper, multiply the whole number by the denominator, add that to the numerator, then write the result on top of the denominator. *(2 3/5 -> 13/5)*
-* A common denominator is a denominator that's the same between two numbers. *(3/5, 1/5)*
-* To make a fraction's denominator common with another, multiply/divide both the numerator, and denominator till it is. *(3/6, 1/12 -> 6/12, 1/12)*
-* To add fractions, make sure there is a common denominator, then just add the numerators, and keep the denominators the same. *(2/7 + 3/7 = 5/7)*
-* To subtract fractions, make sure there is a common denominator, then just subtract the numerators, and keep the denominators the same *(4/6 - 3/6 = 1/6)*
-
 ## Patterns, and Relations
 
 * An expression is a mathematical phrase made up of numbers and/or variables connected by operations. The variable can represent any number we choose. *(3 - 5, 8, 2 - x)*
@@ -130,6 +130,17 @@ This subject probably involves the least amount of studying because you'll be th
 * Continuous data is data that can be measured, and has a line going through the coordinates on the graph. *(people's heights, widths, temperature)*
 * Discrete data is data that can be counted, and only has dot coordinates on the graph. *(students in class, tickets, month)*
 * Graphs need a title, a manipulated (independent) variable, and a label on the *x*-axis, a responding (dependent) variable, and a label on the *y*-axis, proper scales for data, bars are evenly spaced, and everything is neat, and organized, with a ruler.
+
+## Equations
+
+* Equations can be represented using number tiles by using a long tile as an *x* tile. *(a long x tile, and 3 negative white tiles = 4 positive black tiles, means x - 3 = 4)*
+* This makes two expressions on either side of the equation.
+* To solve an equation using number tiles, all tiles on the side with the *x* tile must be removed by making zero tiles, so that the *x* can be isolated.
+* Add the opposite of the tiles of the side, and add the same to the other side. *(to solve: a long x tile with 2 positive black tiles = 6 negative white tiles, add 2 negative white tiles to make all the tiles on the left zero pairs, while increasing the right side to -8, making x = -8)*
+* A balance scale can be used to represent equations by having a balanced balance scale with each side having weights with a number, and one side having an *x* weight.
+* To solve an equation using a balance scale, we must isolate the *x* on one side by removing all other numbers on that side.
+* We remove the required numbers on the *x* side, and then the same ones on the other side, this keeps it balanced.
+* To solve an equation normally, we also must isolate the *x* variable, by performing the reverse of PEDMAS, and the reverse operators. *(3x + 3 = 9 -> 3x = 6 -> x = 2)*
 
 ## Geometry
 
@@ -169,17 +180,6 @@ This subject probably involves the least amount of studying because you'll be th
 * To make one with a protractor, simply measure half of the angle, then draw the bisector.
 * To make one with a compass, draw an arc from the point of the angle, then for each of the **2** intersections made, draw another arc at the point of intersection. Where the final **2** arcs intersect, that's the point of the bisector.
 * An angle bisector is represented by an < then first the points of the two angle lines with the angle point in between, then the first angle line followed by the angle point, and the bisector **=** the second angle line followed by the angle point, and the bisector. *(ABC, ABD = CBD)*
-
-## Equations
-
-* Equations can be represented using number tiles by using a long tile as an *x* tile. *(a long x tile, and 3 negative white tiles = 4 positive black tiles, means x - 3 = 4)*
-* This makes two expressions on either side of the equation.
-* To solve an equation using number tiles, all tiles on the side with the *x* tile must be removed by making zero tiles, so that the *x* can be isolated.
-* Add the opposite of the tiles of the side, and add the same to the other side. *(to solve: a long x tile with 2 positive black tiles = 6 negative white tiles, add 2 negative white tiles to make all the tiles on the left zero pairs, while increasing the right side to -8, making x = -8)*
-* A balance scale can be used to represent equations by having a balanced balance scale with each side having weights with a number, and one side having an *x* weight.
-* To solve an equation using a balance scale, we must isolate the *x* on one side by removing all other numbers on that side.
-* We remove the required numbers on the *x* side, and then the same ones on the other side, this keeps it balanced.
-* To solve an equation normally, we also must isolate the *x* variable, by performing the reverse of PEDMAS, and the reverse operators. *(3x + 3 = 9 -> 3x = 6 -> x = 2)*
 
 ## Area, and Perimeter
 
