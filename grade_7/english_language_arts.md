@@ -26,3 +26,38 @@
 * A dependent clause doesn't express a complete idea, cannot act alone as a sentence as it depends on an independent clause, and always begins with a subordinating conjunction. *(so that I can eat the cake)*
 * Subordinating conjunctions include: *after, although, as, because, even if, even though, if, in order to, once, provided that, rather than, since, so that, than, that, though, unless, until, when, whenever, where, whereas, wherever, whether, while, why*.
 * A complex sentence contains an independent, and a dependent clause. They begin with a subordinating conjunction. *(Because the boys went to the park, they didn't go to the zoo.)*
+
+## Paragraphs
+
+* An information paragraph informs, classifies, compares, and explains how, why, or what.
+* Narrative paragraphs tell a story, or relay an event.
+* A persuasive paragraph presents, and argues your opinion about an issue or topic.
+* Descriptive paragraphs describe, in vivid detail, a person, place, or thing.
+* When writing a paragraph, you must indent the first sentence.
+* And begin with a topic sentence, as an introduction to capture audience's attention.
+* You state your topic and show your attitude toward it.
+* Develop and support your topic through several details, facts, examples, etc.
+* End your paragraph with a concluding statement to summarize the details.
+* By restating the main ideas, and/or encouraging your audience to think about what you have written.
+* Present only one main idea per paragraph.
+* Burgers are sometimes used to give examples of paragraph structure.
+* The top bun is the hook, and topic sentence.
+* The toppings and meat are the supporting key details.
+* The bottom bun is the concluding sentence.
+* The hook captures the attention of the reader. This can be done by asking a thoughtful question, sharing a statement, or sharing a meaningful quote. *(Have you ever wondered what happens when you eat 68 hot dogs in a day?)*
+* The topic sentence introduces the main idea of the paragraph. This can be done by giving the main idea straight-up, or in chronological order, the supporting ideas. *(There are many stages people must go through when eating a lot of food.)*
+* In a paragraph, the topic sentence must be supported with three supporting key details.
+* It's important to be specific with details.
+* Supporting details expand, and elaborate.
+* Each supporting detail should be at least three sentences.
+* Transition words add coherence, or flow to writing.
+* It's necessary to select an appropriate transition word.
+* But it's also a bad idea to overuse them.
+* Transition words include: *indeed, obviously, especially, importantly, never, also, furthermore, too, as well as that, besides, in addition, moreover, unlike, nevertheless, on the other hand, while, whereas, even so, first, second, third, finally, following, before, previously, above all*.
+* The concluding sentence restates the topic sentence.
+* Be sure to not use the same words, though.
+* The PEEL method can be used to write paragraphs. *(Point, Evidence, Explanation, Link)*
+* Point is what the key detail is discussing.
+* Evidence are examples, reasons, details that are used to support the topic sentence.
+* Explanation is how the evidence show or prove the topic sentence.
+* Link is whether all the ideas connect to the topic of the paragraph.
