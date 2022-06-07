@@ -61,3 +61,16 @@
 * Evidence are examples, reasons, details that are used to support the topic sentence.
 * Explanation is how the evidence show or prove the topic sentence.
 * Link is whether all the ideas connect to the topic of the paragraph.
+
+## Figurative language
+
+* Figurative language calls on the reader's imagination to complete the authors meaning.
+* Alliterations are the repetition of words of the same consonant sound of two or more words. *(She sells seashells by the seashore.)*
+* A hyperbole is an overstatement or extravagant exaggeration of the fact or possibility used for emphasis or effect. *(I'm so hungry I can eat a horse.)*
+* Metaphors are figures of speech which involve an implied comparison between relatively unlike things. *(It's a zoo in here!)*
+* An onomatopoeia is a term used for words that sound like what they mean. *(Crash! Bang! Snap!)*
+* An oxymoron is when two words with opposite meanings are placed beside each other. *(You look pretty ugly. The movie was awfully good.)*
+* Personification is giving human qualities to inanimate objects or ideas. *(The lightning danced across the sky.)*
+* Similes are figures of speech in which similarity between two subjects is directly expressed. Usually using "like" or "as". *(The man was like a gorilla. She was as skinny as a blade of grass)*
+* An idiom is a word or phrase that has a specific cultural meaning. They usually have a completely different meaning from the literal individual words. *(What a couch potato. I better hit the sack.)*
+* A play on words, usually using similar sounds, spellings, and meanings. *(Let's "bee" friends!)*
