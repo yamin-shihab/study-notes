@@ -200,3 +200,24 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Percents/parts/fractions plus a singular noun requires a singular verb. Plus a plural noun requires a plural verb. *(Eighty percent of the people have jobs. Most of the group is from here.)*
 * "Either of/neither of" requires a singular verb. *(Neither of the people liked the movie.)*
 * Money/time deals requires a singular verb. *(A thousand dollars is the highest amount we can give you. Five years ought to be enough time.)*
+
+## Persuasion
+
+* When writing a persuasive text you should start by stating your opinion of the topic.
+* You should also know your audience and write with them in mind.
+* Use reason to persuade.
+* Link an argument to a character or person that people admire or trust.
+* Appeal to emotion to build a strong case.
+* Share facts.
+* Tell the reader if something is a fact or if it is your opinion.
+* Use examples to help your reader see and feel what you are trying to communicate.
+* Show the link between ideas using words like "first", "second", "third", "if...then".
+* Write a strong ending by making a personal statement, predicting what could happen if your idea came true or summarizing your arguments.
+* The following are advertisement strategies:
+* Bandwagon convinces people that if they aren't using a product they are missing out on something everyone else has.
+* Celebrity endorsement connects the product to a famous person.
+* Repetition makes a product memorable by repeating the name over and over.
+* Promotions and rewards offers coupons and discounts to buy the product.
+* Facts, figures, and statistics make an advertisement look official and scientific to add credibility.
+* One product is better than the other by comparing the product to another similar product made by a competitor.
+* Weasel words use words like "may", "might", "can", "virtually", "up to", "as much as", or "possibly" to appear clear but actually be vague.
