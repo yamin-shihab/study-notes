@@ -102,6 +102,8 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 
 * Figurative language calls on the reader's imagination to complete the authors meaning.
 * Alliterations are the repetition of words of the same consonant sound of two or more words. *(She sells seashells by the seashore.)*
+* In alliterations, it's the sound, not the letter that matters.
+* Tongue twisters are longer alliterations meant to be harder to say.
 * A hyperbole is an overstatement or extravagant exaggeration of the fact or possibility used for emphasis or effect. *(I'm so hungry I can eat a horse.)*
 * Metaphors are figures of speech which involve an implied comparison between relatively unlike things. *(It's a zoo in here!)*
 * An onomatopoeia is a term used for words that sound like what they mean. *(Crash! Bang! Snap!)*
@@ -166,6 +168,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * A stock (stereotypical) character is generally a flat character, is stereotyped, often appears in literature, and is easily identifiable.
 * They are put in similar roles each time.
 * Irony is unexpected. It's the opposite of what the character thinks, believes, or expects. *(calling the tallest person "Shorty", calling a flat town "Summit")*
+* Point of view, or perspective, is the "lens" in which a text is told in.
+* First person uses words such as "I" and "We".
+* Second person uses words such as "You".
+* Third person uses words such as "He", "She", "It", and "They".
+* Mood is the feeling of the reader.
+* Tone is the attitude or feeling of the writer.
+* Imagery is using vocabulary, sensory details, and description to help picture what is happening for the reader.
 
 ## Narrative Writing
 
@@ -267,3 +276,28 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * They can be from the perspective of a bird's eye view or worm's eye view.
 * In reverse, the images in the current panel are the reverse of the previous panel.
 * This is usually used to show a different character talking.
+
+## Poetry
+
+* Poetry is a type of literature genre that expresses feelings and ideas on a particular topic using a unique form, style, and rhythm.
+* Poems can be written on their own or be part of an anthology (collection of poems in a book).
+* A poet writes poems and shares their feelings, emotions, ideas, and message.
+* Poems can be written in a similar way to stories.
+* A stanza is a paragraph in poetry. It's a group of poetic lines.
+* A new stanza signals a new idea or thought.
+* A line is like a sentence in poetry. They don't always follow correct grammar, spelling, and punctuation rules.
+* Different stanzas with different line numbers have different names:
+* Two lines are called couplets.
+* Three lines are called triplets or tercet.
+* Four lines are called quatrains.
+* Five lines are called cinquains.
+* Eight lines are called octets.
+* Poems often (but not always) have rhymes.
+* An internal rhyme occurs within a poetic line.
+* An end rhyme occurs at the end of a poetic line.
+* A rhyme scheme is a pattern of a rhyme. *(ABCB)*
+* They are labeled with letters of the alphabet. *(AABB)*
+* Each letter corresponds to a specific type of rhyme. *(Little Miss Muffet, = Sat on her tuffet = A)*
+* Syllables are the unit of pronunciation that word sounds are separated into. *(banana has 3, watermelon has 4)*
+* There are many types and forms of poems, such as  acrostic, concrete, limerick, haiku, cinquain, diamante, free verse, sonnet, ballad, narrative, lyrical, etc.
+* A haiku has five syllables on the first line, seven on the second, and five on the last.
