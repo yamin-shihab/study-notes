@@ -29,6 +29,8 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * A dependent clause doesn't express a complete idea, cannot act alone as a sentence as it depends on an independent clause and always begins with a subordinating conjunction. *(so that I can eat the cake)*
 * Subordinating conjunctions include: *after, although, as, because, even if, even though, if, in order to, once, provided that, rather than, since, so that, than, that, though, unless, until, when, whenever, where, whereas, wherever, whether, while, why*.
 * A complex sentence contains an independent and dependent clause. They begin with a subordinating conjunction. *(Because the boys went to the park, they didn't go to the zoo.)*
+* An interrupted sentence is an independent clause with a subordinate clause in between, separated by commas. *(Ivan, the winner of the race, was a very interesting person.)*
+* An interjection sentence has a sudden burst of excitement within a sentence. *(AH! What the hell is that?)*
 
 ## Reading Strategies
 
@@ -97,7 +99,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Plot refers to the main events of a story (what happens in the story).
 * Exposition is the beginning of the story, and when the author engages the reader and shares essential information to get the story started.
 * Background information such as the characters, situation, and setting is told. The mood can also be told from the tone of the exposition.
-* The author can start the story in an important conversation, an important/intense event, an action scene, or a description.
+* The author can start the story in an important conversation, an important/intense event, an action scene, a sound effect, a question, a flashback, or a description.
 * The initial event is the first time when the conflict (problem) of the story is brought to the reader's attention.
 * At the beginning, the main character encounters a problem they must face.
 * There are two types of conflicts: internal and external.
@@ -147,3 +149,40 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * A stock (stereotypical) character is generally a flat character, is stereotyped, often appears in literature, and is easily identifiable.
 * They are put in similar roles each time.
 * Irony is unexpected. It's the opposite of what the character thinks, believes, or expects. *(calling the tallest person "Shorty", calling a flat town "Summit")*
+
+## Narrative Writing
+
+* A subject starter sentence starts with the subject, then the predicate. It's also unfortunately overused. *(Bob ran.)*
+* An adverb starter sentence starts with an adverb ("-ly" word). *(Quickly, Alice chugged the maple syrup like a True Canadian (TM).)*
+* An "-ing" starter sentence starts with a verb ending with "-ing". *(Screaming, John Doe slapped the hell out of the bag of chocolate milk cheese.)*
+* An -ed starter sentence begins with a verb ending with "-ed". *(Eliminated from the game, John Xina vaporized.)*
+* A prepositional starter sentence starts with a word that shows a relationship of a noun or pronoun with another word. *(Across the floor, was Obi-Wan Kenobi. "Hello there.")*
+* A speaker tag states who's talking in dialogue.
+* Spoken dialogue is surrounded in quotation marks.
+* Speaker tag + quotation = *My teammate triumphantly shouted, "We are the tournament champions!"*
+* Quotation + speaker tag + quotation = *"Please take out your assignment from yesterday," instructed the teacher.*
+* Quotation + speaker tag + quotation = *"Betty," mom began, "can you please take the trash out after supper?"*
+* A new speaker means a new paragraph. A new speaker reply needs to be indented.
+* If dialogue in quotation is interrupted, it's ended and should be a natural pause. It starts again as a continued sentence (no capitalization at beginning). *("Hello there," he said, "how are you doing?")*
+* Commas are used when the speaker tag is after the quotations. *("So I stared at the guy," I continued.)*
+* Periods are used when the speaker tag is before the quotations. *(I replied, "Of course not.")*
+* Question marks indicate a question. *("You want me to eat that?" I asked.)*
+* Exclamation marks indicate strong emotion. *("What a loser!" they all exclaimed.)*
+* Punctuation is placed inside quotation marks. *(She yelled to the man across the street, "What are you doing?")*
+* Indirect quotes don't use quotation marks. *(My dad told me to clean my room.)*
+* You can also use quotation marks when placing emphasis on a word or indicating a title. *(So I read "1984".)*
+* Ping pong dialogue is quick and short quotations bouncing back and forth between characters.
+* Descriptive dialogue is dialogue, involving lots of details about what is currently happening as the characters are talking.
+* Apostrophes have two main functions: omission and possession.
+* Abbreviation is removing letter(s) from a word to shorten it, and leaving an apostrophe there. *(gov't)*
+* Contraction is joining words together into a shortened one word form, also using apostrophes. *(can't, isn't, won't, should've, don't, I'm)*
+* The omission of dates from numbers in dates also involves apostrophes. *('84, '23)*
+* The difference between "its" and "it's" is a common error.
+* "Its" means "belonging to it". *(Its GPU was fast.)*
+* "It's" is a contraction of "it is". *(It's really heavy.)*
+* To show possession by a singular owner, "'s" is added to the owner. *(David's brand-new car was fast.)*
+* If the owner is a noun that already ends with an "s", proceed to still add an "'s". *(The bus's brakes were broken.)*
+* If the owner is a pronoun that already ends with an "s", proceed to either still add an "'s" or apostrophe to the owner. *(James' apple was suspiciously perfect.)*
+* To show possession by a plural owner, an apostrophe is added to the owner. *(The dogs' tails were wagging.)*
+* If the owner is an irregular plural noun *(children, teeth, men)*, add an "'s" to the owner. *(The women's bathroom was much cleaner.)*
+* So apostrophes are never used to indicate a plural alone.

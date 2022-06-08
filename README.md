@@ -26,5 +26,5 @@ My (so far only) grade 7 Alberta curriculum finals study guides. Feel free to sh
 
 * [x] Math 7
 * [ ] English Language Arts 7
-* [ ] Science 7
 * [ ] Social Studies 7
+* [ ] Science 7
