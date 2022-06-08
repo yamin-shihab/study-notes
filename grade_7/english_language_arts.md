@@ -45,6 +45,21 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * While reading the text, you can circle unfamiliar words, note any clues the author gives, underline or highlight major events and the main conflict, write any connections you have, and identify what you feel about some text.
 * After reading, you can draw conclusions, evaluate what the author did best, determine deeper meanings, make connections, and determine the meaning of the title.
 * You can use any signs/symbols/marks you want to use.
+* It is important to make connections to text so that we can use experiences to help us understand text.
+* There are three types of connections: text to text, text to self, and text to world.
+* Connections must be descriptive and meaningful to provide value.
+* Text to text is a connection to another text such as a film, novel, article, TV show, photograph, etc.
+* Text to self is a connection to your past life experiences and reminds you of your family, friends, emotions, or experiences.
+* Text to world is a connection from the text to something occurring in the world through current events or something in the past through historical events.
+* An inference is a conclusion that the reader makes about what they have read and are not guesses.
+* Inferences are made by finding clues and evidence to prove that an inference is reasonable.
+* Drawing background knowledge from prior experience also helps make conclusions.
+* It is of course possible for other to have different inferences. Then, one has to determine how plausible, believable, and convincing it is to hold.
+* Inferences can also be made with films, novels, articles, TV shows, photographs, etc.
+* A comma splice is a common error in which a comma is used to join two or more independent clauses. *(We had a nice time, I hope we can meet again soon.)*
+* To correct a comma splice, we can insert a conjunction (FANBOYS) between the two independent clauses. *(We had a nice time, so I hope we can meet again soon.)*
+* Start a new sentence. *(I didn't like the movie. The movie was weird.)*
+* Or insert a semicolon between the two independent clauses (only when they are related). *(I liked the book; it was fascinating.)*
 
 ## Paragraphs
 
@@ -157,7 +172,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * An "-ing" starter sentence starts with a verb ending with "-ing". *(Screaming, John Doe slapped the hell out of the bag of chocolate milk cheese.)*
 * An -ed starter sentence begins with a verb ending with "-ed". *(Eliminated from the game, John Xina vaporized.)*
 * A prepositional starter sentence starts with a word that shows a relationship of a noun or pronoun with another word. *(Across the floor, was Obi-Wan Kenobi. "Hello there.")*
-* A speaker tag states who's talking in dialogue.
+* A speaker tag indicates who's talking in dialogue.
 * Spoken dialogue is surrounded in quotation marks.
 * Speaker tag + quotation = *My teammate triumphantly shouted, "We are the tournament champions!"*
 * Quotation + speaker tag + quotation = *"Please take out your assignment from yesterday," instructed the teacher.*
