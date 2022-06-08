@@ -60,6 +60,8 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * To correct a comma splice, we can insert a conjunction (FANBOYS) between the two independent clauses. *(We had a nice time, so I hope we can meet again soon.)*
 * Start a new sentence. *(I didn't like the movie. The movie was weird.)*
 * Or insert a semicolon between the two independent clauses (only when they are related). *(I liked the book; it was fascinating.)*
+* When trying to understand a word you don't know, you can look to its context.
+* If it's an adjective, verb, adverb, or noun, you can read how it's described alongside other word. *(I loathed and hated the thing! Loathed means hate. He ran quickly and swiftly. Swiftly means fast.)*
 
 ## Paragraphs
 
@@ -236,3 +238,32 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Facts, figures, and statistics make an advertisement look official and scientific to add credibility.
 * One product is better than the other by comparing the product to another similar product made by a competitor.
 * Weasel words use words like "may", "might", "can", "virtually", "up to", "as much as", or "possibly" to appear clear but actually be vague.
+
+## Visual Literacy
+
+* Speech balloons are shapes that contain text shown near a character to indicate speech.
+* They can be round, jagged, rectangular, or have irregular edges to convey emotion.
+* A caption speaks directly to the reader and is frequently under, above, or beside comic panels.
+* Emanata are text or icons that represent what's going on inside a character's mind.
+* Examples include: "?", "ZZZ", a lightbulb, or "@&$%!#$*".
+* Labels are written on characters to identify who is who or what a group is.
+* They are frequently used in political cartoons to identify groups.
+* Narratory blocks are rectangles or squares that convey special information to the reader.
+* Signs are written onto objects to identify an object or show more information about something.
+* Sound effects are words that accompany action in a panel. *(BANG, WHAM, POW, BOING)*
+* Thought balloons contain a character's current thoughts.
+* A panel or frame is a rectangle that contains the action of a comic.
+* A splash panel is a panel that takes up the space of multiple panels in order to highlight action or a character.
+* Splash pages use the whole page as a panel.
+* A border or frame is the edge or outline of a comic panels or page.
+* The gutters are the spaces between comic panels.
+* Open panels or borderless panels are panels that are completely open and have no edges for dramatic effect.
+* In bleed angles, images run outside the border of the panel.
+* When an image runs outside all four sides of a panel, it's a full bleed.
+* A close-up shows images in a large view. Frequently used for a character's face.
+* An extreme close-up shows a very large view.
+* A longshot shows images fully top to bottom and head to toe.
+* An extreme longhost shows many images at a very small scale.
+* They can be from the perspective of a bird's eye view or worm's eye view.
+* In reverse, the images in the current panel are the reverse of the previous panel.
+* This is usually used to show a different character talking.
