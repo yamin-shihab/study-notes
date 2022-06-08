@@ -173,6 +173,9 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * You can also use quotation marks when placing emphasis on a word or indicating a title. *(So I read "1984".)*
 * Ping pong dialogue is quick and short quotations bouncing back and forth between characters.
 * Descriptive dialogue is dialogue, involving lots of details about what is currently happening as the characters are talking.
+
+## Grammar
+
 * Apostrophes have two main functions: omission and possession.
 * Abbreviation is removing letter(s) from a word to shorten it, and leaving an apostrophe there. *(gov't)*
 * Contraction is joining words together into a shortened one word form, also using apostrophes. *(can't, isn't, won't, should've, don't, I'm)*
@@ -186,3 +189,14 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * To show possession by a plural owner, an apostrophe is added to the owner. *(The dogs' tails were wagging.)*
 * If the owner is an irregular plural noun *(children, teeth, men)*, add an "'s" to the owner. *(The women's bathroom was much cleaner.)*
 * So apostrophes are never used to indicate a plural alone.
+* "Was" means "to be" for singular past. *(I was suspicious.)*
+* "Were" means "to be" for plural past. *(We were eating the stew.)*
+* "Is" means "to be" for singular present. *(He is weird.)*
+* "Are" means "to be" for plural present. *(They are looking at me.)*
+* When dealing with a singular, "s" is added to the end of the verb. *(He swims in the water.)*
+* When dealing with a plural, nothing is added to the end of the verb. *(They swim in the water.)*
+* "Every/each/everyone/everybody/anyone/anybody/someone/somebody" is singular. *(Each of the apples is tasty.)*
+* "All/some/none" plus a singular noun requires a singular verb. Plus a plural noun, and it's a plural verb. *(Some cakes are pink. All cake is pink.)*
+* Percents/parts/fractions plus a singular noun requires a singular verb. Plus a plural noun requires a plural verb. *(Eighty percent of the people have jobs. Most of the group is from here.)*
+* "Either of/neither of" requires a singular verb. *(Neither of the people liked the movie.)*
+* Money/time deals requires a singular verb. *(A thousand dollars is the highest amount we can give you. Five years ought to be enough time.)*
