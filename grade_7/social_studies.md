@@ -17,7 +17,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * Some people said it was justified, some didn't.
 * Many people in Ontario didn't like Riel and the Metis since the Death of Thomas Scott and the takeover of fort Garry leading to the provisional government.
 * The Manitoba Act brought the settlement of Red River as an officially bilingual province to Canada.
-* It gave many rights to the people of Red River and people that wanted to settle there.
+* It gave many rights to the people of Red River and people that wanted to settle there, but not everyone, so it was more of a compromise.
 * In the South Branch communities, Metis people from Red River started over, established farms, and worked for the fur trade.
 * Canada set up the North West Mounted Police in 1873 for the territory, and they planned to build a railway across the west to BC.
 * The South Branch Metis sent petitions starting in the early 1870s to stop this. But land surveyors (people that buy land to later sell it for more) have already started to arrive.
