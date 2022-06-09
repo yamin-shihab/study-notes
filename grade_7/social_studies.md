@@ -2,6 +2,31 @@
 
 Will I ever manage to finish this and science in time while having a bunch of assignments and tests? Tune in to find out! Yeah, I'm going to try to write short.
 
+## Chapter 1
+
+* Before any European colonization of North America occurred, there were First Nations people.
+* We'll be talking about the Mi'kmaq, Haudenosaunee, and Anishinabe societies.
+* Mi'kmaq government was organized around seven districts. Each had several local leaders (Saqamaws) chosen and advised by Elders that met every year at a district council.
+* Every year, each district chose a Saqamaw to represent them in the Grand Council. Then everyone advised each other on where to do things and managed relations with other First Nations.
+* They moved to the coast in the summer and to the forest in winter to make the best use of the resources of the land.
+* The Mi'kmaq and four other First Nations formed the Wabakaki Confederacy.
+* An ogimauh is a leader of Anishinabe society.
+* Anishinabe society had clans (dodems) with different responsibilities. They worked together to provide balance.
+* The Midewin were men and women who had special gifts as spiritual leaders and healers.
+* People had great respect for them and members of Midewin where chosen carefully.
+* They go through eight levels of secret training.
+* They used medicine, interpreted dreams and visions, and passed on sacred teachings and songs.
+* The Council of the Three Fires allied the Anishinabe with two others.
+* Dekanawidah (the Peacemaker), brought the Great Law of Peace to the Haudenosaunee.
+* The law created a confederacy of five and eventually six nations that were different.
+* But they all agreed on the law in which every member nation had an equal voice and status.
+* Decisions of the confederacy were made by a council of fifty chiefs (Hoyaneh). They were men, but were chosen, replaced, and advised by clan mothers.
+* The Haudenosaunee traced their family through their mothers. The clan system also did and united the Nations as a family of relatives.
+* Wampum were shell beads woven into belts or strings and kept records of important treaties and other agreements.
+* The Peace Maker used a white pine to symbolize the commitment of the Haudenosaunee to peace.
+* The tree represents the Great Law of peace, the branches represent the protection of those nations under the law, the white roots which spread in the four cardinal directions represent peace and strength since anyone can follow the roots to the Council of the League of Peace, the eagle warns of danger due to far sight, and the weapon below the tree shows that they cast all weapons of war into the depths of the earth.
+* The Mi'kmaq were in the now maritimes, the Anishinabe above the Great Lakes, and the Haudenosaunee in what's now America.
+
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
