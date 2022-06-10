@@ -27,6 +27,28 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * The tree represents the Great Law of peace, the branches represent the protection of those nations under the law, the white roots which spread in the four cardinal directions represent peace and strength since anyone can follow the roots to the Council of the League of Peace, the eagle warns of danger due to far sight, and the weapon below the tree shows that they cast all weapons of war into the depths of the earth.
 * The Mi'kmaq were in the now maritimes, the Anishinabe above the Great Lakes, and the Haudenosaunee in what's now America.
 
+## Chapter 2
+
+* In the 1300s, trade routes between Europe and Asia were disrupted, so the price of goods increased.
+* But then, technology such as faster ships, compasses, astrolabes started being invented.
+* Sailors originally went east to trade, so Christopher Columbus believed that going west would lead to Asia. He arrived in South America instead, where he got Aztec and Incan gold and made Spain rich.
+* Imperialism is taking over the land of other places, to expand one's empire.
+* In 1497, an English expedition led by Italian sailor and merchant Giovanni Caboto landed in Newfoundland and claimed it for Britain. He returned with lots of fish.
+* The Europeans then had regular contact with the Mi'kmaq and weighed the advantages of trading.
+* The Mi'kmaq traded old beaver fur to Europeans in exchange for metal tools such as knives, axes, pots, kettles, and nettles.
+* The Europeans liked the fur because the long outer hair fell off, leaving the fuzzy underfur exposed. European hatmakers used this to make felt.
+* The Beothuk people lived in Newfoundland and also encountered the Europeans. A friendly trading relationship however, was not established. They eventually became extinct.
+* It is thought that the Beothuk took fishing equipment from the Europeans to encourage them to leave from their traditional fishing areas. This eventually led to conflict.
+* In 1524, Henri II, King of France, sponsored an expedition led by the Italian navigator Giovanni da Verrazano to explore the coast of North America.
+* Ten years later in 1524, the king sponsored another expedition led by Jacques Cartier to find a passage to Asia through North America and to find precious items.
+* He also found First Nations, but didn't trade with them.
+* He had a second voyage in 1536, where his crew had a difficult winter and got scurvy. The First Nations found out and gave a cure: a tea rich in vitamin C made form the needles of a white cedar tree.
+* He then seized five people from there and took them to France to show to the king. However, they all died since they didn't have immunity to European diseases.
+* In 1603, Samuel de Champlain explored the St. Lawrence river and Tadoussac. In 1604, he returned to establish the first French colony in North America: Port-Royal in Acadia.
+* During 1608, he travelled the St. Lawrence and established a settlement at Quebec.
+* Ethnocentrism is considering one's religion superior to others. Champlain displays this by calling the First Nations savages and saying that they have no true faith.
+* There were many other expeditions to North America that mapped more land.
+
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
