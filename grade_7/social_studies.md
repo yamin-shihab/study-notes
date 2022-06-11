@@ -49,6 +49,42 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * Ethnocentrism is considering one's religion superior to others. Champlain displays this by calling the First Nations savages and saying that they have no true faith.
 * There were many other expeditions to North America that mapped more land.
 
+## Chapter 3
+
+* A colony is a region of land dominated by another empire by sending colonists establish control.
+* Mercantilism is a regulated economic system in which a colony supplies the original country with cheap, raw resources. The country then creates and sells expensive goods using those resources to make money.
+* Monopolies were arranged with charters and set up in North America to get resources.
+* A monopoly is a company that is the only company allowed to get a specific resource.
+* France claimed a large area around the Great Lakes and called it New France.
+* New France's population in 1700 was 15 000 colonists, and 65 000 in 1760.
+* Most of the colonists in New France were catholic and spoke French.
+* At first, monopolies in the fur trade were established and flourished. But the colony didn't and kept relying on France for survival.
+* They made many relations with First Nations through the fur trade.
+* In 1663, France abandoned the strategy of using merchant monopolies and instead took direct control of New France as if it was a province of France.
+* It encouraged settlers to go to New France and promote agriculture and industries to meet their own needs.
+* The fur trade was the primary economic activity of New France and supplied beaver furs to France to be made into hats.
+* The king of France had power over the governor, intendant, bishop, and council of New France. They had power over the colonists.
+* In 1663, the king of France established the Sovereign Council to rule New France in accordance with his decisions and included:
+* A governor who represented the king and controlled military, defence, and external relations.
+* An intendant who was the chief administrator and worked to keep the colony in good order to make it less dependent on France. He also looked for ways to exploit the colony for France
+* The Bishop of Quebec represented the Catholic Church and played an important role. The church provided guidance, schools, hospitals, and orphanages. Members of the Catholic clergy also governed the colony.
+* Habitants were farmers who lived on seigneuries which were large plots of land owned by seigneurs (landlords). They received the seigneuries from the king of France and kept it by making sure that habitants farmed the land.
+* Coureur de Bois (runner of the woods) are men that engage in the fur trade with First Nations by "running into the forest". This eventually became illegal, but still continued.
+* Missionaries of the Jesuits (a Catholic religious order) converted the First Nations to Catholicism. They were able to document First Nations languages and their ways of life.
+* Britain claimed the area at the coast under the Maritimes and the US and those were the Thirteen Colonies.
+* The Thirteen Colonies' population was 250 000 in 1700, and 2 500 000 in 1760.
+* Most of the people in the Thirteen Colonies were Protestant.
+* Each colony had a separate government. They had a governor either directly appointed by Britain or by chartered companies or landholders.
+* Elected assemblies also played a role in most governments of the Thirteen Colonies.
+* The Thirteen colonies used the land intensely to produce agricultural products for Britain and its colonies.
+* They saw the First Nations as obstacles and pushed them off the land.
+* The Monarch and Parliament control Britain's government. They control the colony's governor and council. They control and are advised by the elected assembly. They control and are advised by the colonists.
+* Around 1700, the area around Hudson's Bay was claimed by Britain and called Rupert's Land.
+* Rupert's Land didn't have much of a European population and was mainly Protestant, but religion didn't play a large role.
+* Rupert's Land was the monopoly fur trade territory of the HBC (Hudson's Bay Company), granted to the company in 1670. It had a governor who was the chief officer of the company.
+* The HBC traded in furs and counted on traders coming directly to its forts.
+* Since the First Nations had no immunity, European diseases caused epidemics among the First Nations
+
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
