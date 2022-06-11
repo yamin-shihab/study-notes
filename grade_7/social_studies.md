@@ -29,23 +29,23 @@ Will I ever manage to finish this and science in time while having a bunch of as
 
 ## Chapter 2
 
-* In the 1300s, trade routes between Europe and Asia were disrupted, so the price of goods increased.
+* In the **1300**s, trade routes between Europe and Asia were disrupted, so the price of goods increased.
 * But then, technology such as faster ships, compasses, astrolabes started being invented.
 * Sailors originally went east to trade, so Christopher Columbus believed that going west would lead to Asia. He arrived in South America instead, where he got Aztec and Incan gold and made Spain rich.
 * Imperialism is taking over the land of other places, to expand one's empire.
-* In 1497, an English expedition led by Italian sailor and merchant Giovanni Caboto landed in Newfoundland and claimed it for Britain. He returned with lots of fish.
+* In **1497**, an English expedition led by Italian sailor and merchant Giovanni Caboto landed in Newfoundland and claimed it for Britain. He returned with lots of fish.
 * The Europeans then had regular contact with the Mi'kmaq and weighed the advantages of trading.
 * The Mi'kmaq traded old beaver fur to Europeans in exchange for metal tools such as knives, axes, pots, kettles, and nettles.
 * The Europeans liked the fur because the long outer hair fell off, leaving the fuzzy underfur exposed. European hatmakers used this to make felt.
 * The Beothuk people lived in Newfoundland and also encountered the Europeans. A friendly trading relationship however, was not established. They eventually became extinct.
 * It is thought that the Beothuk took fishing equipment from the Europeans to encourage them to leave from their traditional fishing areas. This eventually led to conflict.
-* In 1524, Henri II, King of France, sponsored an expedition led by the Italian navigator Giovanni da Verrazano to explore the coast of North America.
-* Ten years later in 1524, the king sponsored another expedition led by Jacques Cartier to find a passage to Asia through North America and to find precious items.
+* In **1524**, Henri II, King of France, sponsored an expedition led by the Italian navigator Giovanni da Verrazano to explore the coast of North America.
+* Ten years later in **1524**, the king sponsored another expedition led by Jacques Cartier to find a passage to Asia through North America and to find precious items.
 * He also found First Nations, but didn't trade with them.
-* He had a second voyage in 1536, where his crew had a difficult winter and got scurvy. The First Nations found out and gave a cure: a tea rich in vitamin C made form the needles of a white cedar tree.
+* He had a second voyage in **1536**, where his crew had a difficult winter and got scurvy. The First Nations found out and gave a cure: a tea rich in vitamin C made form the needles of a white cedar tree.
 * He then seized five people from there and took them to France to show to the king. However, they all died since they didn't have immunity to European diseases.
-* In 1603, Samuel de Champlain explored the St. Lawrence river and Tadoussac. In 1604, he returned to establish the first French colony in North America: Port-Royal in Acadia.
-* During 1608, he travelled the St. Lawrence and established a settlement at Quebec.
+* In **1603**, Samuel de Champlain explored the St. Lawrence river and Tadoussac. In **1604**, he returned to establish the first French colony in North America: Port-Royal in Acadia.
+* During **1608**, he travelled the St. Lawrence and established a settlement at Quebec.
 * Ethnocentrism is considering one's religion superior to others. Champlain displays this by calling the First Nations savages and saying that they have no true faith.
 * There were many other expeditions to North America that mapped more land.
 
@@ -56,15 +56,15 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * Monopolies were arranged with charters and set up in North America to get resources.
 * A monopoly is a company that is the only company allowed to get a specific resource.
 * France claimed a large area around the Great Lakes and called it New France.
-* New France's population in 1700 was 15 000 colonists, and 65 000 in 1760.
+* New France's population in **1700** was **15 000** colonists, and **65 000** in **1760**.
 * Most of the colonists in New France were catholic and spoke French.
 * At first, monopolies in the fur trade were established and flourished. But the colony didn't and kept relying on France for survival.
 * They made many relations with First Nations through the fur trade.
-* In 1663, France abandoned the strategy of using merchant monopolies and instead took direct control of New France as if it was a province of France.
+* In **1663**, France abandoned the strategy of using merchant monopolies and instead took direct control of New France as if it was a province of France.
 * It encouraged settlers to go to New France and promote agriculture and industries to meet their own needs.
 * The fur trade was the primary economic activity of New France and supplied beaver furs to France to be made into hats.
 * The king of France had power over the governor, intendant, bishop, and council of New France. They had power over the colonists.
-* In 1663, the king of France established the Sovereign Council to rule New France in accordance with his decisions and included:
+* In **1663**, the king of France established the Sovereign Council to rule New France in accordance with his decisions and included:
 * A governor who represented the king and controlled military, defence, and external relations.
 * An intendant who was the chief administrator and worked to keep the colony in good order to make it less dependent on France. He also looked for ways to exploit the colony for France
 * The Bishop of Quebec represented the Catholic Church and played an important role. The church provided guidance, schools, hospitals, and orphanages. Members of the Catholic clergy also governed the colony.
@@ -72,23 +72,23 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * Coureur de Bois (runner of the woods) are men that engage in the fur trade with First Nations by "running into the forest". This eventually became illegal, but still continued.
 * Missionaries of the Jesuits (a Catholic religious order) converted the First Nations to Catholicism. They were able to document First Nations languages and their ways of life.
 * Britain claimed the area at the coast under the Maritimes and the US and those were the Thirteen Colonies.
-* The Thirteen Colonies' population was 250 000 in 1700, and 2 500 000 in 1760.
+* The Thirteen Colonies' population was **250 000** in **1700**, and **2 500 000** in **1760**.
 * Most of the people in the Thirteen Colonies were Protestant.
 * Each colony had a separate government. They had a governor either directly appointed by Britain or by chartered companies or landholders.
 * Elected assemblies also played a role in most governments of the Thirteen Colonies.
 * The Thirteen colonies used the land intensely to produce agricultural products for Britain and its colonies.
 * They saw the First Nations as obstacles and pushed them off the land.
 * The Monarch and Parliament control Britain's government. They control the colony's governor and council. They control and are advised by the elected assembly. They control and are advised by the colonists.
-* Around 1700, the area around Hudson's Bay was claimed by Britain and called Rupert's Land.
+* Around **1700**, the area around Hudson's Bay was claimed by Britain and called Rupert's Land.
 * Rupert's Land didn't have much of a European population and was mainly Protestant, but religion didn't play a large role.
-* Rupert's Land was the monopoly fur trade territory of the HBC (Hudson's Bay Company), granted to the company in 1670. It had a governor who was the chief officer of the company.
+* Rupert's Land was the monopoly fur trade territory of the HBC (Hudson's Bay Company), granted to the company in **1670**. It had a governor who was the chief officer of the company.
 * The HBC traded in furs and counted on traders coming directly to its forts.
 * Since the First Nations had no immunity, European diseases caused epidemics among the First Nations
 
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
-* The Red River Resistance occurred in 1869 because after the HBC sold Rupert's Land to Canada for 300 000 pounds, land surveyors appeared to divide and mark land too early.
+* The Red River Resistance occurred in **1869** because after the HBC sold Rupert's Land to Canada for **300 000** pounds, land surveyors appeared to divide and mark land too early.
 * They weren't consulted when the land they lived on was sold.
 * Louis Riel was born in the Red River settlement as a Metis. He was very well-educated since he graduated knowing many languages as well as science.
 * Louis Riel famously stopped surveyors from crossing his cousin's farm in October.
@@ -102,17 +102,17 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * The Manitoba Act brought the settlement of Red River as an officially bilingual province to Canada.
 * It gave many rights to the people of Red River and people that wanted to settle there, but not everyone, so it was more of a compromise.
 * In the South Branch communities, Metis people from Red River started over, established farms, and worked for the fur trade.
-* Canada set up the North West Mounted Police in 1873 for the territory, and they planned to build a railway across the west to BC.
-* The South Branch Metis sent petitions starting in the early 1870s to stop this. But land surveyors (people that buy land to later sell it for more) have already started to arrive.
-* In 1884, a leader from those communities named Gabriel Dumont went to seek the help of Louis Riel in Montana (where he has become a schoolteacher and started a family).
+* Canada set up the North West Mounted Police in **1873** for the territory, and they planned to build a railway across the west to BC.
+* The South Branch Metis sent petitions starting in the early **1870**s to stop this. But land surveyors (people that buy land to later sell it for more) have already started to arrive.
+* In **1884**, a leader from those communities named Gabriel Dumont went to seek the help of Louis Riel in Montana (where he has become a schoolteacher and started a family).
 * The Metis heard that troops were coming to their area, so they set up a provisional government at Batoche.
 * It turned out that there were no troops coming, but they did when they started the provisional government.
-* 600 troops arrived, the battle of Batoche lasted three days, and 100 Metis and Canadian people died.
+* **600** troops arrived, the battle of Batoche lasted three days, and **100** Metis and Canadian people died.
 * Riel gave himself up and was charged with treason, found guilty, and executed.
 * He was said to be charged for treason because of the battle, and executed for the murder of Thomas Scott.
 * However, not even one person of the jury was Francophone.
 * The Canadian government then took steps to suppress the control of First Nations and Metis people.
-* When the Manitoba Act was negotiated, more than 50% of the population was Catholic and spoke French. By 1890, that changed to 15%.
+* When the Manitoba Act was negotiated, more than **50%** of the population was Catholic and spoke French. By **1890**, that changed to **15%**.
 * So the Manitoba School Act made Manitoba change from bilingual to English only, and made schools only English.
 
 ## Chapter 10
@@ -121,19 +121,19 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * This was needed to do things like expand west and build the railway.
 * Treaties were also used to assimilate the First Nations to be more "British" by forcing them to give up their cultural ways.
 * Canada made industrial residential schools for First Nations children as their promise for their education and a way to assimilate them into British society by separating them from their family and culture.
-* The government of Canada founded the NWMP (North West Mounted Police) in 1873 following a massacre of 36 Nakoda people by a group of American and Canadian traders over an argument about some horses in what is now Southern Alberta. 
+* The government of Canada founded the NWMP (North West Mounted Police) in **1873** following a massacre of **36** Nakoda people by a group of American and Canadian traders over an argument about some horses in what is now Southern Alberta. 
 * They were founded because of fears that the Americans would work with the Indians (the word used to identify First Nations then), to take control of the west.
 * The NWMP developed a trust with First Nations that helped them keep peace in the west as the railway advanced and settlers arrived. They advised First Nations to conclude treaties with the government.
-* In 1873, John A. MacDonald lost a federal election after accepting the "Pacific Scandal". But he then won the next one five years later by stating the three part plan known as the National Policy:
+* In **1873**, John A. MacDonald lost a federal election after accepting the "Pacific Scandal". But he then won the next one five years later by stating the three part plan known as the National Policy:
 1. Promote Canadian industry by adding a tariff (tax) to American products so that people buy Canadian products instead.
 2. Finish the national railway that connects the east with the west.
 3. Settle the west by encouraging European immigrants to come to Canada by giving free land. They'd grow grain for export and would buy products from Canadian industries.
-* The government recruited many men from China to work on the CPR (Canadian Pacific Railway). By 1885, there were nearly 15 000 Chinese construction workers in BC.
+* The government recruited many men from China to work on the CPR (Canadian Pacific Railway). By **1885**, there were nearly **15 000** Chinese construction workers in BC.
 * They tried to send their earnings home to China so that their loved ones and family members can come to Canada, however this was impossible since the Chinese workers were paid less than others.
 * When the CPR was complete, many Chinese Canadians helped establish the lumber and cannery industries but faced discrimination.
-* A law was introduced in 1885 to restrict Chinese immigration to Canada. First it was $50 ($2 500 now), but they kept coming, so the tax kept increasing.
-* Between 1885 and 1920, more than 82 000 Chinese people paid the tax and immigrated to Canada.
-* John A. MacDonald wanted the west to be populated, since by 1890 only 2% of the population lived in the west.
+* A law was introduced in **1885** to restrict Chinese immigration to Canada. First it was **$50** (**$2 500** now), but they kept coming, so the tax kept increasing.
+* Between **1885** and **1920**, more than **82 000** Chinese people paid the tax and immigrated to Canada.
+* John A. MacDonald wanted the west to be populated, since by **1890** only **2%** of the population lived in the west.
 * This changed when Wilfrid Laurier became prime minister. His Minister of the Interior (Clifford Sifton) began an advertisement campaign to attract immigrants.
 * It targeted the US, Britain, and many parts of Europe, but not French-speaking populations such as France, Belgium, or Switzerland.
 * This was because he (and many others) believed that "British was best".

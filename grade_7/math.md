@@ -62,7 +62,8 @@ This subject probably involves the least amount of studying because you'll be th
 * **/3** -> **0.3** repeated, **0.6** repeated.
 * **/4** -> multiply by **0.25**.
 * **/5** -> multiply by **2**.
-* **/8** -> repeat after decimal.
+* **/8** -> numerator multiplied by **0.125**.
+* **/9** -> numerator repeats after decimal.
 * **/10** -> prefixed by **0**.
 * **/11** -> multiplied by **9** and then repeats.
 * To convert a fraction to a percent, convert it to decimal, then move the decimal **2** places to the right, then add the **%** sign. *(4/5 -> 0.8 -> 80%)*
