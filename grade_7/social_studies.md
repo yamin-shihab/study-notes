@@ -85,6 +85,18 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * The HBC traded in furs and counted on traders coming directly to its forts.
 * Since the First Nations had no immunity, European diseases caused epidemics among the First Nations
 
+## Chapter 4
+
+* The fur trade consisted of multiple phases.
+* Phase one was when cod fisheries were set up by Europeans and early trading began with First Nations.
+* Phase two was when New France dominated the fur trade. New France made many alliances and enemies, and Catholic, Jesuit missionaries went to convert First Nations. Coureurs de bois also emerged, and trapping and hunting of the fur trade began to reduce animal populations.
+* In phase three, Britain granted a monopoly to the HBC for Rupert's Land in the fur trade. The voyageurs, who took canoe trips to trade, and were official, unlike Coureuers de bois, emerged, and Metis people have their origins in this phase (cross-cultural marriages between Europeans and First Nations).
+* During the fourth phase, New France became a British colony, and the fur trade came under the British mercantile system. The NWC (North West Company) formed from the French fur trade and competed with HBC, going further west. Pemmican was a food that worked well for long trips in the fur trade, so it developed a trade. Metis people became important to the fur trade as interpreters, guides, traders, carters, and provisioners because they were both European and First Nation.
+* The fifth phase involved the HBC and NWC merging under the name of HBC because there were many fights, shootings, and hostage-takings due to the competition, so Britain encouraged them to do so. The HBC then began to lose control of its monopoly after losing a court case against independent Metis traders, and the trade began to decline in the west.
+* Samuel de Champlain established Quebec and Montreal as places where trading is done because it had better possibilities as a fur trade center than Acadia on the east coast.
+* The Metis put themselves in the middle of the fur trade at Red River, which was between all the "action".
+* The Hudson's Bay still exists today: The Bay.
+
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
