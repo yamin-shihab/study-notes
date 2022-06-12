@@ -97,6 +97,20 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * The Metis put themselves in the middle of the fur trade at Red River, which was between all the "action".
 * The Hudson's Bay still exists today: The Bay.
 
+## Chapter 5
+
+* The Mi'kmaq were originally in Acadia, and have established a trading partnership with the French. So they were allowed to also live there, so settlements were established. They called themselves Acadians when marriages between both people occurred.
+* In **1713**, Britain won the War of Spanish Succession, and the Treaty of Utrecht was negotiated where Acadia is now under Britain's control.
+* The Acadians were told to leave within a year, but most stayed. In **1730**, they were required to take an "oath of neutrality". The oath required the Acadians to stay neutral if a war broke out between France and Britain.
+* In **1755**, a war seemed likely, so the British required a new "oath of allegiance". Now, the Acadians had to fight for Britain in a war against France.
+* When they refused, the Great Deportation was where **11 000** Acadians were deported (to send out of a country) to the Thirteen Colonies, England, or France. Some went to New France or with the Mi'kmaq.
+* They were deported because they had a strategic position (a physical location that is important for military reasons), they were Catholic and spoke French, Acadian settlers outnumbered British settlers in Acadia two to one, and they accepted the oath of neutrality, but not the oath of allegiance.
+* In **1754**, fighting broke out between Britain and France to control the Ohio Valley (along the western border of the Thirteen Colonies). In **1756**, the war went global, and Britain aimed to destroy the French navy and establish worldwide domination. Nine European countries had chosen sides. This was the Seven Years' War.
+* In **1760**, Britain seized Quebec, but didn't completely win yet. The war ended in 1763, when France signed a treaty with Britain, the Treaty of Paris. Under the treaty, France gives up all it's land in North America to Britain and Spain, except for Guadeloupe, Saint-Pierre, and Miquelon.
+* In the Battle of the Plains of Abraham, the British were led by General Wolfe, and the French were led by the Marquis de Montcalm. The battle was where the British captured Quebec, the capital and military stronghold of New France.
+* The Royal Proclamation of 1763 was Britain's attempt to establish lasting piece in North America. The province of Quebec was established with a British-style government, and an elected assembly was promised, but didn't follow up for almost thirty years. Catholics were disallowed from holding government positions, French civil law (seigneurs and habitants) was abolished, Catholic Church tax was also abolished, settlers from the Thirteen Colonies were encouraged to move to Quebec, and a "proclamation line" separating the Thirteen Colonies from "Indian Territory" which prevented any settlements to occur without First Nations' permission.
+* During the **1700**s, the Thirteen Colonies rebelled against Britain, so Britain was concerned that Quebec will too. It returned some rights taken away in the Royal Proclamation with the Quebec Act of **1774**. Catholics were allowed to practice their religion, Canadiens (Francophone Canadians) were allowed to hold government positions, French civil law was reinstated (still used today), and the boundaries of Quebec were expanded beyond the proclamation line, to claim for the colony the fur trade territories central to its economy, without consulting the First Nations.
+
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
