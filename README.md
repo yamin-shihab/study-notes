@@ -16,10 +16,8 @@ My (so far only) grade 7 Alberta curriculum finals study guides for 2022. Feel f
 * I like the Oxford Comma.
 * I like contractions.
 * Separate every three digits of a number with a space (not a comma).
-* You may use *italics*, **bold**, and ALL-CAPS for emphasis (***ONLY FOR EMPHASIS***).
-* I prefer to use **bold for numbers**, and *italics for examples*.
 * I prefer to use ASCII characters for compatibility.
-* ***Please*** stay consistent.
+* Please stay consistent.
 * If you only want to point something simple out, submit an issue (not a pull request).
 
 ## To-do
