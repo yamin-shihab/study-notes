@@ -111,6 +111,25 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * The Royal Proclamation of 1763 was Britain's attempt to establish lasting piece in North America. The province of Quebec was established with a British-style government, and an elected assembly was promised, but didn't follow up for almost thirty years. Catholics were disallowed from holding government positions, French civil law (seigneurs and habitants) was abolished, Catholic Church tax was also abolished, settlers from the Thirteen Colonies were encouraged to move to Quebec, and a "proclamation line" separating the Thirteen Colonies from "Indian Territory" which prevented any settlements to occur without First Nations' permission.
 * During the 1700s, the Thirteen Colonies rebelled against Britain, so Britain was concerned that Quebec will too. It returned some rights taken away in the Royal Proclamation with the Quebec Act of 1774. Catholics were allowed to practice their religion, Canadiens (Francophone Canadians) were allowed to hold government positions, French civil law was reinstated (still used today), and the boundaries of Quebec were expanded beyond the proclamation line, to claim for the colony the fur trade territories central to its economy, without consulting the First Nations.
 
+## Chapter 6
+
+* After 1763, Britain was deeply in debt because of the Seven Years' War, and wanted to save money. They wanted to keep troops stationed in the Thirteen Colonies, so they increased taxes on them.
+* The colonists refused to pay. They said Britain had no authority to tax them because they weren't allowed to elect representatives to the British parliament. They came up with the slogan "No taxation without representation".
+* In 1776, the protests turned into a rebellion. George Washington took command of an army in the Thirteen Colonies to fight British rule. 1776 was when the United States declared itself independent of Britain, and began a war called the American war of independence, or the American Revolution.
+* The war deeply divide communities. People who supported the rebellion called themselves "Patriots", and those who wanted to remain united to the British Empire called themselves "United Empire Loyalists".
+* The loyalist migration was when thousands of refugee loyalists left America to a British colony such as Quebec or Nova Scotia.
+* When the loyalist population in Quebec increased and asked for British-style laws and customs, Canadiens were worried that the changes from the Quebec Act being reversed.
+* Originally, treaties had to be negotiated with First Nations for land, but settlers sometimes didn't.
+* Because of different petitions sent by the loyalists settling in Quebec and Nova Scotia, Britain divided Nova Scotia and made New Brunswick, Cape Breton, and St. John Island.
+* Britain also passed the Constitutional Act in 1791. It divided Quebec into Upper and Lower Canada, Established British civil and criminal law in Upper Canada, Lower Canada was the Quebec Act but with British criminal law, set aside lands for churches for both Protestants and Catholics, and established officials and a legislative council appointed by Britain in each colony, and an assembly elected by the colonists (Upper and Lower Canada had a "representative government").
+* In a representative government, citizens elect representatives to an assembly and the assembly speaks for citizens. It "represents them". In 1791, the elected assemblies didn't have the authority to make decisions, and could only advise the British-appointed governors and legislative councils.
+* Upper Canada and Lower Canada's position comes from the geography of the St. Lawrence River. Not the cardinal directions.
+* In 1789, France had a revolution. It violently dethroned its Monarch and became a republic (no monarchy). This made many European monarchs nervous since their people could also decide to rise up too.
+* So they went to war against the French republic. Napoleon was a French general who defended the republic and conquered a large part of Europe, so the wars were named after him (Napoleonic Wars).
+* As part of its war against France, Britain shut down trade between the US and France. The US retaliated by invading the nearest piece of British territory: British North America, now known as Canada.
+* This was the War of 1812. The patriots expected the Canadians to join the cause, but they instead fought back.
+* After the war, Britain and the US agreed to establish a border. It's still being used today.
+
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
