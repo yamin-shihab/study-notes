@@ -30,12 +30,12 @@ Will I ever manage to finish this and science in time while having a bunch of as
 ## Chapter 2
 
 * In the 1300s, trade routes between Europe and Asia were disrupted, so the price of goods increased.
-* But then, technology such as faster ships, compasses, astrolabes started being invented.
-* Sailors originally went east to trade, so Christopher Columbus believed that going west would lead to Asia. He arrived in South America instead, where he got Aztec and Incan gold and made Spain rich.
+* But then, technology such as faster ships, compasses, astrolabes started being invented/improved.
+* Sailors originally went east to trade, so Christopher Columbus believed that going west would lead to Asia. He arrived in South America instead, where he stole and plundered Aztec and Incan gold and made Spain rich.
 * Imperialism is taking over the land of other places, to expand one's empire.
 * In 1497, an English expedition led by Italian sailor and merchant Giovanni Caboto landed in Newfoundland and claimed it for Britain. He returned with lots of fish.
 * The Europeans then had regular contact with the Mi'kmaq and weighed the advantages of trading.
-* The Mi'kmaq traded old beaver fur to Europeans in exchange for metal tools such as knives, axes, pots, kettles, and nettles.
+* The Mi'kmaq traded old beaver fur to Europeans in exchange for metal tools such as knives, axes, pots, and kettles.
 * The Europeans liked the fur because the long outer hair fell off, leaving the fuzzy underfur exposed. European hatmakers used this to make felt.
 * The Beothuk people lived in Newfoundland and also encountered the Europeans. A friendly trading relationship however, was not established. They eventually became extinct.
 * It is thought that the Beothuk took fishing equipment from the Europeans to encourage them to leave from their traditional fishing areas. This eventually led to conflict.
@@ -47,16 +47,17 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * In 1603, Samuel de Champlain explored the St. Lawrence river and Tadoussac. In 1604, he returned to establish the first French colony in North America: Port-Royal in Acadia.
 * During 1608, he travelled the St. Lawrence and established a settlement at Quebec.
 * Ethnocentrism is considering one's religion superior to others. Champlain displays this by calling the First Nations savages and saying that they have no true faith.
+* Samuel de Champlain established Quebec and Montreal as places where trading is done because it had better possibilities as a fur trade center than Acadia on the east coast.
 * There were many other expeditions to North America that mapped more land.
 
 ## Chapter 3
 
-* A colony is a region of land dominated by another empire by sending colonists establish control.
+* A colony is a region of land dominated by another empire by sending colonists to establish control.
 * Mercantilism is a regulated economic system in which a colony supplies the original country with cheap, raw resources. The country then creates and sells expensive goods using those resources to make money.
 * Monopolies were arranged with charters and set up in North America to get resources.
 * A monopoly is a company that is the only company allowed to get a specific resource.
 * France claimed a large area around the Great Lakes and called it New France.
-* New France's population in 1700 was 15 000 colonists, and 65 000 in 1760.
+* New France's population in 1700 was 15 000 colonists and 65 000 in 1760.
 * Most of the colonists in New France were catholic and spoke French.
 * At first, monopolies in the fur trade were established and flourished. But the colony didn't and kept relying on France for survival.
 * They made many relations with First Nations through the fur trade.
@@ -72,7 +73,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * Coureur de Bois (runner of the woods) are men that engage in the fur trade with First Nations by "running into the forest". This eventually became illegal, but still continued.
 * Missionaries of the Jesuits (a Catholic religious order) converted the First Nations to Catholicism. They were able to document First Nations languages and their ways of life.
 * Britain claimed the area at the coast under the Maritimes and the US and those were the Thirteen Colonies.
-* The Thirteen Colonies' population was 250 000 in 1700, and 2 500 000 in 1760.
+* The Thirteen Colonies' population was 250 000 in 1700 and 2 500 000 in 1760.
 * Most of the people in the Thirteen Colonies were Protestant.
 * Each colony had a separate government. They had a governor either directly appointed by Britain or by chartered companies or landholders.
 * Elected assemblies also played a role in most governments of the Thirteen Colonies.
@@ -83,17 +84,16 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * Rupert's Land didn't have much of a European population and was mainly Protestant, but religion didn't play a large role.
 * Rupert's Land was the monopoly fur trade territory of the HBC (Hudson's Bay Company), granted to the company in 1670. It had a governor who was the chief officer of the company.
 * The HBC traded in furs and counted on traders coming directly to its forts.
-* Since the First Nations had no immunity, European diseases caused epidemics among the First Nations
+* Since the First Nations had no immunity, European diseases caused epidemics among the First Nations.
 
 ## Chapter 4
 
 * The fur trade consisted of multiple phases.
 * Phase one was when cod fisheries were set up by Europeans and early trading began with First Nations.
-* Phase two was when New France dominated the fur trade. New France made many alliances and enemies, and Catholic, Jesuit missionaries went to convert First Nations. Coureurs de bois also emerged, and trapping and hunting of the fur trade began to reduce animal populations.
+* Phase two was when New France dominated the fur trade. New France made many alliances and enemies, and Catholic and Jesuit missionaries went to convert First Nations. Coureurs de bois also emerged, and trapping and hunting of the fur trade began to reduce animal populations.
 * In phase three, Britain granted a monopoly to the HBC for Rupert's Land in the fur trade. The voyageurs, who took canoe trips to trade, and were official, unlike Coureuers de bois, emerged, and Metis people have their origins in this phase (cross-cultural marriages between Europeans and First Nations).
-* During the fourth phase, New France became a British colony, and the fur trade came under the British mercantile system. The NWC (North West Company) formed from the French fur trade and competed with HBC, going further west. Pemmican was a food that worked well for long trips in the fur trade, so it developed a trade. Metis people became important to the fur trade as interpreters, guides, traders, carters, and provisioners because they were both European and First Nation.
-* The fifth phase involved the HBC and NWC merging under the name of HBC because there were many fights, shootings, and hostage-takings due to the competition, so Britain encouraged them to do so. The HBC then began to lose control of its monopoly after losing a court case against independent Metis traders, and the trade began to decline in the west.
-* Samuel de Champlain established Quebec and Montreal as places where trading is done because it had better possibilities as a fur trade center than Acadia on the east coast.
+* During the fourth phase, New France became a British colony, and the fur trade came under the British mercantile system. The NWC (North West Company) formed from the French fur trade and competed with the HBC, going further west. Pemmican was a food that worked well for long trips in the fur trade, so it developed a trade. Metis people became important to the fur trade as interpreters, guides, traders, carters, and provisioners because they were both European and First Nation.
+* The fifth phase involved the HBC and NWC merging under the name of HBC because there were many fights, shootings, and hostage-takings due to the competition, so Britain encouraged them to merge. The HBC then began to lose control of its monopoly after losing a court case against independent Metis traders, and the trade began to decline in the west.
 * The Metis put themselves in the middle of the fur trade at Red River, which was between all the "action".
 * The Hudson's Bay still exists today: The Bay.
 
@@ -106,7 +106,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * When they refused, the Great Deportation was where 11 000 Acadians were deported (to send out of a country) to the Thirteen Colonies, England, or France. Some went to New France or with the Mi'kmaq.
 * They were deported because they had a strategic position (a physical location that is important for military reasons), they were Catholic and spoke French, Acadian settlers outnumbered British settlers in Acadia two to one, and they accepted the oath of neutrality, but not the oath of allegiance.
 * In 1754, fighting broke out between Britain and France to control the Ohio Valley (along the western border of the Thirteen Colonies). In 1756, the war went global, and Britain aimed to destroy the French navy and establish worldwide domination. Nine European countries had chosen sides. This was the Seven Years' War.
-* In 1760, Britain seized Quebec, but didn't completely win yet. The war ended in 1763, when France signed a treaty with Britain, the Treaty of Paris. Under the treaty, France gives up all it's land in North America to Britain and Spain, except for Guadeloupe, Saint-Pierre, and Miquelon.
+* In 1760, Britain seized Quebec, but didn't completely win yet. The war ended in 1763, when France signed a treaty with Britain, the Treaty of Paris. Under the treaty, France gives up all its land in North America to Britain and Spain, except for Guadeloupe, Saint-Pierre, and Miquelon.
 * In the Battle of the Plains of Abraham, the British were led by General Wolfe, and the French were led by the Marquis de Montcalm. The battle was where the British captured Quebec, the capital and military stronghold of New France.
 * The Royal Proclamation of 1763 was Britain's attempt to establish lasting piece in North America. The province of Quebec was established with a British-style government, and an elected assembly was promised, but didn't follow up for almost thirty years. Catholics were disallowed from holding government positions, French civil law (seigneurs and habitants) was abolished, Catholic Church tax was also abolished, settlers from the Thirteen Colonies were encouraged to move to Quebec, and a "proclamation line" separating the Thirteen Colonies from "Indian Territory" which prevented any settlements to occur without First Nations' permission.
 * During the 1700s, the Thirteen Colonies rebelled against Britain, so Britain was concerned that Quebec will too. It returned some rights taken away in the Royal Proclamation with the Quebec Act of 1774. Catholics were allowed to practice their religion, Canadiens (Francophone Canadians) were allowed to hold government positions, French civil law was reinstated (still used today), and the boundaries of Quebec were expanded beyond the proclamation line, to claim for the colony the fur trade territories central to its economy, without consulting the First Nations.
@@ -120,7 +120,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * The loyalist migration was when thousands of refugee loyalists left America to a British colony such as Quebec or Nova Scotia.
 * When the loyalist population in Quebec increased and asked for British-style laws and customs, Canadiens were worried that the changes from the Quebec Act being reversed.
 * Originally, treaties had to be negotiated with First Nations for land, but settlers sometimes didn't.
-* Because of different petitions sent by the loyalists settling in Quebec and Nova Scotia, Britain divided Nova Scotia and made New Brunswick, Cape Breton, and St. John Island.
+* Because of different petitions sent by the loyalists settling in Quebec and Nova Scotia, Britain divided Nova Scotia into additional islands and made New Brunswick, Cape Breton, and St. John Island.
 * Britain also passed the Constitutional Act in 1791. It divided Quebec into Upper and Lower Canada, Established British civil and criminal law in Upper Canada, Lower Canada was the Quebec Act but with British criminal law, set aside lands for churches for both Protestants and Catholics, and established officials and a legislative council appointed by Britain in each colony, and an assembly elected by the colonists (Upper and Lower Canada had a "representative government").
 * In a representative government, citizens elect representatives to an assembly and the assembly speaks for citizens. It "represents them". In 1791, the elected assemblies didn't have the authority to make decisions, and could only advise the British-appointed governors and legislative councils.
 * Upper Canada and Lower Canada's position comes from the geography of the St. Lawrence River. Not the cardinal directions.

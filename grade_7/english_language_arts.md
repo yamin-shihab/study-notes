@@ -9,25 +9,24 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Commands or requests don't have a subject, just a predicate, but they are still considered sentences since the subject is implied. (Eat your vegetables!, implied subject: you, predicate: eat your vegetables)
 * Capitals are used for the beginnings of sentences, proper nouns, dates, abbreviations, and proper adjectives. (The car is fast, Bob, Monday, Chinese food)
 * Periods, exclamation marks, and question marks are used to indicate the sentence has ended. 
-* Commas are used to help with the flow of the sentence.
-* A declarative sentence makes a sentence and ends in a period. (You're ugly.)
+* Commas are used to help with the flow of a sentence.
+* A declarative sentence makes a statement and ends in a period. (You're ugly.)
 * An interrogative sentence asks a question and ends in a question mark. (Who's that guy?)
 * An imperative sentence expresses a command or request and ends in a period. (Open the door.)
 * An exclamatory sentence expresses strong emotion and ends with an exclamation mark. (Lets go!)
 * A complete subject is all the words that tell who or what the sentence is about. (The big toy)
-* A complete predicate is all the words that tell us what the subject is or doing. (Was very expensive)
-* A simple subject is a subject, in which there is only one. (Steven)
-* A compound subject is one that is two or more nouns/proper nouns. (Mars and Jupiter)
-* A simple predicate is a predicate in which there is only one. (looked at the man)
-* A compound predicate is one that is two or more. (stared at and licked the ice cream)
+* A complete predicate is all the words that tell us what the subject is or doing. (was very expensive)
+* A simple subject is a subject in which there is only one noun/pronoun. (Steven)
+* A compound subject is a subject in which there are two or more nouns/pronouns. (Mars and Jupiter)
+* A simple predicate is a predicate in which there is only one verb. (looked at the man)
+* A compound predicate is predicate in which there are two or more verbs. (stared at and licked the ice cream)
 * A simple sentence (also known as an independent clause), expresses one complete thought. (Joseph and Bob must now fight to the death.)
-* The Oxford Comma rule is when there are lists of at least three items, there's also a comma before the and. (Pickles, cheese, and juice were all on the list.)
-* A coordinating conjunction is a word that joins two parts of a sentence that are of equal status/ranking/importance. (The door was closed, but it was unlocked too.)
-* You can use the acronym FANBOYS to remember the common coordinating conjunctions. (For, And, Nor, But, Or, Yet, So)
-* An independent clause can have meaning on its own.
-* Compound sentences are two independent clauses joined by a coordinating conjunction from FANBOYS. (I turned on the TV, and watched the news.)
-* A dependent clause doesn't express a complete idea, cannot act alone as a sentence as it depends on an independent clause and always begins with a subordinating conjunction. (so that I can eat the cake)
-* Subordinating conjunctions include: after, although, as, because, even if, even though, if, in order to, once, provided that, rather than, since, so that, than, that, though, unless, until, when, whenever, where, whereas, wherever, whether, while, why.
+* The Oxford Comma rule is when there are lists of at least three items, there's also a comma before the final "and". (Pickles, cheese, and juice were all on the list.)
+* A coordinating conjunction is a word that joins two parts of a sentence that are of equal status/ranking/importance. (The door was closed, but it was unlocked.)
+* You can use the acronym "FANBOYS" to remember the common coordinating conjunctions. (For, And, Nor, But, Or, Yet, So)
+* Compound sentences are two independent clauses joined by a coordinating conjunction from the "FANBOYS" acronym. (I turned on the TV, and watched the news.)
+* A dependent clause doesn't express a complete idea, cannot act alone as a sentence as it depends on an independent clause, and always begins with a subordinating conjunction. (so that I can eat the cake)
+* Subordinating conjunctions include: "after", "although", "as", "because", "even if", "even though", "if", "in order to", "once", "provided that", "rather than", "since", "so that", "than", "that", "though", "unless", "until", "when", "whenever", "where", "whereas", "wherever", "whether", "while", and "why".
 * A complex sentence contains an independent and dependent clause. They begin with a subordinating conjunction. (Because the boys went to the park, they didn't go to the zoo.)
 * An interrupted sentence is an independent clause with a subordinate clause in between, separated by commas. (Ivan, the winner of the race, was a very interesting person.)
 * An interjection sentence has a sudden burst of excitement within a sentence. (AH! What the hell is that?)
@@ -41,12 +40,11 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * You should pay attention to the important parts and details of paragraphs and sentences.
 * You should pay attention to facts and details as evidence to support the main idea and any questions you have.
 * It's also a good idea to look at the order and sequence of parts of text.
-* Annotating is pointing specific pats of the text for later reference.
+* Annotating is marking specific parts of the text for later reference.
 * While reading the text, you can circle unfamiliar words, note any clues the author gives, underline or highlight major events and the main conflict, write any connections you have, and identify what you feel about some text.
 * After reading, you can draw conclusions, evaluate what the author did best, determine deeper meanings, make connections, and determine the meaning of the title.
 * You can use any signs/symbols/marks you want to use.
-* It is important to make connections to text so that we can use experiences to help us understand text.
-* There are three types of connections: text to text, text to self, and text to world.
+* It is important to make connections to text so that you can use experiences to help us understand text.
 * Connections must be descriptive and meaningful to provide value.
 * Text to text is a connection to another text such as a film, novel, article, TV show, photograph, etc.
 * Text to self is a connection to your past life experiences and reminds you of your family, friends, emotions, or experiences.
@@ -56,25 +54,16 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Drawing background knowledge from prior experience also helps make conclusions.
 * It is of course possible for other to have different inferences. Then, one has to determine how plausible, believable, and convincing it is to hold.
 * Inferences can also be made with films, novels, articles, TV shows, photographs, etc.
-* A comma splice is a common error in which a comma is used to join two or more independent clauses. (We had a nice time, I hope we can meet again soon.)
-* To correct a comma splice, we can insert a conjunction (FANBOYS) between the two independent clauses. (We had a nice time, so I hope we can meet again soon.)
-* Start a new sentence. (I didn't like the movie. The movie was weird.)
-* Or insert a semicolon between the two independent clauses (only when they are related). (I liked the book; it was fascinating.)
-* When trying to understand a word you don't know, you can look to its context.
-* If it's an adjective, verb, adverb, or noun, you can read how it's described alongside other word. (I loathed and hated the thing! Loathed means hate. He ran quickly and swiftly. Swiftly means fast.)
+* When trying to understand a word you don't know, you can look at its context.
+* If it's an adjective, verb, adverb, or noun, you can read how it's described alongside other words. (I loathed and hated the thing! Loathed means hate. He ran quickly and swiftly. Swiftly means fast.)
 
 ## Paragraphs
 
 * An information paragraph informs, classifies, compares, and explains how, why, or what.
-* Narrative paragraphs tell a story or relay an event.
+* A narrative paragraph tells a story or relays an event.
 * A persuasive paragraph presents and argues your opinion about an issue or topic.
-* Descriptive paragraphs describe, in vivid detail, a person, place, or thing.
-* When writing a paragraph, you must indent the first sentence.
-* You also must begin with a topic sentence, as an introduction to capture audience's attention.
-* You state your topic and show your attitude toward it.
-* Develop and support your topic through several details, facts, examples, etc.
-* End your paragraph with a concluding statement to summarize the details.
-* By restating the main ideas and/or encouraging your audience to think about what you have written.
+* A descriptive paragraph describes, in vivid detail, a person, place, or thing.
+* When writing a paragraph, you must indent the first line.
 * Present only one main idea per paragraph.
 * Burgers are sometimes used to give examples of paragraph structure.
 * The top bun is the hook and topic sentence.
@@ -102,7 +91,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 
 * Figurative language calls on the reader's imagination to complete the authors meaning.
 * Alliterations are the repetition of words of the same consonant sound of two or more words. (She sells seashells by the seashore.)
-* In alliterations, it's the sound, not the letter that matters.
+* In alliterations, it's the sound, not the letter, that matters.
 * Tongue twisters are longer alliterations meant to be harder to say.
 * A hyperbole is an overstatement or extravagant exaggeration of the fact or possibility used for emphasis or effect. (I'm so hungry I can eat a horse.)
 * Metaphors are figures of speech which involve an implied comparison between relatively unlike things. (It's a zoo in here!)
@@ -111,7 +100,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Personification is giving human qualities to inanimate objects or ideas. (The lightning danced across the sky.)
 * Similes are figures of speech in which similarity between two subjects is directly expressed. Usually using "like" or "as". (The man was like a gorilla. She was as skinny as a blade of grass)
 * An idiom is a word or phrase that has a specific cultural meaning. They usually have a completely different meaning from the literal individual words. (What a couch potato. I better hit the sack.)
-* A play on words, usually using similar sounds, spellings, and meanings. (Let's "bee" friends!)
+* A pun is a play on words, usually using similar sounds, spellings, and meanings. (Let's "bee" friends!)
 
 ## Short Stories
 
@@ -126,9 +115,9 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * External conflict from another character or force outside the character.
 * Character vs. self is an internal conflict when the character has a problem with themselves they want to deal with. (grief, sadness, anger, loss, fear)
 * Character vs. character is an external conflict in which two characters have a problem with each other. (good guy vs. bad guy)
-* Character vs. nature is an external conflict in which the character has a problem with nature. (animals, plants)
+* Character vs. nature is an external conflict in which the character has a problem with nature. (animals, plants, natural disasters)
 * Character vs. supernatural is an external conflict in which the character has a problem with supernatural forces. (vampires, aliens, werewolves)
-* Character vs. society is an external force in which the character and society have a problem with each other. (laws, rules)
+* Character vs. society is an external force in which the character and society have a problem with each other. (laws, rules, government)
 * The protagonist is the main character who has a goal to achieve or overcome (not always the "good guy").
 * The antagonist is the character whose goal is to prevent the protagonist from succeeding (not always the "bad guy").
 * The rising action includes all the events after the initial event, is in the middle of the story, and comprises most of it too.
@@ -147,28 +136,26 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * A comedy resolution is when the protagonist is successful.
 * A tragic resolution is when the protagonist was unsuccessful.
 * A resolution could be an unexpected surprise or cliffhanger.
-* The resolution is often very short.
-* The subplot of a story is the secondary events in a story that usually involve supporting characters.
-* A suspenseful story involves the main character in jeopardy or trouble. (in danger)
+* The resolution is often short.
+* The subplot of a story is second plot involving secondary events in a story that usually involve supporting characters.
+* A suspense involves character(s) in jeopardy or trouble. (in danger)
 * A flashback is when the author interrupts the main plot and goes back in time.
 * They usually give us more background information so that we can better understand characters, setting, conflict, etc.
 * They are usually presented as dreams or memories in short stories.
 * Foreshadowing is hinting something that will happen in the future.
 * They usually happen in the beginning of the story or a chapter.
 * They set expectations about what will happen later on in the plot.
-* Dialogue shows that two or more characters are talking to each other.
+* Dialogue shows that two or more characters are talking to each other and what is being said.
 * They can show the characters' personality, motives, and feelings more clearly.
 * By the end of the story, there should be a bigger message in mind about life and what it means to be human for the reader to connect to. (pride, jealousy, greed, fairness)
 * So theme is the point or central message in a story and connects us with the characters and events.
-* Characters are usually human (but not always) players in the story.
 * A static character stays the same throughout the story.
 * A dynamic character changes throughout the story, whether it's good or bad.
 * A flat character can be summed up simply because of not being very detailed and not having much information.
 * A round character has lots of information, is complex, interesting, and motivated. They are usually a major character since the author spends time describing them.
-* A stock (stereotypical) character is generally a flat character, is stereotyped, often appears in literature, and is easily identifiable.
-* They are put in similar roles each time.
+* A stock (stereotypical) character is generally a flat character, is stereotyped, often appears in literature, and is easily identifiable. They are put in similar roles each time.
 * Irony is unexpected. It's the opposite of what the character thinks, believes, or expects. (calling the tallest person "Shorty", calling a flat town "Summit")
-* Point of view, or perspective, is the "lens" in which a text is told in.
+* Point of view or perspective is the "lens" in which a text is told in.
 * First person uses words such as "I" and "We".
 * Second person uses words such as "You".
 * Third person uses words such as "He", "She", "It", and "They".
@@ -185,6 +172,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * A prepositional starter sentence starts with a word that shows a relationship of a noun or pronoun with another word. (Across the floor, was Obi-Wan Kenobi. "Hello there.")
 * A speaker tag indicates who's talking in dialogue.
 * Spoken dialogue is surrounded in quotation marks.
+* Some examples:
 * Speaker tag + quotation = My teammate triumphantly shouted, "We are the tournament champions!"
 * Quotation + speaker tag + quotation = "Please take out your assignment from yesterday," instructed the teacher.
 * Quotation + speaker tag + quotation = "Betty," mom began, "can you please take the trash out after supper?"
@@ -209,7 +197,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * The difference between "its" and "it's" is a common error.
 * "Its" means "belonging to it". (Its GPU was fast.)
 * "It's" is a contraction of "it is". (It's really heavy.)
-* To show possession by a singular owner, "'s" is added to the owner. (David's brand-new car was fast.)
+* To show possession by a singular owner, "'s" is added to the owner. (David's brand-new car was loud.)
 * If the owner is a noun that already ends with an "s", proceed to still add an "'s". (The bus's brakes were broken.)
 * If the owner is a pronoun that already ends with an "s", proceed to either still add an "'s" or apostrophe to the owner. (James' apple was suspiciously perfect.)
 * To show possession by a plural owner, an apostrophe is added to the owner. (The dogs' tails were wagging.)
@@ -226,6 +214,8 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Percents/parts/fractions plus a singular noun requires a singular verb. Plus a plural noun requires a plural verb. (Eighty percent of the people have jobs. Most of the group is from here.)
 * "Either of/neither of" requires a singular verb. (Neither of the people liked the movie.)
 * Money/time deals requires a singular verb. (A thousand dollars is the highest amount we can give you. Five years ought to be enough time.)
+* A comma splice is a common error in which a comma is used to join two or more independent clauses. (We had a nice time, I hope we can meet again soon.)
+* To correct a comma splice, you can insert a coordinating conjunction between the two independent clauses (We had a nice time, so I hope we can meet again soon.), start a new sentence (I didn't like the movie. The movie was weird.), or insert a semicolon between the two independent clauses (only when they are related) (I liked the book; it was fascinating.)
 
 ## Persuasion
 
@@ -301,3 +291,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Syllables are the unit of pronunciation that word sounds are separated into. (banana has 3, watermelon has 4)
 * There are many types and forms of poems, such as  acrostic, concrete, limerick, haiku, cinquain, diamante, free verse, sonnet, ballad, narrative, lyrical, etc.
 * A haiku has five syllables on the first line, seven on the second, and five on the last.
+* Cinquains (five lines) are often structured to be an unrhymed poem in which the first line is a subject, the second line is two adjectives, then three verbs, a phrase or sentence describing the subject, and finally a synonym of the original subject.
+* A diamonte is also unrhymed and seven lines. It begins with a subject and builds up to an antonym. It starts with a noun subject, then two adjectives, then three participles (-ing words), four nouns (first two relating to first subject, last two relating to second subject), three participles about subject two, two adjectives for subject two, and lastly the second, antonym subject.
+* A concrete poem describes thoughts about a subject using many words arranged in the shape of the subject. Doesn't necessarily have to rhyme.
+* A limerick is a joke that rhymes. It has five lines following the "AABBA" rhyming scheme.

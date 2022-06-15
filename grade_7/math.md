@@ -1,9 +1,12 @@
 # Math 7
 
-This subject probably involves the least amount of studying because you'll be thinking more than the other subjects instead of just remembering. Practicing word problems is also cool for practice. Note that in this document, a number after a variable (normal size) means exponent.
+This subject probably involves the least amount of studying because you'll be thinking more than the other subjects instead of just remembering. Practicing word problems is also cool for practice. Note that in this document, a number after a variable (normal size) means exponent. [Mathisfun](mathisfun.com) is an excellent resource to complement this, and it isn't "for babies".
 
-## Divisibility Rules
+## Number Concepts
 
+* A prime number is a whole number above 1 that cannot be made by multiplying other whole numbers together.
+* Composite numbers are whole numbers that can be made by multiplying other whole numbers together.
+* 1 is not a prime nor a composite number.
 * The following are rules to tell if a number is divisible by some certain number.
 * 1 when it's an integer. (123, 543, 2 490)
 * 2 when the last digit is even. (6, 92, 412 342)
@@ -14,7 +17,7 @@ This subject probably involves the least amount of studying because you'll be th
 * 8 when the number made by the last 3 digits are divisible by 8. (3 032, 304, 62 937)
 * 9 when the sum of all digits is a multiple of 9. (496, 18, 51 840)
 * 10 when the last digit is a 0. (40, 500, 48 620)
-* You can use a Venn Diagram to sort numbers by their divisibility (the two circle chart thingy with a separate spot in the middle).
+* You can use a Venn Diagram to sort numbers by their divisibility (the two circles chart thingy with a separate spot in the middle).
 
 ## Integers
 
@@ -40,21 +43,20 @@ This subject probably involves the least amount of studying because you'll be th
 ## Decimals
 
 * You should know basic math operations by now (like long addition, subtraction, division, and multiplication).
-* The product is the answer of multiplication, the quotient is the answer of division.
 * Front-end estimations is only using the whole number of a decimal number. (1.4 -> 1, 5.6 -> 5, 66.9 -> 66)
-* Rounding estimation is rounding to the nearest nth (tenth, hundredth, thousandth) place. (1.4 -> 1, 5.6 -> 6, 66.9 -> 67)
-* PEDMAS (how dare people say BEDMAS!) is the order in which operations are applied in an equation.
-* Parentheses, Exponent, Division/Multiplication, Addition/Subtraction.
-* Note that when division/multiplication, or addition/subtraction is reached, it is either one of the parts of those current pairs are applied from left to right.
+* Rounding estimation is rounding to the nearest nth place (tenth, hundredth, thousandth) place. (1.4 -> 1, 5.6 -> 6, 66.9 -> 67)
+* PODMAS (how dare people say BEDMAS!) is the order in which operations are applied in an equation.
+* Parentheses, Orders, Division/Multiplication, Addition/Subtraction.
+* Note that when division/multiplication or addition/subtraction is reached, operations are applied left to right.
 
 ## Fractions, Decimals, and Percents
 
 * Percent means out of 100.
 * A terminating decimal number has a finite number of decimal places. (4.6, 16.72, 134.154)
-* A repeating decimal number has a specific pattern of numbers that repeat forever. (pi, 10 / 3, 100 / 33)
-* Repeating decimal numbers have a straight line on top of them to show that they are repeating from the current decimals.
+* A repeating decimal number has a specific pattern of numbers that repeat forever. (pi, 10 / 3, 2 / 9)
+* Repeating decimal numbers have a straight line on top of the repeating decimals to show that they are repeated.
 * Common factors are factors (numbers multiplied together to get a product) that are present in two, or more numbers.
-* To convert a fraction to decimal, convert the denominator to the nearest power of 10 by multiplying, or dividing, then do the specific operation on the numerator, then make the decimal the numerator in the appropriate place value. (13/200 -> 65/1000 -> 0.065)
+* To convert a fraction to a decimal, convert the denominator to the nearest power of 10 by multiplying or dividing, then do the specific operation on the numerator, then make the decimal the numerator in the appropriate place value. (13/200 -> 65/1000 -> 0.065)
 * If the denominator cannot become a power of 10, divide the numerator by the denominator. (1/7 -> 1 / 7 -> 0.142 857)
 * To convert a decimal to fraction, the place value of the last digit becomes the denominator and the original number becomes the numerator. (0.561 -> 561/1000)
 * The following are rules for each denominator to be applied to the numerator to make the decimal.
@@ -88,37 +90,44 @@ This subject probably involves the least amount of studying because you'll be th
 * To add fractions, make sure there is a common denominator, then just add the numerators, but keep the denominators the same. (2/7 + 3/7 = 5/7)
 * To subtract fractions, make sure there is a common denominator, then just subtract the numerators, but keep the denominators the same (4/6 - 3/6 = 1/6)
 
+## Percent Problems
+
+* You can get a percentage of a number by multiplying the number by the percent as a decimal. (60% of 50 -> 50 * 0.6 = 30)
+* GST is a percentage tax imposed on buying products applied on their prices. Right now it's 5%.
+* To get the GST of a product, multiply the price by 0.05. To get the total end price, either add the price of the GST with the item price, or multiply the item price by 1.05. ($40 -> 40 * 1.05 = $42)
+* To get the amount saved by a discount or coupon, multiply the price by the discount or coupon as a decimal. To get the total end price, either subtract original item price by the amount saved, or multiply the original item price by the "opposite of the percentage" as a decimal. ($60 and a 20% coupon -> 20 * 0.8 = $48)
+
 ## Statistics and Probability
 
 * The mean of a group of numbers can be considered the "average".
-* It can be calculated by summing up all the numbers together and dividing it by the number of numbers. (2, 5, 1, 7 -> 16 -> 4)
-* The median is the medium number in a group of ordered numbers. (4, 5, 9, 1, 0 -> 9)
+* It can be calculated by summing up all the numbers in a group together and dividing it by the number of numbers. (2, 5, 1, 7 -> 16 -> 4)
+* The median is the number in the middle in a group of ordered (or order them yourself) numbers. (4, 5, 9, 1, 0 -> 9)
 * The mode of a group of numbers is the number that occurs most time. (3, 9, 3, 1, 0 -> 3)
-* Those three are Measures of Central Tendency (mostly used for finding the average).
+* Those three are "Measures of Central Tendency" (mostly used for finding the average).
 * The range (not a Measure of Central Tendency), is the difference between the biggest and smallest numbers in a group of numbers. (3, 7, 1, 9, 5 -> 8)
-* An outlier is an abnormally large, or small number in a group of numbers, relative to the other numbers. (3, 9, 1, 435, 4 -> 435)
+* An outlier is an abnormally large or small number in a group of numbers, compared to the other numbers. (3, 9, 1, 435, 4 -> 435)
 * A circle graph shows how categories of data compare to each other as a whole.
-* It's a circle divided into section.
+* It's a circle divided up into sections.
 * They need a title, labels/a legend, the sum of 360 for the total degrees, and data is reported as percentages.
 * To find the angle in degrees for a sector, turn the percent into a decimal, multiply each decimal by 360, and then round the number. Use a protractor to measure each angle. (56% -> 0.56  360 = 201.6 degrees)
 * You can draw the circle by tracing a circular object, or using a compass.
 * The favorable outcome is the event you are looking to occur in a probability experiment.
 * Possible outcomes are the possible outcomes in a probability experiment.
-* Probability(event) = favorable outcomes/possible outcomes.
+* Probability(event) = favorable outcomes / possible outcomes.
 * An independent event is an event in a group of events that doesn't affect the probability of the other events.
 * Either a tree diagram, or a table of outcomes can be used to represent possible outcomes of events.
 * A tree diagram starts and branches out for each event. The amount of branches from each branch is the possible number of outcomes. The amount of branches at the end is the total overall amount of possible outcomes.
-* A table of outcomes only works with 2 events (unless you want to traverse the nth dimension). It is a table where the rows represent the possible outcomes of the first event, and the columns represent the second.
+* A table of outcomes only works with 2 events (unless you want to traverse the nth dimension). It is a table where the rows represent the possible outcomes of the first event, and the columns represent the second event.
 
 ## Patterns and Relations
 
 * An expression is a mathematical phrase made up of numbers and/or variables connected by operations. The variable can represent any number we choose. (3 - 5, 8, 2 - x)
 * An equation is a mathematical statement, or sentence, containing two expressions separated by an equals sign. The variable only has one value. (3 - 5 = -2, 3x = 6, x = 8)
-* A constant term is a number that doesn't change. It increases, or decreases the value of an expression. (3, 62, 92)
-* A variable is a letter, or symbol representing an unknown number. (x, y, n)
+* A constant term is a number that doesn't change. It increases or decreases the value of an expression. (3, 62, 92)
+* A variable is a letter or symbol representing an unknown number. (x, y, n)
 * A numerical coefficient is a number that multiplies the variable. (3x, 5y, 9i)
-* A term is a constant, or variable separated by a +, or - sign. (-6, -z, 3)
-* When multiplying, you cannot use an X because it can be confused with the common variable name, x. Instead, use a numerical coefficient with, or without parentheses. (3(6), 7x, 2(9))
+* A term is a constant or variable prefixed by a +, or - sign. (-6, -z, 3)
+* When multiplying, you cannot use an X because it can be confused with the common variable name, x. Instead, use a numerical coefficient with or without parentheses. (3(6), 7x, 2(9))
 * To evaluate an expression, substitute all occurrences of variable with their given value. (3n where n = 12 -> 36)
 * A table of values is a table showing two sets of related numbers.
 * Patterns can be described by expressions which can be displayed in a table of values.
@@ -138,10 +147,10 @@ This subject probably involves the least amount of studying because you'll be th
 * This makes two expressions on either side of the equation.
 * To solve an equation using number tiles, all tiles on the side with the x tile must be removed by making zero tiles, so that the x can be isolated.
 * Add the opposite of the tiles of the side, then add the same to the other side. (to solve: a long x tile with 2 positive black tiles = 6 negative white tiles, add 2 negative white tiles to make all the tiles on the left zero pairs, while increasing the right side to -8, making x = -8)
-* A balance scale can be used to represent equations by having a balanced balance scale with each side having weights with a number, with one side having an x weight.
+* A balance scale can be used to represent equations by having a balanced balance scale with each side having weights with a number on them, with one side having an x weight.
 * To solve an equation using a balance scale, we must isolate the x on one side by removing all other numbers on that side.
-* We remove the required numbers on the x side, and then the same ones on the other side, this keeps it balanced.
-* To solve an equation normally, we also must isolate the x variable, by performing the reverse of PEDMAS, and the reverse operators. (3x + 3 = 9 -> 3x = 6 -> x = 2)
+* We remove the required numbers on the x side, then the same ones on the other side; this keeps it balanced.
+* To solve an equation normally, we also must isolate the x variable, by performing the reverse of PODMAS, and the reverse operators. (3x + 3 = 9 -> 3x = 6 -> x = 2)
 
 ## Geometry
 
@@ -152,8 +161,8 @@ This subject probably involves the least amount of studying because you'll be th
 * When representing coordinates, we put x in the left, and y in the right, of a pair of parentheses. ((3, 5), (2, -5), (-2, -6))
 * The point of origin is the center. (0, 0)
 * Shapes can be plotted on a plane by putting points on it and connecting them. ((4, 5), (3, 5), (-2, -5))
-* A transformation is change to a shape's points, to change the shape.
-* A shapes points are usually represented by capital letters. (A, B, C, D)
+* A transformation is a change to a shape's points to change the shape.
+* A shape's points are usually represented by capital letters. (A, B, C, D)
 * The points of the second shape made after a transformation must be the same letters but suffixed by a ' and are called {letter} + "prime". (A', B', C', D')
 * Two transformations make a double prime. (A", B", C", D")
 * A translation slides a shape along a straight line without turning. (move 3 up and 8 down = (3, -8))
@@ -163,14 +172,13 @@ This subject probably involves the least amount of studying because you'll be th
 * A line is infinite, and its representation has 2 arrows.
 * A ray is infinite from a point, and its representation has 1 arrow.
 * A line segment is finite, and its representation has 0 arrows.
-* Drawing a line to divide a line segment into 2 equal parts is bisecting the segment.
-* The line drawn is the bisector.
+* Drawing a line (bisector) to divide a line segment into 2 equal parts is bisecting the segment.
 * When it is drawn at a 90-degree right angle, it is called a perpendicular bisector.
 * So perpendicular lines are lines that intersect to form a 90-degree right angle.
-* After drawing a segment, it can have a perpendicular bisector made using a compass, by opening it up to greater than half the segment length, then draw an arch from one point, then from the other. Where they intersect are the points for the bisector.
+* After drawing a segment, it can have a perpendicular bisector made using a compass, by opening it up to greater than half the segment length, then drawing an arch from one point, then from the other. Where they intersect are the points for the bisector.
 * Making one with a protractor should be straightforward.
 * Notation to represent the whole thing is the 2 segment point letters, followed by a small horizontal line with a small vertical line coming out its top, followed by the 2 points of the bisector. (AB+CD (replace the plus sign))
-* Parallel lines are lines that never intersect onto each other, and are always the same distance away.
+* Parallel lines are lines that never intersect onto each other and are always the same distance away.
 * They can be made with a protractor by making a perpendicular line through a line, and then making another through the perpendicular line just made.
 * With a compass, make a perpendicular line through a line, and then making another through the perpendicular line just made.
 * Parallel lines can be labeled with the 2 letters for the points of the first line, then ||, then the 2 letters for the points of the second line. (AB||EF)
@@ -180,7 +188,7 @@ This subject probably involves the least amount of studying because you'll be th
 * Equal angles are represented by the same symbol.
 * To make one with a protractor, simply measure half of the angle, then draw the bisector.
 * To make one with a compass, draw an arc from the point of the angle, then for each of the 2 intersections made, draw another arc at the point of intersection. Where the final 2 arcs intersect, that's the point of the bisector.
-* An angle bisector is represented by an < then first the points of the two angle lines with the angle point in between and = + the original amount of degrees, then the first angle line followed by the angle point, the bisector = the second angle line followed by the angle point, and the bisector, followed by = + the bisected angle in degrees. (ABC, ABD = CBD)
+* An angle bisector is represented by an < then first the points of the two angle lines with the angle point in between and = + the original amount of degrees, then the first angle line followed by the angle point, the bisector = the second angle line followed by the angle point, and the bisector, followed by = + the bisected angle in degrees. (ABC = 90, ABD = CBD = 45)
 
 ## Area, and Perimeter
 
@@ -188,11 +196,11 @@ This subject probably involves the least amount of studying because you'll be th
 * Length is the length of the sides, and width is of the top and bottom.
 * Base is the width of the bottom, and height is how tall the whole shape is (not a side).
 * Formula for square perimeter: P = 4s. (4(3) = 12)
-* Formula for rectangle/square perimeter: P = 2b + 2h, or P = 2w + 2h. (2(3) + 2(7) = 26)
+* Formula for rectangle/square perimeter: P = 2b + 2h or P = 2w + 2h. (2(3) + 2(7) = 26)
 * Formula for square area: A = s2. (5 to the power of 2 = 25)
-* Formula for rectangle/square area: A = bh or, A = wh. (3(5) = 15)
+* Formula for rectangle/square area: A = bh or A = wh. (3(5) = 15)
 * By removing the rearranging the 2 triangles on the sides of a parallelogram, you make a rectangle.
-* Formula for parallelogram perimeter: P = 2b + 2h or, P = 2w + 2h. (2(6) + 2(9) = 30)
+* Formula for parallelogram perimeter: P = 2b + 2h or P = 2w + 2h. (2(6) + 2(9) = 30)
 * Formula for parallelogram area: A = bh. (3(8) = 24)
 * Two triangles will always make a parallelogram, or a rectangle.
 * Formula for triangle perimeter: a + b + c. (3 + 8 + 2)
