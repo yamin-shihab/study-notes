@@ -183,3 +183,21 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * It targeted the US, Britain, and many parts of Europe, but not French-speaking populations such as France, Belgium, or Switzerland.
 * This was because he (and many others) believed that "British was best".
 * However, people came from many places such as Ukraine, Russia and Poland. This gave Canada many cultures all the way to today.
+
+## Chapter 11
+
+* In 1916, Manitoba, Alberta, and Saskatchewan became the first provinces in Canada that allowed women to vote. In 1918 women across all of Canada gained the right to vote in federal elections.
+* Women of non-European descent took longer to get those rights. The right to vote opened the door to equality in other aspects such as university and work.
+* It was found by the Royal Commission on Bilingualism and Biculturalism that Francophones didn't have the same equality as Anglophones.
+* The Official Languages Act in 1969 set out to correct some of this. It made services provide to both English and French.
+* First Nations and peoples of other heritage felt that biculturalism excluded too many other people.
+* In 1971, Canada became the first country in the world to adopt a policy of multiculturalism which sought to recognize and promote Canada's diversity. It did this by recognizing all cultures and backgrounds.
+* Canada passed the Multiculturalism act in 1988 to affirm Canada's support for languages that contribute to the multicultural heritage of Canada.
+* Canada also changed the constitution to be more inclusive.
+* Canada has always encouraged immigration ever since becoming a country. However, there have been times when Canada's immigration policy and treatment of immigrants displayed racial discrimination.
+* But then, they changed to be better and not be racially discriminatory.
+* After the invention of the radio, Canadians have been tuning into American culture radio stations.
+* So the Canadian government created the CBC (Canadian Broadcasting Company) in 1936 to have Canadian radio programs. This was done to "foster national spirit and interpret national citizenship".
+* CBC is now government owned, supports television too, has separate English and French versions, and covers all of Canada.
+* Urbanization is the increase of the number of people living cities. Originally, Canadians mostly lived in rural areas. Later, it changed and there are now more people living in cities.
+* This is because of trucks delivering food to cities instead of growing them yourself, factories mechanizing (making a machine do human work) more work, and farming becoming much easier with technology, so fewer people are farmers in rural areas.
