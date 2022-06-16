@@ -155,6 +155,46 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * Conservative members of the assembly (who opposed reformers) said that the bill "rewarded traitors", but the coalition held the majority of the seats and the bill passed.
 * It was then signed by the governor, Lord Elgin, and even though he personally opposed the bill, he respected the choice of the voters.
 
+## Chapter 8
+
+* Confederation had four key politicians who wanted it most.
+* John A. Macdonald came from Canada West, born in Scotland. He wanted a nation that spread from "sea to sea", that gave provinces powers, and kept ties with Britain. He then became the first prime minister of Canada.
+* George-Etienne Cartier came from Canada East, born in Lower Canada. He supported political change, but didn't want Canada to become a republic like the US. He also supported French and Catholicism being part of Canada.
+* George Brown came from Canada West, born in Scotland. He founded the Globe newspaper in Toronto, which later became the Globe and Mail. He originally didn't support Confederation and instead "rep by pop" (representation by population) so that the English get the majority. He often targeted Macdonald for criticism, but later changed his mind and encouraged Confederation.
+* Etienne-Paschal Tache was a patriote during the Rebellions of 1837 and 1838. He was also a passionate advocate for Confederation and protection for Canadiens. He helped forge and lead the alliance with John A. Macdonald known as the "Great Coalition" that became central to the success of Confederation.
+* Political deadlock is when equally powerful players can't agree on a course of action.
+* Some people thought Confederation was bad for Canadiens, while some didn't.
+* British colonies such as Nova Scotia, New Brunswick, Newoundland, and Prince Edward Island governed themselves. They thought that by joining Confederation, they would lose their independence.
+* There was also the risk of American annexation (take over), so the west needed to be expanded to first by BNA.
+* Britain also controlled BNA's economy, and mercantilism is in place. However, in 1840, Britain took steps to end mercantilism. This means that Britain would buy less from BNA.
+* Until 1865, BNA had a special trading relationship with the US called the Reciprocity Treaty. Signed in 1854, BNA could sell its resources in the US at competitive prices. At its end, a tariff (a tax) was added to BNA products.
+* Confederation involved having more protected regional rights, not a federal government that took away all power.
+* Confederation was established with the BNA act, passed in 1867. It created the Dominion of Canada, formed the former colonies of Canada East and West, Nova Scotia, and New Brunswick.
+* Prince Edward Island and Newfoundland anticipated more disadvantages than advantage (especially increased taxation), and declined to join.
+* The BNA Act gave the federal government the power to make laws for "peace, order, and good government" of Canada. It divided powers between federal and provincial.
+* French and English were made the official languages of parliament, and public schools were guaranteed for English Protestants and French Catholics.
+* Representation by population was established for Canada's House of Commons. This gave Ontario the most seats.
+* The act guaranteed the new government of Canada would pay for a railway linking the Maritimes with central Canada.
+* In 1857, Britain passed the Gradual Civilization act, in which First Nations must give up their way of life to be a citizen and be able to vote.
+* In 1867, BNA Act established Confederation without consulting the First Nations, and they were made responsibilities of the government, along with items such as the postal service.
+* Until 1960 (100 years after Confederation), Canada's government didn't allow people with a legal status as Indian to vote. They must give up that status to vote.
+* Colonies had well established British settlements, but territories had very few. Colonies had governments advised or elected by the colonists, but territories were governed by appointed British officials.
+* Colonies became provinces under confederation, while territories were simply transferred as an agreement between Britain and Canada. Canada controlled the territories directly.
+* BC (British Columbia) became a colony because of British settlement along the west coast following the voyages of British explorer George Vancouver from 1792 to 1795.
+* The first colonists made their living mostly in the fur trade under HBC forts.
+* The economy changed in 1859 when a gold rush began. The colony borrowed money to build roads and railways to centers of mining. It counted on the mined gold to pay back.
+* The rush didn't last long, so BC was in economic trouble since it couldn't pay back.
+* Canada encouraged BC to join confederation, and so it did.
+* The colony of PEI (Prince Edward Island) was in economic trouble in the early 1870s since it borrowed money to build a railway to try to make its economy stronger.
+* The economy got worse as trading relationships ended, and many island farmers didn't own their land, but instead people in Britain.
+* In 1873, PEI joined Confederation to solve its economic problems, while Canada hoped it didn't join the US.
+* Canada agreed to pay for its railway and to provide money to buy the island's farmland. A year-round ferry service between the island and the mainland was also promised.
+* In 1867 and 1869, Newfoundland rejected Confederation since Newfoundlanders felt optimistic about their economic future.
+* During the 1930s, countries cut back on the colony's successful trade because of the Great Depression. This hurts the colony's economy, and it now couldn't pay for important services.
+* In 1934, Britain took direct control of Newfoundland until after WWII, where the war boosted the colony's economy because of product demand.
+* In 1945 after the war, some Newfoundlanders wanted to regain independence, but others worried about more hard times. Britain said it could no longer assist the colony, and it had to help itself. Meanwhile, the war put the colony in financial trouble.
+* A vote was then made, and that resulted in Newfoundland joining Confederation.
+
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.

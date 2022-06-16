@@ -25,5 +25,5 @@ My (so far only) grade 7 Alberta curriculum finals study guides for 2022. Feel f
 Note that as I'm still in school, more information about the units would be "unveiled". So when a unit is considered finished, I finished adding all the information there is available. Updates will still be added.
 * [x] Math 7
 * [x] English Language Arts 7
-* [ ] Social Studies 7
+* [x] Social Studies 7
 * [ ] Science 7
