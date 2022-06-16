@@ -130,6 +130,31 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * This was the War of 1812. The patriots expected the Canadians to join the cause, but they instead fought back.
 * After the war, Britain and the US agreed to establish a border. It's still being used today.
 
+## Chapter 7
+
+* Immigrating is going somewhere, and emigrating is leaving somewhere.
+* The Great Migration was when a huge wave of people immigrated to Canada.
+* This happened because of poverty in Britain, famines, economic slowdowns, losing farms, and Britain encouraging emigration.
+* The wave of new colonists resulted in many more farms being built. The Great Migration also resulted in many more British People in North America.
+* The conditions on the ships heading to North America were very bad.
+* BNA (British North America) had a colonial government, so Britain had the power and control to make decisions.
+* In a democracy, voters elect the people who have decision-making authority.
+* Reformers were people in BNA who wanted a democratic government so that they can choose who to vote. This is done by lessening or completely removing Britain's control by establishing a republic (no monarchy) like the US.
+* In Upper and Lower Canada, only a small group of English people held control, so reformers had rebellions against this, since it isn't democratic.
+* Britain responded by fighting, burning cities, and arresting.
+* But then Britain decided to investigate why the rebellions had taken place. They didn't want to lose Canada like how they lost the Thirteen Colonies.
+* They set up a royal commission (official investigation by the crown) to study the problems in Upper and Lower Canada. The leader of the commission was the governor, Lord Durham. He spent five months then made some recommendations.
+1. Unify Upper and Lower Canada and put people into "vigorous English rule".
+2. Make a more democratic government by lessening the role of Britain in affairs.
+3. Assimilate the Canadiens since they "didn't have a culture worthy of protection".
+* So in 1841, Britain passed the Act of Union based on the recommendations of the Durham report. It combines Upper and Lower Canada into a single Province of Canada, creates a legislative council that the governor appointed, creates an assembly with an equal number of elected representatives (42) from Canada East and West although East had a higher population, and made English the official language of Canada.
+* LaFontaine was a Canadien from Canada East and Baldwin was an English Canadian from Canada West, and both created a coalition (an alliance among groups).
+* They were reformers who wanted a more democratic government without a complete break from Britain.
+* They accomplished many things such as recognizing French as an official language, setting up universities, securing amnesty (a pardon) for the rebels of 1837-38, and eventually self-government in 1848.
+* The Rebellion Losses Bill in 1849 was difficultly done by LaFontaine and Baldwin. It sought to compensate the property damage done during the Rebellions in Lower Canada. A similar bill had already compensated people in Upper Canada.
+* Conservative members of the assembly (who opposed reformers) said that the bill "rewarded traitors", but the coalition held the majority of the seats and the bill passed.
+* It was then signed by the governor, Lord Elgin, and even though he personally opposed the bill, he respected the choice of the voters.
+
 ## Chapter 9
 
 * In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
