@@ -2,6 +2,74 @@
 
 I hate this.
 
+## Interactions and Ecosystems
+
+* All living things need food, water, a suitable habitat, and gas to exchange.
+* Natural resources are the materials and products found in nature.
+* Renewable resources are energy resources that can be recycled or replaced by natural processes in less than 100 years
+* Non-renewable resources are resources that take millions of years to form.
+* Biotic things are living things. (humans, plants, birds, animals, insects)
+* Abiotic things are non-living things. (air, water, soil)
+* A niche is the role or characteristic activity that is undertaken by an organism in an ecosystem; one organism may fill several niches.
+* Producers are plants that use energy from the Sun to make nutrients they need to survive; includes some bacteria that transfer energy from particles.
+* Consumers are organisms that eat the food made by producers; can be either herbivores, carnivores, or omnivores.
+* A herbivore is an animal that eats only plant material. (grasshopper, beaver, moose)
+* A carnivore is an animal that eats other animals. (lynx, wolf, hawk)
+* Predation is when animals hunt other animals for food. Prey are being hunted by predators.
+* Too many predators and the prey population decreasing (competition for food, leading to decreasing predator populations), and too few predators, prey won't have enough food for all of them since there are more of them.
+* An omnivore is an animal that eats other animals and plant material. (bear, raccoon, people)
+* A food chain is a sequence of feeding relationships among many living organisms, as they pass on food energy.
+* A food web is a network of feeding relationships among organisms.
+* A pyramid of numbers is the number of individual organisms at each level of a food chain; the number of organisms decreases with each level higher in the food chain. (there is a greater number of organisms at the bottom of the food chain than at the top)
+* Biomass is the total mass of living matter; often expressed in terms of dry weight per unit area.
+* A scavenger is an organism that eats dead or decaying plant or animal matter. (carrion beetle, vulture)
+* Decomposers are organisms that break down the cells of dead or waste materials and absorb their nutrients. (fungi, bacteria, some worms)
+* Ecology is the study of how organisms interact with each other and their environment.
+* An ecologist is a scientist who studies interactions between the abiotic and biotic parts of the environment.
+* An ecosystem is all the interacting parts of a biological community and its environment.
+* A population is a group of organisms of the same species found in a particular geographic area.
+* A community is an association of different populations of organisms in a particular environment or geographic area.
+* Symbiosis is when two species live closely in a relationship that lasts over time. There are three types.
+* Commensalism is when one benefits, and the other neither benefits nor is harmed. (birds and trees)
+* Mutualism is when both species benefit. (fish that eat bacteria off of other fish)
+* Parasitism is when one benefits and the other is harmed. Parasites live in or on a host and feed on it, but don't want to kill it. (tapeworms, mosquitoes, leeches)
+* An adaptation is an inherited characteristic that helps an organism survive and reproduce in its environment.
+* Behavioral adaptations change how an organism acts. (plants moving to follow the sun, hibernation, migration)
+* Structural/physical adaptations involve change in an organism's body. (blending into the environment, color changing, puffer fishes, webbed feet)
+* The carbon cycle is the cycle in which carbon is used and reused through the ecosystem.
+* The water cycle is the continuous movement of water through the biosphere.
+* Evaporation is the process by which a liquid, such as water, changes into a gas or a vapor.
+* Condensation is the process of changing from a gas or vapor to a liquid. (clouds, fog, dew)
+* Transpiration is the process in which water that is taken in by a plant or animal evaporates from the organism.
+* Precipitation is the water (in its liquid or solid state) that falls to Earth. (rain, snow, sleet, hail)
+* Ground water is the water contained in the lithosphere or Earth's crust.
+* Run-off is water that runs off the ground into lakes, rivers, or streams.
+* Pollution is a collective term for the different types of harmful materials that are released into the environment through human activities.
+* Pollutants are substances that cause pollution.
+* Acid rain is rain that contains higher than normal levels of acid; caused by waste gases released into the atmosphere by industries and automobiles; damaging to the environment.
+* Bioaccumulation is the accumulation of pollutants in one organism.
+* Biomagnification is the movement of pollutants through levels of a food chain so that greater quantities are retained with movement up the food chain.
+* An ecological footprint is a calculation of the total area of land and water needed to supply all the materials and energy a human uses, as well as absorb the waste produced.
+* Sustainability is when resources of nature are being renewed at least as quickly as they are being used, and all wastes are able to be completely absorbed.
+* Reducing is limiting the amount of waste made. (buying less, shorter showers)
+* Reusing is using an item over again. (reusable food container, donating clothing)
+* Recycling is breaking down products and turning them into something else. (plastic bottles recycled into polar fleece, tires recycled into asphalt)
+* Recovering is when waste is converted into a usable form of energy. (cow farts)
+* Succession is the process by which new species gradually replace old species in an ecosystem.
+* Primary succession is the gradual growth of organisms in an area that was previously bare.
+* Secondary succession is the gradual growth of organisms in an area that was formerly home to many species. (regeneration of burned forest)
+* Biological control is a method of controlling insect pests using their natural enemies.
+* Bioinvasion is when a species that originally exists in a certain part of the planet is introduced into an entirely new location.
+* Indicator species is a plant or animal species that helps indicate environmental change.
+* When a species is extinct, it no longer exists.
+* When it is endangered, the species is in imminent danger of becoming extinct.
+* When a species is extirpated in a location, it is extinct there but there are others somewhere else.
+* A threatened species is one whose numbers are declining.
+* Vulnerable species have faced threats that may cause it to go extinct.
+* The pioneer species of an area is the first one to occupy the area.
+* A keystone species helps hold an ecosystem together.
+* Limiting factors are factors that slow or stop population growth. (food, habitat, predators, water, space)
+
 ## Planet Earth
 
 * Earth is broken up into four layers.
