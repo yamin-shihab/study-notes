@@ -2,6 +2,25 @@
 
 I hate this.
 
+## Scientific Method
+
+* There are numerous parts to a scientific experiment.
+* A problem statement is a sentence in the form of a testable question. It is mainly: "What effect does (manipulated variable) have on (responding variable)?"
+* Background knowledge is previous knowledge that relates to the experiment. It can be definitions.
+* A prediction is an educated guess of what will happen and a reason why.
+* A hypothesis is like a prediction, but requires to be tested thoroughly and is more detailed.
+* To conduct the experiment, a list of materials is needed.
+* The procedure is the step-by-step instructions to perform the experiment. They include safety precautions.
+* The manipulated (independent) variable is the one condition that's changed in an experiment.
+* The responding (dependent) variable is what's being measured.
+* Everything that stays the same is a controlled variable. A minimum of three must be stated.
+* Observations are the results recorded as data in charts, graphs, diagrams, etc.
+* Qualitative observations are made using the five senses.
+* Quantitative observations are made with numbers.
+* Diagrams are drawn in pencil, placed on the left of the page, neat, and have labels on the right side with straight lines (it's ruler time).
+* The conclusion is what was found out (answer and explain the problem), whether the hypothesis was proven or disproven, and sources of error that can be used for accuracy and improvements.
+* Always use evidence relating to the experiment when writing about it. You should test an experiment multiple times to confirm the conclusion too.
+
 ## Interactions and Ecosystems
 
 * All living things need food, water, a suitable habitat, and gas to exchange.
