@@ -82,12 +82,84 @@ I hate this.
 * Indicator species is a plant or animal species that helps indicate environmental change.
 * When a species is extinct, it no longer exists.
 * When it is endangered, the species is in imminent danger of becoming extinct.
-* When a species is extirpated in a location, it is extinct there but there are others somewhere else.
+* When a species is extirpated in a location, it is extinct there, but there are others somewhere else.
 * A threatened species is one whose numbers are declining.
 * Vulnerable species have faced threats that may cause it to go extinct.
 * The pioneer species of an area is the first one to occupy the area.
 * A keystone species helps hold an ecosystem together.
 * Limiting factors are factors that slow or stop population growth. (food, habitat, predators, water, space)
+
+## Plants for Food and Fiber
+
+* Plants are important since they provide all the energy for the ecosystem. They get energy directly from sunlight. They need water, nutrients, space, warmth, and air to grow.
+* They can be used for fiber. (clothing, paper, shelter)
+* They can also be used for medicine. (herbal remedies, tea, codeine, aloe vera, quinine, eucalyptus oils, aspirin, morphine)
+* Fuel can involve using plants. (wood/coal, sugar ethanol, wood methanol, biofuel)
+* Plants are good for the environment. (they produce oxygen, are part of the food web, provide shelter for animals, prevent soil erosion)
+* Plants can provide transportation and construction materials. (rubber, lubricants, wood, bamboo)
+* Plant roots absorb water/nutrients from soil, support/anchor the plant, and store food.
+* Taproots are long, major roots that grow deep and have root hairs that help absorb water.
+* Fibrous roots are clumped, matted roots that grow shallow and absorb quickly.
+* Taproots are sometimes eaten as food. (carrots, beets, turnips, radishes, parsnips)
+* Stems transport water/nutrients, support the leaves, and store food.
+* The phloem part of the stem carries sugars from the leaves to the rest of the plant.
+* The xylem part of the stem carries water from the roots to the leaves.
+* Leafs produce food (photosynthesis), exchange gas, and allow water to exit the plant.
+* On a leave, stomata are tiny holes that exchange gas and water.
+* Leaves are green and change because chlorophyll (needed for photosynthesis and present in leaves) is green and breaks down into smaller molecules and eventually disappears when it becomes colder (autumn).
+* Photosynthesis is the process of plants making their food in their chloroplasts.
+* Cellular respiration is when plants convert sugars to energy. This is needed for growth and reproduction.
+* Osmosis is water moving from high to low concentrations across a selectively permeable membrane (filter for some particles). This occurs until the concentration is equal on both sides. (water moving from soil to roots (high to low))
+* Diffusion is when particles/molecules move from high to low concentrations in water/air. (perfume, farts in a classroom)
+* Transpiration is the evaporation of water from leaves through stomata (mostly on the underside of the leaf).
+* Plants can adapt to survive and reproduce better in its environment.
+* In dry conditions, they have large root systems (more water absorption), thick stems (store water), tiny spikes/spines (predator protection), flattened stems (face away from sun to preserve water), and needles, waxy resin coat (decrease water loss).
+* In humid/tropical settings, there are usually tall stems to reach sunlight and big wide leaves to collect the sun's energy.
+* Seeds can be dispersed by being sticky or tasty (animals), or being shaped in a way so that they can fly away.
+* Plants can defend themselves by having a terrible smell, looking bad, moving in ways, and even eating insects.
+* Flowers also have brightly colored petals to attract pollinators, and sunflowers rotate to the sun.
+* Soil is important because it stores nutrients, air, and water, has a natural community, and allows plants to attach their roots to.
+* Soil is made of mineral particles (parent material) which are broken down rock or clay to make space for water and organic matter (humus) which is decomposed living things providing nutrients and holds water.
+* Sandy soil doesn't hold water, is light brown, consists of mostly mineral particles, and has very little humus.
+* Clay soil holds water well (air cannot easily penetrate), forms a tight ball when wet, is hard when dry, has lots of mineral particles, and has little humus.
+* Loam soil forms a loose ball when wet, has a balance of organic and mineral particles, absorbs water well, and is great for growing most plants
+* Soil can be enhanced by adding nutrients to it through organic ways (manure compost) or chemical ways (fertilizer).
+* Farming back then involved swathers which cut grain and forms them into a windrow (row of dry, cut grain), threshening which is separating grain from inedible parts, reaping is cutting the stalk for harvest with a scythe, sickle, or reaper, and winnowing which is throwing a mixture into the air as the wind blows the straw away.
+* A combine is a machine that combines reaping, threshing, and bundling into one process (costs around $333 000 to $500 000).
+* A plow cultivates, turns, and mixes the soil to kill weeds, aid decomposition, and create space, but damages the soil. A seed drill positions seeds in the soil and then covers them.
+* Zero-tillage is the practice of leaving the stubble of the previous crop to prevent the soil from wind and water erosion.
+* Shelterbelts are rows of trees along edges of fields grown to reduce wind damage to crops and soil.
+* Irrigation is done by pipes and sprinklers that add moisture to soil. They are provided with water from lakes and rivers.
+* Greenhouses are glass buildings that have plants grown in them. They let sunlight in but stop heat from escaping, so that conditions can be controlled, and better plants be grown.
+* Hydroponics is growing plants without soil. Nutrients are instead added to water and grown with just that.
+* Monoculture is planting only one crop in a field, so that it's easier to harvest, but pests can wipe it out easier.
+* Poly culture is multiple crops in the same field, so that it's harder for pests to wipe out, but it's more time-consuming to harvest.
+* Crop rotation is planting different crops in a field every year. They rotate based on nutrient needs. Planting only one plant would make the soil run out of nutrients.
+* Pests are weeds, insects, fungi, and introduced species that affect our ability to produce food and fiber.
+* They can be controlled through crop rotation, by machines, being chased/scared away (scarecrow), or being picked off by hand.
+* Biological control is using a pest's natural predator to control it. (aphids and ladybugs)
+* Companion planting is growing different plants together. One discourages pests to protect the other. (rabbits and marigolds)
+* They can be controlled with herbicides (chemicals that kill plants), and pesticides (chemicals that kill insects).
+* However, if pests don't die to pesticide, they become naturally resistant to it and pass that trait to the next generation.
+* It can kill species that weren't intended to be harmed, get into water supplies and lakes, form resistant species, and make soil less fertile.
+* An invasive species is one that doesn't naturally belong in an area. They have no natural predator or environmental control.
+* Organic farming is farming without the use of chemicals.
+* Once a plant has been pollinated, a seed is formed.
+* A seed contains an embryo (plant inside seed), cotyledon (food reserve), seed coat (protects the seed), and fruit (ovary of the plant that swells to protect developing seeds).
+* Asexual reproduction (vegetative) is grown from roots, stems, or leaves of the parent, and the new plant is identical to the parent.
+* Sexual reproduction is seeds and fruits produced from reproductive cells, and the new plant is a mix of parents.
+* The male parts of a flower are the stamen (male reproductive organ), filament (stalk holding up anther), and anther (produces pollen).
+* The female parts of a flower are the pistil (female reproductive organ), stigma (top of pistil, receives pollen), style (stalk of pistil, connects stigma to ovary), ovary (holds ovules), and ovule (eggs).
+* Flowers also have a sepal which is green, below the petals, and protects the flower before it opens.
+* During reproduction, pollen lands on the stigma, a pollen tube grows down the style to the ovary (pollination), the pollen and egg join (fertilization), and a seed is created.
+* Vegetative reproduction can be done from stems through runners (long stems that grow along the soil's surface), tubers/bulbs (underground stems), or rhizomes (long stems growing underground horizontally).
+* Vegetative reproduction can also be done from roots through suckers (new plants grow off roots of the parent plant).
+* A cutting is part of a plant's stem and leaves cut off and replanted to maybe produce new roots (still vegetative).
+* Grafting is a part of a plant attached to a different plant.
+* Humans have learned to adapt plants to meet their needs through selective breeding.
+* Selective breeding is encouraging plants with certain characteristics to reproduce. (the largest fruit bearing plants breed through cross pollination)
+* plants are selectively bred to withstand certain environmental conditions, increase yields, resist diseases, or alter the appearance or taste.
+* Genetic engineering is altering DNA to remove desired genes and combine them with another organism's genes. This can need more fertilizer or pesticide, or introduce non-native species.
 
 ## Planet Earth
 
