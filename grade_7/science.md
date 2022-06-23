@@ -221,6 +221,72 @@ I hate this.
 * An R-value is used for measuring the quality of an insulator. A higher value means a better insulator.
 * A Thermogram is an infrared photo to diagnose areas of heat loss in a building.
 
+## Structures
+
+* A structure has a definite shape and size and serves a specific function
+* The origin of a structure is how it was made.
+* A natural structure is found in nature.
+* A manufactured structure is made by people.
+* Natural structures can inspire manufactured structures. (duck feet and scuba flippers, spider webs and fishing nets)
+* Structures can be classified by their design, which is the way they're built. (how it's put together, how the parts are arranged)
+* Mass structures are made by piling up materials into one design. There is little to no space inside, it's very strong, heavy, and needs lots of materials. (beaver dams, mountains, brick walls, sculptures)
+* A frame structure is a skeleton of parts joined together that supports the weight of the entire structure. There are lots of joints, there is lots of empty space inside, it's easy to design and build, and uses less material and therefore has a lower cost. (ladders, show shoes, spider webs, wheelchairs, fences, walls of a house)
+* A shell structure is a solid outer layer with a hollow inner area. It uses a small amount of material, is strong since force is spread through the whole structure, small weaknesses can cause failure, and they're hard to build. (parachute, milk carton, tin can, balloon, balls, cardboard box)
+* A mix and match structure is a combination of two or more of the basic structural forms. (airplanes are shells built around a skeleton)
+* The function of a structure is the purpose or job it does. Many structures have multiple functions, and it is the first thing to consider when designing.
+* Some structures have the same function, but different designs. This is common.
+* Aesthetics is the beauty of an object. This varies between different people.
+* The margin of safety is the limits in which a structure is expected to perform its function safely. Structures are designed to have extra strength to withstand much larger loads than it would normally carry, so that it's safer. (speed limits, load requirements (elevators))
+* There are different types of materials to be considered when designing a structure.
+* A composite material is made from more than one material. (concrete, fiberglass, bricks, paper)
+* Layered materials have different materials pressed or glued together. (plywood, windshield)
+* Knit/woven materials are fibers twisted, looped, and knotted together. (cloth, rope, shoelaces)
+* A joint is where structural parts are put together. They're also the weakest parts of a structure.
+* Mobiles joints are joints that move and are flexible. (hinge, knee, elbow, shoulder)
+* Rigid joints are joints that don't move and are fixed.
+* There are some different types of rigid joints:
+* Fasteners are small parts that "pierce" through materials and bind them together. They use friction to hold the pieces together. (screws, nails, staples, dowels, rivets)
+* Interlocking shapes fit together because of their shape. (Lego, bricks, some paving stones)
+* Ties use string or rope to join things together. (thread, string, rope, shoelaces, seams in clothing)
+* Adhesives are sticky substances that hold pieces together. (glues, tape, caulking)
+* Melted joints are parts melted together using heat. Welding is melting pieces together, and soldering is melting another material around pieces.
+* Force is a push or pull that causes a structure to move or change shape. The effect of force on a structure depends on the magnitude (strength), direction, and location of the force.
+* Mass is the amount of matter in an object, measured with a triple beam balance scale, measured in grams or kilograms, and stays the same no matter where you are in the universe.
+* Weight is the measure of the force acting upon an object (gravity is the biggest force), is measured with a spring scale (force meter), measured in Newtons, and weight will change depending on where you are in the universe.
+* The Newton is the standard unit for measuring force. 100 g = 1 N and 1 kg = 10 N, so on Earth, gravity pulls on each kg of mass with approximately 10 N of force. So to find the weight of an object on Earth, we multiply the mass in kg by 10 N per kg.
+* An external force is a force applied from outside a structure. (gravity, wind)
+* The load is the weight carried or supported by a structure. There are two types of loads:
+* A Static load (dead load) is a non-moving, non-changing permanent force. It's the weight of the structure itself and the non-moving load it supports. (beams, cables, rivets, steel plates)
+* A dynamic load (live load) is a load that moves or changes with time (non-permanent). (vehicles and pedestrians on a bridge, gust of wind acting upon a structure)
+* Internal forces act from within a structure. It's a force that one part of a structure exerts on other parts of the same structure. They are classified by the direction in which they act, and they can cause deformation.
+* Deformation is when a structure's shape changes because it can't resist internal forces.
+* Tension is the act of stretching and pulling apart. Materials fail by tearing or fracturing. (tug of war, exercise bands)
+* Compression is when a structure is squeezed. Materials fail by buckling. (springs, car crash impact, compression socks)
+* Torsion is when a structure is twisting by turning the ends in opposite directions. (twisting a towel, turning a door knob)
+* Shear is a structure's parts pushed in opposite directions. (cutting, tearing paper, iceberg breaking)
+* Sometimes different kinds of internal forces act on a structure at the same time. Bending is compression and tension at the same time, on opposite sides.
+* Builders combine materials to make a structure that can resist more than one force.
+* Structural stress is the effect of the forces acting on a structure at one time.
+* Structural fatigue is a permanent change in a structure caused by too much force being applied. (cracks, bending)
+* Structural failure is when a structure can no longer perform its function due to the forces acting on it.
+* Sometimes, structural failure is beneficial if it happens in an intentional, controlled way. (car bumper, blades of grass for sports, shear pins)
+* A brace (kinda like a beam) forms a triangle at the point where pieces meet, therefore making it stronger.
+* A buttress is a slanted brace that supports an exterior part of a structure. (supports on the sides of a dome or arch)
+* Triangles are the strongest structural shape since they are good at spreading force and can't be bent easily (rigid).
+* Corrugation is forming a material into wave-like ridges or folds. They are stronger since they form many triangles. (cardboard)
+* A beam is a flat structure supported at each end. Changing its shape can increase its strength.
+* A column is a solid structure that can stand by itself. It's used to support beams.
+* A cantilever is a beam supported by a column at one end. A double cantilever has the middle of the beam on the column, having the beam stick out of both sides.
+* Trusses are frameworks of beams joined to form triangles.
+* Arches disperse load evenly down to the foundation. The keystone is the arch's middle stone and prevents it from falling down.
+* Structural stability is a structure's ability to maintain its position under force.
+* Structural strength is a structure's ability to support its own load and additional loads applied to it.
+* The base of support is the base where support begins from.
+* The center of gravity (COG) is the point where downward force of gravity is acting; all the mass of the structure is evenly distributed around.
+* Symmetry is balancing the arrangement of mass/parts.
+* Flexibility is the ability of a material to bend under force without breaking. Tall buildings are flexible which allows the buildings to resist being deformed under strong winds (like trees in nature).
+* Stability can be achieved by having a wide base of support, a low center of gravity, and symmetry.
+
 ## Planet Earth
 
 * Earth is broken up into four layers.

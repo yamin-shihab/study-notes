@@ -26,4 +26,4 @@ Note that as I'm still in school, more information about the units would be "unv
 * [x] Math 7
 * [x] English Language Arts 7
 * [x] Social Studies 7
-* [ ] Science 7
+* [x] Science 7
