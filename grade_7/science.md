@@ -161,6 +161,66 @@ I hate this.
 * plants are selectively bred to withstand certain environmental conditions, increase yields, resist diseases, or alter the appearance or taste.
 * Genetic engineering is altering DNA to remove desired genes and combine them with another organism's genes. This can need more fertilizer or pesticide, or introduce non-native species.
 
+## Heat and Temperature
+
+* Energy is the ability to do work.
+* Potential energy is stored energy.
+* Kinetic energy is energy in motion (the more moving particles, the more kinetic energy they have).
+* Temperature is the average kinetic energy of all particles in a substance. A measure of how hot or cold a substance is.
+* Thermal energy is the total kinetic energy of all particles in a substance. When two objects rub together, thermal energy is produced.
+* Heat is the transfer of thermal energy from one substance to another, due to a difference in kinetic energy.
+* Heat always transfers from hot to cold (high to low energy). This is because hotter particles move fast, and when they hit cooler particles, they cause those particles to move faster.
+* The Particle Model of Matter (PMOM) is a group of statements for helping with understanding matter and how it works.
+1. All matter is made up of tiny particles.
+2. Particles are always moving. As temperature increases, particle speed increases, and vice versa.
+3. There are spaces between particles.
+4. Particles in a substance are attracted to one another. The strength of the attractive force depends on the type of particle
+* There are three states of matter: solid, liquid, and gas.
+* Solid matter has particles close together as they vibrate in place, the least kinetic energy, a definite shape, a definite volume, and strong forces between particles.
+* Liquid matter has particles vibrating and moving around as they slip past each other, a definite volume, no definite shape (takes the shape of different containers), more kinetic energy than solids, and forces between particles that aren't strong enough to hold a regular pattern.
+* Gas matter has particles with lots of space in between as they move fast, no definite shape, no definite volume, the most kinetic energy, and weak forces between particles.
+* In order for matter to change states, energy must be added or removed. The stronger the attractive forces, the more energy needed to overcome the attractive forces and move apart.
+* A solid melts (fusion) into a liquid by gaining energy, and sublimates into a gas by gaining energy.
+* A liquid freezes (solidification) into a solid by losing energy, and evaporates into a gas by gaining energy.
+* A gas condenses into a liquid by losing energy, and deposits into a solid by losing energy.
+* The melting point and freezing point of water is conveniently 0 degrees Celsius, and the boiling point is also conveniently 100 degrees Celsius.
+* Adding heat energy makes particles move faster, increases kinetic energy, increases volume, and particles move apart and collide more often. This is called expansion.
+* Removing heat energy makes particles move slower, decreases kinetic energy, decreases volume, and particles get closer and collide less. This is called contraction.
+* In thermometers, the alcohol inside expands when heated and rises to the top, and contracts when cooled and drops to the bottom.
+* In hot air balloons, hot air expands, filling the balloon with air lighter than the outside air, and therefore floats.
+* However, with water it does the opposite. As water freezes it expands and becomes less dense, while contracting and becoming more dense while melting. This is because of its molecular structure.
+* Bimetallic strips are used in thermostats (furnaces), air conditioners, and refrigerators. Two different metals are joined together, and one expands more than the other. The movement of the strips helps operate electrical switches.
+* Conduction is the transfer of heat energy through the direct contact of particles. Heat travels from particle to particle through the substance.
+* A conductor is a material that allows for easy heat transfer. (metals)
+* An insulator is a material that slows heat transfer since spaces between the particles are larger. (wood, plastic, cork)
+* Convection is heat transferred by the motion of particles in fluids. (gases and liquids)
+* When heat is added to particles, particles move faster (increased kinetic energy), particles move further apart, density decreases (fewer molecules in a space), less dense particles rise up, and dense particles move down closer to the heat. (convection)
+* Radiation is the transfer of energy through invisible waves (infrared waves). When infrared waves meet an object, it increases the kinetic energy of the particles.
+* The sun is our greatest source of radiant energy.
+* Light, shiny objects reflect radiant energy, and dark, dull objects absorb radiant energy.
+* Chemical energy is energy caused by chemical reactions. (burning coal, burning wood, burning fossil fuels, batteries, digestion (stored in food))
+* Electrical energy is produced when charged particles (electrons) move through a wire.
+* Mechanical energy is made by moving parts that create friction. Friction produces heat. (car breaks, sewing machine)
+* The law of conservation of energy states that energy cannot be created or destroyed, only transferred or transformed.
+* Energy that is transformed changes from one form to another.
+* Energy that is transferred passes along from one thing to another.
+* Solar energy is solar panels making energy when photons from the sun touch photovoltaic cells, which attracts electrons and creates a circuit.
+* Energy can be made from wind by having the wind turn the giant blades of wind turbines, which generate electricity via a dynamo.
+* Geothermal energy is using the Earth's heat and hot springs to heat water and generate electricity.
+* Hydroelectricity is generated by a dam which controls when water goes through a penstock into a turbine to generate energy.
+* Biomass is the burning of dead living things such as plants and fossils to release energy.
+* Nuclear energy is splitting an atom to unleash a lot of energy that can be used.
+* Nuclear fusion is the opposite, since two atoms are joined into a bigger one and has less radioactive byproduct.
+* Thermostats are used indoors to control the air temperature, and use a bimetallic strip.
+* Local heating systems heat one room or small part of a building using convection. (fireplaces, wood-burning stove, space heater)
+* A central heating system heats rooms or parts of a building from a single, central source. Heat is transferred using forced air heating or hot water heating. (furnaces, boilers)
+* Forced air heating is when air is heated by a furnace and travels through ducts.
+* Hot water heating is when water is heated by burning fuel in a boiler or furnace.
+* Cooling systems remove heat from an enclosed space using a refrigerant. A refrigerant is a liquid that evaporates at a very low temperature and keeps the freezer cold. (freon)
+* Insulation reduces heat transfer, and works at keeping things hot and keeping things cold. (stone, brick, fiberglass, Styrofoam, air)
+* An R-value is used for measuring the quality of an insulator. A higher value means a better insulator.
+* A Thermogram is an infrared photo to diagnose areas of heat loss in a building.
+
 ## Planet Earth
 
 * Earth is broken up into four layers.
