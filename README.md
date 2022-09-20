@@ -1,6 +1,6 @@
 # study-guides
 
-My (so far only) grade 7 Alberta curriculum finals study guides for 2022. Feel free to share this around (other classes, grades, schools, can this even get outside of Alberta?)
+My grade 7 and grade 8 Alberta curriculum finals study guides for 2022. Feel free to share this around (other classes, grades, schools, can this even get outside of Alberta?)
 
 ## Contributing:
 
@@ -27,3 +27,7 @@ Note that as I'm still in school, more information about the units would be "unv
 * [x] English Language Arts 7
 * [x] Social Studies 7
 * [x] Science 7
+* [ ] Math 8
+* [ ] English Language Arts 8
+* [ ] Social Studies 8
+* [ ] Science 8

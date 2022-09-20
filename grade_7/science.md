@@ -158,7 +158,7 @@ I hate this.
 * Grafting is a part of a plant attached to a different plant.
 * Humans have learned to adapt plants to meet their needs through selective breeding.
 * Selective breeding is encouraging plants with certain characteristics to reproduce. (the largest fruit bearing plants breed through cross pollination)
-* plants are selectively bred to withstand certain environmental conditions, increase yields, resist diseases, or alter the appearance or taste.
+* Plants are selectively bred to withstand certain environmental conditions, increase yields, resist diseases, or alter the appearance or taste.
 * Genetic engineering is altering DNA to remove desired genes and combine them with another organism's genes. This can need more fertilizer or pesticide, or introduce non-native species.
 
 ## Heat and Temperature
