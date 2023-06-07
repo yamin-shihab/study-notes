@@ -80,17 +80,3 @@ Read the grade 7 science study guide for the scientific method.
 * Particles flow from areas of high pressure to low pressure. (aerosol sprays)
 * Hydraulics is the study of pressure in liquids, and devices that utilize liquids to move something else using pressure are called hydraulic systems. They commonly use a series of tubes, hoses and pipes. (faucets, bike/car brakes, dentist equipment)
 * Pneumatic systems are similar, but use gasses instead of liquids. They use gasses instead mostly because gasses are compressible, so they require compressors (devices that... compress air).
-
-## Cells and the Body
-
-* If something is permeable, it allows all particles through. (a shirt is permeable to water)
-* If something is semi-permeable (or selectively permeable), it allows some particles through. (a cell membrane)
-* If something is impermeable, it allows no particles through. (plastic is impermeable to water)
-* Diffusion is when solute spreads from high to low concentrations in a solvent, until equilibrium is reached. (a fart spreading throughout a class)
-* Osmosis is diffusion but across a membrane. This time, the amount of solvent that moved to the other side is measured. (plant roots absorbing water)
-* A hypertonic solution has a greater amount of solute than another solvent.
-* A hypotonic solution has a lesser amount of solute than another solvent.
-* An isotonic solution has an equal amount of solute than another solvent.
-* Plants have two vascular tissues to connect the roots and leaves. These are needed for creating sugars from water through photosynthesis.
-* The xylem brings water and nutrients from the roots to the leaves.
-* The phloem brings sugars (food) to the rest of the plant
