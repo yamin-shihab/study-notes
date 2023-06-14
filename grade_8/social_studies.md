@@ -1,10 +1,22 @@
 # Social Studies 8
 
-Seems to be more thinking than memorizing compared to grade 7 social studies.
+Seems to be more thinking than memorizing compared to grade 7 social studies. Note from the future: this was very false. And also as a quick precursor:
+* Worldview is how you view the world, and it's pervasive.
+  * Different groups of people share different or similar world views.
+* A worldview is not a point of view, as a point of view is the way an individual sees things.
+* A worldview is not a perspective, as a perspective is the way a group sees things.
+* Worldviews are both of these and more. They ask the following questions:
+  * How do geographical factors such as climate and location affect people?
+  * In what terms does a society view time?
+  * What roles are available to individuals in a society? Who holds power and how is it maintained? Are certain benefits available to some people but not others?
+  * How do people in a society act toward each other and to other societies?
+  * What beliefs do people hold about life, death, and their environment?
+  * Who controls resources? What should be produced? How will it be produced? Who gets it? How is it distributed and protected?
+  * How do people develop knowledge? What ways of knowing are accepted? Who has access to knowledge? How is it valued? Where does it reside?
 
 ## Chapter 1
 
-* During the middle ages, much of European society was organized in a system called feudalism: a hierarchy in which different people ranked differently from each other based off of their importance.
+* During the Middle Ages, much of European society was organized in a system called feudalism: a hierarchy in which different people ranked differently from each other based off of their importance.
   * People were born into their level, and were expected to stay at that level.
   * Nobles and knights swore oaths of allegiance (loyalty) to the king. In return, they got land.
   * Barons, bishops, and other members of the Church held lots of power and land, as religion was a very important part of people's lives.
@@ -27,13 +39,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies.
   * People became more focused on showing off their wealth through their clothing, homes, and food.
     * This led to the introduction of sumptuary laws: laws that controlled how people could show off their wealth.
 * Religion was a very central part of people's lives daily lives. Life was also very difficult, so a hope for a better life after death was important to people.
-  * The church at the time was very important and had different roles within it. People also had to pay a tithe: a tax towards the church.
+  * The church at the time was very important and had different roles within it. People also had to pay a tithe: a tax toward the church.
   * Some people decided to devote their lives to God and become monks; they entered monasteries and spent their time studying religious texts, praying, and working. They also helped other people through food donations for the poor, caring for the sick, and teaching children.
-    * Monasteries were centers of learning during the middle ages, and universities that grew around them taught grammar, geometry, astronomy, religion, law, medicine, and music.
+    * Monasteries were centers of learning during the Middle Ages, and universities that grew around them taught grammar, geometry, astronomy, religion, law, medicine, and music.
   * The Black Death made some people question their faith; their attempts at pleasing God haven't worked and felt abandoned.
-    * People also started to take a critical attitude towards the church because of this. It was a wealthy institution that owned a third of Europe's land, received large sums of money in tithes, and some members like the clergy got caught up in the enjoyment of luxury.
+    * People also started to take a critical attitude toward the church because of this. It was a wealthy institution that owned a third of Europe's land, received large sums of money in tithes, and some members like the clergy got caught up in the enjoyment of luxury.
 * With all these reformations going on, a period of great creativity in the arts and sciences called the Renaissance was about to begin, starting in Italy.
-  * It's name is French and means a rebirth of classical knowledge and learning.
+  * It's name is French and means a rebirth of Classical knowledge and learning.
 
 ## Chapter 2
 
@@ -66,3 +78,36 @@ Seems to be more thinking than memorizing compared to grade 7 social studies.
   * He then attacked and allied with neighboring city-states
   * Despite being ruthless in political matters, he and the Medici family helped promising artists.
   * Cosimo's grand-son, Lorenzo the Magnificent, was a patron of art and literature. He sponsored Michelangelo, Botticelli, Leonardo da Vinci, and other famous artists and thinkers.
+
+## Chapter 3
+
+* A new way of thinking starting in the northern Italian city-states known as humanism. It involved scholars looking back to the ancient Classical civilizations of Greece and Rome.
+  * They were heavily interested in the ways ancient writers like Aristotle and Plato gave their opinions on society, politics, history, and the arts.
+  * The Islamic civilization preserved lots of the Classical civilization and further developed it. (sciences, math, medicine)
+  * Humanism was sort of a fad among the wealthy people in society at the time.
+* The Classical concept that was most important to Renaissance thinkers and artists was the belief in the dignity and potential of the individual. They believed that people could shape their lives through their own efforts and talents.
+  * Human beings can use the power of reason (thinking) to find truth for themselves.
+  * It is important for a person to have an open, curious, and questioning mind.
+  * People can achieve great things through learning.
+  * Individuals should be skilled in many different areas. They should develop not just their minds but also their bodies and spirits.
+  * These new ideas didn't actually contradict or conflict with the Christian worldview: To develop one's talents was to serve God, because God had provided you with those talents.
+* Some humanist scholars, such as Francesco Petrarch, saw the medieval world as a "dark age", and the classical past as a glorious time.
+* Civic humanists were interested in what Classical authors have written about good government. They believed that being a responsible citizen meant educating yourself about history and political issues and working to improve society.
+* One of the most important ways that the humanists influenced Renaissance society was in the emphasis they put on education. Many humanists were dedicated teachers who ran their own schools.
+  * They believed that it was important to train young people's characters and bodies as well as their minds. This approach to education is sometimes called "educating the whole child".
+  * They encouraged a curious, questioning attitude in their students. Many rulers hired humanists as tutors for their children.
+* Artists became interested in portraying the beauty of the human body and the natural world. Patrons (people who paid artists to produce works) played an important role in promoting the arts during the Renaissance.
+  * Many artists found inspiration in the art of the ancient Greeks and Romans. During the Middle Ages, most art had religious themes and this continued through the Renaissance.
+  * The Renaissance also saw a growing interest in portraits and landscapes. They also reflected the humanist interest in the individual, the present world, beauty, and human excellence.
+  * Art included elements such as the following, previously not present in medieval art:
+    * The natural world was much more present.
+    * There were accurate lights and shadows.
+    * Textures and patterns were more important.
+    * Realistic and elegant details evolved.
+* Renaissance architects included features of Classical buildings (pillars/columns, domes, arches) in their work, and raised the status of their profession form skilled laborer to artist.
+  * They also used a variety of geometric shapes to develop complex designs, symmetry, and vividly painted interiors and ceilings.
+* Sculptors during the Renaissance became very famous and became like artists, signing their work.
+  * This is contrary to sculptors during the Middle Ages, as they were more often seen as craftspeople rather than artists. They worked on cathedrals, carving figures and other biblical decorations.
+* Writers focused on translating the works of Roman and Greek writers as well as copying their styles. More books began to be written in the vernacular (commonly spoken language), to be more accessible.
+  * Humanism influenced texts to express thoughts and emotions more.
+* Many humanists also believed that men and women shouldn't be judged by their gender, but their abilities and virtues.

@@ -351,7 +351,7 @@ I hate this.
 * It moves and undergoes convection currents since magma is liquid and pulls the plates in its direction.
 * Boundaries or faults are where plates meet.
 * A divergent boundary is where plates move apart. These form ridges (underwater mountains) and rift valleys.
-* A convergent boundary is where plates move towards each other. Subduction is when a plate moves under another. These form ocean trenches, volcanoes, volcanic islands, and folded mountains.
+* A convergent boundary is where plates move toward each other. Subduction is when a plate moves under another. These form ocean trenches, volcanoes, volcanic islands, and folded mountains.
 * A transform boundary is where plates slide along each other. These result in earthquakes and faults since the movement isn't smooth.
 * A mountain is an uplifted area of land. Multiple mountains in a series or chain is a mountain range.
 * A fold mountain is a mountain formed through soil folding layers (bending). When plates collide, it causes wrinkles in the top plate; those wrinkles are mountains.
