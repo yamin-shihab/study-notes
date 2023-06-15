@@ -55,7 +55,7 @@ I hate this.
   * Parasitism is when one benefits and the other is harmed. Parasites live in or on a host and feed on it, but don't want to kill it. (tapeworms, mosquitoes, leeches)
 * An adaptation is an inherited characteristic that helps an organism survive and reproduce in its environment.
   * Behavioral adaptations change how an organism acts. (plants moving to follow the sun, hibernation, migration)
-  * Structural/physical adaptations involve change in an organism's body. (blending into the environment, color changing, puffer fishes, webbed feet)
+  * Structural/physical adaptations involve change in an organism's body. (blending into the environment, color changing, puffer fish, webbed feet)
 * The carbon cycle is the cycle in which carbon is used and reused through the ecosystem.
 * The water cycle is the continuous movement of water through the biosphere.
   * Evaporation is the process by which a liquid, such as water, changes into a gas or a vapor.
@@ -66,7 +66,7 @@ I hate this.
   * Run-off is water that runs off the ground into lakes, rivers, or streams.
 * Pollution is a collective term for the different types of harmful materials that are released into the environment through human activities.
   * Pollutants are substances that cause pollution.
-  * Acid rain is rain that contains higher than normal levels of acid; caused by waste gases released into the atmosphere by industries and automobiles; damaging to the environment.
+  * Acid rain is rain that contains higher than normal levels of acid; caused by waste gasses released into the atmosphere by industries and automobiles; damaging to the environment.
   * Bioaccumulation is the accumulation of pollutants in one organism.
   * Biomagnification is the movement of pollutants through levels of a food chain so that greater quantities are retained with movement up the food chain.
 * An ecological footprint is a calculation of the total area of land and water needed to supply all the materials and energy a human uses, as well as absorb the waste produced.
@@ -201,7 +201,7 @@ I hate this.
   * Conduction is the transfer of heat energy through the direct contact of particles. Heat travels from particle to particle through the substance.
     * A conductor is a material that allows for easy heat transfer. (metals)
     * An insulator is a material that slows heat transfer since spaces between the particles are larger. (wood, plastic, cork)
-  * Convection is heat transferred by the motion of particles in fluids. (gases and liquids)
+  * Convection is heat transferred by the motion of particles in fluids. (gasses and liquids)
   * When heat is added to particles, particles move faster (increased kinetic energy), particles move further apart, density decreases (fewer molecules in a space), less dense particles rise up, and dense particles move down closer to the heat. (convection)
   * Radiation is the transfer of energy through invisible waves (infrared waves). When infrared waves meet an object, it increases the kinetic energy of the particles.
     * The sun is our greatest source of radiant energy.
