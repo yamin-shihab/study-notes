@@ -30,11 +30,11 @@ Read the grade 7 science study guide for the scientific method.
   * Mixtures have two or more solutions mixed together.
     * A homogeneous mixture has solutions evenly distributed and seems like one substance.
     * A heterogeneous mixture has solutions clearly separated.
-      * When a heterogeneous mixture looks homogeneous, but settles over time, then it is called suspension. (salad dressing, clay mixed in water)
+      * When a heterogeneous mixture looks homogeneous, but settles over time, then it's called suspension. (salad dressing, clay mixed in water)
       * The different parts/layers of a heterogeneous mixture are called phases.
       * Heterogeneous mixtures that don't settle are called colloids.
         * Emulsions are colloids that require an emulsifying agent to stay combined. (mayonnaise)
-      * A heterogeneous mixture that is obviously visibly separated is called a mechanical mixture. (oil and water)
+      * A heterogeneous mixture that's obviously visibly separated is called a mechanical mixture. (oil and water)
 * A solute dissolves into a solvent to form a solution. (salt or sugar (solute) in water (solvent))
 * Diffusion happens when a solute's particles are more attracted to the solvent's particles than itself, and particles always move.
   * The rate at which something dissolves can be increased through agitation (stirring/shaking), as it allows for the particles to be in contact with each other.
@@ -70,12 +70,12 @@ Read the grade 7 science study guide for the scientific method.
   * Airships and hot air balloons float in the air because their average density is less than that of the surrounding air (hot air and helium is lighter than normal air).
   * The Greek scientist Archimedes made a discovery after being tasked by the ruler of Syracuse to find out if a crown he has is made of pure gold. He famously made the discovery after seeing water spill while in a public bath.
     * The Archimedes' principle states that the buoyant force exerted upon an object is equal to the weight of the fluid displaced when the object is submerged.
-* Pressure is a specific amount of force covered over a specific area. It is measured in pascals (named after a smart guy).
+* Pressure is a specific amount of force covered over a specific area. It's measured in pascals (named after a smart guy).
     * One pascal is equal to one newton per square meter, so therefore pressure can be calculated with the formula P = F/A.
     * Gasses are said to be compressible, because their particles can be pushed somewhat closer together while remaining a gas.
     * Solids and liquids are said to be incompressible, because their particles can't be pushed closer together while remaining a solid or liquid.
     * Compression is commonly used in some areas due to its useful property of being able to exert a force back. (car air bags, some running shoes, tires, grass in a field)
-    * The Earth's atmosphere exerts pressure too; it's just that we're really used to it. That's why if you guy really high up in a mountain or plane, you feel more sensitive to pressure change.
+    * The Earth's atmosphere exerts pressure too; it's just that we're really used to it. That's why if you go really high up in a mountain or plane, you feel more sensitive to pressure change.
     * Pressure is commonly measured with a barometer, and they used to be made of mercury. A barometer uses gravity's pressure over an area to push some mercury up a tube.
     * When air pressure is unequal inside and outside an enclosed space, the walls of that space may cave in or expand to compensate. (sucking on an empty juice box)
     * Particles flow from areas of high pressure to low pressure. (aerosol sprays)

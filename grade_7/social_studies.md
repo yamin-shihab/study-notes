@@ -38,7 +38,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * The Mi'kmaq traded old beaver fur to Europeans in exchange for metal tools such as knives, axes, pots, and kettles.
   * The Europeans liked the fur because the long outer hair fell off, leaving the fuzzy underfur exposed. European hatmakers used this to make felt.
 * The Beothuk people lived in Newfoundland and also encountered the Europeans. A friendly trading relationship however, was not established. They eventually became extinct.
-  * It is thought that the Beothuk took fishing equipment from the Europeans to encourage them to leave from their traditional fishing areas. This eventually led to conflict.
+  * It's thought that the Beothuk took fishing equipment from the Europeans to encourage them to leave from their traditional fishing areas. This eventually led to conflict.
 * In 1524, Henri II, King of France, sponsored an expedition led by the Italian navigator Giovanni da Verrazano to explore the coast of North America.
 * Ten years later in 1524, the king sponsored another expedition led by Jacques Cartier to find a passage to Asia through North America and to find precious items.
   * He also found First Nations, but didn't trade with them.
@@ -55,7 +55,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 * A colony is a region of land dominated by another empire by sending colonists to establish control.
 * Mercantilism is a regulated economic system in which a colony supplies the original country with cheap, raw resources. The country then creates and sells expensive goods using those resources to make money.
 * Monopolies were arranged with charters and set up in North America to get resources.
-  * A monopoly is a company that is the only company allowed to get a specific resource.
+  * A monopoly is a company that's the only company allowed to get a specific resource.
 * France claimed a large area around the Great Lakes and called it New France.
   * New France's population in 1700 was 15 000 colonists and 65 000 in 1760.
   * Most of the colonists in New France were catholic and spoke French.
@@ -104,7 +104,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
   * The Acadians were told to leave within a year, but most stayed. In 1730, they were required to take an "oath of neutrality". The oath required the Acadians to stay neutral if a war broke out between France and Britain.
 * In 1755, a war seemed likely, so the British required a new "oath of allegiance". Now, the Acadians had to fight for Britain in a war against France.
   * When they refused, the Great Deportation was where 11 000 Acadians were deported (to send out of a country) to the Thirteen Colonies, England, or France. Some went to New France or with the Mi'kmaq.
-  * They were deported because they had a strategic position (a physical location that is important for military reasons), they were Catholic and spoke French, Acadian settlers outnumbered British settlers in Acadia two to one, and they accepted the oath of neutrality, but not the oath of allegiance.
+  * They were deported because they had a strategic position (a physical location that's important for military reasons), they were Catholic and spoke French, Acadian settlers outnumbered British settlers in Acadia two to one, and they accepted the oath of neutrality, but not the oath of allegiance.
 * In 1754, fighting broke out between Britain and France to control the Ohio Valley (along the western border of the Thirteen Colonies). In 1756, the war went global, and Britain aimed to destroy the French navy and establish worldwide domination. Nine European countries had chosen sides. This was the Seven Years' War.
 * In 1760, Britain seized Quebec, but didn't completely win yet. The war ended in 1763, when France signed a treaty with Britain, the Treaty of Paris. Under the treaty, France gives up all its land in North America to Britain and Spain, except for Guadeloupe, Saint-Pierre, and Miquelon.
   * In the Battle of the Plains of Abraham, the British were led by General Wolfe, and the French were led by the Marquis de Montcalm. The battle was where the British captured Quebec, the capital and military stronghold of New France.
@@ -231,7 +231,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
   * This was needed to do things like expand west and build the railway.
   * Treaties were also used to assimilate the First Nations to be more "British" by forcing them to give up their cultural ways.
 * Canada made industrial residential schools for First Nations children as their promise for their education and a way to assimilate them into British society by separating them from their family and culture.
-* The government of Canada founded the NWMP (North West Mounted Police) in 1873 following a massacre of 36 Nakoda people by a group of American and Canadian traders over an argument about some horses in what is now Southern Alberta.
+* The government of Canada founded the NWMP (North West Mounted Police) in 1873 following a massacre of 36 Nakoda people by a group of American and Canadian traders over an argument about some horses in what's now Southern Alberta.
   * They were founded because of fears that the Americans would work with the "Indians" to take control of the west.
   * The NWMP developed a trust with First Nations that helped them keep peace in the west as the railway advanced and settlers arrived. They advised First Nations to conclude treaties with the government.
 * In 1873, John A. MacDonald lost a federal election after accepting the "Pacific Scandal". But he then won the next one five years later by stating the three part plan known as the National Policy:

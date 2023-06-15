@@ -5,9 +5,9 @@ This subject probably involves the least amount of studying because you'll be th
 ## Number Concepts
 
 * There are two main types of numbers:
-  * A prime number is a whole number above 1 that cannot be made by multiplying other whole numbers together.
+  * A prime number is a whole number above 1 that can't be made by multiplying other whole numbers together.
   * Composite numbers are whole numbers that can be made by multiplying other whole numbers together.
-  * 1 is not a prime nor a composite number.
+  * 1 isn't a prime nor a composite number.
 * The following are rules to tell if a number is divisible by some certain number.
   * 1 when it's an integer. (123, 543, 2 490)
   * 2 when the last digit is even. (6, 92, 412 342)
@@ -24,7 +24,7 @@ This subject probably involves the least amount of studying because you'll be th
 
 * Positive numbers are above 0, and negative numbers are below 0 and are prefixed with a -.
 * It may sometimes be more clear to surround numbers with parentheses.
-* If you are adding/subtracting two numbers that are positive and negative, you can reverse the sign (negative, or not) of the second number, and reverse the operation (addition to subtraction and vice versa).
+* If you're adding/subtracting two numbers that are positive and negative, you can reverse the sign (negative, or not) of the second number, and reverse the operation (addition to subtraction and vice versa).
 * Number tiles are a way to represent numbers by having specific tiles for either -1, or +1.
   * For example, red/black tiles can be positive, and yellow/white tiles can be negative.
   * One tile from each together make a zero pair (which are usually circled together into a "bubble").
@@ -61,7 +61,7 @@ This subject probably involves the least amount of studying because you'll be th
 * Common factors are factors (numbers multiplied together to get a product) that are present in two, or more numbers.
 * Some ways to convert between fractions, decimals, and percentages:
   * To convert a fraction to a decimal, convert the denominator to the nearest power of 10 by multiplying or dividing, then do the specific operation on the numerator, then make the decimal the numerator in the appropriate place value. (13/200 -> 65/1000 -> 0.065)
-    * If the denominator cannot become a power of 10, divide the numerator by the denominator. (1/7 -> 1 / 7 -> 0.142 857)
+    * If the denominator can't become a power of 10, divide the numerator by the denominator. (1/7 -> 1 / 7 -> 0.142 857)
   * To convert a decimal to fraction, the place value of the last digit becomes the denominator and the original number becomes the numerator. (0.561 -> 561/1000)
   * The following are rules for each denominator to be applied to the numerator to make the decimal.
     * /2 -> half the number.
@@ -116,13 +116,13 @@ This subject probably involves the least amount of studying because you'll be th
   * To find the angle in degrees for a sector, turn the percent into a decimal, multiply each decimal by 360, and then round the number. Use a protractor to measure each angle. (56% -> 0.56  360 = 201.6 degrees)
   * You can draw the circle by tracing a circular object, or using a compass.
 * With chances and probabilities:
-  * The favorable outcome is the event you are looking to occur in a probability experiment.
+  * The favorable outcome is the event you're looking to occur in a probability experiment.
   * Possible outcomes are the possible outcomes in a probability experiment.
   * Probability(event) = favorable outcomes / possible outcomes.
   * An independent event is an event in a group of events that doesn't affect the probability of the other events.
   * Either a tree diagram, or a table of outcomes can be used to represent possible outcomes of events.
   * A tree diagram starts and branches out for each event. The amount of branches from each branch is the possible number of outcomes. The amount of branches at the end is the total overall amount of possible outcomes.
-  * A table of outcomes only works with 2 events (unless you want to traverse the nth dimension). It is a table where the rows represent the possible outcomes of the first event, and the columns represent the second event.
+  * A table of outcomes only works with 2 events (unless you want to traverse the nth dimension). It's a table where the rows represent the possible outcomes of the first event, and the columns represent the second event.
 
 ## Patterns and Relations
 
@@ -179,7 +179,7 @@ This subject probably involves the least amount of studying because you'll be th
 * A ray is infinite from a point, and its representation has 1 arrow.
 * A line segment is finite, and its representation has 0 arrows.
 * Drawing a line (bisector) to divide a line segment into 2 equal parts is bisecting the segment.
-  * When it is drawn at a 90-degree right angle, it is called a perpendicular bisector.
+  * When it's drawn at a 90-degree right angle, it's called a perpendicular bisector.
   * So perpendicular lines are lines that intersect to form a 90-degree right angle.
   * After drawing a segment, it can have a perpendicular bisector made using a compass, by opening it up to greater than half the segment length, then drawing an arch from one point, then from the other. Where they intersect are the points for the bisector.
   * Making one with a protractor should be straightforward.
@@ -188,8 +188,8 @@ This subject probably involves the least amount of studying because you'll be th
   * They can be made with a protractor by making a perpendicular line through a line, and then making another through the perpendicular line just made.
   * With a compass, make a perpendicular line through a line, and then making another through the perpendicular line just made.
   * Parallel lines can be labeled with the 2 letters for the points of the first line, then ||, then the 2 letters for the points of the second line. (AB||EF)
-* An acute angle is an angle that is less than a 90-degree right angle. (35, 56, 61)
-* An obtuse angle is an angle that is more than a 90-degree right angle. (105, 352, 126)
+* An acute angle is an angle that's less than a 90-degree right angle. (35, 56, 61)
+* An obtuse angle is an angle that's more than a 90-degree right angle. (105, 352, 126)
 * Equal angles are represented by the same symbol.
 * An angle bisector is a line that divides an angle into 2 equal parts.
   * To make one with a protractor, simply measure half of the angle, then draw the bisector.

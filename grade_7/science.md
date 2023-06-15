@@ -5,7 +5,7 @@ I hate this.
 ## Scientific Method
 
 * There are numerous steps to a scientific experiment:
-  * A problem statement is a sentence in the form of a testable question. It is mainly: "What effect does (manipulated variable) have on (responding variable)?"
+  * A problem statement is a sentence in the form of a testable question. It's mainly: "What effect does (manipulated variable) have on (responding variable)?"
   * Background knowledge is previous knowledge that relates to the experiment. It can be definitions.
   * A prediction is an educated guess of what will happen and a reason why.
   * A hypothesis is like a prediction, but requires to be tested thoroughly and is more detailed.
@@ -82,9 +82,9 @@ I hate this.
   * Biological control is a method of controlling insect pests using their natural enemies.
 * Indicator species is a plant or animal species that helps indicate environmental change.
 * When a species is extinct, it no longer exists.
-* When it is endangered, the species is in imminent danger of becoming extinct.
+* When it's endangered, the species is in imminent danger of becoming extinct.
   * A threatened species is one whose numbers are declining.
-* When a species is extirpated in a location, it is extinct there, but there are others somewhere else.
+* When a species is extirpated in a location, it's extinct there, but there are others somewhere else.
 * Vulnerable species have faced threats that may cause it to go extinct.
 * The pioneer species of an area is the first one to occupy the area.
 * A keystone species helps hold an ecosystem together.
@@ -123,7 +123,7 @@ I hate this.
 * Soil is important because it stores nutrients, air, and water, has a natural community, and allows plants to attach their roots to.
   * Soil is made of mineral particles (parent material) which are broken down rock or clay to make space for water and organic matter (humus) which is decomposed living things providing nutrients and holds water.
   * Sandy soil doesn't hold water, is light brown, consists of mostly mineral particles, and has very little humus.
-  * Clay soil holds water well (air cannot easily penetrate), forms a tight ball when wet, is hard when dry, has lots of mineral particles, and has little humus.
+  * Clay soil holds water well (air can't easily penetrate), forms a tight ball when wet, is hard when dry, has lots of mineral particles, and has little humus.
   * Loam soil forms a loose ball when wet, has a balance of organic and mineral particles, absorbs water well, and is great for growing most plants
   * Soil can be enhanced by adding nutrients to it through organic ways (manure compost) or chemical ways (fertilizer).
 * Farming back then involved swathers which cut grain and forms them into a windrow (row of dry, cut grain), threshening which is separating grain from inedible parts, reaping is cutting the stalk for harvest with a scythe, sickle, or reaper, and winnowing which is throwing a mixture into the air as the wind blows the straw away.
@@ -210,9 +210,9 @@ I hate this.
   * Chemical energy is energy caused by chemical reactions. (burning coal, burning wood, burning fossil fuels, batteries, digestion (stored in food))
   * Electrical energy is produced when charged particles (electrons) move through a wire.
   * Mechanical energy is made by moving parts that create friction. Friction produces heat. (car breaks, sewing machine)
-  * The law of conservation of energy states that energy cannot be created or destroyed, only transferred or transformed.
-    * Energy that is transformed changes from one form to another.
-    * Energy that is transferred passes along from one thing to another.
+  * The law of conservation of energy states that energy can't be created or destroyed, only transferred or transformed.
+    * Energy that's transformed changes from one form to another.
+    * Energy that's transferred passes along from one thing to another.
 * There are also different ways for us to get electrical energy:
   * Solar energy is solar panels making energy when photons from the sun touch photovoltaic cells, which attracts electrons and creates a circuit.
   * Energy can be made from wind by having the wind turn the giant blades of wind turbines, which generate electricity via a dynamo.
@@ -243,7 +243,7 @@ I hate this.
   * A frame structure is a skeleton of parts joined together that supports the weight of the entire structure. There are lots of joints, there is lots of empty space inside, it's easy to design and build, and uses less material and therefore has a lower cost. (ladders, show shoes, spider webs, wheelchairs, fences, walls of a house)
   * A shell structure is a solid outer layer with a hollow inner area. It uses a small amount of material, is strong since force is spread through the whole structure, small weaknesses can cause failure, and they're hard to build. (parachute, milk carton, tin can, balloon, balls, cardboard box)
   * A mix and match structure is a combination of two or more of the basic structural forms. (airplanes are shells built around a skeleton)
-* The function of a structure is the purpose or job it does. Many structures have multiple functions, and it is the first thing to consider when designing.
+* The function of a structure is the purpose or job it does. Many structures have multiple functions, and it's the first thing to consider when designing.
   * Some structures have the same function, but different designs. This is common.
 * Aesthetics is the beauty of an object. This varies between different people.
 * The margin of safety is the limits in which a structure is expected to perform its function safely. Structures are designed to have extra strength to withstand much larger loads than it would normally carry, so that it's safer. (speed limits, load requirements (elevators))
@@ -259,12 +259,12 @@ I hate this.
     * Ties use string or rope to join things together. (thread, string, rope, shoelaces, seams in clothing)
     * Adhesives are sticky substances that hold pieces together. (glues, tape, caulking)
     * Melted joints are parts melted together using heat. Welding is melting pieces together, and soldering is melting another material around pieces.
-* Mass is the amount of matter in an object, measured with a triple beam balance scale, measured in grams or kilograms, and stays the same no matter where you are in the universe.
+* Mass is the amount of matter in an object, measured with a triple beam balance scale, measured in grams or kilograms, and stays the same no matter where you're in the universe.
 * Force is a push or pull that causes a structure to move or change shape. The effect of force on a structure depends on the magnitude (strength), direction, and location of the force.
   * The Newton is the standard unit for measuring force. 100 g = 1 N and 1 kg = 10 N, so on Earth, gravity pulls on each kg of mass with approximately 10 N of force. So to find the weight of an object on Earth, we multiply the mass in kg by 10 N per kg.
   * An external force is a force applied from outside a structure. (gravity, wind)
   * The load is the weight carried or supported by a structure. There are two types of loads:
-* Weight is the measure of the force acting upon an object (gravity is the biggest force), is measured with a spring scale (force meter), measured in Newtons, and weight will change depending on where you are in the universe.
+* Weight is the measure of the force acting upon an object (gravity is the biggest force), is measured with a spring scale (force meter), measured in Newtons, and weight will change depending on where you're in the universe.
 * A Static load (dead load) is a non-moving, non-changing permanent force. It's the weight of the structure itself and the non-moving load it supports. (beams, cables, rivets, steel plates)
 * A dynamic load (live load) is a load that moves or changes with time (non-permanent). (vehicles and pedestrians on a bridge, gust of wind acting upon a structure)
 * Internal forces act from within a structure. It's a force that one part of a structure exerts on other parts of the same structure. They are classified by the direction in which they act, and they can cause deformation.
@@ -346,7 +346,7 @@ I hate this.
       * Lustre is the shininess of a mineral and is how a surface reflects light. (pearly, glassy, waxy, silky, greasy, brilliant, dull, shiny, metallic, glossy).
       * The streak is the color of the powder left behind after the mineral rubs a rough surface and isn't always the same color as the mineral.
       * Cleavage means that the mineral splits easily into smooth, flat pieces, and a fracture is a break with rough, uneven, and jagged edges.
-      * Transparent is see-through, translucent is shadowy or frosted, and opaque is not see-through.
+      * Transparent is see-through, translucent is shadowy or frosted, and opaque isn't see-through.
       * Hardness is how easily the mineral can be scratched and is measured with Moh's Hardness Scale.
         * The softest mineral is talc, has a score of one, and can be scratched by a fingernail, the hardest is diamond, has a score of ten, and can scratch all others but not be scratched itself.
 * There are three classes of rocks that every rock can be put into.

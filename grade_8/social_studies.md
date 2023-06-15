@@ -3,8 +3,8 @@
 Seems to be more thinking than memorizing compared to grade 7 social studies. Note from the future: this was very false. And also as a quick precursor:
 * Worldview is how you view the world, and it's pervasive.
   * Different groups of people share different or similar world views.
-* A worldview is not a point of view, as a point of view is the way an individual sees things.
-* A worldview is not a perspective, as a perspective is the way a group sees things.
+* A worldview isn't a point of view, as a point of view is the way an individual sees things.
+* A worldview isn't a perspective, as a perspective is the way a group sees things.
 * Worldviews are both of these and more. They ask the following questions:
   * How do geographical factors such as climate and location affect people?
   * In what terms does a society view time?
@@ -22,7 +22,7 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
   * Barons, bishops, and other members of the Church held lots of power and land, as religion was a very important part of people's lives.
   * Most people were peasants who lived in rural villages on a manor. They were assigned strips of land to plant and harvest.
   * They turned in a portion of what they produced in to the noble that owns the land. Peasants were also illiterate and uneducated.
-  * Freemen were peasants who rented land from their lord or worked for pay. The rest were serfs who were not allowed to leave their manor without permission, and rarely went far.
+  * Freemen were peasants who rented land from their lord or worked for pay. The rest were serfs who weren't allowed to leave their manor without permission, and rarely went far.
 * Most medieval towns were centers for farm communities. They usually grew close to castles, palaces, or large monasteries.
   * They were crowded, dirty, and rat-infested places, but offered freedom and opportunities to people. (do what one wanted to do, marry whoever, make money in whatever way)
   * According to the law, runaway serfs could gain freedom by staying in a town for a year and a day without being discovered.
@@ -58,7 +58,7 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
   * Since the Muslim world was more advanced than Europe, an unintended consequence of the wars was the introduction of new ideas such as medicine, astronomy, philosophy, mathematics, and ancient literature to Europeans.
   * Muslim scholars also accepted the contributions of Christian and Jewish scholars.
   * There was also increased trade, and Europeans were introduced to new goods.
-* During the Renaissance, Italy was a collection of city-states. A city-state consists of a city that is politically independent, and the rural area around it is called the hinterland.
+* During the Renaissance, Italy was a collection of city-states. A city-state consists of a city that's politically independent, and the rural area around it is called the hinterland.
 * Different features contributed greatly to the economic success of Italy:
   * Of all of Europe, Italy was the closest to the port cities of northern Africa and the eastern Mediterranean Sea (they had spices and luxury goods), so trade was made easier.
   * The climate of Italy was milder than the climate in the European countries north of the Alps. This meant that travel was not interrupted, and crops like olives and grapes could be grown.
@@ -87,7 +87,7 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
   * Humanism was sort of a fad among the wealthy people in society at the time.
 * The Classical concept that was most important to Renaissance thinkers and artists was the belief in the dignity and potential of the individual. They believed that people could shape their lives through their own efforts and talents.
   * Human beings can use the power of reason (thinking) to find truth for themselves.
-  * It is important for a person to have an open, curious, and questioning mind.
+  * It's important for a person to have an open, curious, and questioning mind.
   * People can achieve great things through learning.
   * Individuals should be skilled in many different areas. They should develop not just their minds but also their bodies and spirits.
   * These new ideas didn't actually contradict or conflict with the Christian worldview: To develop one's talents was to serve God, because God had provided you with those talents.

@@ -26,7 +26,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * The Oxford Comma rule is when there are lists of at least three items, there's also a comma before the final "and". (Pickles, cheese, and juice were all on the list.)
 * A coordinating conjunction is a word that joins two parts of a sentence that are of equal status/ranking/importance. (The door was closed, but it was unlocked.)
 * You can use the acronym "FANBOYS" to remember the common coordinating conjunctions. (For, And, Nor, But, Or, Yet, So)
-* A dependent clause doesn't express a complete idea, cannot act alone as a sentence as it depends on an independent clause, and always begins with a subordinating conjunction. (so that I can eat the cake)
+* A dependent clause doesn't express a complete idea, can't act alone as a sentence as it depends on an independent clause, and always begins with a subordinating conjunction. (so that I can eat the cake)
 * Subordinating conjunctions include: "after", "although", "as", "because", "even if", "even though", "if", "in order to", "once", "provided that", "rather than", "since", "so that", "than", "that", "though", "unless", "until", "when", "whenever", "where", "whereas", "wherever", "whether", "while", and "why".
 * Sentences can also have different parts:
   * An interrupted sentence is an independent clause with a subordinate clause in between, separated by commas. (Ivan, the winner of the race, was a very interesting person.)
@@ -38,7 +38,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 
 ## Reading Strategies
 
-* When reading, you should ask questions to yourself about the text. (Does the text make sense? What is happening? Am I confused? What does this word mean? Should I speed up or slow down? Do I need to reread this? I know I understand this because...)
+* When reading, you should ask questions to yourself about the text. (Does the text make sense? What's happening? Am I confused? What does this word mean? Should I speed up or slow down? Do I need to reread this? I know I understand this because...)
 * Skimming means your eyes are quickly looking over the page in motions to see how many paragraphs there are, looking for bold/underlined/italicized words, and visuals/headers. This lets you preview and get acquainted with the text.
 * Scanning means your eyes are searching for particular information on the page and are moving until they find something you're looking for.
 * You should sometimes ask yourself what the text is mainly about.
@@ -49,15 +49,15 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
   * While reading the text, you can circle unfamiliar words, note any clues the author gives, underline or highlight major events and the main conflict, write any connections you have, and identify what you feel about some text.
   * After reading, you can draw conclusions, evaluate what the author did best, determine deeper meanings, make connections, and determine the meaning of the title.
   * You can use any signs/symbols/marks you want to use.
-* It is important to make connections to text so that you can use experiences to help us understand text.
+* It's important to make connections to text so that you can use experiences to help us understand text.
   * Connections must be descriptive and meaningful to provide value.
   * Text to text is a connection to another text such as a film, novel, article, TV show, photograph, etc.
   * Text to self is a connection to your past life experiences and reminds you of your family, friends, emotions, or experiences.
   * Text to world is a connection from the text to something occurring in the world through current events or something in the past through historical events.
-* An inference is a conclusion that the reader makes about what they have read and are not guesses.
+* An inference is a conclusion that the reader makes about what they have read and aren't guesses.
   * Inferences are made by finding clues and evidence to prove that an inference is reasonable.
   * Drawing background knowledge from prior experience also helps make conclusions.
-  * It is of course possible for other to have different inferences. Then, one has to determine how plausible, believable, and convincing it is to hold.
+  * It's of course possible for other to have different inferences. Then, one has to determine how plausible, believable, and convincing it's to hold.
   * Inferences can also be made with films, novels, articles, TV shows, photographs, etc.
 * When trying to understand a word you don't know, you can look at its context.
   * If it's an adjective, verb, adverb, or noun, you can read how it's described alongside other words. (I loathed and hated the thing! Loathed means hate. He ran quickly and swiftly. Swiftly means fast.)
@@ -154,7 +154,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Foreshadowing is hinting something that will happen in the future.
   * They usually happen in the beginning of the story or a chapter.
   * They set expectations about what will happen later on in the plot.
-* Dialogue shows that two or more characters are talking to each other and what is being said.
+* Dialogue shows that two or more characters are talking to each other and what's being said.
   * They can show the characters' personality, motives, and feelings more clearly.
 * Theme is the point or central message in a story and connects us with the characters and events.
   * By the end of the story, there should be a bigger message in mind about life and what it means to be human for the reader to connect to. (pride, jealousy, greed, fairness)
@@ -171,7 +171,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
   * Third person uses words such as "He", "She", "It", and "They".
 * Mood is the feeling of the reader.
 * Tone is the attitude or feeling of the writer.
-* Imagery is using vocabulary, sensory details, and description to help picture what is happening for the reader.
+* Imagery is using vocabulary, sensory details, and description to help picture what's happening for the reader.
 
 ## Narrative Writing
 
@@ -199,7 +199,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * You can also use quotation marks when placing emphasis on a word or indicating a title. (So I read "1984".)
 * There are two main ways of writing dialogue:
   * Ping pong dialogue is quick and short quotations bouncing back and forth between characters.
-  * Descriptive dialogue is dialogue, involving lots of details about what is currently happening as the characters are talking.
+  * Descriptive dialogue is dialogue, involving lots of details about what's currently happening as the characters are talking.
 
 ## Grammar
 
@@ -241,8 +241,8 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
   * Link an argument to a character or person that people admire or trust.
   * Appeal to emotion to build a strong case.
   * Share facts.
-  * Tell the reader if something is a fact or if it is your opinion.
-  * Use examples to help your reader see and feel what you are trying to communicate.
+  * Tell the reader if something is a fact or if it's your opinion.
+  * Use examples to help your reader see and feel what you're trying to communicate.
   * Show the link between ideas using words like "first", "second", "third", "if...then".
   * Write a strong ending by making a personal statement, predicting what could happen if your idea came true or summarizing your arguments.
 * The following are advertisement strategies:
@@ -261,7 +261,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * A caption speaks directly to the reader and is frequently under, above, or beside comic panels.
 * Emanata are text or icons that represent what's going on inside a character's mind.
   * Examples include: "?", "ZZZ", a light bulb, or "@&$%!#$".
-* Labels are written on characters to identify who is who or what a group is.
+* Labels are written on characters to identify who's who or what a group is.
   * They are frequently used in political cartoons to identify groups.
 * Narratory blocks are rectangles or squares that convey special information to the reader.
 * Signs are written onto objects to identify an object or show more information about something.
