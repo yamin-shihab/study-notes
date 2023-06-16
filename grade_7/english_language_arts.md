@@ -25,9 +25,9 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
   * A compound predicate is predicate in which there are two or more verbs. (stared at and licked the ice cream)
 * The Oxford Comma rule is when there are lists of at least three items, there's also a comma before the final "and". (Pickles, cheese, and juice were all on the list.)
 * A coordinating conjunction is a word that joins two parts of a sentence that are of equal status/ranking/importance. (The door was closed, but it was unlocked.)
-* You can use the acronym "FANBOYS" to remember the common coordinating conjunctions. (For, And, Nor, But, Or, Yet, So)
+  * You can use the acronym "FANBOYS" to remember the common coordinating conjunctions. (For, And, Nor, But, Or, Yet, So)
 * A dependent clause doesn't express a complete idea, can't act alone as a sentence as it depends on an independent clause, and always begins with a subordinating conjunction. (so that I can eat the cake)
-* Subordinating conjunctions include: "after", "although", "as", "because", "even if", "even though", "if", "in order to", "once", "provided that", "rather than", "since", "so that", "than", "that", "though", "unless", "until", "when", "whenever", "where", "whereas", "wherever", "whether", "while", and "why".
+  * Subordinating conjunctions include: "after", "although", "as", "because", "even if", "even though", "if", "in order to", "once", "provided that", "rather than", "since", "so that", "than", "that", "though", "unless", "until", "when", "whenever", "where", "whereas", "wherever", "whether", "while", and "why".
 * Sentences can also have different parts:
   * An interrupted sentence is an independent clause with a subordinate clause in between, separated by commas. (Ivan, the winner of the race, was a very interesting person.)
   * An interjection sentence has a sudden burst of excitement within a sentence. (AH! What the hell is that?)
@@ -101,7 +101,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 * Figurative language calls on the reader's imagination to complete the authors meaning.
 * Alliterations are the repetition of words of the same consonant sound of two or more words. (She sells seashells by the seashore.)
   * In alliterations, it's the sound, not the letter, that matters.
-* Tongue twisters are longer alliterations meant to be harder to say.
+  * Tongue twisters are longer alliterations meant to be harder to say.
 * A hyperbole is an overstatement or extravagant exaggeration of the fact or possibility used for emphasis or effect. (I'm so hungry I can eat a horse.)
 * Metaphors are figures of speech which involve an implied comparison between relatively unlike things. (It's a zoo in here!)
   * Personification is a type of metaphor that gives human qualities to inanimate objects or ideas. (The lightning danced across the sky.)
