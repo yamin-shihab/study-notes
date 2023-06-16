@@ -2,7 +2,7 @@
 
 Good thing I learned a lesson from last year to start study guides early. Note from future (second last week of school): nope, you didn't learn a single lesson you idiot.
 
-# ***!! ADDITIONAL NOTICE !!***
+# ***!!! ADDITIONAL NOTICE !!!***
 
 ### For some reason, we learned almost exactly the same things this year and last year for English, so use the grade 7 study guide for English along with the extra things in this grade 8 English study guide.
 
@@ -42,3 +42,11 @@ Good thing I learned a lesson from last year to start study guides early. Note f
     * An abrupt change of thought in dialogue can be represented with an em dash. ("I have something really important to tell - Oh wait... wrong number.")
     * Em dashes can add extra information after a list. ("Peanuts and gluten - she is allergic to them.")
   * En dashes have the width of the letter n and are used to represent spans of numbers. (The 2013-2014 season was horrible for the team.)
+
+## Paragraphs
+
+* There are several ways to arrange ideas in a paragraph:
+  * Ideas are presented in chronological order (the same order that they occurred in time).
+  * Ideas can be described in the order of some kind of space. (left to right, top to bottom, outside to inside)
+  * Ordering by importance could mean starting with the least or most important idea and ending with the least or most important idea.
+  * When a paragraph's ideas are ordered by climax, the writer can build suspense up to it.
