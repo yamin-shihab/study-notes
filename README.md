@@ -10,7 +10,7 @@ My grade 7 and grade 8 Alberta curriculum finals study guides for 2022. Feel fre
 + Each unit is a header 2 after that.
 + Sections are separated by a newline.
 + Parts of a unit are part of an unordered list.
-+ Use * instead of -, or + for unordered lists.
++ Use + instead of -, or * for unordered lists.
 + Don't make parts too long.
 + Use correct spelling, and grammar.
 + I like the Oxford Comma.
