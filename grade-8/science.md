@@ -71,16 +71,16 @@ Read the grade 7 science study guide for the scientific method.
     + The Greek scientist Archimedes made a discovery after being tasked by the ruler of Syracuse to find out if a crown he has is made of pure gold. He famously made the discovery after seeing water spill while in a public bath.
         + The Archimedes' principle states that the buoyant force exerted upon an object is equal to the weight of the fluid displaced when the object is submerged.
 + Pressure is a specific amount of force covered over a specific area. It's measured in pascals (named after a smart guy).
-        + One pascal is equal to one newton per square meter, so therefore pressure can be calculated with the formula P = F/A.
-        + Gasses are said to be compressible, because their particles can be pushed somewhat closer together while remaining a gas.
-        + Solids and liquids are said to be incompressible, because their particles can't be pushed closer together while remaining a solid or liquid.
-        + Compression is commonly used in some areas due to its useful property of being able to exert a force back. (car air bags, some running shoes, tires, grass in a field)
-        + The Earth's atmosphere exerts pressure too; it's just that we're really used to it. That's why if you go really high up in a mountain or plane, you feel more sensitive to pressure change.
-        + Pressure is commonly measured with a barometer, and they used to be made of mercury. A barometer uses gravity's pressure over an area to push some mercury up a tube.
-        + When air pressure is unequal inside and outside an enclosed space, the walls of that space may cave in or expand to compensate. (sucking on an empty juice box)
-        + Particles flow from areas of high pressure to low pressure. (aerosol sprays)
-        + Hydraulics is the study of pressure in liquids, and devices that utilize liquids to move something else using pressure are called hydraulic systems. They commonly use a series of tubes, hoses and pipes. (faucets, bike/car brakes, dentist equipment)
-        + Pneumatic systems are similar, but use gasses instead of liquids. They use gasses instead mostly because gasses are compressible, so they require compressors (devices that... compress air).
++ One pascal is equal to one newton per square meter, so therefore pressure can be calculated with the formula P = F/A.
+    + Gasses are said to be compressible, because their particles can be pushed somewhat closer together while remaining a gas.
+    + Solids and liquids are said to be incompressible, because their particles can't be pushed closer together while remaining a solid or liquid.
+    + Compression is commonly used in some areas due to its useful property of being able to exert a force back. (car air bags, some running shoes, tires, grass in a field)
+    + The Earth's atmosphere exerts pressure too; it's just that we're really used to it. That's why if you go really high up in a mountain or plane, you feel more sensitive to pressure change.
+    + Pressure is commonly measured with a barometer, and they used to be made of mercury. A barometer uses gravity's pressure over an area to push some mercury up a tube.
+    + When air pressure is unequal inside and outside an enclosed space, the walls of that space may cave in or expand to compensate. (sucking on an empty juice box)
+    + Particles flow from areas of high pressure to low pressure. (aerosol sprays)
+    + Hydraulics is the study of pressure in liquids, and devices that utilize liquids to move something else using pressure are called hydraulic systems. They commonly use a series of tubes, hoses and pipes. (faucets, bike/car brakes, dentist equipment)
+    + Pneumatic systems are similar, but use gasses instead of liquids. They use gasses instead mostly because gasses are compressible, so they require compressors (devices that... compress air).
 
 ## Cells and Systems
 

@@ -201,10 +201,10 @@ This subject probably involves the least amount of studying because you'll be th
 + Length is the length of the sides, and width is of the top and bottom.
 + Base is the width of the bottom, and height is how tall the whole shape is (not a side).
 + Perimeter is the length around a shape, area is the total space inside.
-        + Formula for square perimeter: P = 4s. (4(3) = 12)
-        + Formula for rectangle/square perimeter: P = 2b + 2h or P = 2w + 2h. (2(3) + 2(7) = 26)
-        + Formula for square area: A = s2. (5 to the power of 2 = 25)
-        + Formula for rectangle/square area: A = bh or A = wh. (3(5) = 15)
+    + Formula for square perimeter: P = 4s. (4(3) = 12)
+    + Formula for rectangle/square perimeter: P = 2b + 2h or P = 2w + 2h. (2(3) + 2(7) = 26)
+    + Formula for square area: A = s2. (5 to the power of 2 = 25)
+    + Formula for rectangle/square area: A = bh or A = wh. (3(5) = 15)
 + By removing the rearranging the 2 triangles on the sides of a parallelogram, you make a rectangle.
     + Formula for parallelogram perimeter: P = 2b + 2h or P = 2w + 2h. (2(6) + 2(9) = 30)
     + Formula for parallelogram area: A = bh. (3(8) = 24)
