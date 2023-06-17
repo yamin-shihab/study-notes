@@ -38,10 +38,10 @@ Good thing I learned a lesson from last year to start study guides early. Note f
     + Word breaks can be represented by inserting a hyphen at the part where a word abruptly ends before continuing on the next line. This is, however, becoming less common with the advent of computers being more commonly used.
 + There are two types of dashes (note that I will be using a plain hyphen instead to support ASCII):
     + Em dashes have the width of the letter m and have some uses:
-        + They can include parenthetical elements. (All the animals - the elephants, giraffes, gorillas, and lions - escaped from the zoo.)
-        + An abrupt change of thought in dialogue can be represented with an em dash. ("I have something really important to tell - Oh wait... wrong number.")
-        + Em dashes can add extra information after a list. ("Peanuts and gluten - she is allergic to them.")
-    + En dashes have the width of the letter n and are used to represent spans of numbers. (The 2013-2014 season was horrible for the team.)
+        + They can include parenthetical elements. (All the animals--the elephants, giraffes, gorillas, and lions--escaped from the zoo.)
+        + An abrupt change of thought in dialogue can be represented with an em dash. ("I have something really important to tell--Oh wait... wrong number.")
+        + Em dashes can add extra information after a list. ("Peanuts and gluten--she is allergic to them.")
+    + En dashes have the width of the letter n and are used to represent spans of numbers. (The 2013--2014 season was horrible for the team.)
 
 ## Paragraphs
 
@@ -96,7 +96,11 @@ Good thing I learned a lesson from last year to start study guides early. Note f
 
 ## Figurative Language
 
++ An assonance is the repetition of vowel sounds in the middle of words. (The rain in Spain falls mainly on the plain.)
 + An allusion is a reference to something from an unrelated context used to represent something going on in the text. (Bro thinks he's Einstein...)
++ Juxtaposition is the placement of two or more things or ideas side by side to develop a contrast. (It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.)
++ An understatement is the opposite of a hyperbole; it states less than what's necessary. (The power went out and I lost all my work, so it's not really a big problem.)
++ Repetition is the... repetition of words. (No, no, no, no, no, no!)
 
 ## Reading Strategies
 

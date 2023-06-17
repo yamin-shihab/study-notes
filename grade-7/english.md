@@ -260,7 +260,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + They can be round, jagged, rectangular, or have irregular edges to convey emotion.
 + A caption speaks directly to the reader and is frequently under, above, or beside comic panels.
 + Emanata are text or icons that represent what's going on inside a character's mind.
-    + Examples include: "?", "ZZZ", a light bulb, or "@&$%!#$".
+    + Examples include: "?", "ZZZ...", a light bulb, or something like "@&$%!#$".
 + Labels are written on characters to identify who's who or what a group is.
     + They are frequently used in political cartoons to identify groups.
 + Narratory blocks are rectangles or squares that convey special information to the reader.
@@ -273,16 +273,16 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + The gutters are the spaces between comic panels.
     + Open panels or borderless panels are panels that are completely open and have no edges for dramatic effect.
     + In bleed angles, images run outside the border of the panel.
-+ Splash pages use the whole page as a panel.
-+ When an image runs outside all four sides of a panel, it's a full bleed.
-    + Using different views in different contexts can be effective:
+    + Splash pages use the whole page as a panel.
+    + When an image runs outside all four sides of a panel, it's a full bleed.
++ Using different views in different contexts can be effective:
     + A close-up shows images in a large view. Frequently used for a character's face.
     + An extreme close-up shows a very large view.
     + A longshot shows images fully top to bottom and head to toe.
     + An extreme longhost shows many images at a very small scale.
     + They can be from the perspective of a bird's eye view or worm's eye view.
     + In reverse, the images in the current panel are the reverse of the previous panel.
-    + This is usually used to show a different character talking.
+        + This is usually used to show a different character talking.
 
 ## Poetry
 
