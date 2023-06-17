@@ -112,3 +112,13 @@ Good thing I learned a lesson from last year to start study guides early. Note f
     + An example can be given to help the reader. (The desk was completely disheveled: papers tossed all over, books stacked in a scattered way, and open folders lie everywhere.)
     + An unstated or unimplied clue has hints dropped. (He found himself at the edge of a precipice; clinging to a boulder, he gazed down dizzily at the blue ribbon of water below.)
     + The mood or tone of the surrounding text can aid in knowing the definition of the word. (The aura of the place was lugubrious: the mournful wails matched the dreary whistling of the wind in the grim cemetery.)
+
+## Visual Literacy
+
++ The dominant impression of any narrative is the overall feeling or effect on a reader or viewer (and even video game player). Some film techniques that are used to aid in the process:
+    + Music can be a very powerful tool if used correctly. Things that can be taken into considered include the instruments chosen, the melody, and the accompaniment.
+        + Sometimes, different characters or events can have a repeating theme (called a leitmotif). (Darth Vader's Imperial March theme, Undertale's countless different leitmotifs and themes)
+    + Lighting, shading, and illumination allows viewers to take note of what is being highlighted.
+    + Costumes can help the viewer be immersed into the setting.
+    + Cinematography and special effects are all techniques that can be used to enhance the dominant impression of a film too.
++ Motion lines can be made pointing in the direction of something to indicate speed and movement.
