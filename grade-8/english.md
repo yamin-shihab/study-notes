@@ -93,3 +93,7 @@ Good thing I learned a lesson from last year to start study guides early. Note f
     + Objective is when the reader doesn't exactly know about the characters' thoughts and feelings.
     + Omniscient is when the reader knows about all the characters' thoughts and feelings.
     + Limited omniscient is when the reader knows about only one of the character's feelings (usually the protagonist).
+
+## Figurative Language
+
+* An allusion is a reference to something from an unrelated context used to represent something going on in the text. (Bro thinks he's Einstein...)
