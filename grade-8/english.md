@@ -79,3 +79,17 @@ Good thing I learned a lesson from last year to start study guides early. Note f
   * Bolded or italicized words put extra emphasis.
   * Bullet points make lists easier to read and understand.
   * Sidebars give extra information about a topic.
+
+## Short Stories
+
+* The setting of a story is where and when it takes place.
+* There are three types of irony:
+  * Verbal irony is when a speaker says the opposite of what they mean (similar to sarcasm). (Man, I love it when it rains every time I go outside!)
+  * Situational irony is when the opposite of what's expected happens. (the protagonist was meant to meet a friend, but they instead meet the antagonist)
+  * Dramatic irony is when the reader knows more than a character or some characters. (the reader knows there's a monster inside a closet, but the protagonist doesn't know)
+* Symbolism is associating something with something else. (a dove with peace, a skull with human mortality, a flower with love)
+* The genre of a story is the "category" it fits in. (science fiction, historical fiction, comedy, romance, mystery, adventure, dystopian, horror)
+* There are different variations of the third person point of view:
+  * Objective is when the reader doesn't exactly know about the characters' thoughts and feelings.
+  * Omniscient is when the reader knows about all the characters' thoughts and feelings.
+  * Limited omniscient is when the reader knows about only one of the character's feelings (usually the protagonist).
