@@ -92,8 +92,8 @@ I hate this.
 
 ## Plants for Food and Fiber
 
-+ Plants are important since they provide all the energy for the ecosystem. They get energy directly from sunlight. They need water, nutrients, space, warmth, and air to grow.
-    + They can be used for fiber. (clothing, paper, shelter)
++ Plants are important since they provide all the energy for the ecosystem. They get energy directly from sunlight, and They need water, nutrients, space, warmth, and air to grow.
+    + Fiber can also be derived from them. (clothing, paper, shelter)
     + They can also be used for medicine. (herbal remedies, tea, codeine, aloe vera, quinine, eucalyptus oils, aspirin, morphine)
     + Fuel can involve using plants. (wood/coal, sugar ethanol, wood methanol, biofuel)
     + Plants are good for the environment. (they produce oxygen, are part of the food web, provide shelter for animals, prevent soil erosion)
@@ -226,10 +226,10 @@ I hate this.
     + A central heating system heats rooms or parts of a building from a single, central source. Heat is transferred using forced air heating or hot water heating. (furnaces, boilers)
     + Forced air heating is when air is heated by a furnace and travels through ducts.
     + Hot water heating is when water is heated by burning fuel in a boiler or furnace.
-+ Cooling systems remove heat from an enclosed space using a refrigerant. A refrigerant is a liquid that evaporates at a very low temperature and keeps the freezer cold. (freon)
++ Cooling systems remove heat from an enclosed space using a refrigerant. A refrigerant is a liquid that evaporates at a very low temperature and keeps the freezer cold. (Freon)
 + Insulation reduces heat transfer, and works at keeping things hot and keeping things cold. (stone, brick, fiberglass, Styrofoam, air)
 + An R-value is used for measuring the quality of an insulator. A higher value means a better insulator.
-+ A Thermogram is an infrared photo to diagnose areas of heat loss in a building.
++ A thermogram is an infrared photo to diagnose areas of heat loss in a building.
 
 ## Structures
 
@@ -343,7 +343,7 @@ I hate this.
         + Crystals are atoms arranged in an orderly pattern that repeats.
         + Minerals have different properties for describing them.
             + The color is the outward appearance and isn't reliable since it can change.
-            + Lustre is the shininess of a mineral and is how a surface reflects light. (pearly, glassy, waxy, silky, greasy, brilliant, dull, shiny, metallic, glossy).
+            + Luster is the shininess of a mineral and is how a surface reflects light. (pearly, glassy, waxy, silky, greasy, brilliant, dull, shiny, metallic, glossy).
             + The streak is the color of the powder left behind after the mineral rubs a rough surface and isn't always the same color as the mineral.
             + Cleavage means that the mineral splits easily into smooth, flat pieces, and a fracture is a break with rough, uneven, and jagged edges.
             + Transparent is see-through, translucent is shadowy or frosted, and opaque isn't see-through.

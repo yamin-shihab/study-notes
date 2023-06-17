@@ -8,7 +8,7 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Worldviews are both of these and more. They ask the following questions:
     + How do geographical factors such as climate and location affect people?
     + In what terms does a society view time?
-    + What roles are available to individuals in a society? Who holds power and how is it maintained? Are certain benefits available to some people but not others?
+    + What roles are available to individuals in a society? Who holds power, and how is it maintained? Are certain benefits available to some people but not others?
     + How do people in a society act toward each other and to other societies?
     + What beliefs do people hold about life, death, and their environment?
     + Who controls resources? What should be produced? How will it be produced? Who gets it? How is it distributed and protected?
@@ -45,13 +45,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + The Black Death made some people question their faith; their attempts at pleasing God haven't worked and felt abandoned.
         + People also started to take a critical attitude toward the church because of this. It was a wealthy institution that owned a third of Europe's land, received large sums of money in tithes, and some members like the clergy got caught up in the enjoyment of luxury.
 + With all these reformations going on, a period of great creativity in the arts and sciences called the Renaissance was about to begin, starting in Italy.
-    + It's name is French and means a rebirth of Classical knowledge and learning.
+    + Its name is French and means a rebirth of Classical knowledge and learning.
 
 ## Chapter 2
 
 + Marco Polo and his family were known for travelling along the Silk Road. Marco also told stories of his journeys.
 + The Silk Road was the major series of trading routes that connected civilizations from the Mediterranean in the West to the Pacific Ocean in the East. It was helpful for the trade of items, foods, and goods.
-    + It was also important because it allowed for the sharing of ideas, knowledge, stories, and experiences. It had a huge impact on the Renaissance.
+    + It was also important because it allowed for the sharing of ideas, knowledge, stories, and experiences. The Renaissance was hugely impacted by it.
 + The crusades were a series of holy wars fought between Christian and Muslim forces aiming to gain control of sacred religious sites in Palestine important in the three Abrahamic religions.
     + They were mainly initiated by the Church in response to Turks taking over the land.
     + The Muslims regained control of Jerusalem after it was captured with the help of the Sultan Saladin.
@@ -69,15 +69,15 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + The Polo family was also a group of merchants that made money by purchasing goods and selling them for a higher price somewhere else.
 + There was a revolt in Florence caused by the unemployment caused by the Black Death. Workers like the ciompi wanted to form guilds, but couldn't because of powerful guilds and the government denying their requests. It caused an uprising that was then defeated.
 + Florence's economy became so powerful that its currency became the most important currency in Europe during the Renaissance, thanks to its banks and bankers.
-    + Usury, the practice of charging interest when loaning money to someone, was considered a sin by the Church. However with the growth of international trade, the Church began to allow charging interest for loans that involved risk.
+    + Usury, the practice of charging interest when loaning money to someone, was considered a sin by the Church. However, with the growth of international trade, the Church began to allow charging interest for loans that involved risk.
 + Wealthy Europeans travelled around on business, and helped with spreading Italian values and ideas across Europe.
 + The Medici family was the most famous and powerful family in Italy, and were an important part of Florence's cultural and political life for more than 300 years.
     + They made a fortune as wool and silk merchants and bankers. They also built alliances with other wealthy families.
-    + They got power by gaining important positions in the Church and getting married into Europe's royal families.
+    + Power was gained by getting acquiring important positions in the Church and getting married into Europe's royal families.
     + By 1434, Cosimo de Medici was powerful enough to take control of Florence, so he bought people's support and exiled his enemies from the city.
     + He then attacked and allied with neighboring city-states
     + Despite being ruthless in political matters, he and the Medici family helped promising artists.
-    + Cosimo's grand-son, Lorenzo the Magnificent, was a patron of art and literature. He sponsored Michelangelo, Botticelli, Leonardo da Vinci, and other famous artists and thinkers.
+    + Cosimo's grandson, Lorenzo the Magnificent, was a patron of art and literature. He sponsored Michelangelo, Botticelli, Leonardo da Vinci, and other famous artists and thinkers.
 
 ## Chapter 3
 

@@ -23,7 +23,7 @@ This subject probably involves the least amount of studying because you'll be th
 ## Integers
 
 + Positive numbers are above 0, and negative numbers are below 0 and are prefixed with a -.
-+ It may sometimes be more clear to surround numbers with parentheses.
++ It may sometimes be clearer to surround numbers with parentheses.
 + If you're adding/subtracting two numbers that are positive and negative, you can reverse the sign (negative, or not) of the second number, and reverse the operation (addition to subtraction and vice versa).
 + Number tiles are a way to represent numbers by having specific tiles for either -1, or +1.
     + For example, red/black tiles can be positive, and yellow/white tiles can be negative.
@@ -47,8 +47,8 @@ This subject probably involves the least amount of studying because you'll be th
 + Some types of estimation:
     + Front-end estimations is only using the whole number of a decimal number. (1.4 -> 1, 5.6 -> 5, 66.9 -> 66)
     + Rounding estimation is rounding to the nearest nth place (tenth, hundredth, thousandth) place. (1.4 -> 1, 5.6 -> 6, 66.9 -> 67)
-+ PODMAS (how dare people say BEDMAS!) is the order in which operations are applied in an equation.
-    + Parentheses, Orders, Division/Multiplication, Addition/Subtraction.
++ PEMDAS (how dare people say BEDMAS!) is the order in which operations are applied in an equation.
+    + Parentheses, Exponents, Division/Multiplication, Addition/Subtraction.
     + Note that when division/multiplication or addition/subtraction is reached, operations are applied left to right.
 
 ## Fractions, Decimals, and Percents
@@ -113,7 +113,7 @@ This subject probably involves the least amount of studying because you'll be th
 + A circle graph shows how categories of data compare to each other as a whole.
     + It's a circle divided up into sections.
     + They need a title, labels/a legend, the sum of 360 for the total degrees, and data is reported as percentages.
-    + To find the angle in degrees for a sector, turn the percent into a decimal, multiply each decimal by 360, and then round the number. Use a protractor to measure each angle. (56% -> 0.56    360 = 201.6 degrees)
+    + To find the angle in degrees for a sector, turn the percent into a decimal, multiply each decimal by 360, and then round the number. Use a protractor to measure each angle. (56% -> 0.56 * 360 = 201.6 degrees)
     + You can draw the circle by tracing a circular object, or using a compass.
 + With chances and probabilities:
     + The favorable outcome is the event you're looking to occur in a probability experiment.
@@ -156,11 +156,11 @@ This subject probably involves the least amount of studying because you'll be th
 + A balance scale can be used to represent equations by having a balanced balance scale with each side having weights with a number on them, with one side having an x weight.
     + To solve an equation using a balance scale, we must isolate the x on one side by removing all other numbers on that side.
     + We remove the required numbers on the x side, then the same ones on the other side; this keeps it balanced.
-+ To solve an equation normally, we also must isolate the x variable, by performing the reverse of PODMAS, and the reverse operators. (3x + 3 = 9 -> 3x = 6 -> x = 2)
++ To solve an equation normally, we also must isolate the x variable, by performing the reverse of PEMDAS, and the reverse operators. (3x + 3 = 9 -> 3x = 6 -> x = 2)
 
 ## Geometry
 
-+ A Cartesian plane is a 2 dimensional coordinate plane, with 4 quadrants.
++ A Cartesian plane is a 2-dimensional coordinate plane, with 4 quadrants.
     + The first is top right, second is top left, third is bottom left, and fourth is bottom right.
     + The y-axis increases the higher it is and decreases the lower it is.
     + The x-axis increases the more to the right it is and decreases the more to the left it is.

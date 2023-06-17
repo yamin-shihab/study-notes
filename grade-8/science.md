@@ -1,6 +1,6 @@
 # Science 8
 
-So what's the "space" between particles anyways?
+So what's the "space" between particles anyway?
 
 ## Scientific Method
 
@@ -8,7 +8,7 @@ Read the grade 7 science study guide for the scientific method.
 
 ## Mix and Flow of Matter
 
-+ A fluid is a substance that has the ability to flow (liquid or gas). A non fluid can behave like one when melted or dissolved into a fluid. They take up all available space in their container. (water, honey, air)
++ A fluid is a substance that has the ability to flow (liquid or gas). A non-fluid can behave like one when melted or dissolved into a fluid. They take up all available space in their container. (water, honey, air)
 + There are three main types of matter, in order of density:
     1. Solids have particles tightly packed together and only vibrating in place. (tape dispenser, stapler, box)
     2. Liquids have particles with enough energy to slide past each other (fluid), yet still vibrate close to others. (water, honey, syrup)
@@ -40,9 +40,9 @@ Read the grade 7 science study guide for the scientific method.
     + The rate at which something dissolves can be increased through agitation (stirring/shaking), as it allows for the particles to be in contact with each other.
 + Water is known as the universal solvent because it can dissolve many materials.
 + To be soluble means to be able to dissolve in a particular solvent.
-+ When something is insoluble, it isn't able to be dissolved in a specific solvent.
++ When something is insoluble, it isn't able to dissolve in a specific solvent.
 + Solubility refers to the amount of solute that can be dissolved in a given solvent; this is usually measured in grams dissolved per 100 grams of water.
-    + A saturated solution is a solution that can't have anymore solute dissolved in it.
+    + A saturated solution is a solution that can't have any more solute dissolved in it.
     + An unsaturated solution is one that could have more solute dissolved.
     + Supersaturated solutions are solutions saturated past the limit. This is done through the use of cooling and crystals.
 + WHMIS (Workplace Hazardous Materials Information System) safety symbols are used to convey the possible dangers associated with a product. (bleach, ammonia, strong acids)
@@ -64,17 +64,17 @@ Read the grade 7 science study guide for the scientific method.
     + Density can be calculated by looking at the mass-to-volume ratio of things (D = M/V). (the higher the mass or lower the volume, the higher the density)
     + A hydrometer measures liquid density by extending in different ways depending on how dense the liquid is.
 + Buoyancy is the tendency for materials to rise or float in a fluid, while buoyant force is the upward force exerted on objects submerged in fluids.
-    + An object is floating when it's neither sinking or floating and is in the same position.
+    + An object is floating when it's neither sinking nor floating and is in the same position.
     + Average density is the total mass of an object divided by the total volume. To be buoyant, the average density of the object must be lower than that of the fluid.
     + Most fish have what's called a swim bladder. The amount of air in it changes to change the average density of the fish and its depth underwater.
     + Airships and hot air balloons float in the air because their average density is less than that of the surrounding air (hot air and helium is lighter than normal air).
     + The Greek scientist Archimedes made a discovery after being tasked by the ruler of Syracuse to find out if a crown he has is made of pure gold. He famously made the discovery after seeing water spill while in a public bath.
         + The Archimedes' principle states that the buoyant force exerted upon an object is equal to the weight of the fluid displaced when the object is submerged.
 + Pressure is a specific amount of force covered over a specific area. It's measured in pascals (named after a smart guy).
-+ One pascal is equal to one newton per square meter, so therefore pressure can be calculated with the formula P = F/A.
++ One pascal is equal to one newton per square meter, and therefore pressure can be calculated with the formula P = F/A.
     + Gasses are said to be compressible, because their particles can be pushed somewhat closer together while remaining a gas.
     + Solids and liquids are said to be incompressible, because their particles can't be pushed closer together while remaining a solid or liquid.
-    + Compression is commonly used in some areas due to its useful property of being able to exert a force back. (car air bags, some running shoes, tires, grass in a field)
+    + Compression is commonly used in some areas due to its useful property of being able to exert a force back. (car airbags, some running shoes, tires, grass in a field)
     + The Earth's atmosphere exerts pressure too; it's just that we're really used to it. That's why if you go really high up in a mountain or plane, you feel more sensitive to pressure change.
     + Pressure is commonly measured with a barometer, and they used to be made of mercury. A barometer uses gravity's pressure over an area to push some mercury up a tube.
     + When air pressure is unequal inside and outside an enclosed space, the walls of that space may cave in or expand to compensate. (sucking on an empty juice box)
@@ -100,7 +100,7 @@ Read the grade 7 science study guide for the scientific method.
         + The magnification of a microscope is controlled by the selected objective lens. The total magnification is measured by multiplying all the lenses magnifications.
     + The field of view of a microscope is how wide the view is. (smaller FOV means higher magnification)
 + Unicellular organisms are made up of one cell, while multicellular organisms are made of many.
-+ Cells are made up of different organelles, which are like organs, but small enough for cells.
++ Different organelles make up a cell, which are like organs, but small enough for cells.
     + The cell membrane surrounds and protects the contents of the cell and controls what goes in and out.
     + The cytoplasm is like a jelly that holds all the organelles inside the cell.
     + The nucleus controls the activities of the cell. It also contains the genetic material of the cell.
@@ -199,17 +199,17 @@ Read the grade 7 science study guide for the scientific method.
     + Very thick glaciers that form near the poles and bury mountain ranges are called continental glaciers.
     + An icefall is the result of a glacier flowing over a steep cliff, and a crevasse is a fissure or crack in the ice of a glacier.
     + If a glacier melts faster than it accumulates ice, then it advances, otherwise it retreats.
-    + Pack ice is a sheet of sea water ice under about 5 meters thick that breaks easily.
+    + Pack ice is a sheet of seawater ice under about 5 meters thick that breaks easily.
     + Icebergs are large chunks of ice that split or calve from continental glaciers as the flow down into the ocean.
-    + A millwell is a rounded drain in ice chiselled by a stream.
+    + A millwell is a rounded drain in ice chiseled by a stream.
     + Glaciers can be considered to be natural reservoirs; they store vast quantities of fresh water and release it when it's most needed.
-+ A glacier can also change the landscape around it:
++ A glacier can also change the surrounding landscape:
     + Glaciers also pick up and move sediments, as well as erode rocks. Water can seep in through cracks, freeze, and expand to break open rocks.
     + Marks known as striations appear when rock fragments scrape bedrock as they are moved by glaciers.
     + Valley glaciers can cause erosion and form a bowl-shaped basin called a cirque in mountains.
     + When at least two glaciers erode a summit from multiple directions, a ridge called an arete or a sharpened peak called a horn is formed.
     + A mixture of varied sediments deposited by sediments is called a till, and the material left by a glacier's meltwater is called outwash.
-    + A big ridge of material left by a glacier is called a moraine, and the winding ridge of sand and gravel left by rivers underneath glaciers is called an esker.
+    + A big ridge of material left by a glacier is called a moraine, and an esker is the winding ridge of sand and gravel left by rivers underneath glaciers.
 + Over the last several million years, Earth has had at least seven major periods of cooling called ice ages. The last one began 120,000 years ago and ended about 11,000 years ago.
 + The world was very different during an ice age; glaciers covered as much as 28% of the land. North America then was very similar to Greenland today.
 + There are multiple hypotheses as to what causes ice ages:
@@ -251,7 +251,7 @@ Read the grade 7 science study guide for the scientific method.
 + On average, 1000 grams of seawater contains 35 grams of dissolved salt (35 parts per thousand or PPT).
     + Salinity is the measure of the amount of salts dissolved in a liquid.
     + An ocean's salts mostly came from rocks on lands, as their salts were carried over to the ocean.
-    + Seawater salts can also come from volcano eruptions. (sulphur and chlorine)
+    + Seawater salts can also come from volcano eruptions. (sulfur and chlorine)
     + Fresh water also has salts. It's just that ocean water has 16,000 times as much.
 + Light only penetrates through about 100 meters of the ocean, so most marine organisms are found in the top 180 meters.
 + The terrain of the sea floor and ocean basin is somewhat similar to the terrain on land.
@@ -266,7 +266,7 @@ Read the grade 7 science study guide for the scientific method.
     + Waves control beaches in two ways:
         + Strong winds cause waves to erode the beach.
         + Slow, calm waves deposit sediment onto the beach.
-+ The daily rises and falls of the oceans caused by the positions of the sun and moon    are called tides. The upper and lower edges of a beach are determined by the high-tide mark and the low-tide mark.
++ The daily rises and falls of the oceans caused by the positions of the sun and moon are called tides. The upper and lower edges of a beach are determined by the high-tide mark and the low-tide mark.
     + The largest tidal movements (called spring tides) occur when the Earth, Moon, and Sun are in a line. At these times, tides are extra high and extra low.
     + The smallest tidal movements (called neap tides) occur when the Sun and Moon are at a right angle to the Earth. On these days, there's little difference in depth between high and low tides.
     + The difference in level between a high tide and a low tide is called the tidal range.
@@ -303,8 +303,8 @@ Read the grade 7 science study guide for the scientific method.
 + Some plants and animals don't use the sun's energy, but rather sea-floor vents at the bottom for energy. The process of using its chemicals for food is called chemosynthesis.
 + In order for water to be safe to drink (potable), it has to cleaned and tested. Dissolved solids, salts, and organisms have to be removed.
     + Hard water contains lots of dissolved calcium and magnesium, while soft water has less.
-+ Acid precipitation is caused by dissolved sulphur dioxide and nitrogen oxide in the atmosphere. These are waste gasses released by coal-burning industries, metal smelters, and automobiles.
-    + They combine with water vapor in the atmosphere to form sulphuric and nitric acids. The then return in precipitation that can be more acidic than vinegar.
++ Acid precipitation is caused by dissolved sulfur dioxide and nitrogen oxide in the atmosphere. These are waste gasses released by coal-burning industries, metal smelters, and automobiles.
+    + They combine with water vapor in the atmosphere to form sulfuric and nitric acids. The then return in precipitation that can be more acidic than vinegar.
         + This acid rain can damage and kill off plants and animals, and it can dissolve heavy metals into the soil.
 + The pH scale is used to determine whether a substance is a base or acid. It measures from 1 (very acidic) to 14 (very basic), with 7 being normal.
 + A bioindicator species is a species of organism that reacts in a very sensitive way to changes in their environment. They are studied by scientists to know when things change. (stonefly larvae, mayfly larvae, caddisfly larvae, snails, leeches, crayfish, segmented worms, midgefly larvae)

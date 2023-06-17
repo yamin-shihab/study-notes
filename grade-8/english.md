@@ -57,11 +57,11 @@ Good thing I learned a lesson from last year to start study guides early. Note f
 + Common forms of nonfiction include:
     + Letters and journals contain personal thoughts and reflections.
     + Biographies are about the life story of someone other than the author.
-        + Autobiographies are biographies, but they're are about the author.
+        + Autobiographies are biographies, but they're about the author.
     + Memoirs are about the author's records or experiences from their life.
     + Media accounts are works written for newspapers, magazines, television, or radio.
     + Essays are a discussion of a topic, express the author's feelings, and can tell a lot.
-    + Articles are small in length and focus on the facts of the subject. They also express the author's bias.
+    + Articles are small and focus on the facts of the subject. They also express the author's bias.
 + Nonfiction also has some common features:
     + Titles identify the topic of the text and what it's going to be about.
     + A table of contents tells the names of the chapter sand what page the chapters can be found.
@@ -99,7 +99,7 @@ Good thing I learned a lesson from last year to start study guides early. Note f
 + An assonance is the repetition of vowel sounds in the middle of words. (The rain in Spain falls mainly on the plain.)
 + An allusion is a reference to something from an unrelated context used to represent something going on in the text. (Bro thinks he's Einstein...)
 + Juxtaposition is the placement of two or more things or ideas side by side to develop a contrast. (It was the best of times, it was the worst of times, it was the age of wisdom, it was the age of foolishness, it was the epoch of belief, it was the epoch of incredulity, it was the season of Light, it was the season of Darkness, it was the spring of hope, it was the winter of despair, we had everything before us, we had nothing before us, we were all going direct to Heaven, we were all going direct the other way--in short, the period was so far like the present period, that some of its noisiest authorities insisted on its being received, for good or for evil, in the superlative degree of comparison only.)
-+ An understatement is the opposite of a hyperbole; it states less than what's necessary. (The power went out and I lost all my work, so it's not really a big problem.)
++ An understatement is the opposite of a hyperbole; it states less than what's necessary. (I lost all my work, so it's not really a big problem.)
 + Repetition is the... repetition of words. (No, no, no, no, no, no!)
 
 ## Reading Strategies

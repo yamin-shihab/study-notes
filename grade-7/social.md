@@ -23,7 +23,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + Decisions of the confederacy were made by a council of fifty chiefs (Hoyaneh). They were men, but were chosen, replaced, and advised by clan mothers.
     + The Haudenosaunee traced their family through their mothers. The clan system also did and united the Nations as a family of relatives.
     + Wampum were shell beads woven into belts or strings and kept records of important treaties and other agreements.
-    + The Peace Maker used a white pine to symbolize the commitment of the Haudenosaunee to peace.
+    + The Peacemaker used a white pine to symbolize the commitment of the Haudenosaunee to peace.
     + The tree represents the Great Law of peace, the branches represent the protection of those nations under the law, the white roots which spread in the four cardinal directions represent peace and strength since anyone can follow the roots to the Council of the League of Peace, the eagle warns of danger due to far sight, and the weapon below the tree shows that they cast all weapons of war into the depths of the earth.
 + The Mi'kmaq were in the now maritimes, the Anishinabe above the Great Lakes, and the Haudenosaunee in what's now America.
 
@@ -66,7 +66,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + The fur trade was the primary economic activity of New France and supplied beaver furs to France to be made into hats.
     + The king of France had power over the governor, intendant, bishop, and council of New France. They had power over the colonists.
     + In 1663, the king of France established the Sovereign Council to rule New France in accordance with his decisions and included:
-        + A governor who represented the king and controlled military, defence, and external relations.
+        + A governor who represented the king and controlled military, defense, and external relations.
         + An intendant who was the chief administrator and worked to keep the colony in good order to make it less dependent on France. He also looked for ways to exploit the colony for France
         + The Bishop of Quebec represented the Catholic Church and played an important role. The church provided guidance, schools, hospitals, and orphanages. Members of the Catholic clergy also governed the colony.
 + Habitants were farmers who lived on seigneuries which were large plots of land owned by seigneurs (landlords). They received the seigneuries from the king of France and kept it by making sure that habitants farmed the land.
@@ -79,7 +79,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + Elected assemblies also played a role in most governments of the Thirteen Colonies.
     + The Thirteen colonies used the land intensely to produce agricultural products for Britain and its colonies.
     + They saw the First Nations as obstacles and pushed them off the land.
-    + The Monarch and Parliament were controlled by Britain's government. They control the colony's governor and council. They control and are advised by the elected assembly. They control and are advised by the colonists.
+    + The Monarch and Parliament were controlled by Britain's government. They control the colony's governor and council. They control and are advised by the elected assembly. And in turn, they control and are advised by the colonists.
 + Around 1700, the area around Hudson's Bay was claimed by Britain and called Rupert's Land.
     + Rupert's Land didn't have much of a European population and was mainly Protestant, but religion didn't play a large role.
     + Rupert's Land was the monopoly fur trade territory of the HBC (Hudson's Bay Company), granted to the company in 1670. It had a governor who was the chief officer of the company.
@@ -116,7 +116,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + After 1763, Britain was deeply in debt because of the Seven Years' War, and wanted to save money. They wanted to keep troops stationed in the Thirteen Colonies, so they increased taxes on them.
     + The colonists refused to pay. They said Britain had no authority to tax them because they weren't allowed to elect representatives to the British parliament. They came up with the slogan "No taxation without representation".
     + In 1776, the protests turned into a rebellion. George Washington took command of an army in the Thirteen Colonies to fight British rule. 1776 was when the United States declared itself independent of Britain, and began a war called the American war of independence, or the American Revolution.
-        + The war deeply divide communities. People who supported the rebellion called themselves "Patriots", and those who wanted to remain united to the British Empire called themselves "United Empire Loyalists".
+        + The war deeply divided communities. People who supported the rebellion called themselves "Patriots", and those who wanted to remain united to the British Empire called themselves "United Empire Loyalists".
 + The loyalist migration was when thousands of refugee loyalists left America to a British colony such as Quebec or Nova Scotia.
     + When the loyalist population in Quebec increased and asked for British-style laws and customs, Canadiens were worried that the changes from the Quebec Act being reversed.
     + Originally, treaties had to be negotiated with First Nations for land, but settlers sometimes didn't.
@@ -147,7 +147,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
         1. Unify Upper and Lower Canada and put people into "vigorous English rule".
         2. Make a more democratic government by lessening the role of Britain in affairs.
         3. Assimilate the Canadiens since they "didn't have a culture worthy of protection".
-             + So in 1841, Britain passed the Act of Union based on the recommendations of the Durham report. It combines Upper and Lower Canada into a single Province of Canada, creates a legislative council that the governor appointed, creates an assembly with an equal number of elected representatives (42) from Canada East and West although East had a higher population, and made English the official language of Canada.
+             + So in 1841, Britain passed the Act of Union based on the recommendations of the Durham report. It combines Upper and Lower Canada into a single Province of Canada, creates a legislative council that the governor appointed, creates an assembly with an equal number of elected representatives (42) from Canada East and West, although East had a higher population, and made English the official language of Canada.
 + LaFontaine was a Canadien from Canada East and Baldwin was an English Canadian from Canada West, and both created a coalition (an alliance among groups).
     + They were reformers who wanted a more democratic government without a complete break from Britain.
     + They accomplished many things such as recognizing French as an official language, setting up universities, securing amnesty (a pardon) for the rebels of 1837-38, and eventually self-government in 1848.
@@ -160,7 +160,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + Confederation had four key politicians who wanted it most:
     + John A. Macdonald came from Canada West, born in Scotland. He wanted a nation that spread from "sea to sea", that gave provinces powers, and kept ties with Britain. He then became the first prime minister of Canada.
     + George-Etienne Cartier came from Canada East, born in Lower Canada. He supported political change, but didn't want Canada to become a republic like the US. He also supported French and Catholicism being part of Canada.
-    + George Brown came from Canada West, born in Scotland. He founded the Globe newspaper in Toronto, which later became the Globe and Mail. He originally didn't support Confederation and instead "rep by pop" (representation by population) so that the English get the majority. He often targeted Macdonald for criticism, but later changed his mind and encouraged Confederation.
+    + George Brown came from Canada West, born in Scotland. He founded the Globe newspaper in Toronto, which later became The Globe and Mail. He originally didn't support Confederation and instead "rep by pop" (representation by population) so that the English get the majority. Furthermore, he often targeted Macdonald for criticism, but he later changed his mind and encouraged Confederation.
     + Etienne-Paschal Tache was a patriote during the Rebellions of 1837 and 1838. He was also a passionate advocate for Confederation and protection for Canadiens. He helped forge and lead the alliance with John A. Macdonald known as the "Great Coalition" that became central to the success of Confederation.
 + Political deadlock is when equally powerful players can't agree on a course of action.
 + Some people thought Confederation was bad for Canadiens, while some didn't.
@@ -179,7 +179,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + The BNA Act guaranteed the new government of Canada would pay for a railway linking the Maritimes with central Canada.
     + The act established Confederation without consulting the First Nations, and they were made responsibilities of the government, along with items such as the postal service.
 + Colonies had well established British settlements, but territories had very few. Colonies had governments advised or elected by the colonists, but territories were governed by appointed British officials.
-    + Colonies became provinces under confederation, while territories were simply transferred as an agreement between Britain and Canada. Canada controlled the territories directly.
+    + Under confederation, colonies became provinces, while territories were simply transferred as an agreement between Britain and Canada. Canada controlled the territories directly.
 + BC (British Columbia) became a colony because of British settlement along the west coast following the voyages of British explorer George Vancouver from 1792 to 1795.
     + The first colonists made their living mostly in the fur trade under HBC forts.
     + The economy changed in 1859 when a gold rush began. The colony borrowed money to build roads and railways to centers of mining. It counted on the mined gold to pay back.
@@ -259,7 +259,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + In 1971, Canada became the first country in the world to adopt a policy of multiculturalism which sought to recognize and promote Canada's diversity. It did this by recognizing all cultures and backgrounds.
     + Canada passed the Multiculturalism act in 1988 to affirm Canada's support for languages that contribute to the multicultural heritage of Canada.
     + Canada also changed the constitution to be more inclusive.
-+ Canada has always encouraged immigration ever since becoming a country. However, there have been times when Canada's immigration policy and treatment of immigrants displayed racial discrimination.
++ Immigration was always encouraged in Canada ever since it became a country. However, there have been times when Canada's immigration policy and treatment of immigrants displayed racial discrimination.
     + But then, they changed to be better and not be as racially discriminatory.
 + After the invention of the radio, Canadians have been tuning into American culture radio stations.
     + So the Canadian government created the CBC (Canadian Broadcasting Company) in 1936 to have Canadian radio programs. This was done to "foster national spirit and interpret national citizenship".

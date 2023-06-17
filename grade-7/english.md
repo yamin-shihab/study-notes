@@ -41,9 +41,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 + When reading, you should ask questions to yourself about the text. (Does the text make sense? What's happening? Am I confused? What does this word mean? Should I speed up or slow down? Do I need to reread this? I know I understand this because...)
 + Skimming means your eyes are quickly looking over the page in motions to see how many paragraphs there are, looking for bold/underlined/italicized words, and visuals/headers. This lets you preview and get acquainted with the text.
 + Scanning means your eyes are searching for particular information on the page and are moving until they find something you're looking for.
-+ You should sometimes ask yourself what the text is mainly about.
-+ You should pay attention to the important parts and details of paragraphs and sentences.
-+ You should pay attention to facts and details as evidence to support the main idea and any questions you have.
++ You should sometimes ask yourself what the text is mainly about, pay attention to the important parts and details of the paragraphs and sentences, and the facts and details as evidence to support the main idea and any questions you have.
 + It's also a good idea to look at the order and sequence of parts of text.
 + Annotating is marking specific parts of the text for later reference.
     + While reading the text, you can circle unfamiliar words, note any clues the author gives, underline or highlight major events and the main conflict, write any connections you have, and identify what you feel about some text.
@@ -279,7 +277,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + A close-up shows images in a large view. Frequently used for a character's face.
     + An extreme close-up shows a very large view.
     + A longshot shows images fully top to bottom and head to toe.
-    + An extreme longhost shows many images at a very small scale.
+    + An extreme longshot shows many images at a very small scale.
     + They can be from the perspective of a bird's eye view or worm's eye view.
     + In reverse, the images in the current panel are the reverse of the previous panel.
         + This is usually used to show a different character talking.
@@ -294,11 +292,11 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 + A stanza is a paragraph in poetry. It's a group of poetic lines.
     + A new stanza signals a new idea or thought.
     + Different stanzas with different line numbers have different names:
-        + Two lines are called couplets.
-        + Three lines are called triplets or tercet.
-        + Four lines are called quatrains.
-        + Five lines are called cinquains.
-        + Eight lines are called octets.
+        + A couplet is two lines.
+        + A triplet or tercet is three lines.
+        + A quatrain is four lines.
+        + A cinquain is five lines.
+        + An octet is eight lines.
 + Poems often (but not always) have rhymes.
     + An internal rhyme occurs within a poetic line.
     + An end rhyme occurs at the end of a poetic line.
@@ -306,9 +304,9 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + They are labeled with letters of the alphabet. (AABB)
     + Each letter corresponds to a specific type of rhyme. (Little Miss Muffet, = Sat on her tuffet = A)
 + Syllables are the unit of pronunciation that word sounds are separated into. (banana has 3, watermelon has 4)
-+ There are many types and forms of poems, such as    acrostic, concrete, limerick, haiku, cinquain, diamante, free verse, sonnet, ballad, narrative, lyrical, etc.
++ There are many types and forms of poems, such as acrostic, concrete, limerick, haiku, cinquain, diamante, free verse, sonnet, ballad, narrative, lyrical, etc.
     + A haiku has five syllables on the first line, seven on the second, and five on the last.
     + Cinquains (five lines) are often structured to be an unrhymed poem in which the first line is a subject, the second line is two adjectives, then three verbs, a phrase or sentence describing the subject, and finally a synonym of the original subject.
-    + A diamonte is also unrhymed and seven lines. It begins with a subject and builds up to an antonym. It starts with a noun subject, then two adjectives, then three participles (-ing words), four nouns (first two relating to first subject, last two relating to second subject), three participles about subject two, two adjectives for subject two, and lastly the second, antonym subject.
+    + A diamante is also unrhymed and seven lines. It begins with a subject and builds up to an antonym. It starts with a noun subject, then two adjectives, then three participles (-ing words), four nouns (first two relating to first subject, last two relating to second subject), three participles about subject two, two adjectives for subject two, and lastly the second, antonym subject.
     + A concrete poem describes thoughts about a subject using many words arranged in the shape of the subject. Doesn't necessarily have to rhyme.
     + A limerick is a joke that rhymes. It has five lines following the "AABBA" rhyming scheme.
