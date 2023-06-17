@@ -50,3 +50,32 @@ Good thing I learned a lesson from last year to start study guides early. Note f
   * Ideas can be described in the order of some kind of space. (left to right, top to bottom, outside to inside)
   * Ordering by importance could mean starting with the least or most important idea and ending with the least or most important idea.
   * When a paragraph's ideas are ordered by climax, the writer can build suspense up to it.
+
+## Nonfiction
+
+* Nonfiction writing, as opposed to fiction, is about real things: people, events, things, places, etc.
+* Common forms of nonfiction include:
+  * Letters and journals contain personal thoughts and reflections.
+  * Biographies are about the life story of someone other than the author.
+    * Autobiographies are biographies, but they're are about the author.
+  * Memoirs are about the author's records or experiences from their life.
+  * Media accounts are works written for newspapers, magazines, television, or radio.
+  * Essays are a discussion of a topic, express the author's feelings, and can tell a lot.
+  * Articles are small in length and focus on the facts of the subject. They also express the author's bias.
+* Nonfiction also has some common features:
+  * Titles identify the topic of the text and what it's going to be about.
+  * A table of contents tells the names of the chapter sand what page the chapters can be found.
+  * An index tells what pages the reader can find certain topics.
+  * Glossaries tell the definitions of some words found in the text.
+  * A heading divides text into sections and explains what the sections will be about.
+  * A photograph shows what something looks like (camera).
+  * An illustration shows what something looks like (drawing).
+  * A caption explains what a photograph or illustration is about.
+  * Labels tell the names of certain parts of a photograph or illustration.
+  * A graph organizes and helps compare information in a visual way.
+  * Tables organize facts and numbers in a visual way so that it's easier to read.
+  * Maps show where places are located and where events took place.
+  * A diagram explains information or how something works in a visual way.
+  * Bolded or italicized words put extra emphasis.
+  * Bullet points make lists easier to read and understand.
+  * Sidebars give extra information about a topic.
