@@ -20,3 +20,17 @@ I had a summative test on the second week of school!
     + You can use unit rates to find out the better deal when buying things. (store A offers four bananas for $5.00 and store B offers five bananas for $6.00 -> $5.00 / 4 bananas = $1.25/1 banana, $6.00 / 5 bananas = $1.20/1 banana -> B is cheaper than A)
     + The uses of a unit rate isn't limited to buying things. (Jesse can type 187 words in 5 minutes, and Brent can type 444 words in 10 minutes -> 187 words * 2 = 374 words/10 minutes -> 444 words/10 minutes > 374 words/10 minutes)
     + The use of unit rates is similar to using fractions and division.
+
+## Integers
+
++ If both numbers are of the same sign in multiplication or division, the answer is positive, otherwise it's negative. (3 * 3 = 9, 4 * -2 = -8, -5 / -1 = 5, -8 / 8 = -1)
++ Multiplying a positive or negative number by a negative number can be done using number tiles:
+    1. Represent the first number using either positive or negative tiles.
+    2. Copy that group of tiles by the number of times specified by the second number.
++ To multiply a positive or negative number by a negative number with number tiles, you will essentially be "removing" the number from zero:
+    1. Represent the multiplication of the two in zero pairs.
+    2. Remove groups of either the positive or negative tiles such that the end result will be of the correct sign.
++ A positive or negative number can be divided by a positive number using number tiles by splitting things up into groups:
+    1. Represent the first number using the appropriate number tiles.
+    2. For each group of tiles representing the second number, circle it.
+    3. The answer will be the number of groups.
