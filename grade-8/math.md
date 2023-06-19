@@ -34,3 +34,16 @@ I had a summative test on the second week of school!
     1. Represent the first number using the appropriate number tiles.
     2. For each group of tiles representing the second number, circle it.
     3. The answer will be the number of groups.
+
+## Fractions
+
++ To multiply or divide two fractions, they must both be an improper fraction.
++ You can multiply two improper fractions in the lowest terms:
+    1. Reduce the numerator of the first fraction and the denominator of the second as if it was an equivalent fraction. (2 and 4 -> 1 and 2)
+    2. Do the same for the numerator of the second fraction and the denominator of the first.
+    3. The answer's numerator is the first numerator multiplied by the second numerator.
+    4. The answer's denominator is the first denominator multiplied by the second denominator.
++ The process of dividing two fractions is the same as multiplying but with an extra step:
+    1. Make the second fraction its reciprocal (reverse/flip/inverse) of the second fraction. (1/2 -> 2/1)
+    2. Multiply the resulting two fractions together.
++ You can also multiply fractions by filling in a grid and divide fractions by grouping parts of a grid.
