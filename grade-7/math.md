@@ -56,12 +56,12 @@ This subject probably involves the least amount of studying because you'll be th
 + Percent means out of 100.
 + There are two types of decimal numbers:
     + A terminating decimal number has a finite number of decimal places. (4.6, 16.72, 134.154)
-    + A repeating decimal number has a specific pattern of numbers that repeat forever. (pi, 10 / 3, 2 / 9)
+    + A repeating decimal number has a specific pattern of numbers that repeat forever. (pi, 10/3, 2/9)
         + Repeating decimal numbers have a straight line on top of the repeating decimals to show that they are repeated.
 + Common factors are factors (numbers multiplied together to get a product) that are present in two, or more numbers.
 + Some ways to convert between fractions, decimals, and percentages:
     + To convert a fraction to a decimal, convert the denominator to the nearest power of 10 by multiplying or dividing, then do the specific operation on the numerator, then make the decimal the numerator in the appropriate place value. (13/200 -> 65/1000 -> 0.065)
-        + If the denominator can't become a power of 10, divide the numerator by the denominator. (1/7 -> 1 / 7 -> 0.142 857)
+        + If the denominator can't become a power of 10, divide the numerator by the denominator. (1/7 -> 1/7 -> 0.142 857)
     + To convert a decimal to fraction, the place value of the last digit becomes the denominator and the original number becomes the numerator. (0.561 -> 561/1000)
     + The following are rules for each denominator to be applied to the numerator to make the decimal.
         + /2 -> half the number.
@@ -83,7 +83,7 @@ This subject probably involves the least amount of studying because you'll be th
 + Equivalent fractions are fractions that all represent the same amount, despite being different (imagine groups of small pizza slices being in the shape of one big pizza slice). (3/9, 1/3, 2/6)
     + An equivalent fraction can be made from a fraction by multiplying/dividing both the numerator and the denominator by the same number. (2/5 -> 4/10)
     + A simplified fraction is the smallest possible equivalent fraction for a fraction.
-    + To find one for a fraction, divide the numerator and denominator by the largest common factor. (65/100's largest common factor is 5 -> 65 / 5 = 13, 100 / 5 = 20 -> simplified fraction: 13/20)
+    + To find one for a fraction, divide the numerator and denominator by the largest common factor. (65/100's largest common factor is 5 -> 65/5 = 13, 100/5 = 20 -> simplified fraction: 13/20)
 + There are 2 ways to represent a number larger than 1 with a fraction.
     + An improper fraction has a numerator larger than, or equal to the denominator. (3/2, 5/5, 6/2)
     + A mixed number is a whole number along with a proper fraction beside it. (5 3/4, 2 4/6, 1 6/10)
@@ -118,7 +118,7 @@ This subject probably involves the least amount of studying because you'll be th
 + With chances and probabilities:
     + The favorable outcome is the event you're looking to occur in a probability experiment.
     + Possible outcomes are the possible outcomes in a probability experiment.
-    + Probability(event) = favorable outcomes / possible outcomes.
+    + Probability(event) = favorable outcomes/possible outcomes.
     + An independent event is an event in a group of events that doesn't affect the probability of the other events.
     + Either a tree diagram, or a table of outcomes can be used to represent possible outcomes of events.
     + A tree diagram starts and branches out for each event. The amount of branches from each branch is the possible number of outcomes. The amount of branches at the end is the total overall amount of possible outcomes.
@@ -210,7 +210,7 @@ This subject probably involves the least amount of studying because you'll be th
     + Formula for parallelogram area: A = bh. (3(8) = 24)
 + Two triangles will always make a parallelogram, or a rectangle.
     + Formula for triangle perimeter: a + b + c. (3 + 8 + 2)
-    + Formula for triangle area: bh / 2. (8(6) / 2 = 24)
+    + Formula for triangle area: bh/2. (8(6) / 2 = 24)
 + The radius of a circle is the length from the center to the edge.
 + The diameter is across the circle and is twice the radius.
 + The circumference is the length around a circle.

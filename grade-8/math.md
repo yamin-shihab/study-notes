@@ -17,13 +17,13 @@ I had a summative test on the second week of school!
     + The lowest terms of a ratio is the smallest possible equivalent ratio of it.
 + A rate compares two quantities measured in different units. (200 meters/2.3 minutes)
 + A unit rate is a rate in which the second term is one. ($3.50/1 pounds = $7.00/2 pounds)
-    + You can use unit rates to find out the better deal when buying things. (store A offers four bananas for $5.00 and store B offers five bananas for $6.00 -> $5.00 / 4 bananas = $1.25/1 banana, $6.00 / 5 bananas = $1.20/1 banana -> B is cheaper than A)
+    + You can use unit rates to find out the better deal when buying things. (store A offers four bananas for $5.00 and store B offers five bananas for $6.00 -> $5.00/4 bananas = $1.25/1 banana, $6.00/5 bananas = $1.20/1 banana -> B is cheaper than A)
     + The uses of a unit rate isn't limited to buying things. (Jesse can type 187 words in 5 minutes, and Brent can type 444 words in 10 minutes -> 187 words * 2 = 374 words/10 minutes -> 444 words/10 minutes > 374 words/10 minutes)
     + The use of unit rates is similar to using fractions and division.
 
 ## Integers
 
-+ If both numbers are of the same sign in multiplication or division, the answer is positive, otherwise it's negative. (3 * 3 = 9, 4 * -2 = -8, -5 / -1 = 5, -8 / 8 = -1)
++ If both numbers are of the same sign in multiplication or division, the answer is positive, otherwise it's negative. (3 * 3 = 9, 4 * -2 = -8, -5 / -1 = 5, -8/8 = -1)
 + Multiplying a positive or negative number by a negative number can be done using number tiles:
     1. Represent the first number using either positive or negative tiles.
     2. Copy that group of tiles by the number of times specified by the second number.
@@ -47,3 +47,10 @@ I had a summative test on the second week of school!
     1. Make the second fraction its reciprocal (reverse/flip/inverse) of the second fraction. (1/2 -> 2/1)
     2. Multiply the resulting two fractions together.
 + You can also multiply fractions by filling in a grid and divide fractions by grouping parts of a grid.
+
+## Equations
+
++ There are several types of equations:
+    + A multiplication or division one-step equation, represented by ax = b or x/a = b, is the simplest type of equation and only involves one step to solve. (2n = 6 -> n = 3)
+    + A multiplication or division two-step equation, represented by ax + b = c or x/a + b = c, is a type of equation that requires one step to solve. (3n + 4 = 13 -> 3n = 9 -> n = 3)
+        + There are also distributive property two-step equations, represented by a(x + b) = c, which are equations that can optionally be solved differently. (2(n + 3) = 14 -> 2n + 6 = 14 -> 2n = 8 -> n = 4)
