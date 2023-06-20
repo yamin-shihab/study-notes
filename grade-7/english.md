@@ -4,10 +4,10 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 
 ## Sentences
 
-+ A sentence is a group of words that express a complete thought.
-    + Sentences require a subject (a noun) and a predicate (a verb). (I drove the car, subject: I, predicate: drove the car)
-+ Commands or requests don't have a subject, just a predicate, but they are still considered sentences since the subject is implied. (Eat your vegetables!, implied subject: you, predicate: eat your vegetables)
-+ Capitals are used for the beginnings of sentences, proper nouns, dates, abbreviations, and proper adjectives. (The car is fast, Bob, Monday, Chinese food)
++ A sentence is a group of words that expresses a complete thought.
+    + Sentences require a subject (noun) and a predicate (verb). (I drove the car, subject: I, predicate: drove the car)
++ Commands or requests don't have a subject, just a predicate, but they're still considered sentences since the subject is implied. (Eat your vegetables!, implied subject: you, predicate: eat your vegetables)
++ Uppercase letters are used for the beginnings of sentences, proper nouns, dates, abbreviations, and proper adjectives. (The car is fast, Bob, Monday, Chinese food)
 + Punctuation is also important:
     + Periods, exclamation marks, and question marks are used to indicate the sentence has ended.
     + Commas are used to help with the flow of a sentence.

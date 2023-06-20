@@ -54,3 +54,43 @@ I had a summative test on the second week of school!
     + A multiplication or division one-step equation, represented by ax = b or x/a = b, is the simplest type of equation and only involves one step to solve. (2n = 6 -> n = 3)
     + A multiplication or division two-step equation, represented by ax + b = c or x/a + b = c, is a type of equation that requires one step to solve. (3n + 4 = 13 -> 3n = 9 -> n = 3)
         + There are also distributive property two-step equations, represented by a(x + b) = c, which are equations that can optionally be solved differently. (2(n + 3) = 14 -> 2n + 6 = 14 -> 2n = 8 -> n = 4)
+
+## Powers and Pythagoras
+
++ A power or exponent represents repeated multiplication. (three to the power of four = 3^4 = 3 * 3 * 3 * 3 = 81, four to the power of three = 4^3 = 4 * 4 * 4 = 64)
+    + An exponent of two is a square. (five squared = 5^2 = 5 * 5 = 25, ten squared = 10^2 = 10 * 10 = 100)
+        + Squares can be represented by a square grid.
++ A perfect square is a number that has two equal factors, and those factors can be squared to equal the perfect square. (121, 256, 36, 81, 400)
+    + Here's a list of all the perfect squares from one to twenty:
+        1. 1
+        2. 4
+        3. 9
+        4. 16
+        5. 25
+        6. 36
+        7. 49
+        8. 64
+        9. 81
+        10. 100
+        11. 121
+        12. 144
+        13. 169
+        14. 196
+        15. 225
+        16. 256
+        17. 289
+        18. 324
+        19. 361
+        20. 400
+    + Prime factorization can be used to determine if a number is a perfect square:
+        1. Factorize the number into two numbers. (484 -> 2, 242)
+        2. Attempt to factorize each of those numbers. (242 -> 2, 121)
+        3. Keep repeating and attempting with each new number and stop when all the numbers are primes. (2, 2, 11, 11)
+        4. The number is a perfect square if it has an even number of each prime number. (two (even) twos, two (even) elevens -> 484 is a perfect square)
+        5. You'll be left with what appears to be a tree with branches and leaves.
++ The square of the square root of a number equals the number; this only results in a whole number when done on a perfect square. (sqrt(16) = 4, sqrt(49) = 7, sqrt(225) = 15)
+    + Number lines can be used to estimate the square roots of non-perfect numbers.
++ In a right-angled triangle (ignoring trigonometry side names), the two sides touching the right angle are referred to as a and b, while the remaining longest side referred to as c and is the hypotenuse.
++ The Pythagorean theorem (named after a big-brain Greek guy that you will soon rival in the future after reading this study guide) states that in any right-angled triangle, the square of a plus the square of b is equal to the square of c (a^2 + b^2 = c^2). (a = 3, b = 4, c = 5 -> 3^2 + 4^2 = 5^2 -> 9 + 16 = 25 -> 25 = 25)
+    + This can be used to find the length of one of the sides using the other sides by getting the square root of a number. (a = 3, b = 4 -> c = sqrt(a^2 + b^2) -> c = sqrt(3^2 + 4^2) -> c = sqrt(9 + 16) -> c = sqrt(25) -> c = 25)
+    + A Pythagorean triple is a group of three whole numbers that satisfy the Pythagorean Theorem. (3, 4, 5)
