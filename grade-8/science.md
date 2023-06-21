@@ -136,11 +136,11 @@ Read the grade 7 science study guide for the scientific method.
 + All cells are specialized and have their own purpose and task to do. This also results in different shapes. (heart cell, nerve cell, blood cell, skin cell)
 + Multicellular organisms have several advantages over unicellular organisms: they can grow larger, live in a variety of environments, obtain energy from a variety of sources, and have cell organization.
 + Tissues are groups of similar cells to serve a special purpose. (muscle tissue, nerve tissue, epithelial (skin) tissue, connective (bone) tissue)
-+ Organs are distinct structures of the body that perform particular functions. They are made of several types of tissues working together. (eyes, brain, stomach, heart, lungs, intestines, skin)
++ Organs are distinct structures of the body that perform particular functions. They're made of several types of tissues working together. (eyes, brain, stomach, heart, lungs, intestines, skin)
 + Organ systems are groups of organs that perform activities to help the organism as a whole. (plants root system, plant shoot system, human digestive system, human circulatory system)
 + The human body has three types of blood vessels, from first to last:
     1. Arteries leave the heart and carry blood with them. They have thick, muscular walls
-    2. Capillaries allow for the exchange of oxygen with blood. They are very thin (about a cell thick).
+    2. Capillaries allow for the exchange of oxygen with blood. They're very thin (about a cell thick).
     3. Veins carry blood back to the heart and have valves to prevent backflow. They have thin walls.
 + There are also different parts of blood: plasma is the liquid part, red blood cells carry oxygen, white blood cells defend against diseases, and platelets help stop bleeding.
 + The circulatory system consists of the heart (which consists of four "chambers") and all the blood vessels associated with it.
@@ -164,7 +164,7 @@ Read the grade 7 science study guide for the scientific method.
     8. The food comes out of the system as ~~poop~~ feces.
 + The nervous system consists of the brain, spinal cord, and branches of nerves and neurons covering the whole body.
 + The excretory system eliminates waste products from the blood using the kidney by producing ~~pee~~ urine.
-+ There are also organs called the accessory organs (even though they are very important):
++ There are also organs called the accessory organs (even though they're very important):
     + The liver regulates many chemical levels in the blood and excretes a product called bile that carries away waste.
     + The gallbladder holds bile before it's released into the small intestine.
     + The pancreas contains glands that create substances that help with digestion and control blood sugar (insulin).
@@ -205,7 +205,7 @@ Read the grade 7 science study guide for the scientific method.
     + Glaciers can be considered to be natural reservoirs; they store vast quantities of fresh water and release it when it's most needed.
 + A glacier can also change the surrounding landscape:
     + Glaciers also pick up and move sediments, as well as erode rocks. Water can seep in through cracks, freeze, and expand to break open rocks.
-    + Marks known as striations appear when rock fragments scrape bedrock as they are moved by glaciers.
+    + Marks known as striations appear when rock fragments scrape bedrock as they're moved by glaciers.
     + Valley glaciers can cause erosion and form a bowl-shaped basin called a cirque in mountains.
     + When at least two glaciers erode a summit from multiple directions, a ridge called an arete or a sharpened peak called a horn is formed.
     + A mixture of varied sediments deposited by sediments is called a till, and the material left by a glacier's meltwater is called outwash.
@@ -242,7 +242,7 @@ Read the grade 7 science study guide for the scientific method.
     + Groundwater is essential to many things. (agriculture, water level, feeding in water)
         + Wells and depend on holes dug down to a point below the water table (to get water).
         + When groundwater naturally flows out onto the surface, a spring is formed.
-    + Conserving aquifers from depletion is important as they are needed for humans and wildlife.
+    + Conserving aquifers from depletion is important as they're needed for humans and wildlife.
 + Water can be polluted from two sources:
     + Point sources are small, defined areas of pollutants. (gasoline leaks, accidental spills)
     + Non-point sources are wide areas of pollutants. (pesticide and fertilizer run-off)
@@ -255,7 +255,7 @@ Read the grade 7 science study guide for the scientific method.
     + Fresh water also has salts. It's just that ocean water has 16,000 times as much.
 + Light only penetrates through about 100 meters of the ocean, so most marine organisms are found in the top 180 meters.
 + The terrain of the sea floor and ocean basin is somewhat similar to the terrain on land.
-    + Long undersea mountain chains called ocean ridges run along the centers of the oceans they are formed by hardened volcanic rock.
+    + Long undersea mountain chains called ocean ridges run along the centers of the oceans and are formed by hardened volcanic rock.
     + Narrow, steep-sided canyons called trenches form where the edge of an ocean plate pushes against the edge of a continental plate; the ocean plate is then forced to bend steeply down beneath the heavier continental plate.
     + Between all that, the ocean floors are remarkably flat. They're called the abyssal plains and are formed by thick deposits of sediment moved by landslides.
     + Instead of starting at coastlines, ocean basins are connected to continents by a submerged part called the continental shelf. This is then followed by the continental slope, which drops steeply downwards.
@@ -272,7 +272,7 @@ Read the grade 7 science study guide for the scientific method.
     + The difference in level between a high tide and a low tide is called the tidal range.
     + Tides are controlled by the Earth, Sun, and Moon due to their gravitational pull.
     + The rotation of the Earth shifts where the tides take place throughout the day.
-+ The broad, continuous movements of ocean water are called currents. They are driven by winds, flow in one direction, and connect one place with another.
++ The broad, continuous movements of ocean water are called currents. They're driven by winds, flow in one direction, and connect one place with another.
     + Winds travel in a clockwise direction in the Northern Hemisphere and counterclockwise in the Southern Hemisphere. Ocean currents move in the same way.
     + Three things influence the direction of winds and surface currents: the uneven heating of the atmosphere, the rotation of the Earth, and the continents.
         + Winds begin as a result of the uneven heating and pressure of the air.
@@ -307,7 +307,7 @@ Read the grade 7 science study guide for the scientific method.
     + They combine with water vapor in the atmosphere to form sulfuric and nitric acids. The then return in precipitation that can be more acidic than vinegar.
         + This acid rain can damage and kill off plants and animals, and it can dissolve heavy metals into the soil.
 + The pH scale is used to determine whether a substance is a base or acid. It measures from 1 (very acidic) to 14 (very basic), with 7 being normal.
-+ A bioindicator species is a species of organism that reacts in a very sensitive way to changes in their environment. They are studied by scientists to know when things change. (stonefly larvae, mayfly larvae, caddisfly larvae, snails, leeches, crayfish, segmented worms, midgefly larvae)
++ A bioindicator species is a species of organism that reacts in a very sensitive way to changes in their environment. They're studied by scientists to know when things change. (stonefly larvae, mayfly larvae, caddisfly larvae, snails, leeches, crayfish, segmented worms, midgefly larvae)
 + Water management involves carefully balancing an area's available water for people, industries, wildlife, and the environment. Pollution must also be taken into consideration.
 + For water to be potable (safe to drink), it must be purified, so many communities clean water through the process of water treatment:
     1. Water from a source moves through an intake pipe. A screen keeps out debris and fish.

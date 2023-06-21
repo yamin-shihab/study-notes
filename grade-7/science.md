@@ -70,7 +70,7 @@ I hate this.
     + Bioaccumulation is the accumulation of pollutants in one organism.
     + Biomagnification is the movement of pollutants through levels of a food chain so that greater quantities are retained with movement up the food chain.
 + An ecological footprint is a calculation of the total area of land and water needed to supply all the materials and energy a human uses, as well as absorb the waste produced.
-    + Sustainability is when resources of nature are being renewed at least as quickly as they are being used, and all wastes are able to be completely absorbed.
+    + Sustainability is when resources of nature are being renewed at least as quickly as they're being used, and all wastes are able to be completely absorbed.
     + Reducing is limiting the amount of waste made. (buying less, shorter showers)
     + Reusing is using an item over again. (reusable food container, donating clothing)
     + Recycling is breaking down products and turning them into something else. (plastic bottles recycled into polar fleece, tires recycled into asphalt)
@@ -128,12 +128,12 @@ I hate this.
     + Soil can be enhanced by adding nutrients to it through organic ways (manure compost) or chemical ways (fertilizer).
 + Farming back then involved swathers which cut grain and forms them into a windrow (row of dry, cut grain), threshening which is separating grain from inedible parts, reaping is cutting the stalk for harvest with a scythe, sickle, or reaper, and winnowing which is throwing a mixture into the air as the wind blows the straw away.
 + Modern tools include:
-    + A combine is a machine that combines reaping, threshing, and bundling into one process (costs around $333 000 to $500 000).
+    + A combine is a machine that combines reaping, threshing, and bundling into one process (costs around $333,000 to $500,000).
     + A plow cultivates, turns, and mixes the soil to kill weeds, aid decomposition, and create space, but damages the soil. A seed drill positions seeds in the soil and then covers them.
 + Ways of farming include:
     + Zero-tillage is the practice of leaving the stubble of the previous crop to prevent the soil from wind and water erosion.
     + Shelterbelts are rows of trees along edges of fields grown to reduce wind damage to crops and soil.
-    + Irrigation is done by pipes and sprinklers that add moisture to soil. They are provided with water from lakes and rivers.
+    + Irrigation is done by pipes and sprinklers that add moisture to soil. They're provided with water from lakes and rivers.
     + Greenhouses are glass buildings that have plants grown in them. They let sunlight in but stop heat from escaping, so that conditions can be controlled, and better plants be grown.
     + Hydroponics is growing plants without soil. Nutrients are instead added to water and grown with just that.
     + Monoculture is planting only one crop in a field, so that it's easier to harvest, but pests can wipe it out easier.
@@ -267,7 +267,7 @@ I hate this.
 + Weight is the measure of the force acting upon an object (gravity is the biggest force), is measured with a spring scale (force meter), measured in Newtons, and weight will change depending on where you're in the universe.
 + A Static load (dead load) is a non-moving, non-changing permanent force. It's the weight of the structure itself and the non-moving load it supports. (beams, cables, rivets, steel plates)
 + A dynamic load (live load) is a load that moves or changes with time (non-permanent). (vehicles and pedestrians on a bridge, gust of wind acting upon a structure)
-+ Internal forces act from within a structure. It's a force that one part of a structure exerts on other parts of the same structure. They are classified by the direction in which they act, and they can cause deformation.
++ Internal forces act from within a structure. It's a force that one part of a structure exerts on other parts of the same structure. They're classified by the direction in which they act, and they can cause deformation.
     + Deformation is when a structure's shape changes because it can't resist internal forces.
     + Tension is the act of stretching and pulling apart. Materials fail by tearing or fracturing. (tug of war, exercise bands)
     + Compression is when a structure is squeezed. Materials fail by buckling. (springs, car crash impact, compression socks)
@@ -280,9 +280,9 @@ I hate this.
     + Structural fatigue is a permanent change in a structure caused by too much force being applied. (cracks, bending)
     + Structural failure is when a structure can no longer perform its function due to the forces acting on it.
     + Sometimes, structural failure is beneficial if it happens in an intentional, controlled way. (car bumper, blades of grass for sports, shear pins)
-+ Triangles are the strongest structural shape since they are good at spreading force and can't be bent easily (rigid).
++ Triangles are the strongest structural shape since they're good at spreading force and can't be bent easily (rigid).
     + A brace (kind of like a beam) forms a triangle at the point where pieces meet, therefore making it stronger.
-    + Corrugation is forming a material into wave-like ridges or folds. They are stronger since they form many triangles. (cardboard)
+    + Corrugation is forming a material into wave-like ridges or folds. They're stronger since they form many triangles. (cardboard)
     + Trusses are frameworks of beams joined to form triangles.
 + Other structural supports include:
     + A buttress is a slanted brace that supports an exterior part of a structure. (supports on the sides of a dome or arch)
@@ -326,7 +326,7 @@ I hate this.
             + An active volcano has recently erupted.
             + An extinct volcano hasn't erupted for tens of thousands of years and isn't expected to erupt again.
             + A dormant volcano isn't currently erupting but could erupt at any time.
-    + Earthquakes are ground vibrations caused by a sudden release of energy when plates strike each other as they are moving. They occur along faults (breaks in the crust).
+    + Earthquakes are ground vibrations caused by a sudden release of energy when plates strike each other as they're moving. They occur along faults (breaks in the crust).
         + The focus is the first place the rocks break in an earthquake.
         + The epicenter is the place on the surface directly above the focus and where most damage occurs.
         + Seismic waves are energy waves that travel outward from the source of the broken rock. There are three types. (p-waves, s-waves, l-waves (surface))

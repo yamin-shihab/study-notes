@@ -1,6 +1,6 @@
 # English Language Arts 8
 
-Good thing I learned a lesson from last year to start study guides early. Note from future (second last week of school): nope, you didn't learn a single lesson you idiot.
+Good thing I learned a lesson from last year to start study guides early. Note from future (second last week of school): nope, you didn't learn a single lesson, you idiot.
 
 # ***!!! ADDITIONAL NOTICE !!!***
 
@@ -116,7 +116,7 @@ Good thing I learned a lesson from last year to start study guides early. Note f
 ## Visual Literacy
 
 + The dominant impression of any narrative is the overall feeling or effect on a reader or viewer (and even video game player). Some film techniques that are used to aid in the process:
-    + Music can be a very powerful tool if used correctly. Things that can be taken into considered include the instruments chosen, the melody, and the accompaniment.
+    + Music can be a very powerful tool if used correctly. Things that can be taken into consideration include the instruments chosen, the melody, and the accompaniment.
         + Sometimes, different characters or events can have a repeating theme (called a leitmotif). (Darth Vader's Imperial March theme, Undertale's countless different leitmotifs and themes)
     + Lighting, shading, and illumination allows viewers to take note of what is being highlighted.
     + Costumes can help the viewer be immersed into the setting.

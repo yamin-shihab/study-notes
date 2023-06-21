@@ -57,7 +57,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + Monopolies were arranged with charters and set up in North America to get resources.
     + A monopoly is a company that's the only company allowed to get a specific resource.
 + France claimed a large area around the Great Lakes and called it New France.
-    + New France's population in 1700 was 15 000 colonists and 65 000 in 1760.
+    + New France's population in 1700 was 15,000 colonists and 65,000 in 1760.
     + Most of the colonists in New France were catholic and spoke French.
     + At first, monopolies in the fur trade were established and flourished. But the colony didn't and kept relying on France for survival.
     + They made many relations with First Nations through the fur trade.
@@ -73,7 +73,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + Coureur de Bois (runner of the woods) are men that engage in the fur trade with First Nations by "running into the forest". This eventually became illegal, but still continued.
 + Missionaries of the Jesuits (a Catholic religious order) converted the First Nations to Catholicism. They were able to document First Nations languages and their ways of life.
 + Britain claimed the area at the coast under the Maritimes and the US and those were the Thirteen Colonies.
-    + The Thirteen Colonies' population was 250 000 in 1700 and 2 500 000 in 1760.
+    + The Thirteen Colonies' population was 250,000 in 1700 and 2,500,000 in 1760.
     + Most of the people in the Thirteen Colonies were Protestant.
     + Each colony had a separate government. They had a governor either directly appointed by Britain or by chartered companies or landholders.
     + Elected assemblies also played a role in most governments of the Thirteen Colonies.
@@ -103,7 +103,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + In 1713, Britain won the War of Spanish Succession, and the Treaty of Utrecht was negotiated where Acadia is now under Britain's control.
     + The Acadians were told to leave within a year, but most stayed. In 1730, they were required to take an "oath of neutrality". The oath required the Acadians to stay neutral if a war broke out between France and Britain.
 + In 1755, a war seemed likely, so the British required a new "oath of allegiance". Now, the Acadians had to fight for Britain in a war against France.
-    + When they refused, the Great Deportation was where 11 000 Acadians were deported (to send out of a country) to the Thirteen Colonies, England, or France. Some went to New France or with the Mi'kmaq.
+    + When they refused, the Great Deportation was where 11,000 Acadians were deported (to send out of a country) to the Thirteen Colonies, England, or France. Some went to New France or with the Mi'kmaq.
     + They were deported because they had a strategic position (a physical location that's important for military reasons), they were Catholic and spoke French, Acadian settlers outnumbered British settlers in Acadia two to one, and they accepted the oath of neutrality, but not the oath of allegiance.
 + In 1754, fighting broke out between Britain and France to control the Ohio Valley (along the western border of the Thirteen Colonies). In 1756, the war went global, and Britain aimed to destroy the French navy and establish worldwide domination. Nine European countries had chosen sides. This was the Seven Years' War.
 + In 1760, Britain seized Quebec, but didn't completely win yet. The war ended in 1763, when France signed a treaty with Britain, the Treaty of Paris. Under the treaty, France gives up all its land in North America to Britain and Spain, except for Guadeloupe, Saint-Pierre, and Miquelon.
@@ -198,7 +198,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
 ## Chapter 9
 
 + In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
-+ The Red River Resistance occurred in 1869 because after the HBC sold Rupert's Land to Canada for 300 000 pounds, land surveyors appeared to divide and mark land too early.
++ The Red River Resistance occurred in 1869 because after the HBC sold Rupert's Land to Canada for 300,000 pounds, land surveyors appeared to divide and mark land too early.
     + People weren't consulted when the land they lived on was sold.
 + Louis Riel was born in the Red River settlement as a Metis. He was very well-educated since he graduated knowing many languages as well as science.
     + Louis Riel famously stopped surveyors from crossing his cousin's farm in October.
@@ -238,11 +238,11 @@ Will I ever manage to finish this and science in time while having a bunch of as
     1. Promote Canadian industry by adding a tariff (tax) to American products so that people buy Canadian products instead.
     2. Finish the national railway that connects the east with the west.
     3. Settle the west by encouraging European immigrants to come to Canada by giving free land. They'd grow grain for export and would buy products from Canadian industries.
-+ The government recruited many men from China to work on the CPR (Canadian Pacific Railway). By 1885, there were nearly 15 000 Chinese construction workers in BC.
++ The government recruited many men from China to work on the CPR (Canadian Pacific Railway). By 1885, there were nearly 15,000 Chinese construction workers in BC.
     + They tried to send their earnings home to China so that their loved ones and family members can come to Canada, however this was impossible since the Chinese workers were paid less than others.
     + When the CPR was complete, many Chinese Canadians helped establish the lumber and cannery industries but faced discrimination.
-    + A law was introduced in 1885 to restrict Chinese immigration to Canada. First it was $50 ($2 500 now), but they kept coming, so the tax kept increasing.
-    + Between 1885 and 1920, more than 82 000 Chinese people paid the tax and immigrated to Canada.
+    + A law was introduced in 1885 to restrict Chinese immigration to Canada. First it was $50 ($2,500 now), but they kept coming, so the tax kept increasing.
+    + Between 1885 and 1920, more than 82,000 Chinese people paid the tax and immigrated to Canada.
 + John A. MacDonald wanted the west to be populated, since by 1890 only 2% of the population lived in the west.
     + This changed when Wilfrid Laurier became prime minister. His Minister of the Interior (Clifford Sifton) began an advertisement campaign to attract immigrants.
     + It targeted the US, Britain, and many parts of Europe, but not French-speaking populations such as France, Belgium, or Switzerland.

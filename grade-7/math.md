@@ -9,15 +9,15 @@ This subject probably involves the least amount of studying because you'll be th
     + Composite numbers are whole numbers that can be made by multiplying other whole numbers together.
     + 1 isn't a prime nor a composite number.
 + The following are rules to tell if a number is divisible by some certain number.
-    + 1 when it's an integer. (123, 543, 2 490)
-    + 2 when the last digit is even. (6, 92, 412 342)
-    + 3 when the sum of all of its digits are a multiple of 3. (135, 5 706, 16 587)
-    + 4 when the number made by the last two digits are divisible by 4. (416, 56, 29 24)
-    + 5 when the last digit is either a 5, or a 0. (125, 85, 1 050)
-    + 6 when it's divisible by both 2 and 3. (312, 5 706, 625 872)
-    + 8 when the number made by the last 3 digits are divisible by 8. (3 032, 304, 62 937)
-    + 9 when the sum of all digits is a multiple of 9. (496, 18, 51 840)
-    + 10 when the last digit is a 0. (40, 500, 48 620)
+    + 1 when it's an integer. (123, 543, 2,490)
+    + 2 when the last digit is even. (6, 92, 412,342)
+    + 3 when the sum of all of its digits are a multiple of 3. (135, 5,706, 16,587)
+    + 4 when the number made by the last two digits are divisible by 4. (416, 56, 2,924)
+    + 5 when the last digit is either a 5, or a 0. (125, 85, 1,050)
+    + 6 when it's divisible by both 2 and 3. (312, 5,706, 625,872)
+    + 8 when the number made by the last 3 digits are divisible by 8. (3,032, 304, 62,937)
+    + 9 when the sum of all digits is a multiple of 9. (496, 18, 51,840)
+    + 10 when the last digit is a 0. (40, 500, 48,620)
 + You can use a Venn Diagram to sort numbers by their divisibility (the two circles chart thingy with a separate spot in the middle).
 
 ## Integers
@@ -57,12 +57,12 @@ This subject probably involves the least amount of studying because you'll be th
 + There are two types of decimal numbers:
     + A terminating decimal number has a finite number of decimal places. (4.6, 16.72, 134.154)
     + A repeating decimal number has a specific pattern of numbers that repeat forever. (pi, 10/3, 2/9)
-        + Repeating decimal numbers have a straight line on top of the repeating decimals to show that they are repeated.
+        + Repeating decimal numbers have a straight line on top of the repeating decimals to show that they're repeated.
 + Common factors are factors (numbers multiplied together to get a product) that are present in two, or more numbers.
 + Some ways to convert between fractions, decimals, and percentages:
-    + To convert a fraction to a decimal, convert the denominator to the nearest power of 10 by multiplying or dividing, then do the specific operation on the numerator, then make the decimal the numerator in the appropriate place value. (13/200 -> 65/1000 -> 0.065)
-        + If the denominator can't become a power of 10, divide the numerator by the denominator. (1/7 -> 1/7 -> 0.142 857)
-    + To convert a decimal to fraction, the place value of the last digit becomes the denominator and the original number becomes the numerator. (0.561 -> 561/1000)
+    + To convert a fraction to a decimal, convert the denominator to the nearest power of 10 by multiplying or dividing, then do the specific operation on the numerator, then make the decimal the numerator in the appropriate place value. (13/200 = 65/1000 = 0.065)
+        + If the denominator can't become a power of 10, divide the numerator by the denominator. (1/7 = 1/7 = 0.142,857)
+    + To convert a decimal to fraction, the place value of the last digit becomes the denominator and the original number becomes the numerator. (0.561 = 561/1000)
     + The following are rules for each denominator to be applied to the numerator to make the decimal.
         + /2 -> half the number.
         + /3 -> 0.3 repeated, 0.6 repeated.
@@ -72,40 +72,40 @@ This subject probably involves the least amount of studying because you'll be th
         + /9 -> numerator repeats after decimal.
         + /10 -> prefixed by 0.
         + /11 -> multiplied by 9 and then repeats.
-    + To convert a fraction to a percent, convert it to decimal, then move the decimal 2 places to the right, then add the % sign. (4/5 -> 0.8 -> 80%)
-    + To convert from percent to fraction, the number becomes the numerator and the denominator becomes 100. (55% -> 55/100)
-    + To convert from a decimal to a percent, either multiply the decimal by 100 or move the decimal 2 places to the right and then always add the % sign. (0.18 -> 18%)
-    + To convert from percent to decimal, drop the % sign, then either move the decimal 2 places to the left, or divide the number by 100. (75% -> 0.75)
+    + To convert a fraction to a percent, convert it to decimal, then move the decimal 2 places to the right, then add the % sign. (4/5 = 0.8 = 80%)
+    + To convert from percent to fraction, the number becomes the numerator and the denominator becomes 100. (55% = 55/100)
+    + To convert from a decimal to a percent, either multiply the decimal by 100 or move the decimal 2 places to the right and then always add the % sign. (0.18 = 18%)
+    + To convert from percent to decimal, drop the % sign, then either move the decimal 2 places to the left, or divide the number by 100. (75% = 0.75)
 + When comparing fractions, decimals, and percents, it's best to convert them all to one of those formats, then reorder them, then turn them back to their original form.
 
 ## Fraction Operations
 
 + Equivalent fractions are fractions that all represent the same amount, despite being different (imagine groups of small pizza slices being in the shape of one big pizza slice). (3/9, 1/3, 2/6)
-    + An equivalent fraction can be made from a fraction by multiplying/dividing both the numerator and the denominator by the same number. (2/5 -> 4/10)
+    + An equivalent fraction can be made from a fraction by multiplying/dividing both the numerator and the denominator by the same number. (2/5 = 4/10)
     + A simplified fraction is the smallest possible equivalent fraction for a fraction.
     + To find one for a fraction, divide the numerator and denominator by the largest common factor. (65/100's largest common factor is 5 -> 65/5 = 13, 100/5 = 20 -> simplified fraction: 13/20)
 + There are 2 ways to represent a number larger than 1 with a fraction.
     + An improper fraction has a numerator larger than, or equal to the denominator. (3/2, 5/5, 6/2)
     + A mixed number is a whole number along with a proper fraction beside it. (5 3/4, 2 4/6, 1 6/10)
-    + To convert from improper to mixed, divide the numerator by the denominator, that's the whole number, then the remainder is the numerator. (5/4 -> 1 1/4)
-    + To convert from mixed to improper, multiply the whole number by the denominator, add that to the numerator, then write the result on top of the denominator. (2 3/5 -> 13/5)
+    + To convert from improper to mixed, divide the numerator by the denominator, that's the whole number, then the remainder is the numerator. (5/4 = 1 1/4)
+    + To convert from mixed to improper, multiply the whole number by the denominator, add that to the numerator, then write the result on top of the denominator. (2 3/5 = 13/5)
 + A common denominator is a denominator that's the same between two numbers. (3/5, 1/5)
-    + To make a fraction's denominator common with another, multiply/divide both the numerator and denominator till it is. (3/6, 1/12 -> 6/12, 1/12)
+    + To make a fraction's denominator common with another, multiply/divide both the numerator and denominator till it is. (3/6, 1/12 = 6/12, 1/12)
 + To add fractions, make sure there is a common denominator, then just add the numerators, but keep the denominators the same. (2/7 + 3/7 = 5/7)
 + To subtract fractions, make sure there is a common denominator, then just subtract the numerators, but keep the denominators the same (4/6 - 3/6 = 1/6)
 
 ## Percent Problems
 
-+ You can get a percentage of a number by multiplying the number by the percent as a decimal. (60% of 50 -> 50 * 0.6 = 30)
++ You can get a percentage of a number by multiplying the number by the percent as a decimal. (60% of 50 = 50(0.6) = 30)
 + GST is a percentage tax imposed on buying products applied on their prices. Right now it's 5%.
-    + To get the GST of a product, multiply the price by 0.05. To get the total end price, either add the price of the GST with the item price, or multiply the item price by 1.05. ($40 -> 40 * 1.05 = $42)
-+ To get the amount saved by a discount or coupon, multiply the price by the discount or coupon as a decimal. To get the total end price, either subtract original item price by the amount saved, or multiply the original item price by the "opposite of the percentage" as a decimal. ($60 and a 20% coupon -> 20 * 0.8 = $48)
+    + To get the GST of a product, multiply the price by 0.05. To get the total end price, either add the price of the GST with the item price, or multiply the item price by 1.05. ($40 with GST = 40(1.05) = $42)
++ To get the amount saved by a discount or coupon, multiply the price by the discount or coupon as a decimal. To get the total end price, either subtract original item price by the amount saved, or multiply the original item price by the "opposite of the percentage" as a decimal. ($60 and a 20% coupon = 20(0.8) = $48)
 
 ## Statistics and Probability
 
 + There are different measures of central tendency:
     + The mean of a group of numbers can be considered the "true average".
-    + It can be calculated by summing up all the numbers in a group together and dividing it by the number of numbers. (2, 5, 1, 7 -> 16 -> 4)
+    + It can be calculated by summing up all the numbers in a group together and dividing it by the number of numbers. (2, 5, 1, 7 -> 16 / 4 = 4)
     + The median is the number in the middle in a group of ordered (or order them yourself) numbers. (4, 5, 9, 1, 0 -> 9)
     + The mode of a group of numbers is the number that occurs most time. (3, 9, 3, 1, 0 -> 3)
 + The range (not a Measure of Central Tendency), is the difference between the biggest and smallest numbers in a group of numbers. (3, 7, 1, 9, 5 -> 8)
@@ -113,7 +113,7 @@ This subject probably involves the least amount of studying because you'll be th
 + A circle graph shows how categories of data compare to each other as a whole.
     + It's a circle divided up into sections.
     + They need a title, labels/a legend, the sum of 360 for the total degrees, and data is reported as percentages.
-    + To find the angle in degrees for a sector, turn the percent into a decimal, multiply each decimal by 360, and then round the number. Use a protractor to measure each angle. (56% -> 0.56 * 360 = 201.6 degrees)
+    + To find the angle in degrees for a sector, turn the percent into a decimal, multiply each decimal by 360, and then round the number. Use a protractor to measure each angle. (56% of circle = 0.56(360) = 201.6 degrees)
     + You can draw the circle by tracing a circular object, or using a compass.
 + With chances and probabilities:
     + The favorable outcome is the event you're looking to occur in a probability experiment.
@@ -134,7 +134,7 @@ This subject probably involves the least amount of studying because you'll be th
     + A numerical coefficient is a number that multiplies the variable. (3x, 5y, 9i)
     + A term is a constant or variable prefixed by a +, or - sign. (-6, -z, 3)
 + When multiplying, you shouldn't use an X because it can be confused with the common variable name, x. Instead, use a numerical coefficient with or without parentheses. (3(6), 7x, 2(9))
-+ To evaluate an expression, substitute all occurrences of variable with their given value. (3n where n = 12 -> 36)
++ To evaluate an expression, substitute all occurrences of variable with their given value. (3n where n is 12 = 36)
 + A table of values is a table showing two sets of related numbers.
     + Patterns can be described by expressions which can be displayed in a table of values.
     + The left column has the inputs (x), the right column has the outputs (y).
@@ -149,7 +149,7 @@ This subject probably involves the least amount of studying because you'll be th
 
 ## Equations
 
-+ Equations can be represented using number tiles by using a long tile as an x tile. (a long x tile and 3 negative white tiles = 4 positive black tiles, means x - 3 = 4)
++ Equations can be represented using number tiles by using a long tile as an x tile. (one long x tile and 3 negative white tiles = 4 positive black tiles, means x - 3 = 4)
     + This makes two expressions on either side of the equation.
 + To solve an equation using number tiles, all tiles on the side with the x tile must be removed by making zero tiles, so that the x can be isolated.
     + Add the opposite of the tiles of the side, then add the same to the other side. (to solve: a long x tile with 2 positive black tiles = 6 negative white tiles, add 2 negative white tiles to make all the tiles on the left zero pairs, while increasing the right side to -8, making x = -8)

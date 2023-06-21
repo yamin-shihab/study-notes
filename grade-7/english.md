@@ -68,8 +68,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + A persuasive paragraph presents and argues your opinion about an issue or topic.
     + A descriptive paragraph describes, in vivid detail, a person, place, or thing.
 + When writing a paragraph, you must either indent the first line, or prefix it by an empty line.
-+ Paragraphs are also structured:
-    + Burgers are sometimes used to give examples of paragraph structure.
++ The structure of a burger is sometimes used as an analogy for paragraph structure:
     + The top bun is the hook and topic sentence.
     + The toppings and meat are the supporting key details.
     + The bottom bun is the concluding sentence.
@@ -148,7 +147,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 + A suspense involves character(s) in jeopardy or trouble. (in danger)
 + A flashback is when the author interrupts the main plot and goes back in time.
     + They usually give us more background information so that we can better understand characters, setting, conflict, etc.
-    + They are usually presented as dreams or memories in short stories.
+    + They're usually presented as dreams or memories in short stories.
 + Foreshadowing is hinting something that will happen in the future.
     + They usually happen in the beginning of the story or a chapter.
     + They set expectations about what will happen later on in the plot.
@@ -160,8 +159,8 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + A static character stays the same throughout the story.
     + A dynamic character changes throughout the story, whether it's good or bad.
     + A flat character can be summed up simply because of not being very detailed and not having much information.
-    + A round character has lots of information, is complex, interesting, and motivated. They are usually a major character since the author spends time describing them.
-    + A stock (stereotypical) character is generally a flat character, is stereotyped, often appears in literature, and is easily identifiable. They are put in similar roles each time.
+    + A round character has lots of information, is complex, interesting, and motivated. They're usually a major character since the author spends time describing them.
+    + A stock (stereotypical) character is generally a flat character, is stereotyped, often appears in literature, and is easily identifiable. They're put in similar roles each time.
 + Irony is unexpected. It's the opposite of what the character thinks, believes, or expects. (calling the tallest person "Shorty", calling a flat town "Summit")
 + Point of view or perspective is the "lens" in which a text is told in.
     + First person uses words such as "I" and "We".
@@ -228,7 +227,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + Money/time deals requires a singular verb. (A thousand dollars is the highest amount we can give you. Five years ought to be enough time.)
 + Commas might also accidentally be used incorrectly:
     + A comma splice is a common error in which a comma is used to join two or more independent clauses. (We had a nice time, I hope we can meet again soon.)
-    + To correct a comma splice, you can insert a coordinating conjunction between the two independent clauses (We had a nice time, so I hope we can meet again soon.), start a new sentence (I didn't like the movie. The movie was weird.), or insert a semicolon between the two independent clauses (only when they are related) (I liked the book; it was fascinating.)
+    + To correct a comma splice, you can insert a coordinating conjunction between the two independent clauses (We had a nice time, so I hope we can meet again soon.), start a new sentence (I didn't like the movie. The movie was weird.), or insert a semicolon between the two independent clauses (only when they're related) (I liked the book; it was fascinating.)
 
 ## Persuasion
 
@@ -239,17 +238,17 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + Link an argument to a character or person that people admire or trust.
     + Appeal to emotion to build a strong case.
     + Share facts.
-    + Tell the reader if something is a fact or if it's your opinion.
+    + Tell the reader if something is a fact or if it's your opinion (or lie).
     + Use examples to help your reader see and feel what you're trying to communicate.
     + Show the link between ideas using words like "first", "second", "third", "if...then".
     + Write a strong ending by making a personal statement, predicting what could happen if your idea came true or summarizing your arguments.
 + The following are advertisement strategies:
-    + Bandwagon convinces people that if they aren't using a product they are missing out on something everyone else has.
+    + The bandwagon technique convinces people that if they aren't using a product, they're missing out on something everyone else has.
     + Celebrity endorsement connects the product to a famous person.
     + Repetition makes a product memorable by repeating the name over and over.
     + Promotions and rewards offers coupons and discounts to buy the product.
     + Facts, figures, and statistics make an advertisement look official and scientific to add credibility.
-    + One product is better than the other by comparing the product to another similar product made by a competitor.
+    + One product can be shown as better than another by comparing the product to another similar product made by a competitor.
     + Weasel words use words like "may", "might", "can", "virtually", "up to", "as much as", or "possibly" to appear clear but actually be vague.
 
 ## Visual Literacy
@@ -260,7 +259,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 + Emanata are text or icons that represent what's going on inside a character's mind.
     + Examples include: "?", "ZZZ...", a light bulb, or something like "@&$%!#$".
 + Labels are written on characters to identify who's who or what a group is.
-    + They are frequently used in political cartoons to identify groups.
+    + They're frequently used in political cartoons to identify groups.
 + Narratory blocks are rectangles or squares that convey special information to the reader.
 + Signs are written onto objects to identify an object or show more information about something.
 + Sound effects are words that accompany action in a panel. (BANG, WHAM, POW, BOING)
@@ -301,7 +300,7 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + An internal rhyme occurs within a poetic line.
     + An end rhyme occurs at the end of a poetic line.
     + A rhyme scheme is a pattern of a rhyme. (ABCB)
-    + They are labeled with letters of the alphabet. (AABB)
+    + They're labeled with letters of the alphabet. (AABB)
     + Each letter corresponds to a specific type of rhyme. (Little Miss Muffet, = Sat on her tuffet = A)
 + Syllables are the unit of pronunciation that word sounds are separated into. (banana has 3, watermelon has 4)
 + There are many types and forms of poems, such as acrostic, concrete, limerick, haiku, cinquain, diamante, free verse, sonnet, ballad, narrative, lyrical, etc.
