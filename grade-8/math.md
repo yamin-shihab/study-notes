@@ -116,5 +116,19 @@ I had a summative test on the second week of school!
 + The volume of a 3D object is the 3D measure (cubic units) of the space occupied by the object. It can be calculated for prisms by multiplying the base shape's area by the depth/length of the object.
     + To find the volume of a rectangular prism, you can use V = whd. (2x4x3 meter rectangular prism -> V = 2(4)(3) = 24 cubic meters)
     + For cubes, you can use V = s^3. (cube with side length of seven meters -> V = 7^3 = 343 cubic meters)
-    + The surface areas of triangular prisms require V = d(wh / 2). (9x8x7 meter triangular prism -> V = 7(9(8) / 2) = 7(72 / 2) = 7(36) = 252 cubic meters)
+    + The surface areas of triangular prisms require V = d(wh/2). (9x8x7 meter triangular prism -> V = 7(9(8) / 2) = 7(72/2) = 7(36) = 252 cubic meters)
     + You can calculate the volume of a cylinder using V = d(pi)(r^2). (cylinder with radius of six and depth of ten -> V = 10(3.14)(6^2) = 31.4(6^2) = 31.4(36) = 1130.4 cubic meters)
+
+## Probability and Data
+
++ Probability events can be represented in fractions, decimals, or percentages. (rolling a die and drawing two cards from a deck without replacement will equal one specific arrangement = 1/6 * 1/52 * 1/51 = 1/15912 = 0.000063 = 0.0063%)
++ Different graphs better serve different purposes:
+    + Bar graphs are good for comparing quantities in categories. (price of the same product from different competitors)
+    + Line graphs are good for showing how something changes over time. (price of something over time)
+    + Circle/pie graphs good for showing things out of a whole. (time spent doing things)
+    + Pictographs are good for looking "appealing". (star ratings of places)
++ Data in charts can look misleading through the use of tricks:
+    + Increments can be made tiny or huge, and in some bad cases increments are broken up.
+    + The percentages in a circle/pie graph may not add up to 100% sometimes, and its slices may be disproportionately sized.
+    + Icons in pictographs may have different sizes to put emphasis on specific categories.
+    + A bar graph might make the horrifying decision to use pictures instead of bars.

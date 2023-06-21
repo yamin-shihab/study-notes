@@ -105,7 +105,7 @@ This subject probably involves the least amount of studying because you'll be th
 
 + There are different measures of central tendency:
     + The mean of a group of numbers can be considered the "true average".
-    + It can be calculated by summing up all the numbers in a group together and dividing it by the number of numbers. (2, 5, 1, 7 -> 16 / 4 = 4)
+    + It can be calculated by summing up all the numbers in a group together and dividing it by the number of numbers. (2, 5, 1, 7 -> 16/4 = 4)
     + The median is the number in the middle in a group of ordered (or order them yourself) numbers. (4, 5, 9, 1, 0 -> 9)
     + The mode of a group of numbers is the number that occurs most time. (3, 9, 3, 1, 0 -> 3)
 + The range (not a Measure of Central Tendency), is the difference between the biggest and smallest numbers in a group of numbers. (3, 7, 1, 9, 5 -> 8)
@@ -119,10 +119,10 @@ This subject probably involves the least amount of studying because you'll be th
     + The favorable outcome is the event you're looking to occur in a probability experiment.
     + Possible outcomes are the possible outcomes in a probability experiment.
     + Probability(event) = favorable outcomes/possible outcomes.
-    + An independent event is an event in a group of events that doesn't affect the probability of the other events.
+    + An independent event is an event in a group of events that doesn't affect the probability of the other events, while a dependent event affects the probability of the other events.
     + Either a tree diagram, or a table of outcomes can be used to represent possible outcomes of events.
-    + A tree diagram starts and branches out for each event. The amount of branches from each branch is the possible number of outcomes. The amount of branches at the end is the total overall amount of possible outcomes.
-    + A table of outcomes only works with 2 events (unless you want to traverse the nth dimension). It's a table where the rows represent the possible outcomes of the first event, and the columns represent the second event.
+        + A tree diagram starts and branches out for each event. The amount of branches from each branch is the possible number of outcomes. The amount of branches at the end is the total overall amount of possible outcomes.
+        + A table of outcomes only works with 2 events (unless you want to traverse the nth dimension). It's a table where the rows represent the possible outcomes of the first event, and the columns represent the second event.
 
 ## Patterns and Relations
 

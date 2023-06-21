@@ -28,6 +28,6 @@ Note that as I'm still in school, more information about the units would be "unv
 + [x] Science 7
 + [x] Social Studies 7
 + [x] English Language As 8
-+ [ ] Math 8
++ [x] Math 8
 + [ ] Science 8
 + [ ] Social Studies 8
