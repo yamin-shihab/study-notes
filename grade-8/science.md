@@ -106,7 +106,7 @@ Read the grade 7 science study guide for the scientific method.
     + The nucleus controls the activities of the cell. It also contains the genetic material of the cell.
     + The vacuole is a space for extra food, waste, and other substances that can't be immediately used.
     + The cell wall surrounds the cell membrane and protects the cell with its tough, rigid surface.
-    + The chloroplast is where the process of photosynthesis occurs. Energy from the sun is used to create carbohydrates.
+    + The chloroplast is where the process of photosynthesis occurs. Energy from the Sun is used to create carbohydrates.
     + The mitochondrion produces energy for the cell using tiny food particles.
     + The ribosome make proteins.
     + The rough endoplasmic reticulum serves as a base for ribosomes.
@@ -184,7 +184,7 @@ Read the grade 7 science study guide for the scientific method.
 + 97% of Earth's water is salt water, and the remaining is fresh water.
 + We have many uses for water: survival, hygiene, agriculture, industry, and leisure.
 + The water cycle is the constant movement of water throughout the planet:
-    1. Water evaporates from bodies of water and into the air; this is driven by the sun.
+    1. Water evaporates from bodies of water and into the air; this is driven by the Sun.
     2. The water vapor then condenses into clouds.
     3. The clouds then precipitate in the form of rain, snow, hail, etc.
     4. The water runs off of streams and collects somewhere, while carrying sediments.
@@ -213,11 +213,11 @@ Read the grade 7 science study guide for the scientific method.
 + Over the last several million years, Earth has had at least seven major periods of cooling called ice ages. The last one began 120,000 years ago and ended about 11,000 years ago.
 + The world was very different during an ice age; glaciers covered as much as 28% of the land. North America then was very similar to Greenland today.
 + There are multiple hypotheses as to what causes ice ages:
-    + There might've been occasional reductions in thermal energy given off by the sun.
+    + There might've been occasional reductions in thermal energy given off by the Sun.
     + Increased volcanic activity may add a lot of dust into the atmosphere.
     + Periods of mountain formation might've increased the area of high mountain ranges on Earth. The extra snow remaining on these cold peaks through the summer might've reflected sunlight to reduce the temperature.
     + The movement of Earth's tectonic plates might've altered the shape of the oceans and the flow of their currents, possibly resulting in imbalance.
-    + Changes in the tilt of the Earth's axis or orbit around the sun might've produced colder climates.
+    + Changes in the tilt of the Earth's axis or orbit around the Sun might've produced colder climates.
 + The greenhouse effect is a natural warming caused by gasses (mainly carbon dioxide) in the atmosphere trapping heat.
 + In a pond, sunlight reaches all the way to the bottom and allows for plants to grow there, whereas with a lake, sunlight doesn't reach the bottom and plants can't grow there.
     + The depth to which sunlight will penetrate depends on water's clarity: the amount of matter suspended in water.
@@ -266,7 +266,7 @@ Read the grade 7 science study guide for the scientific method.
     + Waves control beaches in two ways:
         + Strong winds cause waves to erode the beach.
         + Slow, calm waves deposit sediment onto the beach.
-+ The daily rises and falls of the oceans caused by the positions of the sun and moon are called tides. The upper and lower edges of a beach are determined by the high-tide mark and the low-tide mark.
++ The daily rises and falls of the oceans caused by the positions of the Sun and Moon are called tides. The upper and lower edges of a beach are determined by the high-tide mark and the low-tide mark.
     + The largest tidal movements (called spring tides) occur when the Earth, Moon, and Sun are in a line. At these times, tides are extra high and extra low.
     + The smallest tidal movements (called neap tides) occur when the Sun and Moon are at a right angle to the Earth. On these days, there's little difference in depth between high and low tides.
     + The difference in level between a high tide and a low tide is called the tidal range.
@@ -300,7 +300,7 @@ Read the grade 7 science study guide for the scientific method.
     + Some animals are important links, like small fish, as they and their eggs are important to many animals.
     + Fisheries can significantly affect the populations of fish, because they tend to target larger fish with higher market prices. This leaves a boost in the population of smaller fish.
     + Pollution also affects animals. When the concentration of a toxin is magnified through a food chain (phytoplankton absorbs toxin, zooplankton eats thousands of phytoplankton, fish eats hundreds of zooplankton, bird eats many fish), it's called biomagnification. So animals high up in the food chain are most severely affected.
-+ Some plants and animals don't use the sun's energy, but rather sea-floor vents at the bottom for energy. The process of using its chemicals for food is called chemosynthesis.
++ Some plants and animals don't use the Sun's energy, but rather sea-floor vents at the bottom for energy. The process of using its chemicals for food is called chemosynthesis.
 + In order for water to be safe to drink (potable), it has to cleaned and tested. Dissolved solids, salts, and organisms have to be removed.
     + Hard water contains lots of dissolved calcium and magnesium, while soft water has less.
 + Acid precipitation is caused by dissolved sulfur dioxide and nitrogen oxide in the atmosphere. These are waste gasses released by coal-burning industries, metal smelters, and automobiles.

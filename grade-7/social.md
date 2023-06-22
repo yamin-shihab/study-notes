@@ -68,7 +68,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + In 1663, the king of France established the Sovereign Council to rule New France in accordance with his decisions and included:
         + A governor who represented the king and controlled military, defense, and external relations.
         + An intendant who was the chief administrator and worked to keep the colony in good order to make it less dependent on France. He also looked for ways to exploit the colony for France
-        + The Bishop of Quebec represented the Catholic Church and played an important role. The church provided guidance, schools, hospitals, and orphanages. Members of the Catholic clergy also governed the colony.
+        + The Bishop of Quebec represented the Catholic Church and played an important role. The Church provided guidance, schools, hospitals, and orphanages. Members of the Catholic clergy also governed the colony.
 + Habitants were farmers who lived on seigneuries which were large plots of land owned by seigneurs (landlords). They received the seigneuries from the king of France and kept it by making sure that habitants farmed the land.
 + Coureur de Bois (runner of the woods) are men that engage in the fur trade with First Nations by "running into the forest". This eventually became illegal, but still continued.
 + Missionaries of the Jesuits (a Catholic religious order) converted the First Nations to Catholicism. They were able to document First Nations languages and their ways of life.

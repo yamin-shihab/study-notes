@@ -33,17 +33,17 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + Peasants banded together to kill nobles and burn their manors, but they were put down by the authorities.
 + The Black Death resulted in the death of millions of Europeans between 1346 and 1350. Regular outbreaks of the plague continued for the next several hundred years.
     + There were also many manor labor shortages and feudal estates going bankrupt. Nobles eventually had to start renting or selling their land to serfs.
-+ As time went on, more people began to keep track of time with clocks and bells instead of the sun, dials, water clocks, and hourglasses.
++ As time went on, more people began to keep track of time with clocks and bells instead of the Sun, dials, water clocks, and hourglasses.
 + With the rise of towns, society became less rigid. By acquiring wealth and skills (mostly in cities and towns), urban people could move up from one social level to another.
     + The power and social position of wealthy merchants and the new middle class was based on money rather than land.
     + People became more focused on showing off their wealth through their clothing, homes, and food.
         + This led to the introduction of sumptuary laws: laws that controlled how people could show off their wealth.
 + Religion was a very central part of people's lives daily lives. Life was also very difficult, so a hope for a better life after death was important to people.
-    + The church at the time was very important and had different roles within it. People also had to pay a tithe: a tax toward the church.
+    + The Church at the time was very important and had different roles within it. People also had to pay a tithe: a tax toward the Church.
     + Some people decided to devote their lives to God and become monks; they entered monasteries and spent their time studying religious texts, praying, and working. They also helped other people through food donations for the poor, caring for the sick, and teaching children.
         + Monasteries were centers of learning during the Middle Ages, and universities that grew around them taught grammar, geometry, astronomy, religion, law, medicine, and music.
     + The Black Death made some people question their faith; their attempts at pleasing God haven't worked and felt abandoned.
-        + People also started to take a critical attitude toward the church because of this. It was a wealthy institution that owned a third of Europe's land, received large sums of money in tithes, and some members like the clergy got caught up in the enjoyment of luxury.
+        + People also started to take a critical attitude toward the Church because of this. It was a wealthy institution that owned a third of Europe's land, received large sums of money in tithes, and some members like the clergy got caught up in the enjoyment of luxury.
 + With all these reformations going on, a period of great creativity in the arts and sciences called the Renaissance was about to begin, starting in Italy.
     + Its name is French and means a rebirth of Classical knowledge and learning.
 
@@ -67,7 +67,7 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Because all the city-states wanted to expand, there was rivalry. For example, Genoa and Venice competed for control of the sea routes in the Mediterranean.
     + Venice became the largest ship-building center in Europe.
 + The Polo family was also a group of merchants that made money by purchasing goods and selling them for a higher price somewhere else.
-+ There was a revolt in Florence caused by the unemployment caused by the Black Death. Workers like the ciompi wanted to form guilds, but couldn't because of powerful guilds and the government denying their requests. It caused an uprising that was then defeated.
++ There was a revolt in Florence caused by the unemployment caused by the Black Death. Workers like the Ciompi wanted to form guilds, but couldn't because of powerful guilds and the government denying their requests. It caused an uprising that was then defeated.
 + Florence's economy became so powerful that its currency became the most important currency in Europe during the Renaissance, thanks to its banks and bankers.
     + Usury, the practice of charging interest when loaning money to someone, was considered a sin by the Church. However, with the growth of international trade, the Church began to allow charging interest for loans that involved risk.
 + Wealthy Europeans travelled around on business, and helped with spreading Italian values and ideas across Europe.
@@ -111,3 +111,29 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Writers focused on translating the works of Roman and Greek writers as well as copying their styles. More books began to be written in the vernacular (commonly spoken language), to be more accessible.
     + Humanism influenced texts to express thoughts and emotions more.
 + Many humanists also believed that men and women shouldn't be judged by their gender, but their abilities and virtues.
+
+## Chapter 4
+
++ Before the Renaissance, Europeans that wanted to learn science would have to read books by scholars from Classical or Islamic civilizations and were not encouraged to ask questions, study, or do any experimenting. This is in contrast to the attitudes toward science during the Renaissance, where thinkers did much more using what was called the scientific method.
+    + The scientific method was the process of making observations, experimenting, and drawing conclusions based off of evidence. It led to many important discoveries and advances in different fields.
++ For a long time, many people believed that the Sun went around the Earth. It wasn't until different astronomers gave theories as they observed the universe:
+    + Nicolaus Copernicus was a Polish astronomer that got ideas from ancient Greek astronomers and discovered that the Earth is a planet that moves around a stationary Sun.
+    + Johannes Kepler was a German mathematician and astronomer that used mathematics to prove his ideas based off of Ptolemy and Copernicus's systems that plants travelled in an elliptical (oval) orbit, and not perfect circles.
+    + Galileo Galilei was an Italian astronomer and philosopher that built telescopes to study details in objects in the sky and confirm other Copernicus's idea of a Sun-centered universe.
+        + The Church charged him with heresy and ordered him to give up his views. If he refused, he might be tortured or burned alive for it, so he read a statement denying his belief in a sun-centered universe and was sentenced to house arrest. His book was put into the Index of Prohibited Books.
++ Before the Renaissance, doctors had little accurate knowledge about anatomy, so remedies were based mostly off of superstition. But then, scientists were able to dissect human bodies and learn more about anatomy to better diagnose and treat problems.
++ The works of mathematical scientists like Euclid and al-Khwarizmi were studied with new vigor during the Renaissance. The field of mathematics was seen as the basis for understanding the universe. Earlier civilizations also contributed to Europe learning.
+    + Perspective (what makes images look 3D) had been known in the ancient world, but no record of it had ever been found. The Renaissance architect Filippo Brunelleschi rediscovered the mathematical theory of perspective to show how buildings would look when finished.
++ Isabella D'Este grew up immersed in Renaissance teachings and ruled the city-state of Mantua occasionally.
++ The Florentine civil servant Niccolo Machiavelli observed people and governments and wrote his conclusions on the best way to govern in his book The Prince, and it became very controversial and influential.
+    + The term, Machiavellian, is used today to refer to people that seek to hold power by any means possible.
++ During the Middle Ages, some Church members abused their power, gained power unfairly, and did not honor their vows. As time went on, people's complaints grew louder.
+    + Girolamo Savonarola was a monk that fought against corrupt leaders, mostly from the Church. He preached before as many thousands of people at times, but was then excommunicated (exclusion from the Church) and later executed.
+    + The German monk Martin Luther studied the Bible itself and came to the conclusion that the Bible, rather than the Church, should be a Christian's true spiritual guide. He also criticized the Church for making money by selling indulgences, which were certificates that reduced the time people would be punished for their sins after death.
+        + He then nailed his Ninety-Five Theses on a church door in Wittenberg and told other scholars to debate the Church's issues. The theses were then printed and distributed throughout Germany. He was declared an outlaw by the Church, but then a new Church was started: the Lutheran Church. His ideas spreading throughout was known as the Protestant Reformation.
++ The spread of knowledge during the Renaissance was done in different ways:
+    + Many humanists taught at Italian universities to share their new ideas through discussions with one another and through their writings. Some people came from all over Europe to learn and bring back knowledge.
+    + Some famous scientists, artists, and thinkers were like celebrities travelling around Europe teaching and working with people.
+    + Kings and queens invited scholars and writers to their courts and collected manuscripts, paintings, and sculptures.
++ At the time, only the most educated people in society were literate, and books weren't written in the vernacular. This changed when the German named Johannes Gutenberg developed a printing press that allowed books to be quickly be produced cheaply.
+    + Soon enough, there were millions of books in print around Europe, and that facilitated the process of sharing knowledge. The ideas of scholars and humanists could be spread more easily and were more accessible due to being written in the vernacular.
