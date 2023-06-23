@@ -154,3 +154,12 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Portugal was the first European country to become involved in organized exploration; year after year, Prince Henry sent expeditions east to gold-producing areas. The establishment of routes to Africa led to heavy involvement in the slave trade, and allowed for a way to Asia.
 + Christopher Columbus was convinced that a shorter route to Asia lay west across the Atlantic Ocean. He died convinced that he was in Asia (he was around Central America the whole time).
     + Before he set off, he, Queen Isabella, and King Ferdinand made an agreement that they would claim and have power over all land visited.
+
+## Chapter 6
+
++ At the beginning of the Age of Exploration, Portugal and Spain sent out expeditions to find trade routes to Asia. After Christopher Columbus had discovered what he thought was a trade route to Asia, Portugal wanted to make sure it got its share of the Asian trade, but Spain couldn't come to an agreement.
+    + The rulers of both countries then asked the pope to settle the matter, so he proposed the secret Treaty of Tordesillas that would divide the world in half between the two. Other European rulers were angry about the treaty, and England and France simply ignored it.
++ Imperialism is the extension of power over a territory and its resources and people. It led to the enslavement, terrible working conditions, and deaths of the millions of people originally in Central and South America as Spain profited off of it.
++ Portugal became the most powerful trading country in Europe, while the Spanish conquering the peoples of America and their precious metals led to them being the wealthiest country in Europe. Other countries saw that power and wealth could be gained through imperialism, so competition grew. England, for example, attacked Spanish treasure ships, defeated Spain, and became a prosperous trading country and world power.
++ After contact with the Indigenous peoples of the Americas, some European philosophers thought about the differences between both worldviews and societies.
++ The impact of the Renaissance greatly affected the course of history, for better or for worse, as Europeans imposed their worldview on other parts of their world: their religion, ideas, values, and economic system.
