@@ -209,7 +209,6 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
         + "It's" is a contraction of "it is". (It's really heavy.)
     + To show possession by a singular owner, "'s" is added to the owner. (David's brand-new car was loud.)
         + If the owner is a noun that already ends with an "s", proceed to still add an "'s". (The bus's brakes were broken.)
-        + If the owner is a pronoun that already ends with an "s", proceed to either still add an "'s" or apostrophe to the owner. (James' apple was suspiciously perfect.)
         + To show possession by a plural owner, an apostrophe is added to the owner. (The dogs' tails were wagging.)
         + If the owner is an irregular plural noun (children, teeth, men), add an "'s" to the owner. (The women's bathroom was much cleaner.)
     + So apostrophes are never used to indicate a plural alone.

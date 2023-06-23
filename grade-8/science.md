@@ -69,7 +69,7 @@ Read the grade 7 science study guide for the scientific method.
     + Most fish have what's called a swim bladder. The amount of air in it changes to change the average density of the fish and its depth underwater.
     + Airships and hot air balloons float in the air because their average density is less than that of the surrounding air (hot air and helium is lighter than normal air).
     + The Greek scientist Archimedes made a discovery after being tasked by the ruler of Syracuse to find out if a crown he has is made of pure gold. He famously made the discovery after seeing water spill while in a public bath.
-        + The Archimedes' principle states that the buoyant force exerted upon an object is equal to the weight of the fluid displaced when the object is submerged.
+        + The Archimedes's principle states that the buoyant force exerted upon an object is equal to the weight of the fluid displaced when the object is submerged.
 + Pressure is a specific amount of force covered over a specific area. It's measured in pascals (named after a smart guy).
 + One pascal is equal to one newton per square meter, and therefore pressure can be calculated with the formula P = F/A.
     + Gasses are said to be compressible, because their particles can be pushed somewhat closer together while remaining a gas.
@@ -81,6 +81,73 @@ Read the grade 7 science study guide for the scientific method.
     + Particles flow from areas of high pressure to low pressure. (aerosol sprays)
     + Hydraulics is the study of pressure in liquids, and devices that utilize liquids to move something else using pressure are called hydraulic systems. They commonly use a series of tubes, hoses and pipes. (faucets, bike/car brakes, dentist equipment)
     + Pneumatic systems are similar, but use gasses instead of liquids. They use gasses instead mostly because gasses are compressible, so they require compressors (devices that... compress air).
+
+## Light and Optics
+
++ Light is a form of energy that you can see, and it radiates (spreads out) in all directions. This form of energy transfer involving radiant energy doesn't require matter and is known as radiation. There are two main types of light:
+    + A natural light source is from nature and isn't made by humans. (stars, fires, fireflies)
+    + An artificial light source isn't from nature and is made by humans. (light bulbs)
++ When light is absorbed by a surface, it can be transformed into several different forms of energy: thermal energy, electrical energy, or chemical energy. (solar cells, photosynthesis, sweater)
++ There are also different sources of light:
+    + Incandescent light sources heat an object to such a high temperature that it emits visible light. The emission of visible light by a hot object is called incandescence. (incandescent light bulb filament, candle flames)
+    + Fluorescent light sources absorb emit visible light after absorbing high-energy, invisible ultraviolet light. In fluorescent tubs, mercury particles absorb electrical energy to emit ultraviolet light; they're more expensive and toxic than incandescent light bulbs, but are more efficient because they don't emit as much heat.
+    + Phosphorescent light sources are similar to fluorescent light sources, but they are different in that they hold absorbed light for longer. (glow in the dark stuff)
+    + Chemiluminescent light sources emit light following a chemical reaction producing energetic particles. (glow sticks)
+    + Bioluminescent light sources are produced inside of living organisms. (fungi, fireflies, angler fish)
++ Luminous objects, such as the Sun, emit light, while non-luminous objects, such as the Moon, reflect light but don't emit any light of their own.
++ The cost of lighting can be calculated by considering how many watts are required per hour. (a sixty watt bulb turned on for ten hours if it requires eight cents per kilowatt-hour requires 4.8 cents)
++ The ray model of light tells us why things like shadows exist: light travels in rays, or straight lines, so shadows form where a ray of light's path is obstructed by an object.
+    + The closer an object is to a light source and further away from a surface, the larger its shadow is, and the further away an object is to a light source and closer to a surface, the smaller its shadow is.
++ Different surfaces also react differently depending on their properties:
+    + Transparent surfaces are see-through and allow for light to pass through. (glass, plastic water bottle)
+    + Translucent surfaces allow some bent light through. (frosted glass, blinds, thin paper)
+    + Opaque surfaces allow no light through and cast shadows. (concrete, a book, the stupid little laptop I'm using to write this stuff)
++ Reflection is the process in which light strikes and bounces off of a surface. The smoothness of the surface also determines how clearly light is reflected.
+    + The incident ray comes from a light source and hits the surface. The ray that bounces off of the surface from the incident ray is called the reflected ray.
+    + The normal line is the line perpendicular to the point of reflection. The angle of reflection and angle of incidence both measure the angles of the incident and reflected rays.
+    + The law of reflection states that the angle of reflection is equal to the angle of incidence. (45-degree angle of incidence will result in a 45-degree angle of reflection)
++ There are three main types of mirrors that can reflect light:
+    + A plane mirror is a flat surface and gives uniform results. (bathroom mirrors)
+    + A concave mirror caves in and makes close objects large and farther objects upside-down. (makeup mirrors)
+    + A convex mirror bulges outwards and reflects smaller images but has a wider field of view. (car mirrors on the sides)
++ Refraction is the bending and slow-down of light as its rays travel to mediums of different densities. It can cause images to appear in a different position from where it really is.
+    + When light travels into a denser medium, it will bend toward the normal, but will bend away when entering a less dense medium. The resulting angle is called the angle of refraction.
+    + A mirage is the result of hot air near the ground refracting sunlight, making what appears to be a disappearing pool of water.
++ A lens is a curved piece of transparent material, such as glass or plastic, that causes light to refract and bend.
+    + A double concave lens is thinner and flatter in the middle than around the edges. Light that passes through will diverge and spread outwards.
+    + A double convex lens is thicker in the middle than around the edges. Light that passes through will converge and come together. Sometimes, convex lenses form an upside down image.
+    + The lens in the human eye is a convex lens, so that it can take in light rays, refract them, and focus them at the back of the eye.
+        + Near-sightedness requires concave lens glasses to bring the image further away and to the back.
+        + Far-sightedness requires convex lens glasses to bring the image closer away and to the back.
++ The camera and the human eye are very similar in their workings (note that digital cameras are quite different from film cameras).
+    + The lens of a camera moves around to keep the image in focus. The human eye's ciliary muscles change the shape of the lens (protected by the cornea) to focus. This process is called accommodation. The ability to focus worsens as people get older.
+        + The near point is the shortest distance at which an object is in focus (about 25 cm for the average adult), and the far point is the longest distance (technically infinity).
+    + A camera's diaphragm adjusts the aperture (opening) and allows variable amounts of light in, and the shutter limits the passage of light for different times. An eye's iris changes the size of the pupil (opening) to allow for varying amounts of light in. This is called the iris reflex. (dark place, big pupil; bright place, small pupil)
+    + At the back of the camera, light rays are focused onto a light-sensitive film; it uses chemical changes to record the image. Upon receiving light, the retina in the human eye produces electrical impulses that travel to the brain via the optic nerve.
+        + The blind spot is the area in the retina that cannot detect light as that is where the optic nerve connects.
+    + The parts of a camera are contained in a rigid, lightproof box. In the eyes, fluids called humors: the vitreous humor is between the retina and lens, while the aqueous humor is between the cornea and lens.
++ Telescopes help us see distant objects more clearly. A refracting telescope has an objective lens to focus and collect light and an eyepiece lens to enlarge the image. A reflecting telescope uses a concave mirror to collect light rays, while the primary or objective mirror forms a real image that is then magnified by the eyepiece lens.
++ Telescopes are actually just two reflecting telescopes mounted side by side. They use prisms to server as plane mirrors and reflect light back and forth.
+* English scientist Sir Isaac Newton conducted an experiment where he placed a prism so that a thin beam of white light could pass through it. He then saw bands of color emerge refracted at different angles. It produced a rainbow effect.
+    + He then placed another prism so that the rainbow of light went through it, and white light emerged.
++ White light is commonly a spectrum of red, orange, yellow, green, blue, indigo, and violet, like the rainbow.
+    + For example, when white light passes through a blue bottle, the glass absorbs all the colors except for blue, leaving blue light to be reflected.
+    + The three colors red, green, and blue are called the primary additive colors because mixing them in proper amounts results in white light. The three colors yellow, cyan, and magenta are called secondary colors as they are the result of mixing two primary colors.
+        + Pixels on a screen are tiny dots of the three primary colors. Therefore, they can create pretty much any visible color by varying the intensities of each color.
++ The retina of the human eye contains two types of cells that respond to light: rods, which detect light, and cones, which detect color.
+    + Some people have color blindness because the cones in their eyes are unable to detect certain colors.
++ The distance from crest to crest in a wave is called wavelength, while amplitude is the distance between a wave's rest position and the height of its crest.
+    + The frequency is the number of cycles completed by a vibrating object in a unit of time, usually measured in hertz (cycles per second). (twenty hertz is twenty times per second)
++ Scientists have developed the wave model of light, which pictures light travelling as a wave; it doesn't explain everything about light, but it explains some unpredictable behavior, like light curving around an opening.
+    + It can for example explain sunsets: longer wavelengths like red and orange tend to pass around particles like dust and grit, while shorter wavelengths like blue and violet reflect and scatter off of them. At sunset, sunlight has to pass through more atmosphere and therefore has plenty of opportunity for blue and violet waves to be reflected away, compared to red and orange.
++ Laser light (Light Amplification by the Stimulated Emission of Radiation) is different from other types of lights in that its wavelengths are coherent (of the same type), compared to something like an incandescent light bulb (different wavelengths, so incoherent). (CD readers, supermarket scanners, surgery scalpels, eye correction)
++ Visible light is of the electromagnetic spectrum, but other types of waves are invisible. Wavelengths are usually measured in nanometers, which are 0.000,000,001 of a meter.
+    + Microwave ovens use a specific frequency of microwave (a type of radio wave with a long wavelength and low frequency) to be absorbed by water particles in food to vibrate and heat it up. They are also used for telecommunications and radar.
+        + Other types of radio waves are used for things like broadcast radio and television programs.
+    + Infrared radiation is invisible, but you can sense it, as it's heat radiation. (motion sensors, burglar alarms, heat lamps)
+    + Ultraviolet radiation can damage the skin and cornea, so that's why we wear sunscreen and sunglasses. The decreasing ozone layer absorbs lots of the sun's UV radiation.
+    + X-rays can penetrate through things like skin and muscle, but not through bone.
+    + Gamma rays have a short wavelength and high frequency. They result from nuclear reactions and can kill cells, so doctors can destroy cancerous tumors in patients' bodies using radiation therapy.
 
 ## Cells and Systems
 
