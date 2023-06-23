@@ -50,7 +50,7 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 ## Chapter 2
 
 + Marco Polo and his family were known for travelling along the Silk Road. Marco also told stories of his journeys.
-+ The Silk Road was the major series of trading routes that connected civilizations from the Mediterranean in the West to the Pacific Ocean in the East. It was helpful for the trade of items, foods, and goods.
++ The Silk Road was the major series of trading routes that connected civilizations from the Mediterranean in the west to the Pacific Ocean in the East. It was helpful for the trade of items, foods, and goods.
     + It was also important because it allowed for the sharing of ideas, knowledge, stories, and experiences. The Renaissance was hugely impacted by it.
 + The crusades were a series of holy wars fought between Christian and Muslim forces aiming to gain control of sacred religious sites in Palestine important in the three Abrahamic religions.
     + They were mainly initiated by the Church in response to Turks taking over the land.
@@ -137,3 +137,20 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + Kings and queens invited scholars and writers to their courts and collected manuscripts, paintings, and sculptures.
 + At the time, only the most educated people in society were literate, and books weren't written in the vernacular. This changed when the German named Johannes Gutenberg developed a printing press that allowed books to be quickly be produced cheaply.
     + Soon enough, there were millions of books in print around Europe, and that facilitated the process of sharing knowledge. The ideas of scholars and humanists could be spread more easily and were more accessible due to being written in the vernacular.
+
+## Chapter 5
+
++ During the Renaissance, people with power decided to have people explore for several reasons:
+    + Trade grew across Europe as people with money demanded luxury goods. Commerce and manufacturing also expanded significantly. Europeans resented the high price of goods because they had to go a long way, so if a direct sea route was established to the East, trade for goods would be cheaper.
+    + Europeans required more gold and silver to have more currency for exchange, as they were running out.
+    + Since religion was very important, Renaissance explorers and monarchs believed that the message of Christianity had to spread throughout the world. Europeans were often accompanied by missionaries to convert the peoples that they find.
+    + Europeans wanted to expand their knowledge of the known world, as it was quite limited at the time.
++ Aside from better boat designs, there were also some tools used to aid with navigation and exploration:
+    + The compass was used for finding the direction a ship was travelling and was probably developed in China and used by Muslim travelers.
+    + Astrolabes used the North Star or Sun to calculate latitude (distance north or south of the Equator) and was probably invented by ancient Greeks and refined by Arab scholars.
+    + The cross-staff measured the altitude of Polaris or the Sun to determine latitude.
+    + Back-staffs were developed as an improvement over the cross-staff (they were used to measure the altitude of the Sun to determine latitude).
++ During the Age of Exploration, many European countries had an expansionist worldview, so they wanted to expand their wealth and power by expanding their territory. This led to the desire to circumnavigate, or sail around, the Earth.
++ Portugal was the first European country to become involved in organized exploration; year after year, Prince Henry sent expeditions east to gold-producing areas. The establishment of routes to Africa led to heavy involvement in the slave trade, and allowed for a way to Asia.
++ Christopher Columbus was convinced that a shorter route to Asia lay west across the Atlantic Ocean. He died convinced that he was in Asia (he was around Central America the whole time).
+    + Before he set off, he, Queen Isabella, and King Ferdinand made an agreement that they would claim and have power over all land visited.

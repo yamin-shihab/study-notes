@@ -231,7 +231,7 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + This was needed to do things like expand west and build the railway.
     + Treaties were also used to assimilate the First Nations to be more "British" by forcing them to give up their cultural ways.
 + Canada made industrial residential schools for First Nations children as their promise for their education and a way to assimilate them into British society by separating them from their family and culture.
-+ The government of Canada founded the NWMP (North West Mounted Police) in 1873 following a massacre of 36 Nakoda people by a group of American and Canadian traders over an argument about some horses in what's now Southern Alberta.
++ The government of Canada founded the NWMP (North West Mounted Police) in 1873 following a massacre of 36 Nakoda people by a group of American and Canadian traders over an argument about some horses in what's now southern Alberta.
     + They were founded because of fears that the Americans would work with the "Indians" to take control of the west.
     + The NWMP developed a trust with First Nations that helped them keep peace in the west as the railway advanced and settlers arrived. They advised First Nations to conclude treaties with the government.
 + In 1873, John A. MacDonald lost a federal election after accepting the "Pacific Scandal". But he then won the next one five years later by stating the three part plan known as the National Policy:
