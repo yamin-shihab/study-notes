@@ -163,3 +163,30 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Portugal became the most powerful trading country in Europe, while the Spanish conquering the peoples of America and their precious metals led to them being the wealthiest country in Europe. Other countries saw that power and wealth could be gained through imperialism, so competition grew. England, for example, attacked Spanish treasure ships, defeated Spain, and became a prosperous trading country and world power.
 + After contact with the Indigenous peoples of the Americas, some European philosophers thought about the differences between both worldviews and societies.
 + The impact of the Renaissance greatly affected the course of history, for better or for worse, as Europeans imposed their worldview on other parts of their world: their religion, ideas, values, and economic system.
+
+## Chapter 7
+
++ The Aztecs migrated looking for an eagle perching on a cactus with a snake in its beak, because it's believed that their god Huitzilopotchli commanded them to do so. After 150 years of searching, they named their capital Tenochtitlan.
++ For the Aztecs, mountains were seen as a sacred or holy site, because its height brought people physically closer to their gods, so they built pyramid temples similar to mountains for worship.
+    + The mountains that surrounded Tenochtitlan gave a sense of security from invaders, but floods could be caused due to their steepness. Aztec engineers then built dams for control, and aqueducts were built for fresh water from underground springs.
++ Lake Texcoco surrounded Tenochtitlan and also provided safety from the Aztec's enemies. Causeways were built to link the lake to the mainland and could be destroyed for protection.
++ The population of the Aztecs in Tenochtitlan grew from a few thousand to several thousand because of their ingenuity, engineering, military, and agriculture.
+    + The Aztecs had more than enough food to supply their population and army, mostly due to farmers using floating islands in water called chinampa.
++ The Aztecs believed that the gods controlled every aspect of their world looked to the gods for signs on how to live. Although they had many, they saw some as greater than others.
+    + Huitzilopotchli was the Aztec's tribal god, guided them to their homeland, and required the blood of sacrificed victims to gain strength to overcome the night's darkness.
+    + The most powerful of the gods was Tezcatlipoca, and he saw visions of the future and was locked in an eternal struggle with Huitzilopotchli.
+    + Quetzalcoatl was the god of wind, and he left Mexico after a fight with Tezcatlipoca. Priests prophesied his return from the east in the year "One-Reed", bringing destruction to the Aztec empire.
++ The Aztecs kept large libraries of books called codices, which were used to record important information about their society. However, the Spanish then destroyed many of them.
++ The Aztecs had two calendars: a solar calendar used for general and farming usage and a sacred calendar used for religious purposes. It takes exactly 52 years for both calendars to catch up with each other.
+    + The Aztecs believed that there were four eras before the present one and each had been destroyed. The first one was destroyed by jaguars, the second by hurricanes, the third by fiery rain, and the fourth by a flood. It was said that earthquakes will destroy the fifth sun.
++ The Aztecs believed that their gods would grow sick and die without nourishment from human blood, causing the world to end, so the Aztecs performed regular human sacrifice. War was therefore important because it provided victims for sacrifice.
+    + The Aztecs also believed that killing someone may give them a better afterlife, but it was also used as a form of intimidation to other peoples.
+    + Every 52 years, the New Fire ceremony involved people fasting and letting their fires out. They waited on rooftops to see a sacred flame lit near Tenochtitlan, and a courier would then carry this flame from house to house to relight the fires.
++ According to Aztec philosophers, the Earth was a round, flat disk divided into four sections, with Tenochtitlan at the center (the gods assigned them a special place in the universe).
++ The Aztecs traded with other societies for things that they don't have access to, like avocados, papayas, cacao beans, bright bird feathers, silver, and gold.
+    + Merchants travelled for a while with many slaves to on purchasing and trading expeditions. They also acted as spies sometimes, mapping other cities for Aztec leaders.
++ War and the conquering of others was very important to Aztec society; they believed that their group was destined to rule the world. In fact, military service was compulsory for every man: being called a cowardice was a horrible insult to the Aztecs.
+    + Aztec warriors had to be ready to sacrifice their own lives for the good of the group, because people had to be quite patriotic.
+    + Due to all this, the Aztecs managed to control an empire larger than any in North America.
+    + When another group was conquered, Aztecs collected tributes, valuable gifts and taxes, to strengthen their empire.
++ Cocoa beans, the basis of chocolate, were also rather important to the Aztecs: they were used as currency, drinks, and were said to give wisdom and power.
