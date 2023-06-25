@@ -179,7 +179,7 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + The Aztecs kept large libraries of books called codices, which were used to record important information about their society. However, the Spanish then destroyed many of them.
 + The Aztecs had two calendars: a solar calendar used for general and farming usage and a sacred calendar used for religious purposes. It takes exactly 52 years for both calendars to catch up with each other.
     + The Aztecs believed that there were four eras before the present one and each had been destroyed. The first one was destroyed by jaguars, the second by hurricanes, the third by fiery rain, and the fourth by a flood. It was said that earthquakes will destroy the fifth sun.
-+ The Aztecs believed that their gods would grow sick and die without nourishment from human blood, causing the world to end, so the Aztecs performed regular human sacrifice. War was therefore important because it provided victims for sacrifice.
++ The Aztecs believed that their gods would grow sick and die without nourishment from human blood, causing the world to end, so the Aztecs performed regular human sacrifice. War was therefore important because it provided victims for sacrifice; wars like these were called flower wars.
     + The Aztecs also believed that killing someone may give them a better afterlife, but it was also used as a form of intimidation to other peoples.
     + Every 52 years, the New Fire ceremony involved people fasting and letting their fires out. They waited on rooftops to see a sacred flame lit near Tenochtitlan, and a courier would then carry this flame from house to house to relight the fires.
 + According to Aztec philosophers, the Earth was a round, flat disk divided into four sections, with Tenochtitlan at the center (the gods assigned them a special place in the universe).
@@ -227,7 +227,7 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + Spain was then part of a vast empire; the Arab Islamic world was part of the largest economic trade zone in the world. Muslim rulers and merchants supported the arts, so music, art, and architecture reflected Islamic values.
     + Learning was greatly valued in Muslim society as a way of understanding the universe and to aid in living an ethical life. The world's first university was established in Cairo, and many cities became great centers of learning. Muslim scholars studied and discussed medicine and science, and translated Classical books and essays with Jewish scholars.
     + Muslim Spain was a society that was relatively tolerant of religious minorities.
-+ By the early 1000s, the caliphate, or the area of jurisdiction of Islamic rulers, in Spain had begun to decline due to a series of ineffective rulers leading to periods of civil unrest. The small Christian-controlled area began to expand, as part of the Reconquista (meaning reconquest), which was a war based on religious differences.
++ By the early 1000s, the caliphate, or the area of jurisdiction of Islamic rulers, in Spain had begun to decline due to a series of ineffective rulers leading to periods of civil unrest. The small Christian-controlled area began to expand, as part of the Reconquista (meaning "reconquest"), which was a war based on religious differences.
     + Large groups of soldiers using the same weapon in tight formations were difficult to overrun and proved to be very effective in Europe (and soon the Americas).
     + Christian crusaders from across Europe helped with the Spanish Christian forces to win territory from Muslims, and after a long time, Spain was captured and a Christian land.
 + Kind Ferdinand and Queen Isabella (they were called the Catholic Monarchs by the Pope), took control of the Spanish Inquisition from the Church, which was a state-run system of courts where Church officials put non-Catholics on trial. Muslims and Jews were given a choice: convert or be exiled. Some decided to leave Spain, while others pretended to convert, but there were still lingering fears, as inquisitors frequently used tortures to get confessions.
@@ -240,3 +240,36 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
         + Many hidalgos (poor nobles without land) refused to work manual labor or a trade, so they instead went to the Americas to seek their fortune.
     + Not all the people going to the Americas were seeking only riches; some wanted to make a name for themselves and earn respect in Spanish society.
 + El Cid was a Christian knight and a complex character, as he sometimes fought on the Muslim side; he became revered as Spain's national hero for some of his aspects: he was a militarily successful, loyal to his king, was generous and fair, and believed in God. These qualities became part of the code of chivalry.
+
+## Chapter 10
+
++ Conquistador, meaning "conqueror", was the term that the Spanish leaders in the Americas used to describe themselves. They also had a formula for conquering an area:
+    1. An expedition would set out from a recent colony.
+    2. After landing in a new region, the Spanish would try to meet peacefully with the first groups of Indigenous people they encounter; their aim was to discover which group in the area was the most powerful.
+    3. The Spanish would invite the leader of that powerful group to a meeting to exchange gifts. Then, the Spanish would seize the leader and threaten to kill him unless if his followers obeyed their orders.
+    4. If they did have to fight, the Spanish would try to do so on open ground. They had the advantage with their horses, armor, and weapons.
+    5. The leader of the expedition would remain as governor of the new colony and his second-in-command would organize the next expedition.
++ Hernan Cortes grew up in Spain and decided that he would go to the Caribbean where there were colonies set up. He believed that that was a good place to make his fortune. He was invited to join an expedition to conquer Cuba, and with 300 men, the Spanish conquered Cuba using the conquistador's formula.
+    + Remaining in Cuba, he was second in command to Governor Velazquez, but he then left again after the Spanish discovered a new civilization more advanced than any other they've seen: the Aztecs. Along the way, Spanish forces encountered many Indigenous groups that either joined the Spanish or were defeated.
+    + Velazquez tried to cancel the expedition because he was worried that Cortes would get all the glory for his discoveries, but Cortes ignored the governor.
+    + Before striking inland to the Aztec Empire, Cortes established a town independent of Velzquez, sent a ship full of treasure to Spain, and sank the other ten to prevent Velzquez loyalists from defecting from his expedition.
++ The Spanish beat the Aztecs in their war due to a few reasons:
+    + The Spanish had much more advanced weapons compared to the Aztecs:
+        + Aztec war clubs could cut and chop but required strength and shattered on hard surfaces, while Spanish swords were sharp and allowed for another hand.
+        + Wooden spears had Aztecs get in close to the enemy before thrusting at unprotected areas, while the Spanish halberd was long and had three different points.
+        + The Aztec atlatl allowed for spears to be thrown great distances with much more force than an arm, while crossbows allowed the Spanish to shoot with a very high force.
+        + The Spanish also had weapons that used gunpowder, like muskets and cannons. These firearms were unknown to the Aztecs and frightened and confused them.
+        + Horses helped the Spanish win because of their size, power, and speed. The Aztecs also didn't know about them.
+    + Disease gave the Spanish the advantage, as a smallpox epidemic broke out in Tenochtitlan. This ended up killing vast numbers of Aztecs and weakening their ability to resist the Spanish assault. The Aztecs, unlike the Spanish, had no immunity to such diseases brought by merchants and such.
+    + When Cortes's forces defeated the Tabascan people, among the gifts givens were slaves, and one of them was a woman named Malinche. She ended up acting as an intermediary between Cortes and Moctezuma (the Aztecs' emperor), because she could speak both Mayan and Nahuatl; she became his advisor and spy. Without her, Cortes couldn't have succeeded.
+        + She learned Spanish and later became Christian and became known as Dona Marina.
+        + In today's Mexican popular culture, people use the term "malinchismo" to refer to the practice of preferring foreign things to Mexican things. It comes from Malinche's name.
++ The Battle of Tenochtitlan consisted of several events:
+    1. Cortes and his forces were taken to live in the palace of Moctezuma's late father.
+    2. The Aztecs then showed them the glories of their city, including their golden treasures. This desire of wealth finally caused Cortes to attack.
+    3. The Spanish placed Moctezuma under house arrest in his palace as they looted gold and melted it down. Moctezuma was forced to be a subject of Spanish rule.
+    4. News came out that Spanish troops sent by governor Velazquez to arrest Cortes have arrived at the coast, so some troops were sent of to deal with that threat. Pedro de Alvarado was left in charge of Tenochtitlan; he gave the Aztecs permission to hold a festival, but he then had all the dancers massacred.
+    5. Cortes defeated Velazquez's forces and convinced them to join him against the Aztecs. When he returned, the city was in an uproar. He forced Moctezuma to calm his people down, but was killed by either stones being thrown or the Spanish strangling him.
+    6. The Aztecs attacked the Spanish and their allies, killing many; the rest were driven out of Tenochtitlan.
+    7. By the time Cortes returned six months later, 25% of the Aztec population was killed by the smallpox epidemic caused by the Spanish arriving.
+    8. The Spanish tore down the city and destroyed its aqueducts. Only 60,000 Aztecs survived in the ruined city. Cortes would then lay the foundations for another Spanish colony in the Americas.
