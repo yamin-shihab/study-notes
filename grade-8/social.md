@@ -190,3 +190,33 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + Due to all this, the Aztecs managed to control an empire larger than any in North America.
     + When another group was conquered, Aztecs collected tributes, valuable gifts and taxes, to strengthen their empire.
 + Cocoa beans, the basis of chocolate, were also rather important to the Aztecs: they were used as currency, drinks, and were said to give wisdom and power.
+
+## Chapter 8
+
++ Aztec society had two main classes of people: the nobles and the commoners. A person's position was generally determined by which class they were born into, but some people were able to work their way up to higher levels through their own efforts.
+    + The emperor, whose Aztec name meant Great Speaker, was treated as if he were a god by the Aztecs, and respect was shown to him through obedience without question. He had many privileges and luxuries, like living in an enormous palace with gardens and a zoo
+        + The position wasn't hereditary: a council of nobles decided by vote who was going to be the next emperor.
+        + As the commander of the army, he had to be a skilled warrior himself that knew military strategy.
+        + He would call upon his council of priests and nobles for advice, but the ultimate decision rested upon him.
++ Units called calpolli organized people by their work or family and had its members living in the same place. Each calpolli had its own captain and council too; they assigned land and houses, collected taxes, and had to make sure the place was clean.
++ Farmers grew crops, hunted, and fished. They sold much of what they produce and catch in the market, but also serve the state as well.
++ Artisans, or skilled craftsworkers, produced fashionable clothing and fine art. The most valued creations were made by the feathers of the quetzal bird, that lives in tropical rainforests, because they were sacred and associated with Quetzalcoatl, the "feathered serpent" god.
++ One of the largest markets in the world at the time was held daily in Tlatelolco, the market district of Tenochtitlan; it had tens of thousands of people visit every day. It wasn't just a place for vendors to sell their many varieties of goods, but it also served as a social center for the Aztecs.
++ In Aztec society, the most common way for people to indicate their position in society was through their clothing, jewelry, and house.
++ The main way for Aztecs to move up in society was on the battlefield; capturing prisoners for sacrifice to honor the gods. A warrior that captures four enemies would become eligible for membership in a higher social status
++ The writing system that the Aztecs used consisted of glyphs, which were pictures used for letters or words, and the Aztecs also had a base-twenty number system.
++ Aztec children were educated at home until they started at school at the age of ten to fifteen. They were taught to be hard-working, disciplined, and obedient, so that Aztec society consisted of citizens with "a stone heart and a stone face". Since education was valued, all schooling was free and every child went to school.
+    + The calmecac was the school for nobles; they were often attached to a temple. Students studied codices to learn about their society, and religious training was an important part of their education. They learned things such as astronomy/astrology, mathematics, reading, writing, music, law, and the calendar.
+    + At school, all boys trained as warriors to defend the Aztec state. Once a boy knew how to fight, he would server as a soldier's servant until the age of fifteen, which is when they take an active role in battle. The eagle and jaguar were the most prestigious military orders.
+    + The commoners' school were called telpochalli. Since commoners weren't taught literacy, instruction was verbal and based off of memorization. They were taught history, religion, citizenship, and music. Boys spent much of their time at school doing hard physical labor. Practical instruction from parents was also given at home.
+    + Despite women having little political power, it was important for girls to receive a good education. Most of them would then get married at sixteen, move in, and maybe work as doctors, priestesses, healers, matchmakers, and midwives.
++ Aztec society focused on producing citizens who would contribute to the community, so lessons in good citizenship were part of children's education. There were five main virtues that were valued by the Aztecs:
+    + Citizens were expected to show courage and deal with hardships without complaining.
+    + The group was considered more important than the individual, and all Aztecs had to be willing to sacrifices many things for the good of society.
+    + No one was to boast about personal achievements or do anything else to stand out from the crowd.
+    + People had to keep themselves healthy and avoid over-indulging in food and drink.
+    + Everyone had to obey superiors without question to preserve the social order.
++ Every citizen had to obey the law, and since nobles were expected to set a good example, they were often judged more harshly than commoners.
+    + There were high and low courts with different judges, and because there weren't prisons, serious crimes often resulted in slavery and death.
++ Because the Aztecs knew that slaves performed much necessary work, they had their rights protected: nobles that beat slaves to death could be executed, and slaves sold in the marketplace could escape and run to the emperor's palace (about 1.5 kilometers) to win their freedom.
+    + The Aztecs also didn't believe that it was shameful to be a slave or that it was a permanent condition. Slaves could keep their property, and children born to slaves were free.
