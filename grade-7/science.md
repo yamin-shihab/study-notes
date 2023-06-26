@@ -319,7 +319,7 @@ I hate this.
     + A volcano is an opening in the Earth's crust where molten rock, ash, and gas escape.
         + Inside an active volcano is a chamber where molten rock collects.
         + It starts when one plate is forced under another at a boundary.
-        + Then, pressure from magma and trapped gas builds up inside the chamber, causing magma to move through channels in the rock and escape onto Earth’s surface.
+        + Then, pressure from magma and trapped gas builds up inside the chamber, causing magma to move through channels in the rock and escape onto Earth's surface.
         + Magma is molten rock within the Earth's crust.
         + Lava is molten rock flowing on the Earth's surface.
         + There are three states to a volcano:

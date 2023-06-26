@@ -377,3 +377,33 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + During the late 1700s and early 1800s, Japan was hit by many natural disasters that brought about famines and took many lives. A third of the population died of starvation.
     + The scarcity of rice led to a steep increase in price, so city dwellers attacked the homes of the wealthy.
 + By the early 1800s, several nations were knocking on Japan's door: Russia, England, and the United States requested trade, or at the very least, water and coal for their passing ships. In 1825, the shogunate responded with the "No Second Thought Expulsion Order": whenever a foreign ship was sighted approaching any point of the coast, people should fire on it and drive it off. If the foreigners forced their way ashore, they were to be captured and imprisoned.
+
+## Chapter 15
+
++ In 1853, the American Commodore Perry arrived to Japan in 1853 to cause pressure to influence Japan. The Japanese reacted with fear and respect for mainly three reasons:
+    + Perry showed off his military strength by bringing large steamships and guns with him.
+    + The Japanese didn't want to be treated negatively the way European countries treated China in the Opium War.
+    + The Japanese felt like that they had to keep the US happy, so that all would be well.
++ The Americans asked for trade, coal, and protection for shipwrecked sailors, and a year later, Commodore Perry returned with double the number of ships and men. The Japanese agreed to sign the Treaty of Kanagawa: it opened up two Japanese ports to American ships, established an American consulate in Japan, and accepted the demands regarding shipwrecked sailors and coal.
+    + In 1858, Japan signed similar treaties with England, France, The Netherlands, and Russia. Many people in Japan referred to these treaties as "unequal treaties" because they were forced upon Japan, and they lessened control over their trade.
++ Many groups of people thought that the shogun signing the treaties was a sign of weakness and caused an uproar. Others thought that some change was good, and others thought that lots of change was required.
+    + Groups that disagreed with the shogun or each other no longer debated their differences in council chambers, but instead took to rioting in the streets and other acts of violence.
+    + Daimyo who opposed the shogun were retired or put under arrest. Their samurai were imprisoned, exiled, or executed.
+    + Attacks on foreigners increased and at times, foreign gunboats bombarded the Japanese shore in response.
++ Finally, in 1868, the shogun (Tokugawa Yoshinobu) resigned but formally petitioned the emperor to take over power. Civil war broke out between those who wanted to restore the shogunate and those who favored rule by the emperor. The country was divided, but in the end, 30,000 troops supporting the emperor blasted a shogunate stronghold for two weeks and then set it on fire.
++ When the young (21-year-old) Prince Mutsuhito was made emperor of Japan, he changed his name to Meiji, meaning "enlightened rule". The Meiji Restoration was the beginning of the entire Meiji period. It was when the government emphasized the importance of the emperor over the shogun.
+    + The samurai that led the fight to defeat the shogunate and restore the emperor now became his advisors. This oligarchy (unelected group of powerful leaders) took control of the government in the emperor's name and ruled the country.
++ It was realized that Japan would have to change in order to keep westerners from taking over like in China. Japan had to have a strong country with economic and military power to take its place in the modern world.
+    + A strong central government would unite the country and rule it effectively, and a form of government closer to the democracies of the west would be created. The government and emperor also moved to Tokyo (the new Edo), the capital.
+    + Meiji leaders encouraged daimyo to turn over their lands to the state, and although they were given pensions as compensation, the Meiji leaders pointed out that the land had actually always been the property of the emperor.
+    + The samurai system was abolished by the government, and samurai were given a tax-free income that didn't last for long.
+    + Commoners were given new rights after the Charter Oath: they were allowed to choose where they would live and what occupation they would pursue. Commoners could have a family surname. Old rules about dress were no longer enforced, and peasants became the outright owners of their land. Discrimination against outcasts was also ended.
+        + In 1871, the Emancipation Edict, which was designed to emancipate (free) the burakumin (outcasts) from their lowly position in society, was passed by the Meiji government. The edict did little to improve their lives. Further legislation over the years attempted to end prejudice.
+    + Leaders decided that education needed to be based on traditional values and centered on developing respect for the emperor.
+        + The Imperial Rescript on Education was issued by the Emperor in 1890 to outline Japan's new education values.
++ Despite all these changes, life remained the same for many because fathers still controlled their families, class distinctions remained, rural peasant life remained largely the same, and many people couldn't afford to send their children to school.
++ Industrialization was the process of transforming the economy of a nation or region from a focus on agriculture to a reliance on manufacturing, so new machines were used to make a lot of new technology (mass production). In the west, the Industrial Revolution had machines that could quickly and efficiently produce goods gradually be invented. Factories were built where many workers produced large amounts of goods. Transportation was also revolutionized.
+    + In Japan, Perry brought a miniature steam engine with its own track and two telegraph sets in exchange for lacquer work, porcelain, and fine silk fabric.
++ In order to modernize Japan, the Meiji leaders sent a mission around the world to visit and study dozens of countries. It was made up of ambassadors, historians, and scholars. The government also sent along 60 students, some of whom were left behind to study in some of the countries they visited. Tsuda Umeko, frequently called "the mother of women's education" was among them.
++ The Japanese government began a wide-scale project of gathering new ideas from abroad about technology, and lots of machinery was built.
++ In Japan, large, essential industries were planned, built, and paid for by the government. Once they were prosperous, they were sold at low prices to established large family firms.
