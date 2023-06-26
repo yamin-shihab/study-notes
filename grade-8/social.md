@@ -407,3 +407,24 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + In order to modernize Japan, the Meiji leaders sent a mission around the world to visit and study dozens of countries. It was made up of ambassadors, historians, and scholars. The government also sent along 60 students, some of whom were left behind to study in some of the countries they visited. Tsuda Umeko, frequently called "the mother of women's education" was among them.
 + The Japanese government began a wide-scale project of gathering new ideas from abroad about technology, and lots of machinery was built.
 + In Japan, large, essential industries were planned, built, and paid for by the government. Once they were prosperous, they were sold at low prices to established large family firms.
+
+## Chapter 16
+
++ Many people in Meiji Japan were open to new ideas and ways; wealthy people bought western clothing and goods for their homes. Poorer people also accepted western ideas. Other Japanese, however, were conservative and felt more comfortable with traditional ways. There was conflict between those two groups.
++ The motto of the movement for westernization was "Civilization and Enlightenment". The Meiji government officials and other reformers wanted to change the unequal treaties with the Western countries by showing Japan as a modern and "civilized" country.
+    + Western visitors were often not tolerant of Japanese customs, so officials outlawed behavior that was deemed offensive to foreigners: sparse clothing, tattoos, and public bathing.
+    + Western food was served, and the behavior and clothing of western diplomats was also replicated; people shook hands, cut hair short, grew facial hair, and wore uniforms.
++ Many Japanese people thought that their society was going too far on its path to westernization; backlash was setting in. Leaders then recognized that the Japanese were a proud and independent people with important traditions, customs, and beliefs, so the pace of westernization was slowed down.
+    + The motto "Western science, Japanese essence" was favored.
+    + For centuries, both Shinto and Buddhism had been accepted religions in Japan, and many people followed a combination of both. Now Buddhism was discouraged, and Shinto, the traditional religion of Japan, was declared its official religion. The emperor was given the status of a god.
+    + A constitutional study mission had a constitution for Japan written. It described the emperor's powers as "sacred and inviolable" and granted Japanese citizens things such as freedom of speech and religion, rights to privacy, property, movement, and legal rights.
+        + Legal rights only extended to men, not women, but some men gave their wives and daughters inheritances of their own.
++ Meiji leaders knew that a country had to have a strong military, so another motto was adopted: "Wealthy Country, Strong Army". The Japanese government then took a series of steps:
+    + The Conscription Law of 1873 required all males to serve in the military for three years and do reserve duty for four more years.
+    + The Sino-Japanese War was short and between China. The following peace treaty led to China giving up its claims to Korea, and Japan took Taiwan and the Liaotung Peninsula. However, western powers stepped in and changed the peace treaty, favoring China a little more than Japan.
+    + In 1904, the Japanese fleet launched a surprise attack on Russian ships and the Russo-Japanese War erupted shortly afterward. Russia was seriously affected by the Russian Revolution, so it decided to enter into peace negotiations instead.
+    + Japan then annexed Korea with very little protest from western countries.
++ Different Japanese thinkers criticized different areas of Japan's change: some said that Japan returning from westernization to tradition was bad, while others said that Japan was too focused on becoming powerful.
++ When Emperor Meiji died in 1912, his leading general and the general's wife committed junshi, a ritual suicide after the death of one's lord. Some praised this by calling it loyalty, while others saw it as from the past.
++ Japan's militarization and imperialism that began during the Meiji era led to its involvement and loss in World War II; it went from a mostly unknown island in the ocean to a huge economic and imperial superpower.
++ Today, the people in Japan are still borrowing things from the rest of the world, and the rest of the world is borrowing things from Japan.
