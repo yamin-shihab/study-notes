@@ -297,7 +297,6 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + The Japanese adopted some elements from other cultures, such as the Chinese characters known as kanji. Later, a new system was developed that combined kanji with Japanese characters called kana.
 + Celebrations and rituals celebrate the change in seasons and have traditionally played an important part in all Japanese life. Cherry blossoms are the most beloved flowers among the Japanese and the spring blooming of the cherry trees is a time of celebration.
     + Cherry blossoms represent many things to the Japanese, including new beginnings, beauty, and the shortness of beauty and life.
-    + Haikus are forms of poetry that often narrate nature. They consist of five syllables in the first line, seven in the second, and five again in the third and last line.
 + Nature has played a dominant role in the culture of the Ainu, Japan's Indigenous people. They regard things like fire, water, wind, thunder, animals, and plants as gods called kamuy that visit the Earthly world. They lived in the northern part of Japan for several thousand years in the area called Ezochi, Land of the Ezo. The word ainu means "human" in the language.
     + The Japanese began to take over the Ainu lands; the Ainu tried to resist, but they were defeated. Their territory officially became part of Japan and their primary island was renamed to Hokkaido. Assimilation was then done to forbid them from speaking their language and practicing their customs along with other restrictions.
     + Today, many elements of Ainu culture have been widely integrated into Japanese society.
@@ -341,6 +340,40 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + The teachings of Confucianism played an important role in the Japanese acceptance of class distinctions. Confucius was a Chinese scholar whose teachings for moral living were brought over to Japan by Buddhist monks. It was said that everyone had a proper place in society, and everyone obliged, there would be peace and order.
     + Many of Confucius's sayings encouraged people to be modest and work hard. He stressed the need for rituals of proper behavior and compassion. One of his famous sayings was "What you do not wish for yourself, do not do to others".
 + As masters of the farmers, artisans, and merchants, the samurai used their power to keep order in Japanese society. They organized the lower classes into groups of five families called goningumi. Members of these groups were supposed to help each other and were responsible for the behavior of others.
-+ In 1543, a Portuguese ship was wrecked off the shore of a small Japanese island. The Portuguese were interested in trade and were soon followed by other Europeans.
++ In 1543, a Portuguese ship was wrecked off the shore of a small Japanese island. The Portuguese were interested in trade and were soon followed by other Europeans. The Japanese were greatly intrigued by their muskets and other firearms, so copies were made.
     + At first, the Portuguese and the Japanese had favorable impression of each other. However, they had many differences, both cultural and religious. After all, the Europeans have been influenced by Renaissance values and ideals.
     + Francis Xavier, a Jesuit missionary, arrived in Japan in 1549 to convert the upper classes (the daimyo and samurai) to Christianity. The Japanese were new to the idea of monotheism (one god) compared to polytheism (multiple gods).
+
+## Chapter 14
+
++ The shogun saw foreigners, specifically Europeans, as threats. If the daimyo acquired European weapons, they might challenge the shogun's authority. He also saw loyalty to the Christian God and Church as another threat to his authority, so all Christian missionaries were ordered to leave the country; churches were destroyed and Japaneses Christians who refused to give up their new faith faced execution. The shogun Tokugawa Iemitsu also set up exclusion laws to cut of contact:
+    + All Christian missionaries and foreign traders were forced to leave Japan. Newcomers were no longer allowed to enter.
+    + The Japanese were not allowed to go abroad.
+    + Ships large enough to make long voyages could no longer be built, and existing ones were destroyed.
+    + Japanese who were out of the country were forbidden to return.
+    + Most foreign objects were forbidden. All foreign books containing a Christian message were banned; scientific books were also forbidden.
+    + People needed to get special documents to travel from one domain to another, and a curfew was instituted. Wheeled transport was banned.
+    + The shogun banned all Portuguese in Japan and expelled all foreigners except for Dutch, Korean, and Chinese traders. The Dutch were only allowed on a small island on the harbor of the city of Nagasaki.
+        + The shogun excluded Dutch traders from the exclusion laws because they were seen as less threatening (more interested in trade rather than religion). Nevertheless, the families of the Dutch traders couldn't join them and their Japanese servants were forbidden to talk with them. Once a year, the Dutch were required to make and expensive trip to Edo to pay their respects to the shogun for three months.
+        + The shogun had a few Japanese scholars learn about the Dutch language and medicine. There were also some positive responses to these western studies: the shogun allowed an importation of non-religious European books and an observatory was built.
++ The Japanese wanted to live in a society that embodied the things that were important to them: peace, safety, security, harmony, respect, order, and leisure time. The peace and security in Edo society came at a cost: life was controlled by rigid rules, and there was little freedom.
++ Long periods of stability and peace usually result in more wealth for a country. In some ways, Edo Japan had a booming, or expanding, economy:
+    + Farmers increased production by irrigating and growing two crops on the same piece of land during one growing season.
+    + Road improvements financed by the daimyo helped increase trade.
+    + The population increased in urban centers.
+    + Silver and gold coins were introduced as currency, or money.
++ Japan still had little foreign trade, the overtaxing of peasants, and the continued use of rice for payment in most transactions held the economy back.
++ As a direct result of the peace and prosperity of Edo Japan, the arts and culture were able to flourish; many things associated with Japanese culture to this day developed during the years of isolation. Cultural activities took place in areas called the floating world, which were entertainment districts where the rules and controls of society were relaxed.
+    + Kabuki was a traditional form of Japanese theater where only men played both male and female roles.
+    + Noh was a musical dance drama where the actors wore masks that symbolized the character's types and spiritual states.
+    + Bunraku was a theater that involved large, life-sized puppets. They enacted the ordeals of separated lovers or dueling samurai.
+    + Sumo wrestling originated in ancient times as a religious performance; it became a popular form of entertainment in Edo Japan.
+    + Ritual tea ceremonies used to bring peace of mind and joy to people.
+    + The haiku was a form of poetry that often narrated nature. They consist of five syllables in the first line, seven in the second, and five again in the third and last line.
++ By the end of the 1700s, Edo was a bustling commercial center with a population of about a million people; it was the largest city in the world at the time.
++ However, there were some problems faced by people living in the Edo period:
+    + Peasant's needed money to pay their high taxes, and the high cost of alternate attendance caused daimyo to near bankruptcy.
+    + There was little real work for the samurai, and many of them were too proud to take up another job. This led to many marrying the daughters of merchants, going against strict social rules.
+    + During the late 1700s and early 1800s, Japan was hit by many natural disasters that brought about famines and took many lives. A third of the population died of starvation.
+    + The scarcity of rice led to a steep increase in price, so city dwellers attacked the homes of the wealthy.
++ By the early 1800s, several nations were knocking on Japan's door: Russia, England, and the United States requested trade, or at the very least, water and coal for their passing ships. In 1825, the shogunate responded with the "No Second Thought Expulsion Order": whenever a foreign ship was sighted approaching any point of the coast, people should fire on it and drive it off. If the foreigners forced their way ashore, they were to be captured and imprisoned.
