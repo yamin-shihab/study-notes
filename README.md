@@ -12,8 +12,8 @@ Note that as I'm still in school, more information about the units would be "unv
 + [x] [Social Studies 7](grade-7/social.md)
 + [x] [English Language As 8](grade-8/english.md)
 + [x] [Math 8](grade-8/math.md)
-+ [x] [Science 8](grade-8/science.md)
-+ [ ] [Social Studies 8](grade-8/social.md)
++ [ ] [Science 8](grade-8/science.md)
++ [x] [Social Studies 8](grade-8/social.md)
 
 ## Contributing:
 
