@@ -273,3 +273,15 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     6. The Aztecs attacked the Spanish and their allies, killing many; the rest were driven out of Tenochtitlan.
     7. By the time Cortes returned six months later, 25% of the Aztec population was killed by the smallpox epidemic caused by the Spanish arriving.
     8. The Spanish tore down the city and destroyed its aqueducts. Only 60,000 Aztecs survived in the ruined city. Cortes would then lay the foundations for another Spanish colony in the Americas.
+
+## Chapter 11
+
++ Many Aztecs, like Europeans during the Black Death, felt that their gods have abandoned them. Cortes then got many priests to come to Mexico City (formerly Tenochtitlan).
++ The Spanish changed the economic system in Mexico by introducing the encomienda system: with each piece of land, settlers were allotted a number of unpaid Aztec workers.
+    + The Spanish crown was at the top (it took a fifth of everything), the governor or viceroy collected taxes, Spanish conquistadors and settlers got Aztec workers and paid taxes, and the Aztecs did all the actual work on farms and in mines in return for not much.
++ Cortes promised to his men that they would be rich, but most of the Aztec gold was sent back to Spain. A new law was made: every Spaniard in New Spain was forced to bring his wife or marry an Indigenous woman. This led to the Mestizo (mixed) people, who today represent 60% of Mexico's population.
++ King Carlos feared that Cortes might declare himself king of the colony and separate from Spain, so he sent Don Antonio de Mendoza to become the first viceroy, or royal representative, in New Spain. He wanted it to be clear that the Spanish crown controlled New Spain.
+    + Due to Spain becoming extremely wealthy compared to New Spain, discontent arose among every class of society. In 1820, Mexico became independent of Spain with the help of the Mestizo leader of the Mexican independence movement, Jose Maria Morelos.
+        + The descendants of Spanish settlers in Mexico were called Creoles, and despite being very privileged and wealthy, they supported the independence movement because of increasing taxes.
++ Today, many of the Roman Catholic Church festivals in Mexico include Aztec traditions, and lots of Mexican artists and writers draw inspiration from Aztec and Spanish traditions.
+    + The day of the Dead is a festive time, rather than a morbid occasion (from the textbook).
