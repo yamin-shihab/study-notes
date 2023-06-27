@@ -121,7 +121,7 @@ I had a summative test on the second week of school!
 
 ## Probability and Data
 
-+ Probability events can be represented in fractions, decimals, or percentages. (rolling a die and drawing two cards from a deck without replacement will equal one specific arrangement = 1/6 * 1/52 * 1/51 = 1/15912 = 0.000063 = 0.0063%)
++ Probability events can be represented in fractions, decimals, or percentages. (rolling a die and drawing two cards from a deck without replacement will equal one specific arrangement = 1/6(1/52)(1/51) = 1/15912 = 0.000063 = 0.0063%)
 + Different graphs better serve different purposes:
     + Bar graphs are good for comparing quantities in categories. (price of the same product from different competitors)
     + Line graphs are good for showing how something changes over time. (price of something over time)

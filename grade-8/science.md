@@ -128,7 +128,7 @@ Read the grade 7 science study guide for the scientific method.
     + The parts of a camera are contained in a rigid, lightproof box. In the eyes, fluids called humors: the vitreous humor is between the retina and lens, while the aqueous humor is between the cornea and lens.
 + Telescopes help us see distant objects more clearly. A refracting telescope has an objective lens to focus and collect light and an eyepiece lens to enlarge the image. A reflecting telescope uses a concave mirror to collect light rays, while the primary or objective mirror forms a real image that is then magnified by the eyepiece lens.
 + Telescopes are actually just two reflecting telescopes mounted side by side. They use prisms to server as plane mirrors and reflect light back and forth.
-* English scientist Sir Isaac Newton conducted an experiment where he placed a prism so that a thin beam of white light could pass through it. He then saw bands of color emerge refracted at different angles. It produced a rainbow effect.
++ English scientist Sir Isaac Newton conducted an experiment where he placed a prism so that a thin beam of white light could pass through it. He then saw bands of color emerge refracted at different angles. It produced a rainbow effect.
     + He then placed another prism so that the rainbow of light went through it, and white light emerged.
 + White light is commonly a spectrum of red, orange, yellow, green, blue, indigo, and violet, like the rainbow.
     + For example, when white light passes through a blue bottle, the glass absorbs all the colors except for blue, leaving blue light to be reflected.
@@ -148,6 +148,52 @@ Read the grade 7 science study guide for the scientific method.
     + Ultraviolet radiation can damage the skin and cornea, so that's why we wear sunscreen and sunglasses. The decreasing ozone layer absorbs lots of the sun's UV radiation.
     + X-rays can penetrate through things like skin and muscle, but not through bone.
     + Gamma rays have a short wavelength and high frequency. They result from nuclear reactions and can kill cells, so doctors can destroy cancerous tumors in patients' bodies using radiation therapy.
+
+## Mechanical Systems
+
++ When force is exerted on a screwdriver or seesaw, they would exert a force on something else; both are examples of a lever. A lever consists of a fulcrum and two sides with two parts: the effort force and arm (where effort is applied) and the load and its arm (the mass of an object that's moved or lifted by the lever's force). There are three types of a lever:
+    1. Class one levers have the fulcrum between the effort and load. They are used for either power or precision. (scissors, seesaws, rowboat oars, bending neck)
+    2. A class two lever has the load between the effort and fulcrum. It exerts a greater force on the load than the effort force exerted on it. (wheelbarrows, calves)
+    3. In a class three lever, the effort is exerted between the fulcrum and load. A greater force must be exerted to affect the load, but it can be done more quickly. (hockey sticks, biceps)
++ An inclined plane is a ramp or slope that reduces the force needed to be exerted to lift something.
++ In science, work (joules) is force (newtons) multiplied by distance (meters). (1.2 N of work on a brick for 6 m = 1.2(6) = 7.2 J)
+    + The work done on a machine is called input work, and the work the machine does on the load is the output work. A machine's input work is always larger than its output work, because machines cannot be completely efficient (heat energy as a side effect).
+    + Machines make work easier by changing the size or direction of the force exerted on a machine, changing the distance as well.
++ The mechanical advantage of a machine is the comparison of the force applied on a machine to the force produced by a machine, so the smaller the effort force compared to the load, the greater the mechanical advantage. It is calculated by dividing the load force by the effort force. (a lever requiring an effort of 500 N that outputs 2500 N has a mechanical advantage of five)
+    + A machine can also have a mechanical advantage less than one. (exerting a force of 736 N onto it as it outputs 81 N has a mechanical advantage of 0.11)
+    + Mechanical advantage can also be calculated by dividing the length of the effort arm by the length of the load arm.
+    + Class three levers have a mechanical advantage lower than one but instead offers a speed advantage.
++ Ergonomics is the science of designing machines to suit people efficiently, comfortably, and safely. Factors such as weight, height, size, age, and sometimes gender have to be taken into consideration.
++ A wheel and axle is a combination of two turning objects attached to each other at their centers.
+    + For example, a winch consists of a small cylinder with a crank or handle. The axle of the winch acts like a fulcrum.
+    + A gear is a rotating wheel-like object with teeth around its rim. A group of two or more gears is called a gear train. The driving gear turns the follower gear in the opposite direction.
+        + A gear can turn another without contact by using a chain called a sprocket. The gears will then turn in the same direction.
+        + The speed ratio of a pair of gears is the number of relationship of the number of gears of both gears. (a ten tooth gear moving at one rotation per second would turn a five tooth gear at two rotations per second)
++ A pulley is a grooved wheel with a rope or chain running along the groove; the axle of the pulley acts like a fulcrum. A fixed pulley is attached to something and doesn't work, while a movable pulley is attached to something else, often by a rope that goes around the pulley itself. The load may be attached to the center of the pulley.
+    + A black and tackle is a complex combination of fixed and movable pulleys.
++ Work is the transfer of energy, and the energy simple machines use is called kinetic energy, while potential energy is energy stored for later.
++ The efficiency of a machine dictates how much of the energy given will be transferred to the load. It can be calculated by dividing the work done on the load by the work done by the effort, optionally converted into a percentage. Efficiency can be increased by removing friction (a lubricant like oil or grease).
+    + However, sometimes friction is useful: tires need to stick to roads, shoes should stick to grass, and the hands of gymnasts should stick to bars.
++ Pascal's law states that pressure (pascals) exerted on a contained fluid is transmitted undiminished in all directions throughout the fluid and perpendicular to the walls of the container. (a water balloon being squished)
+    + Many mechanical systems use this law; a hydraulic lift is a mechanical system that raises heavy objects using a fluid under pressure in a closed system. (the human body's circulatory system, a service station lift for vehicles, a powerlift, bulldozer, tractor)
+        + A hydraulic lift consists of a small cylinder and a large cylinder, and both of them are connected by a pipe and filled with oil. Water isn't used because it's a bad lubricant and can rust systems. There are pistons resting on the surfaces of the oil in the cylinders.
+        + Because of Pascal's law, force exerted on a small hydraulic piston will be multiplied onto its larger piston.
+    + Pneumatic systems, on the other hand, use air or another gas and are open systems. (jackhammer, nail/staple gun, sandblaster, limb cast, hovercraft, the human body's respiratory system)
+    + Valves and pumps can be used to restrict or allow the flow of a fluid.
++ Most modern, "complex" machines are actually just combinations of many simple machines, called subsystems. (car brakes, stuff in car hood, backhoe/excavator)
+    + Rube Goldberg machines were humorous combinations of many machines together to accomplish a small, simple goal.
++ In a steam engine, fuel such as coal or wood is burned to heat water in a boiler outside the engine. The water changes to steam and drives the engine. This invention led to many changes in transportation technology and also in the way that we manufacture goods.
+    + A piston is attached to a steam engine to allow for rotation and movement, and an exhaust valve allows for old, cooled steam to escape.e
+    + Steam engines were used (but not much anymore) in a variety of use cases: from locomotives to steamships.
++ The internal combustion engine had the burning of fuel occur inside the engine itself, without an external furnace or boiler. Multiple cylinders and pistons moved either up and down or back and forth; a crankshaft changed this rotary moment.
+    + The internal combustion engine was a much better candidate for aircraft than a steam engine, as it was lighter and smaller.
++ The primary way of acquiring water changed a lot over time: water screws, wells, pumps, and then finally faucets.
++ Over time, machines changed for the betterment (or deterioration) of human life. Machines became more efficient, safe, affordable, and comfortable. For example, all vehicles use lead-free gasoline to protect the environment.
+    + During the industrial revolution, many new machines were made and improved upon; they paved the path for future mass production.
+    + Back then, it was thought that fuel was unlimited and that the atmosphere could absorb all its pollutants, but when scientists disproved this, cars became more aerodynamic and efficient.
+    + In the future, there will be many more new methods of doing things too.
++ Scientists also have to make decisions that will impact society, like whether nuclear power plants should be made and used (they're clean and efficient, but accidents could be devastating). Trade-offs and compromises have to considered.
+    + Systems also have to be tested for factors such as comfort, safety, production, and efficiency. (crash-test dummies)
 
 ## Cells and Systems
 
