@@ -1,8 +1,14 @@
+<div align=center>
+
 # Social Studies 7
 
-Will I ever manage to finish this and science in time while having a bunch of assignments and tests? Tune in to find out! Yeah, I'm going to try to write short.
+*Will I ever manage to finish this and science in time while having a bunch of assignments and tests? Tune in to find out! Yeah, I'm going to try to write short.*
+
+---
 
 ## Chapter 1
+
+</div>
 
 + Before any European colonization of North America occurred, there were First Nations people.
 + We'll be talking about the Mi'kmaq, Haudenosaunee, and Anishinabe societies.
@@ -27,7 +33,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + The tree represents the Great Law of peace, the branches represent the protection of those nations under the law, the white roots which spread in the four cardinal directions represent peace and strength since anyone can follow the roots to the Council of the League of Peace, the eagle warns of danger due to far sight, and the weapon below the tree shows that they cast all weapons of war into the depths of the earth.
 + The Mi'kmaq were in the now maritimes, the Anishinabe above the Great Lakes, and the Haudenosaunee in what's now America.
 
+---
+
+<div align=center>
+
 ## Chapter 2
+
+</div>
 
 + In the 1300s, trade routes between Europe and Asia were disrupted, so the price of goods increased.
     + But then, technology such as faster ships, compasses, astrolabes started being invented/improved.
@@ -50,7 +62,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + Samuel de Champlain established Quebec and Montreal as places where trading is done because it had better possibilities as a fur trade center than Acadia on the east coast.
 + There were many other expeditions to North America that mapped more land.
 
+---
+
+<div align=center>
+
 ## Chapter 3
+
+</div>
 
 + A colony is a region of land dominated by another empire by sending colonists to establish control.
 + Mercantilism is a regulated economic system in which a colony supplies the original country with cheap, raw resources. The country then creates and sells expensive goods using those resources to make money.
@@ -86,7 +104,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + The HBC traded in furs and counted on traders coming directly to its forts.
 + Since the First Nations had no immunity, European diseases caused epidemics among the First Nations.
 
+---
+
+<div align=center>
+
 ## Chapter 4
+
+</div>
 
 + The fur trade consisted of multiple phases.
     + Phase one was when cod fisheries were set up by Europeans and early trading began with First Nations.
@@ -97,7 +121,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + The Metis put themselves in the middle of the fur trade at Red River, which was between all the "action".
 + The Hudson's Bay still exists today: The Bay.
 
+---
+
+<div align=center>
+
 ## Chapter 5
+
+</div>
 
 + The Mi'kmaq were originally in Acadia, and have established a trading partnership with the French. So they were allowed to also live there, so settlements were established. They called themselves Acadians when marriages between both people occurred.
 + In 1713, Britain won the War of Spanish Succession, and the Treaty of Utrecht was negotiated where Acadia is now under Britain's control.
@@ -111,7 +141,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + The Royal Proclamation of 1763 was Britain's attempt to establish lasting piece in North America. The province of Quebec was established with a British-style government, and an elected assembly was promised, but didn't follow up for almost thirty years. Catholics were disallowed from holding government positions, French civil law (seigneurs and habitants) was abolished, Catholic Church tax was also abolished, settlers from the Thirteen Colonies were encouraged to move to Quebec, and a "proclamation line" separating the Thirteen Colonies from "Indian Territory" which prevented any settlements to occur without First Nations' permission.
 + During the 1700s, the Thirteen Colonies rebelled against Britain, so Britain was concerned that Quebec will too. It returned some rights taken away in the Royal Proclamation with the Quebec Act of 1774. Catholics were allowed to practice their religion, Canadiens (Francophone Canadians) were allowed to hold government positions, French civil law was reinstated (still used today), and the boundaries of Quebec were expanded beyond the proclamation line, to claim for the colony the fur trade territories central to its economy, without consulting the First Nations.
 
+---
+
+<div align=center>
+
 ## Chapter 6
+
+</div>
 
 + After 1763, Britain was deeply in debt because of the Seven Years' War, and wanted to save money. They wanted to keep troops stationed in the Thirteen Colonies, so they increased taxes on them.
     + The colonists refused to pay. They said Britain had no authority to tax them because they weren't allowed to elect representatives to the British parliament. They came up with the slogan "No taxation without representation".
@@ -130,7 +166,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + This was the War of 1812. The patriots expected the Canadians to join the cause, but they instead fought back.
         + After the war, Britain and the US agreed to establish a border. It's still being used today.
 
+---
+
+<div align=center>
+
 ## Chapter 7
+
+</div>
 
 + Immigrating is going somewhere, and emigrating is leaving somewhere.
 + The Great Migration was when a huge wave of people immigrated to Canada.
@@ -155,7 +197,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
         + Conservative members of the assembly (who opposed reformers) said that the bill "rewarded traitors", but the coalition held the majority of the seats and the bill passed.
         + It was then signed by the governor, Lord Elgin, and even though he personally opposed the bill, he respected the choice of the voters.
 
+---
+
+<div align=center>
+
 ## Chapter 8
+
+</div>
 
 + Confederation had four key politicians who wanted it most:
     + John A. Macdonald came from Canada West, born in Scotland. He wanted a nation that spread from "sea to sea", that gave provinces powers, and kept ties with Britain. He then became the first prime minister of Canada.
@@ -195,7 +243,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + In 1945 after the war, some Newfoundlanders wanted to regain independence, but others worried about more hard times. Britain said it could no longer assist the colony, and it had to help itself. Meanwhile, the war put the colony in financial trouble.
     + A vote was then made, and that resulted in Newfoundland joining Confederation.
 
+---
+
+<div align=center>
+
 ## Chapter 9
+
+</div>
 
 + In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
 + The Red River Resistance occurred in 1869 because after the HBC sold Rupert's Land to Canada for 300,000 pounds, land surveyors appeared to divide and mark land too early.
@@ -225,7 +279,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
 + When the Manitoba Act was negotiated, more than 50% of the population was Catholic and spoke French. By 1890, that changed to 15%.
     + So the Manitoba School Act made Manitoba change from bilingual to English only, and made schools only English.
 
+---
+
+<div align=center>
+
 ## Chapter 10
+
+</div>
 
 + To own land that First Nations live in, Canada had to negotiate numbered treaties.
     + This was needed to do things like expand west and build the railway.
@@ -249,7 +309,13 @@ Will I ever manage to finish this and science in time while having a bunch of as
     + This was because he (and many others) believed that "British was best".
     + However, people came from many places such as Ukraine, Russia and Poland. This gave Canada many cultures all the way to today.
 
+---
+
+<div align=center>
+
 ## Chapter 11
+
+</div>
 
 + In 1916, Manitoba, Alberta, and Saskatchewan became the first provinces in Canada that allowed women to vote. In 1918 women across all of Canada gained the right to vote in federal elections.
     + Women of non-European descent took longer to get those rights. The right to vote opened the door to equality in other aspects such as university and work.

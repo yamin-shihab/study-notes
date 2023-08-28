@@ -1,8 +1,14 @@
+<div align=center>
+
 # Science 7
 
-I hate this.
+*I hate this.*
+
+---
 
 ## Scientific Method
+
+</div>
 
 + There are numerous steps to a scientific experiment:
     + A problem statement is a sentence in the form of a testable question. It's mainly: "What effect does (manipulated variable) have on (responding variable)?"
@@ -21,7 +27,13 @@ I hate this.
 + Diagrams are drawn in pencil, placed on the left of the page, neat, and have labels on the right side with straight lines (it's ruler time).
 + Always use evidence relating to the experiment when writing about it. You should test an experiment multiple times to confirm the conclusion too.
 
+---
+
+<div align=center>
+
 ## Interactions and Ecosystems
+
+</div>
 
 + All living things need food, water, a suitable habitat, and gas to exchange.
 + Natural resources are the materials and products found in nature.
@@ -90,7 +102,13 @@ I hate this.
 + A keystone species helps hold an ecosystem together.
 + Limiting factors are factors that slow or stop population growth. (food, habitat, predators, water, space)
 
+---
+
+<div align=center>
+
 ## Plants for Food and Fiber
+
+</div>
 
 + Plants are important since they provide all the energy for the ecosystem. They get energy directly from sunlight, and They need water, nutrients, space, warmth, and air to grow.
     + Fiber can also be derived from them. (clothing, paper, shelter)
@@ -167,7 +185,13 @@ I hate this.
     + Plants are selectively bred to withstand certain environmental conditions, increase yields, resist diseases, or alter the appearance or taste.
     + Genetic engineering is altering DNA to remove desired genes and combine them with another organism's genes. This can need more fertilizer or pesticide, or introduce non-native species.
 
+---
+
+<div align=center>
+
 ## Heat and Temperature
+
+</div>
 
 + Energy is the ability to do work.
     + Potential energy is stored energy.
@@ -231,7 +255,13 @@ I hate this.
 + An R-value is used for measuring the quality of an insulator. A higher value means a better insulator.
 + A thermogram is an infrared photo to diagnose areas of heat loss in a building.
 
+---
+
+<div align=center>
+
 ## Structures
+
+</div>
 
 + A structure has a definite shape and size and serves a specific function.
 + The origin of a structure is how it was made.
@@ -298,7 +328,13 @@ I hate this.
     + Stability can be achieved by having a wide base of support, a low center of gravity, and symmetry.
 + Structural strength is a structure's ability to support its own load and additional loads applied to it.
 
+---
+
+<div align=center>
+
 ## Planet Earth
+
+</div>
 
 + Earth is broken up into four layers.
     + The crust is the thinnest layer and where we live on. It's also the coldest.

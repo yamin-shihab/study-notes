@@ -1,8 +1,14 @@
+<div align=center>
+
 # English Language Arts 7
 
-Right now, I'm really, really worried on how I'm going to manage to do Science and Social Studies at this time.
+*Right now, I'm really, really worried on how I'm going to manage to do Science and Social Studies at this time.*
+
+---
 
 ## Sentences
+
+</div>
 
 + A sentence is a group of words that expresses a complete thought.
     + Sentences require a subject (noun) and a predicate (verb). (I drove the car, subject: I, predicate: drove the car)
@@ -36,7 +42,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + A complex sentence contains an independent and dependent clause. They begin with a subordinating conjunction. (Because the boys went to the park, they didn't go to the zoo.)
     + Compound sentences are two independent clauses joined by a coordinating conjunction from the "FANBOYS" acronym. (I turned on the TV, and watched the news.)
 
+---
+
+<div align=center>
+
 ## Reading Strategies
+
+</div>
 
 + When reading, you should ask questions to yourself about the text. (Does the text make sense? What's happening? Am I confused? What does this word mean? Should I speed up or slow down? Do I need to reread this? I know I understand this because...)
 + Skimming means your eyes are quickly looking over the page in motions to see how many paragraphs there are, looking for bold/underlined/italicized words, and visuals/headers. This lets you preview and get acquainted with the text.
@@ -60,7 +72,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 + When trying to understand a word you don't know, you can look at its context.
     + If it's an adjective, verb, adverb, or noun, you can read how it's described alongside other words. (I loathed and hated the thing! Loathed means hate. He ran quickly and swiftly. Swiftly means fast.)
 
+---
+
+<div align=center>
+
 ## Paragraphs
+
+</div>
 
 + Different types of paragraphs serve different purposes:
     + An information paragraph informs, classifies, compares, and explains how, why, or what.
@@ -93,7 +111,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + The concluding sentence restates the topic sentence.
     + Be sure to not use the same words, though.
 
+---
+
+<div align=center>
+
 ## Figurative language
+
+</div>
 
 + Figurative language calls on the reader's imagination to complete the authors meaning.
 + Alliterations are the repetition of words of the same consonant sound of two or more words. (She sells seashells by the seashore.)
@@ -108,7 +132,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 + An idiom is a word or phrase that has a specific cultural meaning. They usually have a completely different meaning from the literal individual words. (What a couch potato. I better hit the sack.)
 + A pun is a play on words, usually using similar sounds, spellings, and meanings. (Let's "bee" friends!)
 
+---
+
+<div align=center>
+
 ## Short Stories
+
+</div>
 
 + Plot refers to the main events of a story (what happens in the story).
 + Exposition is the beginning of the story, and when the author engages the reader and shares essential information to get the story started.
@@ -170,7 +200,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
 + Tone is the attitude or feeling of the writer.
 + Imagery is using vocabulary, sensory details, and description to help picture what's happening for the reader.
 
+---
+
+<div align=center>
+
 ## Narrative Writing
+
+</div>
 
 + A sentence can start in different ways:
     + A subject starter sentence starts with the subject, then the predicate. It's also unfortunately overused. (Bob ran.)
@@ -198,7 +234,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + Ping pong dialogue is quick and short quotations bouncing back and forth between characters.
     + Descriptive dialogue is dialogue, involving lots of details about what's currently happening as the characters are talking.
 
+---
+
+<div align=center>
+
 ## Grammar
+
+</div>
 
 + Apostrophes have two main functions: omission and possession.
     + Abbreviation is removing letter(s) from a word to shorten it, and leaving an apostrophe there. (gov't)
@@ -228,7 +270,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + A comma splice is a common error in which a comma is used to join two or more independent clauses. (We had a nice time, I hope we can meet again soon.)
     + To correct a comma splice, you can insert a coordinating conjunction between the two independent clauses (We had a nice time, so I hope we can meet again soon.), start a new sentence (I didn't like the movie. The movie was weird.), or insert a semicolon between the two independent clauses (only when they're related) (I liked the book; it was fascinating.)
 
+---
+
+<div align=center>
+
 ## Persuasion
+
+</div>
 
 + Persuasion must be effective:
     + When writing a persuasive text you should start by stating your opinion of the topic.
@@ -250,7 +298,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + One product can be shown as better than another by comparing the product to another similar product made by a competitor.
     + Weasel words use words like "may", "might", "can", "virtually", "up to", "as much as", or "possibly" to appear clear but actually be vague.
 
+---
+
+<div align=center>
+
 ## Visual Literacy
+
+</div>
 
 + Speech balloons are shapes that contain text shown near a character to indicate speech.
     + They can be round, jagged, rectangular, or have irregular edges to convey emotion.
@@ -280,7 +334,13 @@ Right now, I'm really, really worried on how I'm going to manage to do Science a
     + In reverse, the images in the current panel are the reverse of the previous panel.
         + This is usually used to show a different character talking.
 
+---
+
+<div align=center>
+
 ## Poetry
+
+</div>
 
 + Poetry is a type of literature genre that expresses feelings and ideas on a particular topic using a unique form, style, and rhythm.
     + Poems can be written on their own or be part of an anthology (collection of poems in a book).

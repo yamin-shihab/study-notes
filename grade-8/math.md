@@ -1,12 +1,20 @@
+<div align=center>
+
 # Math 8
 
-I had a summative test on the second week of school!
+*I had a summative test on the second week of school!*
+
+---
 
 # ***!!! ADDITIONAL NOTICE !!!***
 
-### For some reason, we learned almost exactly the same things this year and last year for Math, so use the grade 7 study guide for Math along with the extra things in this grade 8 Math study guide.
+### *For some reason, we learned almost exactly the same things this year and last year for Math, so use the grade 7 study guide for Math along with the extra things in this grade 8 Math study guide.*
+
+---
 
 ## Ratios and Rates
+
+</div>
 
 + A ratio is a colon-separated group of terms (quantities/numbers) of the same unit that can be of two types:
     + A part to part ratio compares each part of a group to the other parts of the same group. (three red marbles and four blue marbles in a bag is 3:4 or 4:3)
@@ -21,7 +29,13 @@ I had a summative test on the second week of school!
     + The uses of a unit rate isn't limited to buying things. (Jesse can type 187 words in 5 minutes, and Brent can type 444 words in 10 minutes -> 187(2) = 374 words/10 minutes -> 444 words/10 minutes > 374 words/10 minutes)
     + The use of unit rates is similar to using fractions and division.
 
+---
+
+<div align=center>
+
 ## Integers
+
+</div>
 
 + If both numbers are of the same sign in multiplication or division, the answer is positive, otherwise it's negative. (3(3) = 9, 4(-2) = -8, -5 / -1 = 5, -8/8 = -1)
 + Multiplying a positive or negative number by a negative number can be done using number tiles:
@@ -35,7 +49,13 @@ I had a summative test on the second week of school!
     2. For each group of tiles representing the second number, circle it.
     3. The answer will be the number of groups.
 
+---
+
+<div align=center>
+
 ## Fractions
+
+</div>
 
 + To multiply or divide two fractions, they must both be an improper fraction.
 + You can multiply two improper fractions in the lowest terms:
@@ -48,14 +68,26 @@ I had a summative test on the second week of school!
     2. Multiply the resulting two fractions together.
 + You can also multiply fractions by filling in a grid and divide fractions by grouping parts of a grid.
 
+---
+
+<div align=center>
+
 ## Equations
+
+</div>
 
 + There are several types of equations:
     + A multiplication or division one-step equation, represented by ax = b or x/a = b, is the simplest type of equation and only involves one step to solve. (2n = 6 -> n = 3)
     + A multiplication or division two-step equation, represented by ax + b = c or x/a + b = c, is a type of equation that requires one step to solve. (3n + 4 = 13 -> 3n = 9 -> n = 3)
         + There are also distributive property two-step equations, represented by a(x + b) = c, which are equations that can optionally be solved differently. (2(n + 3) = 14 -> 2n + 6 = 14 -> 2n = 8 -> n = 4)
 
+---
+
+<div align=center>
+
 ## Powers and Pythagoras
+
+</div>
 
 + A power or exponent represents repeated multiplication. (three to the power of four = 3^4 = 3(3)(3)(3) = 81, four to the power of three = 4^3 = 4(4)(4) = 64)
     + An exponent of two is a square. (five squared = 5^2 = 5(5) = 25, ten squared = 10^2 = 10(10) = 100)
@@ -95,7 +127,13 @@ I had a summative test on the second week of school!
     + This can be used to find the length of one of the sides using the other sides by getting the square root of a number. (a = 3, b = 4 -> c = sqrt(a^2 + b^2) = sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 25)
     + A Pythagorean triple is a group of three whole numbers that satisfy the Pythagorean Theorem. (3, 4, 5)
 
+---
+
+<div align=center>
+
 ## Surface Area and Volume
+
+</div>
 
 + There are some terms used to define different dimensions:
     + Zero-dimensional (0D) objects are points with no directional measurement.
@@ -119,7 +157,13 @@ I had a summative test on the second week of school!
     + The surface areas of triangular prisms require V = d(wh/2). (9x8x7 meter triangular prism -> V = 7(9(8) / 2) = 7(72/2) = 7(36) = 252 cubic meters)
     + You can calculate the volume of a cylinder using V = d(pi)(r^2). (cylinder with radius of six and depth of ten -> V = 10(3.14)(6^2) = 31.4(6^2) = 31.4(36) = 1130.4 cubic meters)
 
+---
+
+<div align=center>
+
 ## Probability and Data
+
+</div>
 
 + Probability events can be represented in fractions, decimals, or percentages. (rolling a die and drawing two cards from a deck without replacement will equal one specific arrangement = 1/6(1/52)(1/51) = 1/15912 = 0.000063 = 0.0063%)
 + Different graphs better serve different purposes:

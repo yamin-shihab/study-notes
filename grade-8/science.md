@@ -1,12 +1,24 @@
+<div align=center>
+
 # Science 8
 
-So what's the "space" between particles anyway?
+*So what's the "space" between particles anyway?*
+
+---
 
 ## Scientific Method
 
+</div>
+
 Read the grade 7 science study guide for the scientific method.
 
+---
+
+<div align=center>
+
 ## Mix and Flow of Matter
+
+</div>
 
 + A fluid is a substance that has the ability to flow (liquid or gas). A non-fluid can behave like one when melted or dissolved into a fluid. They take up all available space in their container. (water, honey, air)
 + There are three main types of matter, in order of density:
@@ -82,7 +94,13 @@ Read the grade 7 science study guide for the scientific method.
     + Hydraulics is the study of pressure in liquids, and devices that utilize liquids to move something else using pressure are called hydraulic systems. They commonly use a series of tubes, hoses and pipes. (faucets, bike/car brakes, dentist equipment)
     + Pneumatic systems are similar, but use gasses instead of liquids. They use gasses instead mostly because gasses are compressible, so they require compressors (devices that... compress air).
 
+---
+
+<div align=center>
+
 ## Light and Optics
+
+</div>
 
 + Light is a form of energy that you can see, and it radiates (spreads out) in all directions. This form of energy transfer involving radiant energy doesn't require matter and is known as radiation. There are two main types of light:
     + A natural light source is from nature and isn't made by humans. (stars, fires, fireflies)
@@ -149,7 +167,13 @@ Read the grade 7 science study guide for the scientific method.
     + X-rays can penetrate through things like skin and muscle, but not through bone.
     + Gamma rays have a short wavelength and high frequency. They result from nuclear reactions and can kill cells, so doctors can destroy cancerous tumors in patients' bodies using radiation therapy.
 
+---
+
+<div align=center>
+
 ## Mechanical Systems
+
+</div>
 
 + When force is exerted on a screwdriver or seesaw, they would exert a force on something else; both are examples of a lever. A lever consists of a fulcrum and two sides with two parts: the effort force and arm (where effort is applied) and the load and its arm (the mass of an object that's moved or lifted by the lever's force). There are three types of a lever:
     1. Class one levers have the fulcrum between the effort and load. They are used for either power or precision. (scissors, seesaws, rowboat oars, bending neck)
@@ -195,7 +219,13 @@ Read the grade 7 science study guide for the scientific method.
 + Scientists also have to make decisions that will impact society, like whether nuclear power plants should be made and used (they're clean and efficient, but accidents could be devastating). Trade-offs and compromises have to considered.
     + Systems also have to be tested for factors such as comfort, safety, production, and efficiency. (crash-test dummies)
 
+---
+
+<div align=center>
+
 ## Cells and Systems
+
+</div>
 
 + Living organisms have signs of life: the requirement of energy, stimuli, reproduction, growth, and waste production.
 + There are different levels of the organization of life. From smallest to biggest:
@@ -291,7 +321,13 @@ Read the grade 7 science study guide for the scientific method.
 + The cilia in the respiratory system are hairlike projections that remove airborne particles. Smoke and pollutants irritate this lining, causing mucus. The lining will then be inflamed. This is called bronchitis.
 + Smoking is the leading cause of lung cancer: it starts when certain compounds contact lung tissue, and cells grow out of control and kill healthy cells.
 
+---
+
+<div align=center>
+
 ## Fresh and Salt Water Systems
+
+</div>
 
 + More organisms inhabit water than other places on earth, and furthermore, all organisms require water to survive.
 + 97% of Earth's water is salt water, and the remaining is fresh water.

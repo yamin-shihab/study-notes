@@ -1,20 +1,26 @@
+<div align=center>
+
 # Social Studies 8
 
-Seems to be more thinking than memorizing compared to grade 7 social studies. Note from the future: this was very false. And also as a quick precursor:
-+ Worldview is how you view the world, and it's pervasive.
-    + Different groups of people share different or similar world views.
-+ A worldview isn't a point of view, as a point of view is the way an individual sees things.
-+ A worldview isn't a perspective, as a perspective is the way a group sees things.
-+ Worldviews are both of these and more. They ask the following questions:
-    + How do geographical factors such as climate and location affect people?
-    + In what terms does a society view time?
-    + What roles are available to individuals in a society? Who holds power, and how is it maintained? Are certain benefits available to some people but not others?
-    + How do people in a society act toward each other and to other societies?
-    + What beliefs do people hold about life, death, and their environment?
-    + Who controls resources? What should be produced? How will it be produced? Who gets it? How is it distributed and protected?
-    + How do people develop knowledge? What ways of knowing are accepted? Who has access to knowledge? How is it valued? Where does it reside?
+*Seems to be more thinking than memorizing compared to grade 7 social studies. Note from the future: this was very false. And also as a quick precursor:*
++ *Worldview is how you view the world, and it's pervasive.*
+    + *Different groups of people share different or similar world views.*
++ *A worldview isn't a point of view, as a point of view is the way an individual sees things.*
++ *A worldview isn't a perspective, as a perspective is the way a group sees things.*
++ *Worldviews are both of these and more. They ask the following questions:*
+    + *How do geographical factors such as climate and location affect people?*
+    + *In what terms does a society view time?*
+    + *What roles are available to individuals in a society? Who holds power, and how is it maintained? Are certain benefits available to some people but not others?*
+    + *How do people in a society act toward each other and to other societies?*
+    + *What beliefs do people hold about life, death, and their environment?*
+    + *Who controls resources? What should be produced? How will it be produced? Who gets it? How is it distributed and protected?*
+    + *How do people develop knowledge? What ways of knowing are accepted? Who has access to knowledge? How is it valued? Where does it reside?*
+
+---
 
 ## Chapter 1
+
+</div>
 
 + During the Middle Ages, much of European society was organized in a system called feudalism: a hierarchy in which different people ranked differently from each other based off of their importance.
     + People were born into their level, and were expected to stay at that level.
@@ -47,7 +53,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + With all these reformations going on, a period of great creativity in the arts and sciences called the Renaissance was about to begin, starting in Italy.
     + Its name is French and means a rebirth of Classical knowledge and learning.
 
+---
+
+<div align=center>
+
 ## Chapter 2
+
+</div>
 
 + Marco Polo and his family were known for travelling along the Silk Road. Marco also told stories of his journeys.
 + The Silk Road was the major series of trading routes that connected civilizations from the Mediterranean in the west to the Pacific Ocean in the East. It was helpful for the trade of items, foods, and goods.
@@ -79,7 +91,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + Despite being ruthless in political matters, he and the Medici family helped promising artists.
     + Cosimo's grandson, Lorenzo the Magnificent, was a patron of art and literature. He sponsored Michelangelo, Botticelli, Leonardo da Vinci, and other famous artists and thinkers.
 
+---
+
+<div align=center>
+
 ## Chapter 3
+
+</div>
 
 + A new way of thinking starting in the northern Italian city-states known as humanism. It involved scholars looking back to the ancient Classical civilizations of Greece and Rome.
     + They were heavily interested in the ways ancient writers like Aristotle and Plato gave their opinions on society, politics, history, and the arts.
@@ -112,7 +130,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + Humanism influenced texts to express thoughts and emotions more.
 + Many humanists also believed that men and women shouldn't be judged by their gender, but their abilities and virtues.
 
+---
+
+<div align=center>
+
 ## Chapter 4
+
+</div>
 
 + Before the Renaissance, Europeans that wanted to learn science would have to read books by scholars from Classical or Islamic civilizations and were not encouraged to ask questions, study, or do any experimenting. This is in contrast to the attitudes toward science during the Renaissance, where thinkers did much more using what was called the scientific method.
     + The scientific method was the process of making observations, experimenting, and drawing conclusions based off of evidence. It led to many important discoveries and advances in different fields.
@@ -138,7 +162,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + At the time, only the most educated people in society were literate, and books weren't written in the vernacular. This changed when the German named Johannes Gutenberg developed a printing press that allowed books to be quickly be produced cheaply.
     + Soon enough, there were millions of books in print around Europe, and that facilitated the process of sharing knowledge. The ideas of scholars and humanists could be spread more easily and were more accessible due to being written in the vernacular.
 
+---
+
+<div align=center>
+
 ## Chapter 5
+
+</div>
 
 + During the Renaissance, people with power decided to have people explore for several reasons:
     + Trade grew across Europe as people with money demanded luxury goods. Commerce and manufacturing also expanded significantly. Europeans resented the high price of goods because they had to go a long way, so if a direct sea route was established to the East, trade for goods would be cheaper.
@@ -155,7 +185,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Christopher Columbus was convinced that a shorter route to Asia lay west across the Atlantic Ocean. He died convinced that he was in Asia (he was around Central America the whole time).
     + Before he set off, he, Queen Isabella, and King Ferdinand made an agreement that they would claim and have power over all land visited.
 
+---
+
+<div align=center>
+
 ## Chapter 6
+
+</div>
 
 + At the beginning of the Age of Exploration, Portugal and Spain sent out expeditions to find trade routes to Asia. After Christopher Columbus had discovered what he thought was a trade route to Asia, Portugal wanted to make sure it got its share of the Asian trade, but Spain couldn't come to an agreement.
     + The rulers of both countries then asked the pope to settle the matter, so he proposed the secret Treaty of Tordesillas that would divide the world in half between the two. Other European rulers were angry about the treaty, and England and France simply ignored it.
@@ -164,7 +200,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + After contact with the Indigenous peoples of the Americas, some European philosophers thought about the differences between both worldviews and societies.
 + The impact of the Renaissance greatly affected the course of history, for better or for worse, as Europeans imposed their worldview on other parts of their world: their religion, ideas, values, and economic system.
 
+---
+
+<div align=center>
+
 ## Chapter 7
+
+</div>
 
 + The Aztecs migrated looking for an eagle perching on a cactus with a snake in its beak, because it's believed that their god Huitzilopotchli commanded them to do so. After 150 years of searching, they named their capital Tenochtitlan.
 + For the Aztecs, mountains were seen as a sacred or holy site, because its height brought people physically closer to their gods, so they built pyramid temples similar to mountains for worship.
@@ -191,7 +233,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + When another group was conquered, Aztecs collected tributes, valuable gifts and taxes, to strengthen their empire.
 + Cocoa beans, the basis of chocolate, were also rather important to the Aztecs: they were used as currency, drinks, and were said to give wisdom and power.
 
+---
+
+<div align=center>
+
 ## Chapter 8
+
+</div>
 
 + Aztec society had two main classes of people: the nobles and the commoners. A person's position was generally determined by which class they were born into, but some people were able to work their way up to higher levels through their own efforts.
     + The emperor, whose Aztec name meant Great Speaker, was treated as if he were a god by the Aztecs, and respect was shown to him through obedience without question. He had many privileges and luxuries, like living in an enormous palace with gardens and a zoo
@@ -221,7 +269,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Because the Aztecs knew that slaves performed much necessary work, they had their rights protected: nobles that beat slaves to death could be executed, and slaves sold in the marketplace could escape and run to the emperor's palace (about 1.5 kilometers) to win their freedom.
     + The Aztecs also didn't believe that it was shameful to be a slave or that it was a permanent condition. Slaves could keep their property, and children born to slaves were free.
 
+---
+
+<div align=center>
+
 ## Chapter 9
+
+</div>
 
 + At the beginning of the Middle Ages, most of Spain (and Europe) was Christian and ruled by the Visigoths, who invaded Spain at the end of the Roman Empire. After being vulnerable, a Muslim force landed in Spain in 711 and conquered almost the entire Iberian Peninsula (Spain and Portugal). A new sense of national identity was developed, and many Christians converted to Islam, while others didn't.
     + Spain was then part of a vast empire; the Arab Islamic world was part of the largest economic trade zone in the world. Muslim rulers and merchants supported the arts, so music, art, and architecture reflected Islamic values.
@@ -241,7 +295,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + Not all the people going to the Americas were seeking only riches; some wanted to make a name for themselves and earn respect in Spanish society.
 + El Cid was a Christian knight and a complex character, as he sometimes fought on the Muslim side; he became revered as Spain's national hero for some of his aspects: he was a militarily successful, loyal to his king, was generous and fair, and believed in God. These qualities became part of the code of chivalry.
 
+---
+
+<div align=center>
+
 ## Chapter 10
+
+</div>
 
 + Conquistador, meaning "conqueror", was the term that the Spanish leaders in the Americas used to describe themselves. They also had a formula for conquering an area:
     1. An expedition would set out from a recent colony.
@@ -274,7 +334,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     7. By the time Cortes returned six months later, 25% of the Aztec population was killed by the smallpox epidemic caused by the Spanish arriving.
     8. The Spanish tore down the city and destroyed its aqueducts. Only 60,000 Aztecs survived in the ruined city. Cortes would then lay the foundations for another Spanish colony in the Americas.
 
+---
+
+<div align=center>
+
 ## Chapter 11
+
+</div>
 
 + Many Aztecs, like Europeans during the Black Death, felt that their gods have abandoned them. Cortes then got many priests to come to Mexico City (formerly Tenochtitlan).
 + The Spanish changed the economic system in Mexico by introducing the encomienda system: with each piece of land, settlers were allotted a number of unpaid Aztec workers.
@@ -286,7 +352,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Today, many of the Roman Catholic Church festivals in Mexico include Aztec traditions, and lots of Mexican artists and writers draw inspiration from Aztec and Spanish traditions.
     + The day of the Dead is a festive time, rather than a morbid occasion (from the textbook).
 
+---
+
+<div align=center>
+
 ## Chapter 12
+
+</div>
 
 + For centuries, the Japanese have described their country as the land of the rising sun. According to legend, the divine beings Izanagi and Izanami stood on the bridge of heaven and churned the ocean with a spear to make a small island of curdled salt. From that mystical beginning grew a string of islands: Japan. The two then went on to bear the deities called kami who inhabited the land from that time onwards.
     + It was said that Izanagi later a daughter named Ameaterasu. She was known as the sun goddess, but at one point, she went into a cave closed with a boulder and refused to come out. This led to the world being plunged into darkness, so the other gods eventually tricked her into coming out, bringing back light and hope to the Japanese people.
@@ -312,7 +384,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + Fish and seaweed was also harvested, providing protein and vitamins. The sea and its food became central to the Japanese way of life. Soy is another important part of the Japanese diet.
 + Japan was considered to be a mostly homogeneous society: greatly unified with common values and beliefs. This was mostly because of the sea as a geographical feature; most of the population lived along the coast and the sea provided a communication and trading corridor for them. Ideas, beliefs, and values as well as goods were exchanged.
 
+---
+
+<div align=center>
+
 ## Chapter 13
+
+</div>
 
 + The story of the 47 ronin had the shogun get Lord Asano and other nobles to meet with a representative of the emperor. A court official, Lord Kira was assigned to teach Asano the correct way to behave. When Asano didn't pay Kira enough for his help, he became angry and cut Kira's arm with his sword. Knowing that he committed a forbidden act (drawing a sword in the Edo castle and wounding an important official), he took his own life under the order of the shogun. Now that Lord Asano was dead, his 47 samurai became ronin: warriors without a master. Without their honor and position in society and out of loyalty for their master, they killed Lord Kira to avenge Asano, and killed themselves too.
     + This story is known widely in Japan because of how it portrays honorable behavior in the warriors.
@@ -344,7 +422,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + At first, the Portuguese and the Japanese had favorable impression of each other. However, they had many differences, both cultural and religious. After all, the Europeans have been influenced by Renaissance values and ideals.
     + Francis Xavier, a Jesuit missionary, arrived in Japan in 1549 to convert the upper classes (the daimyo and samurai) to Christianity. The Japanese were new to the idea of monotheism (one god) compared to polytheism (multiple gods).
 
+---
+
+<div align=center>
+
 ## Chapter 14
+
+</div>
 
 + The shogun saw foreigners, specifically Europeans, as threats. If the daimyo acquired European weapons, they might challenge the shogun's authority. He also saw loyalty to the Christian God and Church as another threat to his authority, so all Christian missionaries were ordered to leave the country; churches were destroyed and Japaneses Christians who refused to give up their new faith faced execution. The shogun Tokugawa Iemitsu also set up exclusion laws to cut of contact:
     + All Christian missionaries and foreign traders were forced to leave Japan. Newcomers were no longer allowed to enter.
@@ -378,7 +462,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
     + The scarcity of rice led to a steep increase in price, so city dwellers attacked the homes of the wealthy.
 + By the early 1800s, several nations were knocking on Japan's door: Russia, England, and the United States requested trade, or at the very least, water and coal for their passing ships. In 1825, the shogunate responded with the "No Second Thought Expulsion Order": whenever a foreign ship was sighted approaching any point of the coast, people should fire on it and drive it off. If the foreigners forced their way ashore, they were to be captured and imprisoned.
 
+---
+
+<div align=center>
+
 ## Chapter 15
+
+</div>
 
 + In 1853, the American Commodore Perry arrived to Japan in 1853 to cause pressure to influence Japan. The Japanese reacted with fear and respect for mainly three reasons:
     + Perry showed off his military strength by bringing large steamships and guns with him.
@@ -408,7 +498,13 @@ Seems to be more thinking than memorizing compared to grade 7 social studies. No
 + The Japanese government began a wide-scale project of gathering new ideas from abroad about technology, and lots of machinery was built.
 + In Japan, large, essential industries were planned, built, and paid for by the government. Once they were prosperous, they were sold at low prices to established large family firms.
 
+---
+
+<div align=center>
+
 ## Chapter 16
+
+</div>
 
 + Many people in Meiji Japan were open to new ideas and ways; wealthy people bought western clothing and goods for their homes. Poorer people also accepted western ideas. Other Japanese, however, were conservative and felt more comfortable with traditional ways. There was conflict between those two groups.
 + The motto of the movement for westernization was "Civilization and Enlightenment". The Meiji government officials and other reformers wanted to change the unequal treaties with the Western countries by showing Japan as a modern and "civilized" country.

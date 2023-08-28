@@ -1,6 +1,12 @@
+<div align=center>
+
 # study-guides
 
-My grade 7 and grade 8 Alberta curriculum finals study guides for 2021-2023 so far. Feel free to share this around (other classes, grades, schools, can this even get outside of Alberta?)
+*My grade 7 and grade 8 Alberta curriculum finals study guides for 2021-2023 (so far)*
+
+</div>
+
+---
 
 ## To-do
 
@@ -14,6 +20,8 @@ Note that as I'm still in school, more information about the units would be "unv
 + [x] [Math 8](grade-8/math.md)
 + [x] [Science 8](grade-8/science.md)
 + [x] [Social Studies 8](grade-8/social.md)
+
+---
 
 ## Contributing:
 
@@ -29,7 +37,7 @@ Note that as I'm still in school, more information about the units would be "unv
 + Use correct spelling, and grammar.
 + I like the Oxford Comma and contractions.
 + Separate every three digits of a number with a comma (not a space).
-+ Betray your country and use American English spelling instead of British or Canadian English spelling.
++ Betray your country and use American English spelling instead of Canadian, British, Australian, or whatever English spelling.
 + I prefer to use ASCII characters for compatibility.
 + Please stay consistent.
 + If you only want to point something simple out, submit an issue (not a pull request).

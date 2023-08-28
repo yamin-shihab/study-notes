@@ -1,8 +1,14 @@
+<div align=center>
+
 # Math 7
 
-This subject probably involves the least amount of studying because you'll be thinking more than the other subjects instead of just remembering. Practicing word problems is also cool for practice. Note that in this document, a number after a variable (normal size) means exponent. [Mathisfun](mathisfun.com) is an excellent resource to complement this, and it isn't "for babies".
+*This subject probably involves the least amount of studying because you'll be thinking more than the other subjects instead of just remembering. Practicing word problems is also cool for practice. Note that in this document, a number after a variable (normal size) means exponent. [Mathisfun](mathisfun.com) is an excellent resource to complement this, and it isn't "for babies".*
+
+---
 
 ## Number Concepts
+
+</div>
 
 + There are two main types of numbers:
     + A prime number is a whole number above 1 that can't be made by multiplying other whole numbers together.
@@ -20,7 +26,13 @@ This subject probably involves the least amount of studying because you'll be th
     + 10 when the last digit is a 0. (40, 500, 48,620)
 + You can use a Venn Diagram to sort numbers by their divisibility (the two circles chart thingy with a separate spot in the middle).
 
+---
+
+<div align=center>
+
 ## Integers
+
+</div>
 
 + Positive numbers are above 0, and negative numbers are below 0 and are prefixed with a -.
 + It may sometimes be clearer to surround numbers with parentheses.
@@ -41,7 +53,13 @@ This subject probably involves the least amount of studying because you'll be th
         3. If not, make enough zero pairs to subtract the second number (by adding negative tiles if more positive tiles are needed to be subtracted, or by adding positive tiles if more negative tiles are needed to be subtracted).
     + Subtracting example: 5 - -2: draw 5 red tiles, there are no yellow (negative) tiles to take away (you need two), draw 2 zero pairs for 2 yellow tiles, remove the 2 yellow tiles, you now have 7 red tiles, the answer is 7.
 
+---
+
+<div align=center>
+
 ## Decimals
+
+</div>
 
 + You should know basic math operations by now (like long addition, subtraction, division, and multiplication).
 + Some types of estimation:
@@ -51,7 +69,13 @@ This subject probably involves the least amount of studying because you'll be th
     + Parentheses, Exponents, Division/Multiplication, Addition/Subtraction.
     + Note that when division/multiplication or addition/subtraction is reached, operations are applied left to right.
 
+---
+
+<div align=center>
+
 ## Fractions, Decimals, and Percents
+
+</div>
 
 + Percent means out of 100.
 + There are two types of decimal numbers:
@@ -78,7 +102,13 @@ This subject probably involves the least amount of studying because you'll be th
     + To convert from percent to decimal, drop the % sign, then either move the decimal 2 places to the left, or divide the number by 100. (75% = 0.75)
 + When comparing fractions, decimals, and percents, it's best to convert them all to one of those formats, then reorder them, then turn them back to their original form.
 
+---
+
+<div align=center>
+
 ## Fraction Operations
+
+</div>
 
 + Equivalent fractions are fractions that all represent the same amount, despite being different (imagine groups of small pizza slices being in the shape of one big pizza slice). (3/9, 1/3, 2/6)
     + An equivalent fraction can be made from a fraction by multiplying/dividing both the numerator and the denominator by the same number. (2/5 = 4/10)
@@ -94,14 +124,26 @@ This subject probably involves the least amount of studying because you'll be th
 + To add fractions, make sure there is a common denominator, then just add the numerators, but keep the denominators the same. (2/7 + 3/7 = 5/7)
 + To subtract fractions, make sure there is a common denominator, then just subtract the numerators, but keep the denominators the same (4/6 - 3/6 = 1/6)
 
+---
+
+<div align=center>
+
 ## Percent Problems
+
+</div>
 
 + You can get a percentage of a number by multiplying the number by the percent as a decimal. (60% of 50 = 50(0.6) = 30)
 + GST is a percentage tax imposed on buying products applied on their prices. Right now it's 5%.
     + To get the GST of a product, multiply the price by 0.05. To get the total end price, either add the price of the GST with the item price, or multiply the item price by 1.05. ($40 with GST = 40(1.05) = $42)
 + To get the amount saved by a discount or coupon, multiply the price by the discount or coupon as a decimal. To get the total end price, either subtract original item price by the amount saved, or multiply the original item price by the "opposite of the percentage" as a decimal. ($60 and a 20% coupon = 20(0.8) = $48)
 
+---
+
+<div align=center>
+
 ## Statistics and Probability
+
+</div>
 
 + There are different measures of central tendency:
     + The mean of a group of numbers can be considered the "true average".
@@ -124,7 +166,13 @@ This subject probably involves the least amount of studying because you'll be th
         + A tree diagram starts and branches out for each event. The amount of branches from each branch is the possible number of outcomes. The amount of branches at the end is the total overall amount of possible outcomes.
         + A table of outcomes only works with 2 events (unless you want to traverse the nth dimension). It's a table where the rows represent the possible outcomes of the first event, and the columns represent the second event.
 
+---
+
+<div align=center>
+
 ## Patterns and Relations
+
+</div>
 
 + An expression is a mathematical phrase made up of numbers and/or variables connected by operations. The variable can represent any number we choose. (3 - 5, 8, 2 - x)
 + An equation is a mathematical statement, or sentence, containing two expressions separated by an equals sign. The variable only has one value. (3 - 5 = -2, 3x = 6, x = 8)
@@ -147,7 +195,13 @@ This subject probably involves the least amount of studying because you'll be th
 + Discrete data is data that can be counted and only has dot coordinates on the graph. (students in class, tickets, month)
 + Graphs need a title, a manipulated (independent) variable, a label on the x-axis, a responding (dependent) variable, a label on the y-axis, proper scales for data, bars are evenly spaced, and everything is neat and organized with a ruler.
 
+---
+
+<div align=center>
+
 ## Equations
+
+</div>
 
 + Equations can be represented using number tiles by using a long tile as an x tile. (one long x tile and 3 negative white tiles = 4 positive black tiles, means x - 3 = 4)
     + This makes two expressions on either side of the equation.
@@ -158,7 +212,13 @@ This subject probably involves the least amount of studying because you'll be th
     + We remove the required numbers on the x side, then the same ones on the other side; this keeps it balanced.
 + To solve an equation normally, we also must isolate the x variable, by performing the reverse of PEMDAS, and the reverse operators. (3x + 3 = 9 -> 3x = 6 -> x = 2)
 
+---
+
+<div align=center>
+
 ## Geometry
+
+</div>
 
 + A Cartesian plane is a 2-dimensional coordinate plane, with 4 quadrants.
     + The first is top right, second is top left, third is bottom left, and fourth is bottom right.
@@ -196,7 +256,13 @@ This subject probably involves the least amount of studying because you'll be th
     + To make one with a compass, draw an arc from the point of the angle, then for each of the 2 intersections made, draw another arc at the point of intersection. Where the final 2 arcs intersect, that's the point of the bisector.
     + An angle bisector is represented by an < then first the points of the two angle lines with the angle point in between and = + the original amount of degrees, then the first angle line followed by the angle point, the bisector = the second angle line followed by the angle point, and the bisector, followed by = + the bisected angle in degrees. (ABC = 90, ABD = CBD = 45)
 
+---
+
+<div align=center>
+
 ## Area, and Perimeter
+
+</div>
 
 + Length is the length of the sides, and width is of the top and bottom.
 + Base is the width of the bottom, and height is how tall the whole shape is (not a side).

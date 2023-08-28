@@ -1,19 +1,33 @@
+<div align=center>
+
 # English Language Arts 8
 
-Good thing I learned a lesson from last year to start study guides early. Note from future (second last week of school): nope, you didn't learn a single lesson, you idiot.
+*Good thing I learned a lesson from last year to start study guides early. Note from future (second last week of school): nope, you didn't learn a single lesson, you idiot.*
+
+---
 
 # ***!!! ADDITIONAL NOTICE !!!***
 
-### For some reason, we learned almost exactly the same things this year and last year for English, so use the grade 7 study guide for English along with the extra things in this grade 8 English study guide.
+### *For some reason, we learned almost exactly the same things this year and last year for English, so use the grade 7 study guide for English along with the extra things in this grade 8 English study guide.*
+
+---
 
 ## Sentences
+
+</div>
 
 + An independent clause consists of a subject (mostly a noun) and a predicate (mostly a verb). (Alice scorned Bob, subject: Alice, predicate: scorned bob)
 + A dependent clause, or subordinate clause, consists of a subject and predicate, but can't function on its own. (Since the boys burnt the school down)
 + A fragment is a group of words that lack either a subject, predicate, or both (slammed the door and left).
 + A compound-complex sentence includes both a compound and complex sentence in one. (Because of the constant segmentation faults, he decided that it was time, and he took his life.)
 
+---
+
+<div align=center>
+
 ## Grammar
+
+</div>
 
 + Commas have many uses:
     + They can separate several adjectives. (The old, dusty book lied on the top of the shelf.)
@@ -43,7 +57,13 @@ Good thing I learned a lesson from last year to start study guides early. Note f
         + Em dashes can add extra information after a list. ("Peanuts and gluten--she is allergic to them.")
     + En dashes have the width of the letter n and are used to represent spans of numbers. (The 2013--2014 season was horrible for the team.)
 
+---
+
+<div align=center>
+
 ## Paragraphs
+
+</div>
 
 + There are several ways to arrange ideas in a paragraph:
     + Ideas are presented in chronological order (the same order that they occurred in time).
@@ -51,7 +71,13 @@ Good thing I learned a lesson from last year to start study guides early. Note f
     + Ordering by importance could mean starting with the least or most important idea and ending with the least or most important idea.
     + When a paragraph's ideas are ordered by climax, the writer can build suspense up to it.
 
+---
+
+<div align=center>
+
 ## Nonfiction
+
+</div>
 
 + Nonfiction writing, as opposed to fiction, is about real things: people, events, things, places, etc.
 + Common forms of nonfiction include:
@@ -80,7 +106,13 @@ Good thing I learned a lesson from last year to start study guides early. Note f
     + Bullet points make lists easier to read and understand.
     + Sidebars give extra information about a topic.
 
+---
+
+<div align=center>
+
 ## Short Stories
+
+</div>
 
 + The setting of a story is where and when it takes place.
 + There are three types of irony:
@@ -94,7 +126,13 @@ Good thing I learned a lesson from last year to start study guides early. Note f
     + Omniscient is when the reader knows about all the characters' thoughts and feelings.
     + Limited omniscient is when the reader knows about only one of the character's feelings (usually the protagonist).
 
+---
+
+<div align=center>
+
 ## Figurative Language
+
+</div>
 
 + An assonance is the repetition of vowel sounds in the middle of words. (The rain in Spain falls mainly on the plain.)
 + An allusion is a reference to something from an unrelated context used to represent something going on in the text. (Bro thinks he's Einstein...)
@@ -102,7 +140,13 @@ Good thing I learned a lesson from last year to start study guides early. Note f
 + An understatement is the opposite of a hyperbole; it states less than what's necessary. (I lost all my work, so it's not really a big problem.)
 + Repetition is the... repetition of words. (No, no, no, no, no, no!)
 
+---
+
+<div align=center>
+
 ## Reading Strategies
+
+</div>
 
 + When reading a text, you might come across an unfamiliar word or phrase and may not have access to a dictionary or the like. However, you can use clues and context to find out the meaning:
     + The author provides an actual definition next to the word. (His emaciation, or his bony appearance, was awfully obvious.)
@@ -113,7 +157,13 @@ Good thing I learned a lesson from last year to start study guides early. Note f
     + An unstated or unimplied clue has hints dropped. (He found himself at the edge of a precipice; clinging to a boulder, he gazed down dizzily at the blue ribbon of water below.)
     + The mood or tone of the surrounding text can aid in knowing the definition of the word. (The aura of the place was lugubrious: the mournful wails matched the dreary whistling of the wind in the grim cemetery.)
 
+---
+
+<div align=center>
+
 ## Visual Literacy
+
+</div>
 
 + The dominant impression of any narrative is the overall feeling or effect on a reader or viewer (and even video game player). Some film techniques that are used to aid in the process:
     + Music can be a very powerful tool if used correctly. Things that can be taken into consideration include the instruments chosen, the melody, and the accompaniment.
