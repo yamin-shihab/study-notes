@@ -10,7 +10,7 @@
 
 </div>
 
-Read the grade 7 science study guide for the scientific method.
++ Read the grade 7 science study guide for the scientific method.
 
 ---
 

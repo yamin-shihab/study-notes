@@ -3,6 +3,9 @@
 # Social Studies 8
 
 *Seems to be more thinking than memorizing compared to grade 7 social studies. Note from the future: this was very false. And also as a quick precursor:*
+
+</div>
+
 + *Worldview is how you view the world, and it's pervasive.*
     + *Different groups of people share different or similar world views.*
 + *A worldview isn't a point of view, as a point of view is the way an individual sees things.*
@@ -17,6 +20,8 @@
     + *How do people develop knowledge? What ways of knowing are accepted? Who has access to knowledge? How is it valued? Where does it reside?*
 
 ---
+
+<div align=center>
 
 ## Chapter 1
 
