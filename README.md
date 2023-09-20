@@ -2,7 +2,7 @@
 
 # study-guides
 
-*My grade 7 and grade 8 Alberta curriculum finals study guides for 2021-2023 (so far)*
+*My grade 7, 8, and 9 Alberta curriculum study guides for 2021-2024 (so far)*
 
 </div>
 
@@ -16,10 +16,14 @@ Note that as I'm still in school, more information about the units would be "unv
 + [x] [Math 7](grade-7/math.md)
 + [x] [Science 7](grade-7/science.md)
 + [x] [Social Studies 7](grade-7/social.md)
-+ [x] [English Language As 8](grade-8/english.md)
++ [x] [English Language Arts 8](grade-8/english.md)
 + [x] [Math 8](grade-8/math.md)
 + [x] [Science 8](grade-8/science.md)
 + [x] [Social Studies 8](grade-8/social.md)
++ [ ] [English Language Arts 9](grade-9/english.md)
++ [ ] [Math 9](grade-9/math.md)
++ [ ] [Science 9](grade-9/science.md)
++ [ ] [Social Studies 9](grade-9/social.md)
 
 ---
 
