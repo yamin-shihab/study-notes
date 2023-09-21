@@ -2,7 +2,7 @@
 
 # Social Studies 8
 
-*Seems to be more thinking than memorizing compared to grade 7 social studies. Note from the future: this was very false. And also as a quick precursor:*
+*Seems to be more thinking than memorizing compared to grade 7 Social Studies. Note from the future: this was very false. And also as a quick precursor:*
 
 </div>
 

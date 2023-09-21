@@ -10,7 +10,7 @@
 
 ## To-do
 
-Note that as I'm still in school, more information about the units would be "unveiled". So when a unit is considered finished, I finished adding all the information there is available. Updates will still be added.
+Note that as I'm still in school, more information about the units would be "unveiled". So when a unit or subject is considered finished, I finished adding all the information there is available. Updates will still be added.
 
 + [x] [English Language Arts 7](grade-7/english.md)
 + [x] [Math 7](grade-7/math.md)
