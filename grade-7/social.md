@@ -1,14 +1,10 @@
-<div align=center>
+<h1 align="center">Social Studies 7</h1>
 
-# Social Studies 7
-
-*Will I ever manage to finish this and science in time while having a bunch of assignments and tests? Tune in to find out! Yeah, I'm going to try to write short.*
+*<p align="center">Will I ever manage to finish this and science in time while having a bunch of assignments and tests? Tune in to find out! Yeah, I'm going to try to write short.</p>*
 
 ---
 
-## Chapter 1
-
-</div>
+<h2 align="center">Chapter 1</h2>
 
 + Before any European colonization of North America occurred, there were First Nations people.
 + We'll be talking about the Mi'kmaq, Haudenosaunee, and Anishinabe societies.
@@ -35,11 +31,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 2
-
-</div>
+<h2 align="center">Chapter 2</h2>
 
 + In the 1300s, trade routes between Europe and Asia were disrupted, so the price of goods increased.
     + But then, technology such as faster ships, compasses, astrolabes started being invented/improved.
@@ -64,11 +56,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 3
-
-</div>
+<h2 align="center">Chapter 3</h2>
 
 + A colony is a region of land dominated by another empire by sending colonists to establish control.
 + Mercantilism is a regulated economic system in which a colony supplies the original country with cheap, raw resources. The country then creates and sells expensive goods using those resources to make money.
@@ -106,11 +94,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 4
-
-</div>
+<h2 align="center">Chapter 4</h2>
 
 + The fur trade consisted of multiple phases.
     + Phase one was when cod fisheries were set up by Europeans and early trading began with First Nations.
@@ -123,11 +107,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 5
-
-</div>
+<h2 align="center">Chapter 5</h2>
 
 + The Mi'kmaq were originally in Acadia, and have established a trading partnership with the French. So they were allowed to also live there, so settlements were established. They called themselves Acadians when marriages between both people occurred.
 + In 1713, Britain won the War of Spanish Succession, and the Treaty of Utrecht was negotiated where Acadia is now under Britain's control.
@@ -143,11 +123,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 6
-
-</div>
+<h2 align="center">Chapter 6</h2>
 
 + After 1763, Britain was deeply in debt because of the Seven Years' War, and wanted to save money. They wanted to keep troops stationed in the Thirteen Colonies, so they increased taxes on them.
     + The colonists refused to pay. They said Britain had no authority to tax them because they weren't allowed to elect representatives to the British parliament. They came up with the slogan "No taxation without representation".
@@ -168,11 +144,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 7
-
-</div>
+<h2 align="center">Chapter 7</h2>
 
 + Immigrating is going somewhere, and emigrating is leaving somewhere.
 + The Great Migration was when a huge wave of people immigrated to Canada.
@@ -199,11 +171,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 8
-
-</div>
+<h2 align="center">Chapter 8</h2>
 
 + Confederation had four key politicians who wanted it most:
     + John A. Macdonald came from Canada West, born in Scotland. He wanted a nation that spread from "sea to sea", that gave provinces powers, and kept ties with Britain. He then became the first prime minister of Canada.
@@ -245,11 +213,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 9
-
-</div>
+<h2 align="center">Chapter 9</h2>
 
 + In Rupert's Land, there was the Red River Settlement; it was home to many people such as French and English-speaking Metis people.
 + The Red River Resistance occurred in 1869 because after the HBC sold Rupert's Land to Canada for 300,000 pounds, land surveyors appeared to divide and mark land too early.
@@ -281,11 +245,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 10
-
-</div>
+<h2 align="center">Chapter 10</h2>
 
 + To own land that First Nations live in, Canada had to negotiate numbered treaties.
     + This was needed to do things like expand west and build the railway.
@@ -311,11 +271,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 11
-
-</div>
+<h2 align="center">Chapter 11</h2>
 
 + In 1916, Manitoba, Alberta, and Saskatchewan became the first provinces in Canada that allowed women to vote. In 1918 women across all of Canada gained the right to vote in federal elections.
     + Women of non-European descent took longer to get those rights. The right to vote opened the door to equality in other aspects such as university and work.

@@ -1,14 +1,10 @@
-<div align=center>
+<h1 align="center">study-guides</h1>
 
-# study-guides
-
-*My grade 7, 8, and 9 Alberta curriculum study guides for 2021-2024 (so far)*
-
-</div>
+*<p align="center">My grade 7, 8, and 9 Alberta curriculum study guides for 2021-2024 (so far)</p>*
 
 ---
 
-## To-do
+<h2 align="center">To-do</h2>
 
 Note that as I'm still in school, more information about the units would be "unveiled". So when a unit or subject is considered finished, I finished adding all the information there is available. Updates will still be added.
 
@@ -27,7 +23,7 @@ Note that as I'm still in school, more information about the units would be "unv
 
 ---
 
-## Contributing:
+<h2 align="center">Contributing:</h2>
 
 + Learn how to make a pull request on GitHub.
 + Learn Markdown syntax; [this is a good resource](https://learnxinyminutes.com/docs/markdown/) (looking up other guides on the internet would also be a good idea).

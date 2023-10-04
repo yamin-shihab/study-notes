@@ -1,14 +1,10 @@
-<div align=center>
+<h1 align="center">Science 7</h1>
 
-# Science 7
-
-*I hate this.*
+*<p align="center">I hate this.</p>*
 
 ---
 
-## Scientific Method
-
-</div>
+<h2 align="center">Scientific Method</h2>
 
 + There are numerous steps to a scientific experiment:
     + A problem statement is a sentence in the form of a testable question. It's mainly: "What effect does (manipulated variable) have on (responding variable)?"
@@ -29,11 +25,7 @@
 
 ---
 
-<div align=center>
-
-## Interactions and Ecosystems
-
-</div>
+<h2 align="center">Interactions and Ecosystems</h2>
 
 + All living things need food, water, a suitable habitat, and gas to exchange.
 + Natural resources are the materials and products found in nature.
@@ -104,11 +96,7 @@
 
 ---
 
-<div align=center>
-
-## Plants for Food and Fiber
-
-</div>
+<h2 align="center">Plants for Food and Fiber</h2>
 
 + Plants are important since they provide all the energy for the ecosystem. They get energy directly from sunlight, and They need water, nutrients, space, warmth, and air to grow.
     + Fiber can also be derived from them. (clothing, paper, shelter)
@@ -187,11 +175,7 @@
 
 ---
 
-<div align=center>
-
-## Heat and Temperature
-
-</div>
+<h2 align="center">Heat and Temperature</h2>
 
 + Energy is the ability to do work.
     + Potential energy is stored energy.
@@ -257,11 +241,7 @@
 
 ---
 
-<div align=center>
-
-## Structures
-
-</div>
+<h2 align="center">Structures</h2>
 
 + A structure has a definite shape and size and serves a specific function.
 + The origin of a structure is how it was made.
@@ -330,11 +310,7 @@
 
 ---
 
-<div align=center>
-
-## Planet Earth
-
-</div>
+<h2 align="center">Planet Earth</h2>
 
 + Earth is broken up into four layers.
     + The crust is the thinnest layer and where we live on. It's also the coldest.

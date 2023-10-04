@@ -1,10 +1,6 @@
-<div align=center>
+<h1 align="center">Social Studies 8</h1>
 
-# Social Studies 8
-
-*Seems to be more thinking than memorizing compared to grade 7 Social Studies. Note from the future: this was very false. And also as a quick precursor:*
-
-</div>
+*<p align="center">Seems to be more thinking than memorizing compared to grade 7 Social Studies. Note from the future: this was very false. And also as a quick precursor:</p>*
 
 + *Worldview is how you view the world, and it's pervasive.*
     + *Different groups of people share different or similar world views.*
@@ -21,11 +17,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 1
-
-</div>
+<h2 align="center">Chapter 1</h2>
 
 + During the Middle Ages, much of European society was organized in a system called feudalism: a hierarchy in which different people ranked differently from each other based off of their importance.
     + People were born into their level, and were expected to stay at that level.
@@ -60,11 +52,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 2
-
-</div>
+<h2 align="center">Chapter 2</h2>
 
 + Marco Polo and his family were known for travelling along the Silk Road. Marco also told stories of his journeys.
 + The Silk Road was the major series of trading routes that connected civilizations from the Mediterranean in the west to the Pacific Ocean in the East. It was helpful for the trade of items, foods, and goods.
@@ -98,11 +86,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 3
-
-</div>
+<h2 align="center">Chapter 3</h2>
 
 + A new way of thinking starting in the northern Italian city-states known as humanism. It involved scholars looking back to the ancient Classical civilizations of Greece and Rome.
     + They were heavily interested in the ways ancient writers like Aristotle and Plato gave their opinions on society, politics, history, and the arts.
@@ -137,11 +121,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 4
-
-</div>
+<h2 align="center">Chapter 4</h2>
 
 + Before the Renaissance, Europeans that wanted to learn science would have to read books by scholars from Classical or Islamic civilizations and were not encouraged to ask questions, study, or do any experimenting. This is in contrast to the attitudes toward science during the Renaissance, where thinkers did much more using what was called the scientific method.
     + The scientific method was the process of making observations, experimenting, and drawing conclusions based off of evidence. It led to many important discoveries and advances in different fields.
@@ -169,11 +149,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 5
-
-</div>
+<h2 align="center">Chapter 5</h2>
 
 + During the Renaissance, people with power decided to have people explore for several reasons:
     + Trade grew across Europe as people with money demanded luxury goods. Commerce and manufacturing also expanded significantly. Europeans resented the high price of goods because they had to go a long way, so if a direct sea route was established to the East, trade for goods would be cheaper.
@@ -192,11 +168,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 6
-
-</div>
+<h2 align="center">Chapter 6</h2>
 
 + At the beginning of the Age of Exploration, Portugal and Spain sent out expeditions to find trade routes to Asia. After Christopher Columbus had discovered what he thought was a trade route to Asia, Portugal wanted to make sure it got its share of the Asian trade, but Spain couldn't come to an agreement.
     + The rulers of both countries then asked the pope to settle the matter, so he proposed the secret Treaty of Tordesillas that would divide the world in half between the two. Other European rulers were angry about the treaty, and England and France simply ignored it.
@@ -207,11 +179,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 7
-
-</div>
+<h2 align="center">Chapter 7</h2>
 
 + The Aztecs migrated looking for an eagle perching on a cactus with a snake in its beak, because it's believed that their god Huitzilopotchli commanded them to do so. After 150 years of searching, they named their capital Tenochtitlan.
 + For the Aztecs, mountains were seen as a sacred or holy site, because its height brought people physically closer to their gods, so they built pyramid temples similar to mountains for worship.
@@ -240,11 +208,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 8
-
-</div>
+<h2 align="center">Chapter 8</h2>
 
 + Aztec society had two main classes of people: the nobles and the commoners. A person's position was generally determined by which class they were born into, but some people were able to work their way up to higher levels through their own efforts.
     + The emperor, whose Aztec name meant Great Speaker, was treated as if he were a god by the Aztecs, and respect was shown to him through obedience without question. He had many privileges and luxuries, like living in an enormous palace with gardens and a zoo
@@ -276,11 +240,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 9
-
-</div>
+<h2 align="center">Chapter 9</h2>
 
 + At the beginning of the Middle Ages, most of Spain (and Europe) was Christian and ruled by the Visigoths, who invaded Spain at the end of the Roman Empire. After being vulnerable, a Muslim force landed in Spain in 711 and conquered almost the entire Iberian Peninsula (Spain and Portugal). A new sense of national identity was developed, and many Christians converted to Islam, while others didn't.
     + Spain was then part of a vast empire; the Arab Islamic world was part of the largest economic trade zone in the world. Muslim rulers and merchants supported the arts, so music, art, and architecture reflected Islamic values.
@@ -302,11 +262,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 10
-
-</div>
+<h2 align="center">Chapter 10</h2>
 
 + Conquistador, meaning "conqueror", was the term that the Spanish leaders in the Americas used to describe themselves. They also had a formula for conquering an area:
     1. An expedition would set out from a recent colony.
@@ -341,11 +297,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 11
-
-</div>
+<h2 align="center">Chapter 11</h2>
 
 + Many Aztecs, like Europeans during the Black Death, felt that their gods have abandoned them. Cortes then got many priests to come to Mexico City (formerly Tenochtitlan).
 + The Spanish changed the economic system in Mexico by introducing the encomienda system: with each piece of land, settlers were allotted a number of unpaid Aztec workers.
@@ -359,11 +311,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 12
-
-</div>
+<h2 align="center">Chapter 12</h2>
 
 + For centuries, the Japanese have described their country as the land of the rising sun. According to legend, the divine beings Izanagi and Izanami stood on the bridge of heaven and churned the ocean with a spear to make a small island of curdled salt. From that mystical beginning grew a string of islands: Japan. The two then went on to bear the deities called kami who inhabited the land from that time onwards.
     + It was said that Izanagi later a daughter named Ameaterasu. She was known as the sun goddess, but at one point, she went into a cave closed with a boulder and refused to come out. This led to the world being plunged into darkness, so the other gods eventually tricked her into coming out, bringing back light and hope to the Japanese people.
@@ -391,11 +339,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 13
-
-</div>
+<h2 align="center">Chapter 13</h2>
 
 + The story of the 47 ronin had the shogun get Lord Asano and other nobles to meet with a representative of the emperor. A court official, Lord Kira was assigned to teach Asano the correct way to behave. When Asano didn't pay Kira enough for his help, he became angry and cut Kira's arm with his sword. Knowing that he committed a forbidden act (drawing a sword in the Edo castle and wounding an important official), he took his own life under the order of the shogun. Now that Lord Asano was dead, his 47 samurai became ronin: warriors without a master. Without their honor and position in society and out of loyalty for their master, they killed Lord Kira to avenge Asano, and killed themselves too.
     + This story is known widely in Japan because of how it portrays honorable behavior in the warriors.
@@ -429,11 +373,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 14
-
-</div>
+<h2 align="center">Chapter 14</h2>
 
 + The shogun saw foreigners, specifically Europeans, as threats. If the daimyo acquired European weapons, they might challenge the shogun's authority. He also saw loyalty to the Christian God and Church as another threat to his authority, so all Christian missionaries were ordered to leave the country; churches were destroyed and Japaneses Christians who refused to give up their new faith faced execution. The shogun Tokugawa Iemitsu also set up exclusion laws to cut of contact:
     + All Christian missionaries and foreign traders were forced to leave Japan. Newcomers were no longer allowed to enter.
@@ -469,11 +409,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 15
-
-</div>
+<h2 align="center">Chapter 15</h2>
 
 + In 1853, the American Commodore Perry arrived to Japan in 1853 to cause pressure to influence Japan. The Japanese reacted with fear and respect for mainly three reasons:
     + Perry showed off his military strength by bringing large steamships and guns with him.
@@ -505,11 +441,7 @@
 
 ---
 
-<div align=center>
-
-## Chapter 16
-
-</div>
+<h2 align="center">Chapter 16</h2>
 
 + Many people in Meiji Japan were open to new ideas and ways; wealthy people bought western clothing and goods for their homes. Poorer people also accepted western ideas. Other Japanese, however, were conservative and felt more comfortable with traditional ways. There was conflict between those two groups.
 + The motto of the movement for westernization was "Civilization and Enlightenment". The Meiji government officials and other reformers wanted to change the unequal treaties with the Western countries by showing Japan as a modern and "civilized" country.

@@ -1,24 +1,16 @@
-<div align=center>
+<h1 align="center">Science 8</h1>
 
-# Science 8
-
-*So what's the "space" between particles anyway?*
+*<p align="center">So what's the "space" between particles anyway?</p>*
 
 ---
 
-## Scientific Method
-
-</div>
+<h2 align="center">Scientific Method</h2>
 
 + Read the grade 7 Science study guide for the scientific method.
 
 ---
 
-<div align=center>
-
-## Mix and Flow of Matter
-
-</div>
+<h2 align="center">Mix and Flow of Matter</h2>
 
 + A fluid is a substance that has the ability to flow (liquid or gas). A non-fluid can behave like one when melted or dissolved into a fluid. They take up all available space in their container. (water, honey, air)
 + There are three main types of matter, in order of density:
@@ -96,11 +88,7 @@
 
 ---
 
-<div align=center>
-
-## Light and Optics
-
-</div>
+<h2 align="center">Light and Optics</h2>
 
 + Light is a form of energy that you can see, and it radiates (spreads out) in all directions. This form of energy transfer involving radiant energy doesn't require matter and is known as radiation. There are two main types of light:
     + A natural light source is from nature and isn't made by humans. (stars, fires, fireflies)
@@ -169,11 +157,7 @@
 
 ---
 
-<div align=center>
-
-## Mechanical Systems
-
-</div>
+<h2 align="center">Mechanical Systems</h2>
 
 + When force is exerted on a screwdriver or seesaw, they would exert a force on something else; both are examples of a lever. A lever consists of a fulcrum and two sides with two parts: the effort force and arm (where effort is applied) and the load and its arm (the mass of an object that's moved or lifted by the lever's force). There are three types of a lever:
     1. Class one levers have the fulcrum between the effort and load. They are used for either power or precision. (scissors, seesaws, rowboat oars, bending neck)
@@ -221,11 +205,7 @@
 
 ---
 
-<div align=center>
-
-## Cells and Systems
-
-</div>
+<h2 align="center">Cells and Systems</h2>
 
 + Living organisms have signs of life: the requirement of energy, stimuli, reproduction, growth, and waste production.
 + There are different levels of the organization of life. From smallest to biggest:
@@ -323,11 +303,7 @@
 
 ---
 
-<div align=center>
-
-## Fresh and Salt Water Systems
-
-</div>
+<h2 align="center">Fresh and Salt Water Systems</h2>
 
 + More organisms inhabit water than other places on earth, and furthermore, all organisms require water to survive.
 + 97% of Earth's water is salt water, and the remaining is fresh water.

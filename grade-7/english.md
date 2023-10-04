@@ -1,14 +1,10 @@
-<div align=center>
+<h1 align="center">English Language Arts 7</h1>
 
-# English Language Arts 7
-
-*Right now, I'm really, really worried on how I'm going to manage to do Science and Social Studies at this time.*
+*<p align="center">Right now, I'm really, really worried on how I'm going to manage to do Science and Social Studies at this time.</p>*
 
 ---
 
-## Sentences
-
-</div>
+<h2 align="center">Sentences</h2>
 
 + A sentence is a group of words that expresses a complete thought.
     + Sentences require a subject (noun) and a predicate (verb). (I drove the car, subject: I, predicate: drove the car)
@@ -44,11 +40,7 @@
 
 ---
 
-<div align=center>
-
-## Reading Strategies
-
-</div>
+<h2 align="center">Reading Strategies</h2>
 
 + When reading, you should ask questions to yourself about the text. (Does the text make sense? What's happening? Am I confused? What does this word mean? Should I speed up or slow down? Do I need to reread this? I know I understand this because...)
 + Skimming means your eyes are quickly looking over the page in motions to see how many paragraphs there are, looking for bold/underlined/italicized words, and visuals/headers. This lets you preview and get acquainted with the text.
@@ -74,11 +66,7 @@
 
 ---
 
-<div align=center>
-
-## Paragraphs
-
-</div>
+<h2 align="center">Paragraphs</h2>
 
 + Different types of paragraphs serve different purposes:
     + An information paragraph informs, classifies, compares, and explains how, why, or what.
@@ -113,11 +101,7 @@
 
 ---
 
-<div align=center>
-
-## Figurative language
-
-</div>
+<h2 align="center">Figurative language</h2>
 
 + Figurative language calls on the reader's imagination to complete the authors meaning.
 + Alliterations are the repetition of words of the same consonant sound of two or more words. (She sells seashells by the seashore.)
@@ -134,11 +118,7 @@
 
 ---
 
-<div align=center>
-
-## Short Stories
-
-</div>
+<h2 align="center">Short Stories</h2>
 
 + Plot refers to the main events of a story (what happens in the story).
 + Exposition is the beginning of the story, and when the author engages the reader and shares essential information to get the story started.
@@ -202,11 +182,7 @@
 
 ---
 
-<div align=center>
-
-## Narrative Writing
-
-</div>
+<h2 align="center">Narrative Writing</h2>
 
 + A sentence can start in different ways:
     + A subject starter sentence starts with the subject, then the predicate. It's also unfortunately overused. (Bob ran.)
@@ -236,11 +212,7 @@
 
 ---
 
-<div align=center>
-
-## Grammar
-
-</div>
+<h2 align="center">Grammar</h2>
 
 + Apostrophes have two main functions: omission and possession.
     + Abbreviation is removing letter(s) from a word to shorten it, and leaving an apostrophe there. (gov't)
@@ -272,11 +244,7 @@
 
 ---
 
-<div align=center>
-
-## Persuasion
-
-</div>
+<h2 align="center">Persuasion</h2>
 
 + Persuasion must be effective:
     + When writing a persuasive text you should start by stating your opinion of the topic.
@@ -300,11 +268,7 @@
 
 ---
 
-<div align=center>
-
-## Visual Literacy
-
-</div>
+<h2 align="center">Visual Literacy</h2>
 
 + Speech balloons are shapes that contain text shown near a character to indicate speech.
     + They can be round, jagged, rectangular, or have irregular edges to convey emotion.
@@ -336,11 +300,7 @@
 
 ---
 
-<div align=center>
-
-## Poetry
-
-</div>
+<h2 align="center">Poetry</h2>
 
 + Poetry is a type of literature genre that expresses feelings and ideas on a particular topic using a unique form, style, and rhythm.
     + Poems can be written on their own or be part of an anthology (collection of poems in a book).
