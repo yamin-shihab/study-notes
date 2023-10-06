@@ -1,12 +1,10 @@
-<h1 align="center">study-guides</h1>
+# study-guides
 
-*<p align="center">My grade 7, 8, and 9 Alberta curriculum study guides for 2021-2024 (so far)</p>*
+*My grade 7, 8, and 9 Alberta curriculum study guides for 2021-2024 (so far)*
 
 ---
 
-<h2 align="center">To-do</h2>
-
-Note that as I'm still in school, more information about the units would be "unveiled". So when a unit or subject is considered finished, I finished adding all the information there is available. Updates will still be added.
+Note that as I'm still in school, more information about each unit will be written over time. So when a unit or subject is considered finished, I've finished adding all the information there is available. Updates can still be added later on.
 
 + [x] [English Language Arts 7](grade-7/english.md)
 + [x] [Math 7](grade-7/math.md)
@@ -21,23 +19,4 @@ Note that as I'm still in school, more information about the units would be "unv
 + [ ] [Science 9](grade-9/science.md)
 + [ ] [Social Studies 9](grade-9/social.md)
 
----
-
-<h2 align="center">Contributing:</h2>
-
-+ Learn how to make a pull request on GitHub.
-+ Learn Markdown syntax; [this is a good resource](https://learnxinyminutes.com/docs/markdown/) (looking up other guides on the internet would also be a good idea).
-+ Header 1 at top of every file (stating subject).
-+ Each unit is a header 2 after that.
-+ Sections are separated by a newline.
-+ Parts of a unit are part of an unordered (and occasionally numbered) list.
-    + You can use nested lists by indenting by four spaces.
-+ Use + instead of -, or * for unordered lists.
-+ Don't make parts too long.
-+ Use correct spelling, and grammar.
-+ I like the Oxford Comma and contractions.
-+ Separate every three digits of a number with a comma (not a space).
-+ Betray your country and use American English spelling instead of Canadian, British, Australian, or whatever English spelling.
-+ I prefer to use ASCII characters for compatibility.
-+ Please stay consistent.
-+ If you only want to point something simple out, submit an issue (not a pull request).
+If you want to contribute, please, please, please, please, please be as consistent as possible with all the surrounding text (not like anyone is going to contribute anyway).

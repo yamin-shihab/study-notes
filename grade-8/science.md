@@ -1,16 +1,16 @@
-<h1 align="center">Science 8</h1>
+# Science 8
 
-*<p align="center">So what's the "space" between particles anyway?</p>*
+*So what's the "space" between particles anyway?*
 
 ---
 
-<h2 align="center">Scientific Method</h2>
+## Scientific Method
 
 + Read the grade 7 Science study guide for the scientific method.
 
 ---
 
-<h2 align="center">Mix and Flow of Matter</h2>
+## Mix and Flow of Matter
 
 + A fluid is a substance that has the ability to flow (liquid or gas). A non-fluid can behave like one when melted or dissolved into a fluid. They take up all available space in their container. (water, honey, air)
 + There are three main types of matter, in order of density:
@@ -88,7 +88,7 @@
 
 ---
 
-<h2 align="center">Light and Optics</h2>
+## Light and Optics
 
 + Light is a form of energy that you can see, and it radiates (spreads out) in all directions. This form of energy transfer involving radiant energy doesn't require matter and is known as radiation. There are two main types of light:
     + A natural light source is from nature and isn't made by humans. (stars, fires, fireflies)
@@ -130,7 +130,7 @@
         + The near point is the shortest distance at which an object is in focus (about 25 cm for the average adult), and the far point is the longest distance (technically infinity).
     + A camera's diaphragm adjusts the aperture (opening) and allows variable amounts of light in, and the shutter limits the passage of light for different times. An eye's iris changes the size of the pupil (opening) to allow for varying amounts of light in. This is called the iris reflex. (dark place, big pupil; bright place, small pupil)
     + At the back of the camera, light rays are focused onto a light-sensitive film; it uses chemical changes to record the image. Upon receiving light, the retina in the human eye produces electrical impulses that travel to the brain via the optic nerve.
-        + The blind spot is the area in the retina that cannot detect light as that is where the optic nerve connects.
+        + The blind spot is the area in the retina that can't detect light as that is where the optic nerve connects.
     + The parts of a camera are contained in a rigid, lightproof box. In the eyes, fluids called humors: the vitreous humor is between the retina and lens, while the aqueous humor is between the cornea and lens.
 + Telescopes help us see distant objects more clearly. A refracting telescope has an objective lens to focus and collect light and an eyepiece lens to enlarge the image. A reflecting telescope uses a concave mirror to collect light rays, while the primary or objective mirror forms a real image that is then magnified by the eyepiece lens.
 + Telescopes are actually just two reflecting telescopes mounted side by side. They use prisms to server as plane mirrors and reflect light back and forth.
@@ -157,7 +157,7 @@
 
 ---
 
-<h2 align="center">Mechanical Systems</h2>
+## Mechanical Systems
 
 + When force is exerted on a screwdriver or seesaw, they would exert a force on something else; both are examples of a lever. A lever consists of a fulcrum and two sides with two parts: the effort force and arm (where effort is applied) and the load and its arm (the mass of an object that's moved or lifted by the lever's force). There are three types of a lever:
     1. Class one levers have the fulcrum between the effort and load. They are used for either power or precision. (scissors, seesaws, rowboat oars, bending neck)
@@ -165,7 +165,7 @@
     3. In a class three lever, the effort is exerted between the fulcrum and load. A greater force must be exerted to affect the load, but it can be done more quickly. (hockey sticks, biceps)
 + An inclined plane is a ramp or slope that reduces the force needed to be exerted to lift something.
 + In science, work (joules) is force (newtons) multiplied by distance (meters). (1.2 N of work on a brick for 6 m = 1.2(6) = 7.2 J)
-    + The work done on a machine is called input work, and the work the machine does on the load is the output work. A machine's input work is always larger than its output work, because machines cannot be completely efficient (heat energy as a side effect).
+    + The work done on a machine is called input work, and the work the machine does on the load is the output work. A machine's input work is always larger than its output work, because machines can't be completely efficient (heat energy as a side effect).
     + Machines make work easier by changing the size or direction of the force exerted on a machine, changing the distance as well.
 + The mechanical advantage of a machine is the comparison of the force applied on a machine to the force produced by a machine, so the smaller the effort force compared to the load, the greater the mechanical advantage. It is calculated by dividing the load force by the effort force. (a lever requiring an effort of 500 N that outputs 2500 N has a mechanical advantage of five)
     + A machine can also have a mechanical advantage less than one. (exerting a force of 736 N onto it as it outputs 81 N has a mechanical advantage of 0.11)
@@ -205,7 +205,7 @@
 
 ---
 
-<h2 align="center">Cells and Systems</h2>
+## Cells and Systems
 
 + Living organisms have signs of life: the requirement of energy, stimuli, reproduction, growth, and waste production.
 + There are different levels of the organization of life. From smallest to biggest:
@@ -303,7 +303,7 @@
 
 ---
 
-<h2 align="center">Fresh and Salt Water Systems</h2>
+## Fresh and Salt Water Systems
 
 + More organisms inhabit water than other places on earth, and furthermore, all organisms require water to survive.
 + 97% of Earth's water is salt water, and the remaining is fresh water.

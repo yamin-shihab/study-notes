@@ -1,10 +1,10 @@
-<h1 align="center">Math 7</h1>
+# Math 7
 
-*<p align="center">This subject probably involves the least amount of studying because you'll be thinking more than the other subjects instead of just remembering. Practicing word problems is also cool for practice. Note that in this document, a number after a variable (normal size) means exponent. [Mathisfun](mathisfun.com) is an excellent resource to complement this, and it isn't "for babies".</p>*
+*This subject probably involves the least amount of studying because you'll be thinking more than the other subjects instead of just remembering. Practicing word problems is also cool for practice. Note that in this document, a number after a variable (normal size) means exponent. [MathsIsFun](https://mathsisfun.com) is an excellent resource to complement this, and it isn't "for babies".*
 
 ---
 
-<h2 align="center">Number Concepts</h2>
+## Number Concepts
 
 + There are two main types of numbers:
     + A prime number is a whole number above 1 that can't be made by multiplying other whole numbers together.
@@ -24,7 +24,7 @@
 
 ---
 
-<h2 align="center">Integers</h2>
+## Integers
 
 + Positive numbers are above 0, and negative numbers are below 0 and are prefixed with a -.
 + It may sometimes be clearer to surround numbers with parentheses.
@@ -47,7 +47,7 @@
 
 ---
 
-<h2 align="center">Decimals</h2>
+## Decimals
 
 + You should know basic math operations by now (like long addition, subtraction, division, and multiplication).
 + Some types of estimation:
@@ -59,7 +59,7 @@
 
 ---
 
-<h2 align="center">Fractions, Decimals, and Percents</h2>
+## Fractions, Decimals, and Percents
 
 + Percent means out of 100.
 + There are two types of decimal numbers:
@@ -88,7 +88,7 @@
 
 ---
 
-<h2 align="center">Fraction Operations</h2>
+## Fraction Operations
 
 + Equivalent fractions are fractions that all represent the same amount, despite being different (imagine groups of small pizza slices being in the shape of one big pizza slice). (3/9, 1/3, 2/6)
     + An equivalent fraction can be made from a fraction by multiplying/dividing both the numerator and the denominator by the same number. (2/5 = 4/10)
@@ -106,7 +106,7 @@
 
 ---
 
-<h2 align="center">Percent Problems</h2>
+## Percent Problems
 
 + You can get a percentage of a number by multiplying the number by the percent as a decimal. (60% of 50 = 50(0.6) = 30)
 + GST is a percentage tax imposed on buying products applied on their prices. Right now it's 5%.
@@ -115,7 +115,7 @@
 
 ---
 
-<h2 align="center">Statistics and Probability</h2>
+## Statistics and Probability
 
 + There are different measures of central tendency:
     + The mean of a group of numbers can be considered the "true average".
@@ -140,7 +140,7 @@
 
 ---
 
-<h2 align="center">Patterns and Relations</h2>
+## Patterns and Relations
 
 + An expression is a mathematical phrase made up of numbers and/or variables connected by operations. The variable can represent any number we choose. (3 - 5, 8, 2 - x)
 + An equation is a mathematical statement, or sentence, containing two expressions separated by an equals sign. The variable only has one value. (3 - 5 = -2, 3x = 6, x = 8)
@@ -165,7 +165,7 @@
 
 ---
 
-<h2 align="center">Equations</h2>
+## Equations
 
 + Equations can be represented using number tiles by using a long tile as an x tile. (one long x tile and 3 negative white tiles = 4 positive black tiles, means x - 3 = 4)
     + This makes two expressions on either side of the equation.
@@ -178,7 +178,7 @@
 
 ---
 
-<h2 align="center">Geometry</h2>
+## Geometry
 
 + A Cartesian plane is a 2-dimensional coordinate plane, with 4 quadrants.
     + The first is top right, second is top left, third is bottom left, and fourth is bottom right.
@@ -218,7 +218,7 @@
 
 ---
 
-<h2 align="center">Area, and Perimeter</h2>
+## Area, and Perimeter
 
 + Length is the length of the sides, and width is of the top and bottom.
 + Base is the width of the bottom, and height is how tall the whole shape is (not a side).

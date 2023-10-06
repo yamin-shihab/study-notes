@@ -1,16 +1,8 @@
-<h1 align="center">Math 8</h1>
+# Math 8
 
-*<p align="center">I had a summative test on the second week of school!</p>*
+*I had a summative test on the second week of school!*
 
----
-
-***<h1 align="center">!!! ADDITIONAL NOTICE !!!</h1>***
-
-*<h3 align="center">For some reason, we learned almost exactly the same things this year and last year for Math, so use the grade 7 study guide for Math along with the extra things in this grade 8 Math study guide.</h3>*
-
----
-
-<h2 align="center">Ratios and Rates</h2>
+## Ratios and Rates
 
 + A ratio is a colon-separated group of terms (quantities/numbers) of the same unit that can be of two types:
     + A part to part ratio compares each part of a group to the other parts of the same group. (three red marbles and four blue marbles in a bag is 3:4 or 4:3)
@@ -27,7 +19,7 @@
 
 ---
 
-<h2 align="center">Integers</h2>
+## Integers
 
 + If both numbers are of the same sign in multiplication or division, the answer is positive, otherwise it's negative. (3(3) = 9, 4(-2) = -8, -5 / -1 = 5, -8/8 = -1)
 + Multiplying a positive or negative number by a negative number can be done using number tiles:
@@ -43,7 +35,7 @@
 
 ---
 
-<h2 align="center">Fractions</h2>
+## Fractions
 
 + To multiply or divide two fractions, they must both be an improper fraction.
 + You can multiply two improper fractions in the lowest terms:
@@ -58,7 +50,7 @@
 
 ---
 
-<h2 align="center">Equations</h2>
+## Equations
 
 + There are several types of equations:
     + A multiplication or division one-step equation, represented by ax = b or x/a = b, is the simplest type of equation and only involves one step to solve. (2n = 6 -> n = 3)
@@ -67,7 +59,7 @@
 
 ---
 
-<h2 align="center">Powers and Pythagoras</h2>
+## Powers and Pythagoras
 
 + A power or exponent represents repeated multiplication. (three to the power of four = 3^4 = 3(3)(3)(3) = 81, four to the power of three = 4^3 = 4(4)(4) = 64)
     + An exponent of two is a square. (five squared = 5^2 = 5(5) = 25, ten squared = 10^2 = 10(10) = 100)
@@ -109,7 +101,7 @@
 
 ---
 
-<h2 align="center">Surface Area and Volume</h2>
+## Surface Area and Volume
 
 + There are some terms used to define different dimensions:
     + Zero-dimensional (0D) objects are points with no directional measurement.
@@ -135,7 +127,7 @@
 
 ---
 
-<h2 align="center">Probability and Data</h2>
+## Probability and Data
 
 + Probability events can be represented in fractions, decimals, or percentages. (rolling a die and drawing two cards from a deck without replacement will equal one specific arrangement = 1/6(1/52)(1/51) = 1/15912 = 0.000063 = 0.0063%)
 + Different graphs better serve different purposes:

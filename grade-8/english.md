@@ -1,16 +1,10 @@
-<h1 align="center">English Language Arts 8</h1>
+# English Language Arts 8
 
-*<p align="center">Good thing I learned a lesson from last year to start study guides early. Note from future (second last week of school): nope, you didn't learn a single lesson, you idiot.</p>*
-
----
-
-***<h1 align="center">!!! ADDITIONAL NOTICE !!!</h1>***
-
-*<h3 align="center">For some reason, we learned almost exactly the same things this year and last year for English, so use the grade 7 study guide for English along with the extra things in this grade 8 English study guide.</h3>*
+*Good thing I learned a lesson from last year to start study guides early. Note from future (second last week of school): nope, you didn't learn a single lesson, you idiot.*
 
 ---
 
-<h2 align="center">Sentences</h2>
+## Sentences
 
 + An independent clause consists of a subject (mostly a noun) and a predicate (mostly a verb). (Alice scorned Bob, subject: Alice, predicate: scorned bob)
 + A dependent clause, or subordinate clause, consists of a subject and predicate, but can't function on its own. (Since the boys burnt the school down)
@@ -19,7 +13,7 @@
 
 ---
 
-<h2 align="center">Grammar</h2>
+## Grammar
 
 + Commas have many uses:
     + They can separate several adjectives. (The old, dusty book lied on the top of the shelf.)
@@ -51,7 +45,7 @@
 
 ---
 
-<h2 align="center">Paragraphs</h2>
+## Paragraphs
 
 + There are several ways to arrange ideas in a paragraph:
     + Ideas are presented in chronological order (the same order that they occurred in time).
@@ -61,7 +55,7 @@
 
 ---
 
-<h2 align="center">Nonfiction</h2>
+## Nonfiction
 
 + Nonfiction writing, as opposed to fiction, is about real things: people, events, things, places, etc.
 + Common forms of nonfiction include:
@@ -92,7 +86,7 @@
 
 ---
 
-<h2 align="center">Short Stories</h2>
+## Short Stories
 
 + The setting of a story is where and when it takes place.
 + There are three types of irony:
@@ -108,7 +102,7 @@
 
 ---
 
-<h2 align="center">Figurative Language</h2>
+## Figurative Language
 
 + An assonance is the repetition of vowel sounds in the middle of words. (The rain in Spain falls mainly on the plain.)
 + An allusion is a reference to something from an unrelated context used to represent something going on in the text. (Bro thinks he's Einstein...)
@@ -118,7 +112,7 @@
 
 ---
 
-<h2 align="center">Reading Strategies</h2>
+## Reading Strategies
 
 + When reading a text, you might come across an unfamiliar word or phrase and may not have access to a dictionary or the like. However, you can use clues and context to find out the meaning:
     + The author provides an actual definition next to the word. (His emaciation, or his bony appearance, was awfully obvious.)
@@ -131,7 +125,7 @@
 
 ---
 
-<h2 align="center">Visual Literacy</h2>
+## Visual Literacy
 
 + The dominant impression of any narrative is the overall feeling or effect on a reader or viewer (and even video game player). Some film techniques that are used to aid in the process:
     + Music can be a very powerful tool if used correctly. Things that can be taken into consideration include the instruments chosen, the melody, and the accompaniment.
