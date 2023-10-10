@@ -95,7 +95,7 @@
 + The square of the square root of a number equals the number; this only results in a whole number when done on a perfect square. (sqrt(16) = 4, sqrt(49) = 7, sqrt(225) = 15)
     + Number lines can be used to estimate the square roots of non-perfect numbers.
 + In a right-angled triangle (ignoring trigonometry side names), the two sides touching the right angle are referred to as a and b, while the remaining longest side referred to as c and is the hypotenuse.
-+ The Pythagorean theorem (named after a big-brain Greek guy that you will soon rival in the future after reading this study guide) states that in any right-angled triangle, the square of a plus the square of b is equal to the square of c (a^2 + b^2 = c^2). (a = 3, b = 4, c = 5 -> 3^2 + 4^2 = 5^2 = 9 + 16 = 25)
++ The Pythagorean theorem (named after a big-brain Greek guy that you will soon rival in the future after reading these study notes) states that in any right-angled triangle, the square of a plus the square of b is equal to the square of c (a^2 + b^2 = c^2). (a = 3, b = 4, c = 5 -> 3^2 + 4^2 = 5^2 = 9 + 16 = 25)
     + This can be used to find the length of one of the sides using the other sides by getting the square root of a number. (a = 3, b = 4 -> c = sqrt(a^2 + b^2) = sqrt(3^2 + 4^2) = sqrt(9 + 16) = sqrt(25) = 25)
     + A Pythagorean triple is a group of three whole numbers that satisfy the Pythagorean Theorem. (3, 4, 5)
 

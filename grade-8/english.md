@@ -1,6 +1,6 @@
 # English Language Arts 8
 
-*Good thing I learned a lesson from last year to start study guides early. Note from future (second last week of school): nope, you didn't learn a single lesson, you idiot.*
+*Good thing I learned a lesson from last year to start study notes early. Note from future (second last week of school): nope, you didn't learn a single lesson, you idiot.*
 
 ---
 

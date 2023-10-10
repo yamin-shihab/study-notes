@@ -1,6 +1,6 @@
-# study-guides
+# study-notes
 
-*My grade 7, 8, and 9 Alberta curriculum study guides for 2021-2024 (so far)*
+*My grade 7, 8, and 9 Alberta curriculum study notes for 2021-2024 (so far)*
 
 ---
 

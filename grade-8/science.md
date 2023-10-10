@@ -4,12 +4,6 @@
 
 ---
 
-## Scientific Method
-
-+ Read the grade 7 Science study guide for the scientific method.
-
----
-
 ## Mix and Flow of Matter
 
 + A fluid is a substance that has the ability to flow (liquid or gas). A non-fluid can behave like one when melted or dissolved into a fluid. They take up all available space in their container. (water, honey, air)
