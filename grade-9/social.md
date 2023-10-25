@@ -4,7 +4,7 @@
 
 ---
 
-## Federal Politics
+## Federal Government Politics
 
 + The government is the body with power to make decisions for a society (governance).
 + Canada's constitution is the law that describes governance in the country. It sets out the roles of the three branches of government and how they work together. It also sets out other institutions like the Charter of Rights and Freedoms.
@@ -18,6 +18,7 @@
     + The House of Commons is the major law-making body in the country's federal political system; members debate study, debate, and vote on proposed laws, called bills.
         + Each MP represents the constituents (voters) of one riding/district, and because of representation by population, the higher the population in an area, the more seats available for its riding
             + The popular vote is the total number of votes cast in an election for each party, rather than the seats won for each party.
+            + The first-past-the-post system is when the candidate with the most votes wins all.
         + If a party wins the majority of the seats in the House, it always forms the government. However, if a political party wins the most seats (not the majority), a minority government is formed where the party will have to negotiate the support of other parties.
             + As of 2023, there are 343 total House of Commons seats across Canada.
     + The Senate can propose laws (except for ones that create or spend taxes), but usually only considers bills passed first by the House (a "sober second thought", or careful reconsideration).
