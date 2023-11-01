@@ -4,6 +4,22 @@
 
 ---
 
+## Workplace Hazardous Materials Information System
+
++ In Canada, we have WHMIS to indicate the dangers associated with everything through the use of relatively simple symbols. There used to be an older version, but in 2015 the Government updated it to incorporate the Globally Harmonized System of Classification and Labelling of Chemicals (acronyms just almost as big as your mom).
+    + A flame represents something flammable.
+    + A flame on a circle represents an oxidizer.
+    + An exploding bomb represents an explosive.
+    + A gas cylinder represents gas under pressure.
+    + A skull with crossbones represents acute toxicity.
+    + A vial pouring on a surface and hand represents corrosion.
+    + A human with streaks across the upper body represents a serious health hazard.
+    + An exclamation mark represents irritation or a health hazard.
+    + A fish in its environment represents aquatic toxicity.
+    + A biohazardous symbol represents... biohazardous infections.
+
+---
+
 ## Biodiversity
 
 + Biological diversity refers to the number and variety of species and ecosystems on the Earth and the ecological processes that they're a part of.
