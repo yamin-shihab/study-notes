@@ -42,3 +42,29 @@
 + A lobbyist is someone hired by a group to influence MPs and government officials.
     + They have to register with a Commissioner of Lobbyists, so that everyone in Canada can know who they are and who they represent.
     + They voice their views of groups on issues that affect their members, products, or services. These issues can also affect everyone, so lobbyists provide different perspectives and in-depth expertise on many issues.
+
+## Youth Justice System
+
++ Justice is the application of laws, and justice systems are the institutions and procedures for doing that in a society. They should be fair and equitable (governed by rules that apply to everyone, taking into account individual needs and circumstances).
++ A sentence is a consequence for a crime, such as imprisonment, as determined by a court of law, and community service is help in the community performed as part of a sentence, such as assisting a community clean-up or food bank.
++ A criminal record is a permanent record of breaking the law, which is public information. It can bar people from some jobs, volunteer positions, and travel to other countries.
++ Rehabilitation is the act of instilling supposedly positive behaviours and attitudes, and reintegration is the act of making someone part of something else like society again.
++ Canada has different legislation for young people who break the law and for adults who break the law. The YCJA (Youth Criminal Justice Act) was passed by parliament in 2003. Laws like these, that treat young offenders differently from adult offenders, have existed since the 1890s in this country. This is done because youth are often not as developed or mature as adults.
+    + The YCJA has quite a bit of differences with the way it deals with youth and adult offenders:
+        + The YCJA deals with youth 12 to 17 years old in trouble with the law; it allows some young offenders to face consequences such as counselling and community services.
+        + Adult sentences are prohibited for youth 12 to 14 years of age, but they're allowed for serious crimes committed by older young people.
+        + Unlike adults, the names of young offenders can't be published by news media to protect their privacy, unless if an adult sentence is received.
+        + The avoidance of a criminal record is allowed a lot of the time, while adults often have their criminal record modified.
+    + The goal of the YCJA is to attempt to follow its intentions:
+        + It attempts to prevent crime by addressing the circumstances underlying a young person's offending behaviour, so counselling may be needed for alcohol, drug, or family abuse, as an example.
+        + It attempts to rehabilitate young persons who commit offences and reintegrate them into society, by for example finding them positive ways to participate in their community.
+        + The YCJA tries to ensure that a young person is subject to meaningful consequences for their offence in order to promote the long-term protection of society (property being damaged may result in property being repaired).
++ In a court, the jury is a group of twelve people that must agree on a verdict; their decision has to be unanimous, or a consensus.
+    + Any Canadian citizen of at least 18 years of age is eligible for jury duty, with some exceptions, like people convicted of crime.
+    + Serving on juries is considered a duty of Canadian citizens. If one is to be summoned to jury duty, it's their responsibility to appear at the courthouse on time. Any arrangements must be made.
+    + People may be excused from jury duty if they can demonstrate that it would cause them undue hardship.
++ Canada has two major citizen led organizations involved in the justice system: the John Howard Society for everyone, and the Elizabeth Fry Society for females.
+    + These organizations work independently of government and try to solve the underlying reasons for crime. They also provide public education about laws and the justice system, including the YCJA.
+    + They work with youths and adults who've broken the law to help them return to their communities. This including assistance with finding jobs and places to live. Meetings between the victims and offenders are also sometimes arranged.
+    + They stand up for the rights of people accused of crimes, and call for measures to improve the fairness of the justice system for the accused and the victims.
++ In the societies of many aboriginal peoples, sentencing circles are similar to Youth Justice Committees in that they act on the idea that breaking a law harms everyone in a community. Elders, along with the rest of the community, often play an important role in finding solutions.
