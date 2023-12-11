@@ -48,7 +48,7 @@
 + Justice is the application of laws, and justice systems are the institutions and procedures for doing that in a society. They should be fair and equitable (governed by rules that apply to everyone, taking into account individual needs and circumstances).
 + A sentence is a consequence for a crime, such as imprisonment, as determined by a court of law, and community service is help in the community performed as part of a sentence, such as assisting a community clean-up or food bank.
 + A criminal record is a permanent record of breaking the law, which is public information. It can bar people from some jobs, volunteer positions, and travel to other countries.
-+ Rehabilitation is the act of instilling supposedly positive behaviours and attitudes, and reintegration is the act of making someone part of something else like society again.
++ Rehabilitation is the act of instilling supposedly positive behaviors and attitudes, and reintegration is the act of making someone part of something else like society again.
 + Canada has different legislation for young people who break the law and for adults who break the law. The YCJA (Youth Criminal Justice Act) was passed by parliament in 2003. Laws like these, that treat young offenders differently from adult offenders, have existed since the 1890s in this country. This is done because youth are often not as developed or mature as adults.
     + The YCJA has quite a bit of differences with the way it deals with youth and adult offenders:
         + The YCJA deals with youth 12 to 17 years old in trouble with the law; it allows some young offenders to face consequences such as counselling and community services.
@@ -56,7 +56,7 @@
         + Unlike adults, the names of young offenders can't be published by news media to protect their privacy, unless if an adult sentence is received.
         + The avoidance of a criminal record is allowed a lot of the time, while adults often have their criminal record modified.
     + The goal of the YCJA is to attempt to follow its intentions:
-        + It attempts to prevent crime by addressing the circumstances underlying a young person's offending behaviour, so counselling may be needed for alcohol, drug, or family abuse, as an example.
+        + It attempts to prevent crime by addressing the circumstances underlying a young person's offending behavior, so counselling may be needed for alcohol, drug, or family abuse, as an example.
         + It attempts to rehabilitate young persons who commit offences and reintegrate them into society, by for example finding them positive ways to participate in their community.
         + The YCJA tries to ensure that a young person is subject to meaningful consequences for their offence in order to promote the long-term protection of society (property being damaged may result in property being repaired).
 + In a court, the jury is a group of twelve people that must agree on a verdict; their decision has to be unanimous, or a consensus.
@@ -68,3 +68,30 @@
     + They work with youths and adults who've broken the law to help them return to their communities. This including assistance with finding jobs and places to live. Meetings between the victims and offenders are also sometimes arranged.
     + They stand up for the rights of people accused of crimes, and call for measures to improve the fairness of the justice system for the accused and the victims.
 + In the societies of many aboriginal peoples, sentencing circles are similar to Youth Justice Committees in that they act on the idea that breaking a law harms everyone in a community. Elders, along with the rest of the community, often play an important role in finding solutions.
+
+## Charter of Rights and Freedoms
+
++ The Charter of Rights and Freedoms, from 1982, is part of Canada's constitution. With the Charter, Canadians can challenge laws that restrict their rights in court. It declares the following rights and freedoms:
+    + Fundamental freedoms allow anyone to express their opinion, choose their religion, organize peaceful meetings and demonstrations, and associate with any person or group.
+    + Democratic rights allow citizens to vote for members of the House of Commons and provincial legislature, and for a new government at least every five years.
+    + Mobility rights allow citizens to move anywhere within Canada and to earn a living there, and enter, stay in, or leave Canada.
+    + Legal rights allow anyone to be free of imprisonment and search and seizure without reasons backed by law and evidence, and to have a quick and fair public trial by an impartial court that assumes one is innocent until proven guilty.
+    + Equality rights allow anyone to be free of discrimination because of race, national or ethnic origin, religion, gender, age, or mental or physical disability.
++ Prior to the Charter's existence, the Canadian government did things that were stark in comparison to what the Charter advocated for.
+    + In 1876, parliament passed the Indian Act. It affected First Nations who had concluded treaties with Canada's government. However, it was passed without consulting First Nations.
+        + It required First Nations people to obtain government permission to wear traditional clothing, banned traditional ceremonies, and prevented them from taking political action.
+    + For more than fifty years until 1918, the Canada Elections Act barred women from voting and from running as candidates in federal elections. They began to campaign for the right to vote in 1875; Emily Howard Stowe, Canada's first female doctor, founded a club to promote women's suffrage.
+    + At the beginning of the first World War in 1914, more than 8000 people of Ukrainian and German descent were sent to camps, because Canada and its allies were at war with Germany and Austria-Hungary, where parts of Ukraine fell within enemy territory.
+        + Canada's government made the arrests under the War Measures Act, which it passed at the outbreak of the war. People interned had to work as laborers, building things like roads, but not for wages.
+    + In addition, during World War II, Canadians of Italian descent were sent to camps. The arrests began in 1940, when Italy declared war on Canada.
+    + When Japan attacked Pearl Harbor in 1941 during the war as well, so the Canadian government decided to move all people of Japanese origin away from the west coast.
+        + Under the War Measures act, more than 20,000 people were forced to leave their communities, bringing only what they could carry.
+        + They were not permitted to leave their camps without permission from the RCMP.
+        + In 1943, the government sold off their homes, businesses, and possessions.
++ Upon the Charter being put into effect, there have been successful attempts to win cases against things that were said to violate the Charter.
+    + After a deaf couple found themselves unable to communicate with any staff in a hospital, the problem was taken to court, and they argued that by failing to provide sign language interpreters, the government was violating their equality rights.
+    + Until 1985, the Lord's Day Act made it illegal for most Canadian businesses to open on Sunday, upholding the Christian Sabbath, or day of rest. In 1982, not too long after the Charter became part of the constitution, some shops opened for business on a Sunday to challenge the Lord's Day Act, deliberately breaking the law to make a point.
+        + The Supreme Court overturned the law, because it violated the fundamental right to freedom of conscience and religion.
+    + In 2001, labor unions launched a Charter challenge, arguing that the province was discriminating against them based no gender. Law required the province to pay women and men equally when they had equivalent levels of experience and training. They said that the promised pay equity wasn't followed through and that millions of dollars in wages have been lost.
+        + In 2003, before the courts began a hearing on the case, the government agreed to pay female workers a total of $414 million in pay adjustments.
+    + In the early 1990s, people were being forced to retire from their jobs due to age, and this was said to violate the Charter's definition equality rights, under age discrimination. The Supreme Court than ruled that employers can't force retirement due to age.
