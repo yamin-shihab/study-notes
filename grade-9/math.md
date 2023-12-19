@@ -33,3 +33,12 @@
     + A power of a power can be simplified by multiplying the exponents. (5^2^4 = 5^8)
     + If two powers with different bases but the same exponent are being multiplied, the two bases can be multiplied and brought up to the power of the common exponent. (3^4 * 2^4 = 6^4)
     + If two powers with different bases but the same exponent are being divided, the two bases can be divided and brought up to the power of the common exponent. (18^3 / 9^3 = 2^3)
+
+---
+
+## Equations and Inequalities
+
++ To solve an equation with fractions, find a common denominator, multiply each term by the common denominator, simplify (divide), and then solve for the variable. (x/3 - 3x/2 = 1/6 - x -> 2x/6 - 9x/6 = 1/6 - 6x/6 -> 2x - 9x = 1 - 6x -> -7x = 1 - 6x -> 0 = 1 + x -> x = -1)
++ An inequality is like an equality, except it isn't an equality (inequality moment (I have no idea what I'm writing right now (ooh nested parentheses))). They use less than (<), greater than (>), less than or equal (<=) to, or greater than or equal to (>=) symbols.
+    + To solve one, replace the inequality sign with an equal sign, try to move the variable to one of the sides, solve for the variable, replace the equal sign with an inequality sign, and if a number is multiplied or divided, flip the inequality symbol in the opposite direction. (7x + 4 < 5x + 8 -> 2x + 4 < 8 -> 2x < 4 -> x < 2)
++ To solve a word problem that seems to involve multiple variables that are in some way related to each other, try to simplify into one variable in one equation. (three consecutive numbers that add up to 60 -> x + y + z = 60 -> x + (x + 1) + (x + 2) = 60 -> 3x + 3 = 60 -> 3x = 57 -> x = 19 -> first = 19, second = 20, third = 21)
