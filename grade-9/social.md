@@ -78,8 +78,6 @@
     + Legal rights allow anyone to be free of imprisonment and search and seizure without reasons backed by law and evidence, and to have a quick and fair public trial by an impartial court that assumes one is innocent until proven guilty.
     + Equality rights allow anyone to be free of discrimination because of race, national or ethnic origin, religion, gender, age, or mental or physical disability.
 + Prior to the Charter's existence, the Canadian government did things that were stark in comparison to what the Charter advocated for.
-    + In 1876, parliament passed the Indian Act. It affected First Nations who had concluded treaties with Canada's government. However, it was passed without consulting First Nations.
-        + It required First Nations people to obtain government permission to wear traditional clothing, banned traditional ceremonies, and prevented them from taking political action.
     + For more than fifty years until 1918, the Canada Elections Act barred women from voting and from running as candidates in federal elections. They began to campaign for the right to vote in 1875; Emily Howard Stowe, Canada's first female doctor, founded a club to promote women's suffrage.
     + At the beginning of the first World War in 1914, more than 8000 people of Ukrainian and German descent were sent to camps, because Canada and its allies were at war with Germany and Austria-Hungary, where parts of Ukraine fell within enemy territory.
         + Canada's government made the arrests under the War Measures Act, which it passed at the outbreak of the war. People interned had to work as laborers, building things like roads, but not for wages.
@@ -95,3 +93,16 @@
     + In 2001, labor unions launched a Charter challenge, arguing that the province was discriminating against them based no gender. Law required the province to pay women and men equally when they had equivalent levels of experience and training. They said that the promised pay equity wasn't followed through and that millions of dollars in wages have been lost.
         + In 2003, before the courts began a hearing on the case, the government agreed to pay female workers a total of $414 million in pay adjustments.
     + In the early 1990s, people were being forced to retire from their jobs due to age, and this was said to violate the Charter's definition equality rights, under age discrimination. The Supreme Court than ruled that employers can't force retirement due to age.
+
+## Collective Rights
+
++ Collective rights are special rights guaranteed for specific groups of people; they exist to acknowledge the founding peoples of Canada and those that were in Canada before that. For example, First Nations get the right to hunt, fish, and perform other activities in their reserves, while Francophones and Anglophones get the right to communicate with the government and receive publicly funded education in their language.
++ Treaties were were historic agreements between Canada, Britain, or the Queen, and First Nations. They allow for the two parties share land, while providing other services and annuities (annual payment) to Aboriginal people.
+    + Treaties were signed for a variety of reasons; Canada wanted to build a railway and avoid wars (unlike the United States at the time), while First Nations wanted to secure their futures, since there were many social and economical pressures at the time.
+    + Many First Nations disagreed with the concept of the ownership of land, since they believed that land simply isn't something that can be owned, and numerous promises were also unfulfilled by the Canadian government.
++ In 1876, parliament passed the Indian Act. It affected First Nations who had concluded treaties with Canada's government. However, it was passed without consulting First Nations.
+    + Each reserve got an official, an "Indian Agent", to attempt to fulfill the government's duties, but there were many interpretations of treaty rights.
+    + The act required First Nations people to obtain government permission to wear traditional clothing, banned traditional ceremonies, and prevented them from taking political action.
+    + It originally aimed to assimilate First Nations peoples into European culture. Additionally, they had to give up their rights and status to vote, until 1960.
+    + After lots of pressure from many groups, the government revised the Indian Act several times.
++ Metis people didn't receive the same rights as First Nations; rather, upon the formation of Manitoba, they received scrips which could be exchanged for land. However, they later gradually attained more rights as time progressed.
