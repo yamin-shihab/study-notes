@@ -109,3 +109,75 @@
     + Zoos originally began as private collections of exotic animals kept by the rich, but they then soon became primarily educational institutions and sanctuaries for the protection and preservation of endangered animals.
     + Seed banks are established to gather and store seeds from plants that are threatened with extinction. Some are run for selling plants, while others are were made for research purposes.
     + Global treaties have been drawn up to protect endangered plants and animals. Some laws make it illegal to buy or sell such animals (like rare birds, reptiles, amphibians, elephants, leopards, cheetahs, or rhinos), or their parts.
+
+---
+
+## Matter and Chemical Change
+
++ Matter can be described with properties, which are characteristics.
+    + Qualitative properties describe characteristics using the senses. (color, state, texture, luster)
+    + Qualitative properties describe characteristics using the numbers. (boiling point, melting point, solubility, density)
++ Changes in matter can be put into two categories.
+    + During a physical change, a substance changes in form, but not in chemical composition (no new substances are formed). (melting ice, chlorinated water)
+    + A chemical change forms new substances, and they are often difficult or impossible to reverse. (burning paper, sulfur reacting with oxygen to form sulfur dioxide)
+        + Chemical changes may occur along with some of the following: the production or absorption of heat, the use of the starting material, the changing of color, or the formation of gas bubbles, a precipitate, or a material with new properties.
++ Relating to those changes, matter can also be described with some additional properties:
+    + Any property that can be observed or measured without forming a new substance is a physical property. (density, color)
+    + Any property that describes how a substance reacts with another when forming a new substance is a chemical property. (combustibility, toxicity)
++ A theory is an explanation of an observable phenomenon supported by research (evidence), while a law is a widely supported explanation of what happens, without an explanation why.
++ Throughout history, many people came up with different beliefs for the composition of everything.
+    + Thousands of years ago, Empedocles thought that there were four elements: earth, wind, water, and fire. He believed that everything was a combination of these.
+    + Not too soon later, Democritus suggested that everything was made up of different particles called atoms, which were indivisible and indestructible.
+    + Sir Francis Bacon (1561-1626) stated that science should be based off of experimental evidence rather than thought, which was quite different to how things were usually done in his context. However, other parts of the world were already doing experiments.
+    + Robert Boyle (1600s) recognized that elements could combine to form compounds, and that everything was made of the same universal matter and was only based on shape and motion.
+    + Antoine Lavoisier proposed that elements are substances that can't be broken down by chemical processes.
++ The Law of Conversation of Mass says that in a chemical change, the total mass of the new substances is always the same as the total mass of the original substances. Mass doesn't disappear.
++ The Law of Definite Proportions says that compounds are pure substances that contain two or more elements combined together in fixed proportions. (water is always composed of one oxygen atom and two hydrogen atoms)
++ There have also been numerous ways of seeing atoms throughout history, once it's been established that everything is made of different amounts of different atoms:
+    + John Dalton claimed atoms looked like billiard balls and were solid mass, where more mass meant a larger volume.
+    + JJ Thompson used a cathode ray tube to determine that atoms were composed of charges, so atoms must have parts that are negatively charged. This is sometimes called the raisin bun or plum pudding model.
+    + Ernest Rutherford discovered that there was a small mass in the center of the atom, and most of it is empty. He found this out by firing alpha particles at a very thin gold sheet. Most of the particles would go straight through the gold, and only a few were deflected.
+    + Niels Bohr agreed with Rutherford but thought electrons must reside in specific orbits around the nucleus. He knew this because of studies of excited (energized) gases that would give off a specific color (frequency) of light.
+    + The work of many scientists resulted in the refinement of the model of the atomic structure. They agreed that electrons have distinct energy levels, and that there was an area around the nucleus where electrons were most likely to be found, called the electron cloud. They also suggested that electrons are more likely to be closer to the center, and that their behavior could be described with mathematical equations.
++ The process of decomposing an chemical compound by passing an electric current through it is called electrolysis. Electrolysis has been used to discover the compositions of compounds.
++ Electrons (negative) and protons (positive) have exactly the same quantity of charge, but electrons are 1840 times smaller than protons. Neutrons are neutral (no charge).
+    + The atomic number of an element is its proton number, while the atomic mass of an element is the mass of an atom where the mass of a proton or neutron is one, so the number of neutrons in an element is the difference between its atomic mass and atomic number.
++ The periodic table of elements is used to represent all the known elements. The modern periodic table was developed by Dmitri Mendeleev.
+    + Chemists use one, two, or three letters to represent elements, and the first letter is uppercase, while the rest are lowercase. (Zn is zinc, P is phosphorus)
+    + The arrangement of information on a square of the periodic table of element can vary, but it will always have the element name, atomic number, symbol, and atomic mass.
+    + The staircase is the line that forms the division between metals (left) and nonmetals (right). Metalloids are along the line.
+        + Metals are solid, except for mercury, which is liquid. They're shiny and good at conducting. They're also malleable (can be flattened into sheets without crumbling) and ductile (can be stretched into long wires).
+        + Some nonmetals gases, and some are solids, while bromine is the only liquid. They're not very shiny and poor at conducting. They're also brittle and ductile.
+        + Metalloids are solids, where some are shiny, but others aren't. Some of them conduct electricity, but they're somewhat poor conductors of heat. They're brittle and not ductile.
+    + In addition to those three categories, there are also these four main families:
+        + Alkali metals are very reactive, so they must be stored in oil to prevent water from coming into contact. They react with Halogens, as well as other nonmetals. The larger they get (down the table), the more reactive they get.
+        + Alkaline earth metals are less reactive than alkali metals. Beryllium doesn't react with water, magnesium slowly reacts, but calcium and larger will react with water, but not as violently as alkali metals. They also react with halogens along with other nonmetals.
+        + Halogens are naturally found in compounds and naturally exist as diatomic molecules (pairs). The higher up on the table they are, the more reactive they are.
+        + Noble gases are unreactive, so they'll only react under very special circumstances, usually reverting immediately afterwards.
+    + All elements above 93 are synthetic. They can only be formed in a lab for a very short amount of time.
+    + The number of levels of electrons in an element is represented by the row (period). (hydrogen with one level is on the first row, lithium with two levels is on the second row)
+    + The number of electrons in the outermost (valence) shell of an element can be found by counting its column. (potassium with one valence shell electron is on the first column, carbon with six valence shell electrons is on the sixth column)
++ When an atom has more electrons than protons, it's a negatively charged ion (anion), but if it has less electrons than protons, it's a positively charged ion (cation).
++ The maximum number of electrons per shell in an element is determined by the formula 2(n^2), where n is the level of shell, increasing as it gets further from the nucleus. (first = 2, second = 8, third = 18, fourth = 32, etc)
++ IUPAC (Internation Union of Pure and Applied Chemistry) determines the (hopefully) universal standard used for naming everything, among other things.
++ The octet rule states that atoms "like" to have eight electrons in their valence shell, so they'll try to either take or give electrons until that state is reached. However, atoms with one level/layer want only two valence electrons. Because of this, compounds can be formed, and there are two types:
+    + Ionic compounds are formed from at least one metal and at least one nonmetal. The metal gives off of electrons, while the nonmetal accepts electrons, such that both satisfy the octet rule.
+        + Due to their high attraction, they have high melting points, boiling points, malleability, and conductivity.
+        + An ionic compound's chemical formula involves putting the element symbol for the metal(s) first, followed by the nonmetal(s). When there is more than one atom for the same element, a subscript with the number is put after the element's symbol. (one sodium, one hydrogen, one carbon, three oxygen = NaHCO3)
+        + Naming an ionic compound involves writing the metal name first, followed by the nonmetal with an "ide" ending. If there are more than three elements, then the name of the nonmetal polyatomic ion must be used. (two sodium, one carbon, three oxygen = sodium carbonate)
+        + Transition metals (found in the middle of the periodic table) can have different electron configurations (levels), and therefore different charges. Because of this, a roman numeral is written after the metal. (two iron positively charged by three, three oxygen negatively charged by two = iron (III) oxide)
+    + Molecular compounds are formed from covalent bonds between nonmetals. The nonmetal atoms will share enough electrons amongst themselves to fulfill the octet rule.
+        + Due to their lesser bonds, molecular compounds have a low melting points, boiling points, and conductivity.
+        + Diatomic molecules consist of two atoms of the same element together. (oxygen, nitrogen, hydrogen)
+        + Writing chemical formulas for molecular compounds is pretty much the same as writing chemical formulas for ionic compounds, but since there's no metal, there's a special order: carbon, nitrogen, hydrogen, oxygen, halogens. (Candy's Not Good, Old Hippie)
+        + To name molecular compounds, the process is almost the same as for ionic compounds, except a prefix is needed to identify the number of each element: one is "mono", "two" is "di", three is "tri", four is "tetra", five is "penta", six is "hexa", seven is "hepta", eight is "octa", nine is "nona", and ten is "deca". For the first element, "mono" isn't used. (CCl4 = carbon tetrachloride)
+        + Some names are more recommended than their systematic name. (one oxygen, one hydrogen = hydroxide; one carbon, four hydrogen = methane; two carbon, six hydrogen = ethane, two hydrogen, one oxygen = water; two hydrogen, two oxygen = hydrogen peroxide; three carbon, eight hydrogen = propane; one nitrogen, three hydrogen = ammonia; three oxygen = ozone)
++ Chemical reactions that give off energy are called exothermic, while reactions that take in energy are called endothermic.
+    + Single replacement reactions involve a more reactive reactive element replacing a less reactive element. (K + LiBr -> Li + KBr)
+    + Double displacement is the same, but two elements switch. (LiCl + KBr -> LiBr + KCl)
+    + Synthesis is when two reactants make just one product. (Cl + Na -> ClNa)
+    + Decomposition is when one compound breaks down into its elements. (ClNa -> Cl + Na)
+    + Corrosion has a metal reacting with oxygen to produce a metal oxide, like rust. (2Fe + O2 -> 2FeO)
+    + Combustion usually involves a hydrocarbon (carbon and hydrogen compound) reacting with oxygen to produce energy (like fire), carbon dioxide, and water. (CH4 + O2 -> CO2 + H2O)
++ A catalyst helps a chemical reaction proceed faster, while an inhibitor helps slow down a chemical reaction.
+    + Factors like surface area, temperature, and concentration can also help speed up or slow down chemical reactions.
