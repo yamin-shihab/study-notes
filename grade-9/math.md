@@ -42,3 +42,8 @@
 + An inequality is like an equality, except it isn't an equality (inequality moment (I have no idea what I'm writing right now (ooh nested parentheses))). They use less than (<), greater than (>), less than or equal (<=) to, or greater than or equal to (>=) symbols.
     + To solve one, replace the inequality sign with an equal sign, try to move the variable to one of the sides, solve for the variable, replace the equal sign with an inequality sign, and if a number is multiplied or divided, flip the inequality symbol in the opposite direction. (7x + 4 < 5x + 8 -> 2x + 4 < 8 -> 2x < 4 -> x < 2)
 + To solve a word problem that seems to involve multiple variables that are in some way related to each other, try to simplify into one variable in one equation. (three consecutive numbers that add up to 60 -> x + y + z = 60 -> x + (x + 1) + (x + 2) = 60 -> 3x + 3 = 60 -> 3x = 57 -> x = 19 -> first = 19, second = 20, third = 21)
+
+## Linear Relations
+
++ One way to see linear relations is as y = mx + b, where m is the slope (steepness) and b is the intercept (where the line crosses the graph).
++ Another way would be called standard form, which is Ax + By = C. (3x - 3y = 6 -> y = x - 2)
