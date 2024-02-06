@@ -106,3 +106,17 @@
     + It originally aimed to assimilate First Nations peoples into European culture. Additionally, they had to give up their rights and status to vote, until 1960.
     + After lots of pressure from many groups, the government revised the Indian Act several times.
 + Metis people didn't receive the same rights as First Nations; rather, upon the formation of Manitoba, they received scrips which could be exchanged for land. However, they later gradually attained more rights as time progressed.
+
+## Immigration Laws and Policies
+
++ Push factors are things going on in a country that repels emigrants from it, while pull factors are things going on in another country that brings immigrants to it.
++ Canada has a relatively low birth rate per person, so immigration is heavily required for good population growth.
++ The Immigration and Refugee Protection Act dates from 2003 and establishes categories of who can come to Canada from other countries to make permanent homes. Immigration contributes to social, cultural, and economic benefits, as well as a more multicultural society.
+    + Of all immigrants as of 2006, 55% come for economic reasons, 28% come because of family, and 13% are refugees.
+    + Economic immigrants need to pass a point system to come to Canada; it assesses factors like health and education.
+    + In the past, Canada favored immigrants of British ancestry and restricted immigration from Asian countries, like China and India.
+    + Canada signed the UN Convention Relating to the Status of Refugees in 1951, and in 1976, Canada began to accept refugees steadily, instead of crisis by crisis.
+        + Refugees considered dangerous are excluded from entering Canada.
++ In 1985, Satnam Singh came to Canada from India seeking refugee status, but he was rejected under the 1976 Immigration Act. He couldn't appeal, because he wasn't a citizen, so the Supreme Court said this violated section 7 of Charter of Rights and Freedoms, saying the charter (excluding democratic rights) applies to everyone physically in Canada. This was known as the Singh decision.
++ Provinces can nominate how many immigrants they want, and how to allocate them for different economic sectors with labor shortages.
++ The Canada-Quebec Accord is an agreement to bring in more Francophone immigrants to Quebec.
