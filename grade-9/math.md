@@ -47,3 +47,13 @@
 
 + One way to see linear relations is as y = mx + b, where m is the slope (steepness) and b is the intercept (where the line crosses the graph).
 + Another way would be called standard form, which is Ax + By = C. (3x - 3y = 6 -> y = x - 2)
+
+## Polynomials
+
++ Terms are separated by addition/subtraction, and a polynomial is a collection of these terms. A monomial has one term, a binomial has two, and a trinomial has three. (3x^2 + 2x - 4 is a trinomial)
+    + The degree of a term is the total exponent count of the powers in a term, including implicit exponents, while the degree of a polynomial is the highest degree of any of its terms. (the degree of 8x^2y^1 + 10x^1 - 2x^0 is 3)
+    + To represent a squared variable with number tiles, use a filled or unfilled square (positive and negative). (4x^2 + 7x - 1 is 4 filled square tiles, 7 filled long tiles, and 1 unfilled small tile)
++ To simplify a polynomial, combine like terms (this should be straightforward by now). This is also how you add two polynomials. ((2x^2 + 3x - 8) + (-3x^2 - x + 2) = -1x^2 + 2x - 6)
++ To subtract two polynomials, simply flip the signedness of each of the second polynomial's terms before adding. ((2x^2 + 3x - 8) - (-3x^2 - x + 2) = 5x^2 + 4x - 10)
++ To multiply a polynomial by some constant or monomial, just multiply every term by it. (-4x(2x^2 - 4x + 5) = -8x^3 + 16x^2 - 20x)
++ To divide a polynomial by some constant or monomial, just divide every term by it. ((4x^5 - 12x^3 + 16x^2) / -4x^2 = -x^3 + 3x - 4)
