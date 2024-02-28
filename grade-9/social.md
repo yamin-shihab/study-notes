@@ -43,6 +43,8 @@
     + They have to register with a Commissioner of Lobbyists, so that everyone in Canada can know who they are and who they represent.
     + They voice their views of groups on issues that affect their members, products, or services. These issues can also affect everyone, so lobbyists provide different perspectives and in-depth expertise on many issues.
 
+---
+
 ## Youth Justice System
 
 + Justice is the application of laws, and justice systems are the institutions and procedures for doing that in a society. They should be fair and equitable (governed by rules that apply to everyone, taking into account individual needs and circumstances).
@@ -69,6 +71,8 @@
     + They stand up for the rights of people accused of crimes, and call for measures to improve the fairness of the justice system for the accused and the victims.
 + In the societies of many aboriginal peoples, sentencing circles are similar to Youth Justice Committees in that they act on the idea that breaking a law harms everyone in a community. Elders, along with the rest of the community, often play an important role in finding solutions.
 
+---
+
 ## Charter of Rights and Freedoms
 
 + The Charter of Rights and Freedoms, from 1982, is part of Canada's constitution. With the Charter, Canadians can challenge laws that restrict their rights in court. It declares the following rights and freedoms:
@@ -94,6 +98,8 @@
         + In 2003, before the courts began a hearing on the case, the government agreed to pay female workers a total of $414 million in pay adjustments.
     + In the early 1990s, people were being forced to retire from their jobs due to age, and this was said to violate the Charter's definition equality rights, under age discrimination. The Supreme Court than ruled that employers can't force retirement due to age.
 
+---
+
 ## Collective Rights
 
 + Collective rights are special rights guaranteed for specific groups of people; they exist to acknowledge the founding peoples of Canada and those that were in Canada before that. For example, First Nations get the right to hunt, fish, and perform other activities in their reserves, while Francophones and Anglophones get the right to communicate with the government and receive publicly funded education in their language.
@@ -106,6 +112,8 @@
     + It originally aimed to assimilate First Nations peoples into European culture. Additionally, they had to give up their rights and status to vote, until 1960.
     + After lots of pressure from many groups, the government revised the Indian Act several times.
 + Metis people didn't receive the same rights as First Nations; rather, upon the formation of Manitoba, they received scrips which could be exchanged for land. However, they later gradually attained more rights as time progressed.
+
+---
 
 ## Immigration Laws and Policies
 
