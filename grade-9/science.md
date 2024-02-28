@@ -181,3 +181,66 @@
     + Combustion usually involves a hydrocarbon (carbon and hydrogen compound) reacting with oxygen to produce energy (like fire), carbon dioxide, and water. (CH4 + O2 -> CO2 + H2O)
 + A catalyst helps a chemical reaction proceed faster, while an inhibitor helps slow down a chemical reaction.
     + Factors like surface area, temperature, and concentration can also help speed up or slow down chemical reactions.
+
+## Environmental Chemistry
+
++ The chemicals that animals need are called nutrients; they circulate throughout the body for energy, growth, building, and repair.
+    + Organic (carbon-containing) nutrients are classed as carbohydrates (energy for metabolism), proteins (structural body molecule and chemical reactions for enzymes), lipids (unused chemical energy storage), and vitamins (help with enzyme function).
+        + Enzymes regulate chemical reactions in living organisms.
+    + Inorganic substances not destroyed by cooking or exposure to air are referred to as minerals. They're distinguished by the amount needed: macrominerals are required at least 100 mg a day, while trace elements are needed less.
+        + Many of the minerals we require are commonly found in Earth's crust.
++ Plants "extract" the minerals found in soil. In some cases, root hairs are able to produce mineral compositions up to 10,000 times greater than the soil around them.
+    + Fertilizer provides an increased amount of nutrients for plants to boost the selfish desires of the evil human race. They benefit mainly by using high amounts of nitrogen, phosphorus/potash, and potassium/phosphate.
++ Some organisms get their minerals by absorbing them from a substrate, a material on which the organism moves or lives. (lichens on a rock)
++ Three types of pesticides (pest genocide) exist: herbicides for plants, fungicides for fungus, and insecticide for... insects.
++ Ingestion involves taking in a material. For example, we eat. Absorption however, is when a material comes into contact with the digestive tract, respiratory tract, or skin.
++ DDT (dichlorodiphenyltrichloroethane (one helluva mouthful)) is a chemical spray that's meant to kill insect pests. Invented toward the end of the first World War, it was seen as one of the greatest advances in medical history.
+    + In the 1950s and 1960s, DDT was responsible for seriously lowering malaria, bubonic plague, typhus, and yellow fever numbers, as it was sprayed everywhere, even indoors and on people.
+    + However, DDT was also responsible for a dramatic rise in DDT amounts in animals, many of which are needed for a healthy ecosystem; this resulted in a cascading chain-reaction of problems. It also affected soil for many decades to come.
+    + DDT was later banned in many places due to these reasons, but this resulted in a spike in disease cases, again (for Zanzibar malaria cases, 70% pre-DDT -> 5% post-DDT -> 55% post-ban)
+        + The WHO (the World Health Organization) tested some other insecticides better for the environment, but none came close to DDT's effectiveness, and they were much more expensive to produce.
++ The pH (power of hydrogen) scale how acidic or basic a solution is, ranging from zero to fourteen; acids are lower on the scale (more H+ ions than OH- ions), seven is neutral, and bases are higher up (more OH- ions than H+ ions).
+    + The pH scale is actually logarithmic, rather than linear. (pH 1 has a tenth of the concentration of pH 0 (10^(-1)), pH 3 has a thousandth of the concentration of pH 0 (10^(-3)))
+    + An indicator indicates what something is. What did I just type up now? For example, litmus is an indicator that's a pink mixture of plant compounds extracted from certain lichens.
+    + Acids are substances that produce an abundance of H+ ions when mixed in water. They contain hydrogen in a molecular bond with some non-metal element or polyatomic ion, and it acts as the metal.
+        + Acids turn litmus red and are often known to sting and be sour.
+        + Some examples of acids include battery acid (pH 0.5), lemon juice (pH 2), vinegar (pH 2.2), apples (pH 3), tomatoes (pH 4.2), normal rain (pH 5.6), and milk (pH 6.6).
+    + Bases are substances that produce an abundance of OH- ions when mixed in water. They contain a metal as a cation and hydroxide as an anion.
+        + Bases turn litmus blue and are often known to be slippery and bitter.
+        + Some examples of bases include human blood (pH 7.4), baking soda (pH 8.2), the normal water of the Great Lakes (pH 8.5), milk of magnesia (pH 10.5), ammonia (11.1), and drain cleaner (14).
+    + When an acid and base are mixed together, the H+ and OH- ions combine to form water, along with a salt. (HCl + NaOH -> NaCl + HOH)
++ When we burn fossil fuels, we create gasses that end up turning into acid rain, negatively impacting the environment; some organisms require a specific pH level in order to survive.
+    + Buildings made of limestone react with acid rain, destroying the building. This is because limestone is a mild base that can neutralize the acidity.
+    + In some places, the alkaline minerals in rock debris can neutralize acid rain, since they're basic. Liming is the addition of basic calcium carbonate into the environment to neutralize acidic bodies of water.
++ The catalytic converters in cars convert harsh oxides into less dangerous ones, primarily by two ways: splitting nitrogen oxides into nitrogen and oxygen, and reacting carbon monoxide with oxygen to produce carbon dioxide.
++ Scrubbers in power plants react with dangerous oxides like sulfur dioxide by mixing water and lime (CaO and other calcium oxides) with exhaust gasses to prevent acid rain formation, producing calcium sulfite and a sludge byproduct. (CaO + SO2 -> CaSO3)
++ A pollutant is any material or form of energy that will cause physical, chemical, or biological harm to a living organism. Pollution is any alteration of the environment producing a condition that is harming to living things.
+    + Dilution can make the effect of pollutants less apparent.
+    + There are five zones in polluted water: the clean zone has high dissolved oxygen and low biochemical oxygen demand (trout, mayfly), the decomposition zone has medium dissolved oxygen and medium biochemical oxygen demand (carp, catfish, leeches), the septic zone has low dissolved oxygen and low biochemical oxygen demand (no fish, midge, larvae), the recovery zone has medium dissolved oxygen and low biochemical oxygen demand (carp, catfish, leeches, isopods), and then it returns to the clean zone.
++ How much of a substance is present in another substance can be measured with PPM (parts per million), PPB (parts per billion), and other units. (76 grams of potassium iodide for every 1,000,000 grams of sodium chloride is a concentration of 76 ppm)
++ A chemical has acute toxicity when serious symptoms occur after only one exposure (like methyl isocyanate), while chronic toxicity is diagnosed when symptoms appear only after a chemical accumulates to a specific level after many exposures over time (like lead poisoning).
+    + The LD50 (Lethal Dose 50) refers to the dosage of a chemical that will kill 50% of the population to which it is applied. Most measurements regarding humans are collected as a result of accidents. (nicotine has a LD50 of 0.86 PPM)
+        + Despite it being common, using rats or mice for testing isn't always applicable to humans for LD50 measurements.
+    + Thalidomide was originally developed as a sleeping pill, but in the 1950s and 1960s, it resulted in birth defects for thousands of babies.
++ For every molecule for human-made pesticide, there are 10,000 molecules of naturally formed pesticides; every chemical has the potential to be harmful, too.
++ Non-persistent pollutants can break down (fertilizers, sewage), while persistent pollutants accumulate in the environment, slowly breaking down, if at all (pesticides, petroleum).
+    + Excess fertilizer in bodies of water result in "algal bloom"; when the excess algae dies, lots of dissolved oxygen is used in the process of decomposition.
++ Pollution often lowers the ability of an environment to support life, as the amount of dissolved oxygen in the water has decreased. The population and biodiversity of some organisms can be observed. These species are known as biological indicators. (trout and perch tolerate low levels of pollution, carp and catfish tolerate high levels of pollution)
+    + The most useful organisms for indicating water quality are macroinvertebrates: organisms large enough to be visible lacking a backbone. They're therefore the focus of many stream surveys.
++ Point sources for pollution are concentrated and come from one spot (drainpipes, smokestacks), while non-point sources are spread over a large area (feedlots, golf courses, construction sites, fertilized fields, acid rain).
++ The acronym NIMBY is for the phrase "not in my backyard", and it's used as an opposition by the residents of an area to development and lack of land regulation.
++ Many pollutants get transferred by winds in the air all around the world, often converging to the North.
++ While ozone (O3) is an irritating toxin at the Earth's surface, ozone high in the stratosphere prevents ultraviolet radiation fromr reaching the surface of the planet. Without this protection, biological organisms at the surface experience damage to cells.
+    + CFCs (chlorofluorocarbons) are man-made pollutants that used to be used in products like Styrofoam, aerosol can propellants, and refrigerator and air conditioner coolants.
+    + A hole in the Earth's ozone layer was found in the South pole, and it was caused by CFCs reacting with ultraviolet light, producing chloride ions. These chloride ions act as a catalyst for the breakdown of ozone into normal oxygen gas (O2).
+    + Since then, many countries have agreed to stop the production and use of CFCs to help, but by then, the hole over Antarctica was the size of the US. Meanwhile up top with Santa, ozone levels were 40% lower than normal.
++ Many countries have enacted legislation to make it necessary for water to be treated before leaving the sewage system. Methods for removing microorganisms, pollutants, and other chemicals include chlorination and high-intensity ultraviolet light.
+    + Primary treatment physically separates large solids and suspended sediments, secondary treatment removes organic compound using bacteria (resulting sludge is removed), and tertiary treatment removes nitrates and phosphates.
++ The permeability of the rock and soil that groundwater goes through can affect the amount found underground. Useful amounts can be found by drilling a well into a someplace with an aquifer... a place with useful amounts of groundwater. However, contamination can be prevalent with aquifers, so it's important to prevent it in the first place.
++ While some things may be considered biodegradable, conditions may vary; temperature, humidity, microorganism quantity, oxygen level, and other factors can severely lengthen the decomposition process.
++ Many hazardous substances, like household cleaning products, are solvents: they're used for dissolving other substances.
++ A sanitary landfill covers its waste each day to avoid windblown litter and scavengers. Liners are also employed to prevent fluids from filtering down into groundwater supplies.
+    + Leachate is the result of decomposing wastes, and methane is the result of buried organic waste decomposing without oxygen (anaerobic biodegration). It's usually burned in a controlled matter somewhere else.
++ Secure landfills store hazardous and toxic wastes using liners, layers of gravel, seepage pipes, sand cushions, and even more thick walls and layers. It's also capped by clay, plastic, and soil. Any possible leakage is also monitored by drilling wells.
++ The use of living organisms, like mustard, fescue grass, and the familiar poplar tree, to fix problem like reducing pollutants is called bioremediation.
+    + Container tanks called bioreactors house bacterial species known for breaking down persistent and toxic wastes to clean up groundwater being pumped in and out.
