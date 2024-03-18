@@ -128,3 +128,27 @@
 + In 1985, Satnam Singh came to Canada from India seeking refugee status, but he was rejected under the 1976 Immigration Act. He couldn't appeal, because he wasn't a citizen, so the Supreme Court said this violated section 7 of Charter of Rights and Freedoms, saying the charter (excluding democratic rights) applies to everyone physically in Canada. This was known as the Singh decision.
 + Provinces can nominate how many immigrants they want, and how to allocate them for different economic sectors with labor shortages.
 + The Canada-Quebec Accord is an agreement to bring in more Francophone immigrants to Quebec.
+
+---
+
+## Economic Systems
+
++ Economics is the study of the production, distribution, and consumption of goods and services. An economy is the resources and processes involved in that.
++ Economic systems are the ways societies organize that.
++ Scarcity is the idea that land, labor, and capital are in limited supply of what people want and need.
+    + Land consists of all the materials found in the natural environment needed to produce goods and services. (trees, food, oil, gold)
+    + Labor consists of the physical and mental effort needed to produce goods and services. (agricultural workers, restaurant staff, plumbers)
+    + Capital consists of the money that people own or borrow, used to purchase equipment, tools, and other resources to produce goods and services. (factories, machines)
++ An economic system is the way societies solve the basic problem of scarcity; different ideas about how to best organize an economy result in different economic systems.
+    + Privately owned resources are controlled by businesses and individuals, while publicly owned resources are controlled by the government and paid for by taxes.
+        + A crown corporation is a company owned by Canada's government to provide products and services to Canadians. This can be to provide essential services, promote economic development, or support culture and identity. (Air Canada, Petro-Canada, CBC/Radio-Canada)
+    + In a right-wing/conservative market economy, the choices of individuals solve scarcity. Private businesses own and manage resources. They sell their products and services to consumers, who make their own decisions. They succeed if they do what consumers want, otherwise they fail. The government doesn't get involved. (tax cuts, privatized healthcare)
+    + In a centrist mixed economy, private ownership is combined with government control. For example, private businesses own some resources and the government owns others. The level of government involvement fluctuates depending on what political party is in power.
+    + In a leftist/liberal/progressive planned economy, the government makes the decisions about how to solve scarcity. It owns the resources needed to produce and plans what will be done with limited resources. (public healthcare, social security)
++ Producers produce a supply of things, and consumers create a demand for it. When demand goes up, supply goes down, and price goes up. When supply goes up, price goes down, and demand goes up. When price goes up, demand goes down, and supply goes up.
+    + Equilibrium is reached when the supply of a product can meet the demand for a product at a particular price. Producers try to aim for this.
++ Competition is rivalry among producers to sell products to consumers. This results in variations in price and quality.
+    + A monopoly happens when only one producer controls all supply of a product or service, with no competition. They are often able to control much more for their benefit as a result of this. Governments tend to form monopolies for expensive essential services, and break up other monopolies. (Microsoft Window's Internet Explorer)
++ The unemployment rate of a region is the percentage of the workforce that doesn't have jobs.
++ Workers organize labor unions to represent their needs to employers, providing a way for workers to act as a group. They make collective bargaining possible. Canada has labor laws that establish that workers have a right to form unions, but it has opposed them too sometimes.
+    + A strike is a cessation of work by workers to pressure employers to respond to issues that concern workers. (wages, pensions, working conditions)
