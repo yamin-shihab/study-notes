@@ -63,3 +63,14 @@
 + To subtract two polynomials, simply flip the signedness of each of the second polynomial's terms before adding. ((2x^2 + 3x - 8) - (-3x^2 - x + 2) = 5x^2 + 4x - 10)
 + To multiply a polynomial by some constant or monomial, just multiply every term by it. (-4x(2x^2 - 4x + 5) = -8x^3 + 16x^2 - 20x)
 + To divide a polynomial by some constant or monomial, just divide every term by it. ((4x^5 - 12x^3 + 16x^2) / -4x^2 = -x^3 + 3x - 4)
+
+---
+
+## Similarity and Symmetry
+
++ Line symmetry can be either vertical, horizontal, or oblique (diagonal). It represents the number of repetitions in a shape or design.
++ The order of rotation of something is for how many times it can fit in itself in a full 360 degree rotation.
++ The angle of rotational symmetry is the smallest incremental change in rotation (in degrees) for a figure to exactly overlap itself.
++ For example, a square has four lines of symmetry, an order of rotation of four, and an angle of rotational symmetry of 45 degrees.
++ The scale factor of an enlargement or reduction is represented as the ratio of the scale diagram to the original diagram. (a 3x3 square scaled to a 9x9 square is using an enlarging scale factor of 3:1)
++ When one polygon is an enlargement or reduction of another polygon, it's said that they're both similar. They must have the same corresponding angles, and their corresponding sides must be proportional. (a triangle of 6x6x8.48 is similar to a triangle of 3x3x4.24)

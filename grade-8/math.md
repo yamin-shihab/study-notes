@@ -2,6 +2,8 @@
 
 *I had a summative test on the second week of school!*
 
+---
+
 ## Ratios and Rates
 
 + A ratio is a colon-separated group of terms (quantities/numbers) of the same unit that can be of two types:
