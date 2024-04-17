@@ -31,3 +31,15 @@
     + Transition words should be used to connect every point together. (first, furthermore, for example, similarly, however, finally)
     + In the conclusion sentence of a paragraph, the topic sentence is restated in different words. It also links the paragraph to the next one.
 + An essay finishes with a conclusion paragraph. It restates the main idea again, and it should end with an insight that shows a new or deeper understanding of the thesis statement.
+
+---
+
+## Business Emails
+
++ In a business email (written on paper), you have to start with writing the recipient's email and the subject of the email. (Email: j.doe@cock.li, Subject: Promotion of Yamin Shihab's Absolutely Excellent and Outstanding Study Guides)
++ You then write a salutation. (Dear Mr. Doe)
++ What follows is a paragraph providing some background information about yourself and the issue at hand, as well as the purpose of the email itself.
++ You will then have two paragraphs providing details drawing the recipient's attention to the issue, providing evidence, reasoning, explanations, and other persuasive techniques.
++ Additionally, you will write a paragraph providing suggestions and/or solutions to the issue at hand, and how this will all be a good thing. Be sure to also leave in some critical and contact information if necessary.
++ Finally, write a statement of thanks, maybe summarize the key information the email, and leave a lasting impression.
++ Be sure to write a last line with your first and last name.
