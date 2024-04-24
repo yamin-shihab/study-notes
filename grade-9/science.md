@@ -182,6 +182,8 @@
 + A catalyst helps a chemical reaction proceed faster, while an inhibitor helps slow down a chemical reaction.
     + Factors like surface area, temperature, and concentration can also help speed up or slow down chemical reactions.
 
+---
+
 ## Environmental Chemistry
 
 + The chemicals that animals need are called nutrients; they circulate throughout the body for energy, growth, building, and repair.
@@ -244,3 +246,57 @@
 + Secure landfills store hazardous and toxic wastes using liners, layers of gravel, seepage pipes, sand cushions, and even more thick walls and layers. It's also capped by clay, plastic, and soil. Any possible leakage is also monitored by drilling wells.
 + The use of living organisms, like mustard, fescue grass, and the familiar poplar tree, to fix problem like reducing pollutants is called bioremediation.
     + Container tanks called bioreactors house bacterial species known for breaking down persistent and toxic wastes to clean up groundwater being pumped in and out.
+
+---
+
+## Electrical Principles and Technologies
+
++ An excess of protons in ions leaves a positive electric charge, and an excess of electrons in ions leaves a negative electric charge. Benjamin Franklin was the first to describe this, in the 1700s.
+    + The Laws of Charges states that unlike charges attract, like charges repel, and charged objects attract uncharged (neutral) objects.
++ The imbalance of electric charges in something is called static electricity. These charges will try to balance and even things out by moving over to neutrally charged things. (rubbing feet on a carpet before touching a doorknob, rubbing balloon on hair before touching a shirt)
+    + The act of connecting an object to the Earth with a conducting wire is called grounding the object. This is possible because the Earth is so large (not as behemoth as your mom though) there's enough electrons to neutralize or enough space to absorb.
++ Conductors (like most metals) allow charge to travel freely by spreading electrons out, while insulators (like most non-metals) don't allow charge to travel freely by tightening electrons together.
+    + Semiconductors are materials  in between conductors and insulators in terms of how freely electrons can move. Superconductors are past conductors in that they offer little, if any, resistance to the flow of charges by being subjected to extremely low temperatures.
++ In a circuit, conductors allow for electricity to move around, sources are sources of electric energy (battery, solar panel), loads are the items along the circuit that convert electricity into other forms of energy (light bulb, motor, resistor), and controls are switches or devices that can turn the circuit or devices along it on or off (physical switch, transistor).
++ The electric current is the amount of charge that passes a point in a conducting wire every second, measured in amperes, with the symbol I.
+    + Really weak currents are measured with an galvanometer, and larger currents are measured with an ammeter or milliammeter.
++ Voltage, or potential difference, is the difference in energy between one point in a circuit and another, measured in volts, with the symbol V. Voltage is measured with a voltmeter.
++ Resistance to the flow of electricity is measured in ohms, symbolized by the Greek letter omega. Resistance is measured with an ohmmeter.
+    + Resistors convert electricity into heat, introducing a specific resistance. Variable resistors' resistance are controlled by external factors, like temperature, light, voltage, or a switch.
+    + Resistance is also affected by the gauge of a wire conducting electricity.
++ Ohm's law states that resistance is equal to voltage over current, current is equal to voltage over resistance, or voltage is equal to current times resistance. (given the current in a circuit is 12.5 amps and the voltage is 120 volts, the resistance is 120 / 12.5 = 9.6 ohms)
++ In a series circuit, there's only one current path, and all moving charges travel through each component. In a parallel circuit there's multiple current paths, and the total current is divided, with some going through each branch.
+    + In a series circuit, total voltage is equal to the sum of the individual voltage drops, components share the same current, and total resistance is equal to the sum of the individual resistances.
+    + In a parallel circuit, components share the same voltage, the total current is equal to the sum of the individual branch currents, and total resistance is less than the individual resistances, such that Rtotal = 1 / (1 / R1 + 1 / R2 + 1 / Rn).
+    + In houses, parallel wiring allows for all appliances to have equal energy. However, the more appliances connected, the more heat emitted from near the source.
++ A thermocouple is a loop of two wires made of different types of metals that are wrapped together at both junctions (ends). When one junction is heated, a small electric current is produced.
+    + A thermopile is a collection of thermocouples used to produce even more electricity.
++ When a piezoelectric crystal like quartz is connected to a potential difference, it expands or contracts slightly (used in accurate clocks and speakers). The same thing is possible in reverse (like in the sparks of lighters).
++ LEDs (light-emitting diodes) glow when electricity flows through them, and they last much longer with lower power than a traditional bulb.
++ Photovoltaic (solar) cells are made of of semiconducting materials like silicon; when light is absorbed by the material, electrons break loose and flow freely, contacting metals that take in the current.
++ In an electrochemical cell (battery), two electrodes of different metals are surrounded by an electrolyte (liquid electrolyte for wet cells, paste electrolyte for dry cells). For example, one electrode can be aluminum (anode), while the other is copper (cathode).
+    + When the cell supplies current to a circuit, atoms of aluminum become ions and go into the electrolyte solution, slowly disintegrating the aluminum anode electrode. The negative ions go through the circuit and to the copper cathode electrode, slowly fattening it up.
+    + Primary cells cannot be recharged, but secondary cells use chemical reactions which can be reversed, forcing electricity through the dead cell and rebuilding the original chemicals for reuse again.
++ An electromagnet is a coil of wire wrapping an core (preferably iron), creating a magnet when current is passed through. An electric current is also generated when a magnet is moved along a wire.
++ In an AC (alternating current) electric generator, mechanical forces turn an armature (rotating loop of wire) which is connected to the outside circuit via a split-ring commutator (a metal ring). Magnets around the armature induce a electric current in the wire.
+    + With a DC generator, there's instead a split-ring commutator, which is split so that the current is DC when the armature turns instead of AC with a slip-ring commutator.
+    + Motors operate similarly, but electricity flows into the armature rather than from it.
++ Alternating current for use in homes and industry is produced by large electric generators in power stations. Transformers are used to "step up" the voltage for efficient transmission over long distances, while at the destination, other transformers "step down" the voltage.
+    + When electricity enters a building, a circuit breaker acts as a switch and safety device that can cut off power coming in if there's too much. Older buildings sometimes instead have a fuse box.
+    + Additional circuit breakers control each branch circuit in a building. Branch circuits are parallel cable wires that supply power to wall lights or plugs in walls. Branch breakers cut off current to branch circuits that get hot enough to start a fire.
+    + The breakers, plugs, lights, and switches in each branch circuit are connected by electric cables that contain three wires: a white insulated neutral wire, a black insulated hot wire, and a bare copper/green insulated ground wire.
++ Digital electronic technology involves machines that process numerically coded information. They primarily rely on transistors, integrated circuits, and microprocessors to represent numbers and letters using a binary code (note that this is a gazillion mile view from above of the whole field).
++ In physics, power is defined as energy per unit time, so electric power describes the amount of electric energy that is converted into other forms of energy (heat, light, sound, motion) every second or the amount of electric energy transferred from one place to another in a certain amount of time.
+    + The equation that defines power is Power (in watts) = Energy (in joules) / Time (in seconds), so a watt is a joule per second. A kilowatt is 1000 watts. Therefore, energy can also be calculated with Energy = Power * Time. (a 100 W light bulb converts 100 W of electric energy into light and heat every second)
+    + Electric power can also be calculated with the equation Power (in watts) = Current (in amps) * Voltage (in volts). (the power of a heater when it is connected to a 110 V wall outlet with 13.6 A passing through is about 1500 W)
+    + A kilowatt hour is the total energy supplied to a 1000 W load during an hour of operation. (a small hair dryer with a rating of 1000 W running for an hour would have transformed 1 kWh of electric energy into thermal energy)
+    + The efficiency of a device is how much energy input becomes useful energy output, or Efficiency = Energy Output (in joules) / Energy Input (in joules). This can be converted into a percentage by multiplying by 100. (the efficiency of a 1000 W electric kettle taking four minutes and 196,000 joules of energy to boil water is about 81.7%)
++ Most electricity is generated via large thermo-electric generating plants using non-renewable fossil fuels. Heat from burning stuff converts water into steam, and the high-pressure steam flows through pipes into a spinning turbine that turns a generator to produce electric energy.
+    + Biomass, solid material from living things, can also be burned to power thermo-electric generators. They're considered renewable because they can be continually replenished. (trees, crops, plants, wastes)
+    + The continued use and want for fossil fuels has serious negative impacts on the environment. Open pit mining disturbs soil and vegetation, underground mines produce waste materials, water becomes contaminated, and burning fossil fuels produces contaminants in the air.
++ Hydro-electric plants are dams that use water pressure to generate electric energy. Water is directed by a channel called a penstock from the bottom of a reservoir to a turbine. The rapidly flowing water turns turbines which turn electric generators, resulting in electricity. However, their construction causes lots of change to land, which is almost always harmful in some way.
++ Thermonuclear electric generation uses nuclear fission (the splitting of atoms, usually uranium, releasing tons of energy) to heat water, generating steam. Again, the steam then turns a turbine connected to a generator to produce electricity. Radioactive waste in the form of used reactor fuel is released and can be very dangerous.
+    + In the future, nuclear fusion might be useful (the joining of two atoms, like stars), to produce energy, as it doesn't produce lots of radioactive waste.
++ All thermonuclear and thermo-electric generating plants release some thermal energy into the environment. Thermal pollution occurs when warm water is returned directly to the bodies of water they came from, affecting organisms.
+    + Cogeneration systems produce electricity and provide hot water or steam for industrial or commercial heating. This also helps prevent thermal pollution.
++ There are other greener sources of energy too; windmills use wind to turn a turbine, solar farms use sunlight on solar cells, heating liquids via sunlight is also possible, ocean tides can also turn a turbine, and geothermal energy uses the steam from hot springs and geysers to rotate turbines.
