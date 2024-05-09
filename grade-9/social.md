@@ -152,3 +152,13 @@
 + The unemployment rate of a region is the percentage of the workforce that doesn't have jobs.
 + Workers organize labor unions to represent their needs to employers, providing a way for workers to act as a group. They make collective bargaining possible. Canada has labor laws that establish that workers have a right to form unions, but it has opposed them too sometimes.
     + A strike is a cessation of work by workers to pressure employers to respond to issues that concern workers. (wages, pensions, working conditions)
+
+---
+
+## Consumerism
+
++ Consumerism is the economic theory that links prosperity to consumer demand for goods and services, and that therefore consumer behavior is central to economic decision making. This leads to companies putting a ton into marketing and governments encouraging people to buy.
++ Many factors influence what consumers spend their money on. This includes consumers' identities and cultures, health and safety problems, environmental concerns, and marketing and advertising's influence on consumers.
++ When spending on goods or services, there's a huge chain of people working their jobs involved in production. (with a pen for example, there needs to be plastic and metal suppliers with lots of workers, managers, and staff providing for manufacturing plant workers providing for transport workers providing for store workers)
++ GDP (Gross Domestic Product) measures the amount of wealth a country's economy generates. When a given GDP is said to be per capita, it's the average for one person.
++ A boycott is a decision by consumers to stop buying a product or service as a way to bring about change. This can be caused by many things, ranging from expensive prices to bad behavior to employees.
