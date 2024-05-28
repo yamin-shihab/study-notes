@@ -74,3 +74,18 @@
 + For example, a square has four lines of symmetry, an order of rotation of four, and an angle of rotational symmetry of 45 degrees.
 + The scale factor of an enlargement or reduction is represented as the ratio of the scale diagram to the original diagram. (a 3x3 square scaled to a 9x9 square is using an enlarging scale factor of 3:1)
 + When one polygon is an enlargement or reduction of another polygon, it's said that they're both similar. They must have the same corresponding angles, and their corresponding sides must be proportional. (a triangle of 6x6x8.48 is similar to a triangle of 3x3x4.24)
+
+---
+
+## Circle Geometry
+
++ You can do a lot of math in circles and lines by using the radius of a circle, the Pythagoras theorem, and the fact that all angles in a triangle add up to 180. Figure it out yourself because I'm too lazy to explain all the things you can do.
++ When referring to an angle of a triangle, it's written like <ABC, where B is the angle being addressed.
++ A tangent is a line intersecting the circle at only one point (just touching the edge outside).
+    + The point of tangency is the point where a tangent intersects the circle.
++ In a circle, a chord is a line segment that joins two points on a circle.
+    + A perpendicular bisector comes from the center of a circle to divide a chord into two equal parts.
++ A section of the circumference of a circle is an arc. The shorter arc is the minor arc, while the longer arc is the major arc.
+    + The central angle is the angle formed by joining the endpoints of an arc to the center of its circle. It's facing away from the inscribed angle.
+    + The inscribed angle is the angle formed by joining the endpoints of an arc to some other point on its circle.
+    + The inscribed angle is equal to the central angle divided by two.
