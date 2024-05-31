@@ -89,3 +89,27 @@
     + The central angle is the angle formed by joining the endpoints of an arc to the center of its circle. It's facing away from the inscribed angle.
     + The inscribed angle is the angle formed by joining the endpoints of an arc to some other point on its circle.
     + The inscribed angle is equal to the central angle divided by two.
+
+---
+
+## Statistics and Probability
+
++ There are three different types of probability:
+    + Theoretical probability uses the number of favorable outcomes over the number of possible outcomes. (1/6 chance to roll a 5 on a normal dice)
+    + Experimental probability calculates the probability of an event from experimental results. (there was a 1% light bulb was faulty)
+    + Subjective probability is decided by a "gut feeling". (going to a casino because you're feeling lucky)
++ There are some possible problems with collecting data using a survey:
+    + A biased question influences responses to favor something related to a topic. (Do you think the price of a movie ticket is too high?)
+    + The use of a question's language can lead people to give a particular answer. (If someone drops a wallet, your return it. Agree or disagree?)
+    + A question can be badly timed, leading to varying answers. (What do you think of winter tires? (conducted in summer))
+    + Surveys can be too long, causing some people not do the survey. (a 100 question survey)
+    + A survey can be very expensive to conduct. (a survey for every person in a nation (that isn't the Vatican City or something))
+    + Questions may delve into private matters that people don't want to reveal, leading to people not doing the survey. (Which of your parents do you like more?)
+    + A question might not be aware of other cultures that may not work too well with the question. (What's your favorite way of cooking ham?)
++ Yet another list of words! There are also some methods of sampling a population:
+    + With simple random sampling, each member of a population has an equal chance of being selected. (thirty random students being chosen from a school)
+    + Stratified random sampling has some members from each group of a population being randomly selected. (a random student is chosen from each class in a school)
+    + With cluster sampling, each member of a randomly chosen group of a population is selected. (every student from a random class is selected)
+    + Self-selected or voluntary sampling has only willing and interested members of a population participate. (any student who wants to do a survey in a school can do it)
+    + With convenience sampling, only members of a population who are convenient to include are selected. (surveying the students who sit next to you in class and are near your locker)
+    + Systematic or interval sampling has every nth member of a population selected. (sort the school's students by last name and select every 30th student)
