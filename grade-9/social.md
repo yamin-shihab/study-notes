@@ -162,3 +162,23 @@
 + When spending on goods or services, there's a huge chain of people working their jobs involved in production. (with a pen for example, there needs to be plastic and metal suppliers with lots of workers, managers, and staff providing for manufacturing plant workers providing for transport workers providing for store workers)
 + GDP (Gross Domestic Product) measures the amount of wealth a country's economy generates. When a given GDP is said to be per capita, it's the average for one person.
 + A boycott is a decision by consumers to stop buying a product or service as a way to bring about change. This can be caused by many things, ranging from expensive prices to bad behavior to employees.
+
+---
+
+## Social Programs and Taxation
+
++ A social program is a service provided by the government to reduce economic inequalities and promote the well-being of citizens.
++ Canada has public health care, which means public funds, or taxes, pay for healthcare for everyone. On the other hand, the US has private health care, meaning individuals pay for healthcare themselves.
+    + Many US citizens pay for health insurance to cover the costs of care. It's when one pays money to a company on a regular basis, whether they currently need healthcare or not. If they need it, the insurance company covers the medical costs.
+    + Views differ as to whether healthcare should be a social program. Usually, public healthcare is seen as left or liberal, while private healthcare is seen as right or conservative.
++ The Canada Health Act is a federal law that sets out five principles for health care in Canada. In every province and territory, health care must be publicly administered, comprehensive, universal, portable, and accessible.
++ Pension for senior citizens has all 65-year-old citizens who have lived in Canada for at least 10 years automatically qualify for a monthly pension, paid for by taxes. The Old Age Security Act is involved here.
++ Income assistance has citizens who are unable to meet their basic needs receive assistance, paid for by taxes.
++ Canadian citizens pay two main types of provincial and federal taxes: income tax is based on what one earns, and sales tax like GST (Goods and Services Tax) is based on what one spends.
+    + A taxation model is a policy about taxation that describes what to tax, how much to tax, and how to spend taxes.
+    + The economic activity that governments tax is called the tax base. It pays for the services provided by governments, such as social programs.
+    + In pretty much every nation, it's illegal to avoid paying taxes. Canadians must report what they earn, so the government can determine and collect the tax they owe.
+        + Tax evasion involves not reporting economic activity, so no tax is paid. People who work without paying taxes are part of the underground economy, or the black market.
++ A political platform describes the official policies of a political party. It reflects a variety of issues, including those linked to social programs and taxation models.
+    + Political parties create platforms to reflect the values of their members. They often change in response to local, national, and international events.
++ Did you know that 14-year-olds are allowed to join political parties?
