@@ -34,6 +34,13 @@
 
 ---
 
+## Consistency and Parallelism
+
++ When possible, discourse, pronouns, and verb tenses should be consistent in sentences. (Mark said, "I'll be late and that we should not wait up for him"/Mark said that he'd be late and don't wait up for me -> Mark said, "I'll be late. Don't wait up for me"/Mark said that he'd be late and that we shouldn't wait up for him, People in this town know that you should not be out alone after dark -> People in this town know that they should not be out alone after dark/In this town, you should not be out alone after dark, Alice ate supper and then goes to the game -> Alice ate supper and then went to the game)
++ A parallel structure has the same pattern of words to show that two or more ideas have the same level of importance. It happens at the word, phrase, or clause level using coordinating conjunctions. (Mary likes hiking, swimming, and to cycle/Mary likes to hike, swim, and cycling -> Mary likes hiking, swimming, and cycling/Mary likes to hike, swim, and cycle, The production manager was asked to write his report quickly, accurately, and in a detailed manner -> The production manager was asked to write his report quickly, accurately, and thoroughly, The coach told the players that they should get a lot of sleep, not eat too much, and to do some warm-up exercises before the game -> The coach told the players that they should get a lot of sleep, not eat too much, and do some warm-up exercises before the game)
+
+---
+
 ## Persuasive Techniques
 
 + There are many techniques used in persuasive language to convince someone to believe or do something. Persuasive language is used everywhere: advertising, politics, editorials, reviews, and speeches.
