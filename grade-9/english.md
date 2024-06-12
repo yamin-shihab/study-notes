@@ -34,9 +34,31 @@
 
 ---
 
+## Persuasive Techniques
+
++ There are many techniques used in persuasive language to convince someone to believe or do something. Persuasive language is used everywhere: advertising, politics, editorials, reviews, and speeches.
+    + Ethos is the establishment of authority and reliability. It's used to gain the confidence and trust of audiences. (Recommended by 9 out of 10 dentists!)
+    + Anecdotes are short personal short stories used to connect with the audience and add evidence or credibility to an argument. (Ever since I bought this sugary, artificially-flavored beverage, my skibidi ohio sigma gyatt rizz has been increasing exponentially!)
+    + Assertions present ideas as facts without full explanations or evidence. They add authority and give a feeling of factuality. (Improves intelligence!)
+    + Jargon is the specialized terminology of a specific profession or group. It's used to signal expertise and establish credibility. (By scaling our microservices to the cloud, we can utilize advanced LLMs and CNNs to make our backend more efficient. The API can then be used by IoT devices.)
+    + Pathos is the use of language that accentuates feelings of love, hate, or fear. It creates an emotional response in audiences. (the smoke of a cigarette in the shape of a gun pointed to the smoker's head)
+    + Loaded words are words charged with underlying meanings or implications that produce emotion in audiences. (race, ethnicity, religion, gender, abortion, social class, Vim, Emacs, spaces, tabs)
+    + Logos is the use of logic and rationality to convince audiences of judgements. (I haven't seen an ape turn to a human in a zoo, so the theory of evolution is therefore false.)
+    + Using evidence to prove facts or information to indicate whether a view is true or valid. This gives weight to arguments or beliefs. (Research has proven that these study notes will increase your grades by approximately 10%!)
+    + Alliterations can be used to make phrases more memorable. (Coca Cola, Dunkin' Donuts, PayPal, Mickey Mouse, Donald Duck, Buggs Bunny, Fred Flintstone)
+    + Repeating a word or phrase repeatedly can emphasize certain ideas and make them more memorable. ("Just Do It" in almost every Nike advertisement, "I'm Lovin' It" in almost every McDonald's advertisement).
+    + The rule of three is a principle that states words or phrases in groups of three are more memorable. (life, liberty, and the pursuit of happiness; stop, drop, and roll; snap, crackle, and pop)
+    + Biased language favors one side or viewpoint over another. (If you hate increased taxes, then the only logical party to vote for is ours!)
+    + Claims can be generalized to make it seem like they apply to most or all people to speak to prevailing beliefs or prejudices. (Because after all, everyone can use a Slap Chop!)
+    + Rhetorical questions are statements which are voiced as questions, but they're not expected to be answered. They draw audiences to conclusions. (Ever thought of wanting to lose over 69,420 metric tons of weight in only two weeks?)
+    + Sometimes, speakers or writers address opposing views, speakers, or writers with attacks on arguments or character. (The damn commies want to take our freedom and liberty!)
+    + Things can be exaggerated to grab the attention of audiences and emphasize certain points. (The greatest invention since sliced bread!)
+
+---
+
 ## Business Emails
 
-+ In a business email (written on paper), you have to start with writing the recipient's email and the subject of the email. (Email: j.doe@cock.li, Subject: Promotion of Yamin Shihab's Absolutely Excellent and Outstanding Study Guides)
++ In a business email (written on paper), you have to start with writing the recipient's email and the subject of the email. (Email: j.doe@cock.li, Subject: Promotion of Yamin Shihab's Absolutely Excellent and Outstanding Study Notes)
 + You then write a salutation. (Dear Mr. Doe)
 + What follows is a paragraph providing some background information about yourself and the issue at hand, as well as the purpose of the email itself.
 + You will then have two paragraphs providing details drawing the recipient's attention to the issue, providing evidence, reasoning, explanations, and other persuasive techniques.
