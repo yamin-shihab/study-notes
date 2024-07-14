@@ -9,7 +9,7 @@
 + The government is the body with power to make decisions for a society (governance).
 + Canada's constitution is the law that describes governance in the country. It sets out the roles of the three branches of government and how they work together. It also sets out other institutions like the Charter of Rights and Freedoms.
 + The king or queen of Britain is represented in Canada by the governor general, who is part of both the executive and legislative branches of the government. The monarch is the formal head of state in Canada, but doesn't play an active role in Canada's government.
-+ The executive branch proposes most laws, puts them into action, and runs the day-to-day business of the federal government. It includes the Prime Minister and the Cabinet.
++ The executive branch proposes most laws, puts them into action, and runs the day-to-day business of the federal government. It includes the PM (Prime Minister) and the Cabinet.
     + The PM is the head of Canada's government. To be one, they have to be elected as the leader of a political party. Then, they must be elected as a member of parliament, and the party has to win the most seats in the House of Commons.
         + The PM decides what portfolios to include in the cabinet and chooses cabinet ministers.
     + The cabinet includes cabinet ministers with responsibility for different government departments and agencies or portfolios, such as health, finance, defense, trade, justice, and environment.
@@ -176,9 +176,23 @@
 + Income assistance has citizens who are unable to meet their basic needs receive assistance, paid for by taxes.
 + Canadian citizens pay two main types of provincial and federal taxes: income tax is based on what one earns, and sales tax like GST (Goods and Services Tax) is based on what one spends.
     + A taxation model is a policy about taxation that describes what to tax, how much to tax, and how to spend taxes.
-    + The economic activity that governments tax is called the tax base. It pays for the services provided by governments, such as social programs.
+    + The economic activity that the government taxes is called the tax base. It pays for the services provided by governments, such as social programs.
     + In pretty much every nation, it's illegal to avoid paying taxes. Canadians must report what they earn, so the government can determine and collect the tax they owe.
-        + Tax evasion involves not reporting economic activity, so no tax is paid. People who work without paying taxes are part of the underground economy, or the black market.
+        + Tax evasion involves not reporting economic activity, so no tax is paid. People who work without paying taxes are part of the underground economy, or the black market. Lots of extremely rich people pay little to no taxes, because they hire people to find loopholes and evade taxes for them.
 + A political platform describes the official policies of a political party. It reflects a variety of issues, including those linked to social programs and taxation models.
     + Political parties create platforms to reflect the values of their members. They often change in response to local, national, and international events.
 + Did you know that 14-year-olds are allowed to join political parties?
+
+---
+
+## Environmental Issues and Society
+
++ Environmental issues arise because of human activities that change the natural world. For example, changes happen when factories release toxins and other pollutants into the air or water, or when housing developments occupy land that once supported wild plants and animals.
++ Climate change refers to a rise in the average temperature of the Earth due to the buildup of greenhouse gases in the atmosphere. It has extensive negative impacts, like rising sea levels, sever weather, and ecosystem and freshwater supply disruptions.
+    + Greenhouse gases primarily come from burning fossil fuels, such as natural gas, gasoline, coal, and oil. Most economies in the world rely on fossil fuels to produce resources and to manufacture and transport goods and services. Individuals also use fossil fuels.
+    + Greenhouse gases in the atmosphere affect the whole world, so one region emitting more greenhouse gases won't experience "worse" global warming. However, some regions will experience different impacts compared to other regions.
++ Reducing greenhouse gas emissions from industry is one way to respond to climate change. This is a way man people are seeking.
++ International negotiations on climate change focus on reducing the greenhouse gas emissions of developed countries, such as the US and Canada. Developing countries, such as Mexico, do not face the same greenhouse gas restrictions, as they can slow the economy of a country. Developed countries also have a higher greenhouse gas output.
+    + The US has faced pressure from countries around the world to reduce its emissions, but it didn't partake, partly because former president George W. Bush didn't believe human actions caused climate change, and international climate change agreements shouldn't exempt developing countries from taking action.
+    + The Kyoto Protocol was the first climate change plan the countries of the world negotiated. The US didn't agree to the plan. Canada at first agreed, but its position has changed depending on the political party in power.
++ The federal government also tries to reduce greenhouse gas emissions by putting in place laws and policies. (public transport, biofuel funding, emission standards for plants and industries, renewable energy technologies funding, carbon taxes in some provinces)
