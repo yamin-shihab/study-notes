@@ -14,9 +14,9 @@ Note that as I'm still in school, more information about each unit will be writt
 + [x] [Math 8](grade-8/math.md)
 + [x] [Science 8](grade-8/science.md)
 + [x] [Social Studies 8](grade-8/social.md)
-+ [ ] [English Language Arts 9](grade-9/english.md)
-+ [ ] [Math 9](grade-9/math.md)
-+ [ ] [Science 9](grade-9/science.md)
-+ [ ] [Social Studies 9](grade-9/social.md)
++ [x] [English Language Arts 9](grade-9/english.md)
++ [x] [Math 9](grade-9/math.md)
++ [x] [Science 9](grade-9/science.md)
++ [x] [Social Studies 9](grade-9/social.md)
 
 If you want to contribute, please, please, please, please, please be as consistent as possible with all the surrounding text (not like anyone is going to contribute anyway).

@@ -218,7 +218,7 @@
 
 ---
 
-## Area, and Perimeter
+## Area and Perimeter
 
 + Length is the length of the sides, and width is of the top and bottom.
 + Base is the width of the bottom, and height is how tall the whole shape is (not a side).

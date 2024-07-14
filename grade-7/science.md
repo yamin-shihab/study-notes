@@ -70,7 +70,7 @@
     + Run-off is water that runs off the ground into lakes, rivers, or streams.
 + Pollution is a collective term for the different types of harmful materials that are released into the environment through human activities.
     + Pollutants are substances that cause pollution.
-    + Acid rain is rain that contains higher than normal levels of acid; caused by waste gasses released into the atmosphere by industries and automobiles; damaging to the environment.
+    + Acid rain is rain that contains higher than normal levels of acid; caused by waste gases released into the atmosphere by industries and automobiles; damaging to the environment.
     + Bioaccumulation is the accumulation of pollutants in one organism.
     + Biomagnification is the movement of pollutants through levels of a food chain so that greater quantities are retained with movement up the food chain.
 + An ecological footprint is a calculation of the total area of land and water needed to supply all the materials and energy a human uses, as well as absorb the waste produced.
@@ -209,7 +209,7 @@
     + Conduction is the transfer of heat energy through the direct contact of particles. Heat travels from particle to particle through the substance.
         + A conductor is a material that allows for easy heat transfer. (metals)
         + An insulator is a material that slows heat transfer since spaces between the particles are larger. (wood, plastic, cork)
-    + Convection is heat transferred by the motion of particles in fluids. (gasses and liquids)
+    + Convection is heat transferred by the motion of particles in fluids. (gases and liquids)
     + When heat is added to particles, particles move faster (increased kinetic energy), particles move further apart, density decreases (fewer molecules in a space), less dense particles rise up, and dense particles move down closer to the heat. (convection)
     + Radiation is the transfer of energy through invisible waves (infrared waves). When infrared waves meet an object, it increases the kinetic energy of the particles.
         + The Sun is our greatest source of radiant energy.

@@ -10,7 +10,7 @@
 + There are three main types of matter, in order of density:
     1. Solids have particles tightly packed together and only vibrating in place. (tape dispenser, stapler, box)
     2. Liquids have particles with enough energy to slide past each other (fluid), yet still vibrate close to others. (water, honey, syrup)
-    3. Gasses have particles so far away from each other that they seem invisible due to the space between them. They move easily in all available directions. (oxygen, hydrogen, nitrogen)
+    3. Gases have particles so far away from each other that they seem invisible due to the space between them. They move easily in all available directions. (oxygen, hydrogen, nitrogen)
 + The Particle Model of Matter (PMOM) is always followed by all particles:
     1. All substances are made of tiny particles.
     2. All particles in a pure substance are the same.
@@ -18,9 +18,9 @@
     4. Particles are always in motion. The speed of the particles increases as temperature increases.
     5. Particles in a substance are attracted to each other. The strength of the attractive forces depends on the type of particle.
 + Matter can also change form:
-    + Solids melt or fuse into liquids, and sublimate into gasses.
-    + Liquids freeze or solidify into solids, and vaporize into gasses.
-    + Gasses deposit into solids, and condensate into liquids.
+    + Solids melt or fuse into liquids, and sublimate into gases.
+    + Liquids freeze or solidify into solids, and vaporize into gases.
+    + Gases deposit into solids, and condensate into liquids.
     + Evaporation is a slower form of vaporization that allows for a wider range of temperature.
     + Water freezes at 0 degrees Celsius, and ice melts at 100 degrees Celsius.
 + All matter can be classified as either a pure substance or mixture of substances.
@@ -57,7 +57,7 @@
 + Mass is the amount of matter in a substance (grams), weight is the force of gravity exerted on an object (newtons (named after a smart guy (yay (nested parentheses)))), and volume is the amount of space occupied by something (liters or meters cubed).
     + On Earth, the force of gravity pulls down an object with 10 newtons for every kilogram. (10 KG is 100 N on Earth)
 + Density is how "crowded" particles are in a solid, liquid, or gas.
-    + Solids are generally denser than liquids, which are generally denser than gasses.
+    + Solids are generally denser than liquids, which are generally denser than gases.
     + The particle model of matter can tell us that the higher the density of something is, the smaller the space it takes up. (water compared to vapor)
     + Density can be calculated by looking at the mass-to-volume ratio of things (D = M/V). (the higher the mass or lower the volume, the higher the density)
     + A hydrometer measures liquid density by extending in different ways depending on how dense the liquid is.
@@ -70,7 +70,7 @@
         + The Archimedes's principle states that the buoyant force exerted upon an object is equal to the weight of the fluid displaced when the object is submerged.
 + Pressure is a specific amount of force covered over a specific area. It's measured in pascals (named after a smart guy).
 + One pascal is equal to one newton per square meter, and therefore pressure can be calculated with the formula P = F/A.
-    + Gasses are said to be compressible, because their particles can be pushed somewhat closer together while remaining a gas.
+    + Gases are said to be compressible, because their particles can be pushed somewhat closer together while remaining a gas.
     + Solids and liquids are said to be incompressible, because their particles can't be pushed closer together while remaining a solid or liquid.
     + Compression is commonly used in some areas due to its useful property of being able to exert a force back. (car airbags, some running shoes, tires, grass in a field)
     + The Earth's atmosphere exerts pressure too; it's just that we're really used to it. That's why if you go really high up in a mountain or plane, you feel more sensitive to pressure change.
@@ -78,7 +78,7 @@
     + When air pressure is unequal inside and outside an enclosed space, the walls of that space may cave in or expand to compensate. (sucking on an empty juice box)
     + Particles flow from areas of high pressure to low pressure. (aerosol sprays)
     + Hydraulics is the study of pressure in liquids, and devices that utilize liquids to move something else using pressure are called hydraulic systems. They commonly use a series of tubes, hoses and pipes. (faucets, bike/car brakes, dentist equipment)
-    + Pneumatic systems are similar, but use gasses instead of liquids. They use gasses instead mostly because gasses are compressible, so they require compressors (devices that... compress air).
+    + Pneumatic systems are similar, but use gases instead of liquids. They use gases instead mostly because gases are compressible, so they require compressors (devices that... compress air).
 
 ---
 
@@ -337,7 +337,7 @@
     + Periods of mountain formation might've increased the area of high mountain ranges on Earth. The extra snow remaining on these cold peaks through the summer might've reflected sunlight to reduce the temperature.
     + The movement of Earth's tectonic plates might've altered the shape of the oceans and the flow of their currents, possibly resulting in imbalance.
     + Changes in the tilt of the Earth's axis or orbit around the Sun might've produced colder climates.
-+ The greenhouse effect is a natural warming caused by gasses (mainly carbon dioxide) in the atmosphere trapping heat.
++ The greenhouse effect is a natural warming caused by gases (mainly carbon dioxide) in the atmosphere trapping heat.
 + In a pond, sunlight reaches all the way to the bottom and allows for plants to grow there, whereas with a lake, sunlight doesn't reach the bottom and plants can't grow there.
     + The depth to which sunlight will penetrate depends on water's clarity: the amount of matter suspended in water.
 + Wetlands are low areas in land that are saturated with water all or much of the time. Marshes are shallow (less than one meter) water wetlands.
@@ -422,7 +422,7 @@
 + Some plants and animals don't use the Sun's energy, but rather sea-floor vents at the bottom for energy. The process of using its chemicals for food is called chemosynthesis.
 + In order for water to be safe to drink (potable), it has to cleaned and tested. Dissolved solids, salts, and organisms have to be removed.
     + Hard water contains lots of dissolved calcium and magnesium, while soft water has less.
-+ Acid precipitation is caused by dissolved sulfur dioxide and nitrogen oxide in the atmosphere. These are waste gasses released by coal-burning industries, metal smelters, and automobiles.
++ Acid precipitation is caused by dissolved sulfur dioxide and nitrogen oxide in the atmosphere. These are waste gases released by coal-burning industries, metal smelters, and automobiles.
     + They combine with water vapor in the atmosphere to form sulfuric and nitric acids. The then return in precipitation that can be more acidic than vinegar.
         + This acid rain can damage and kill off plants and animals, and it can dissolve heavy metals into the soil.
 + The pH scale is used to determine whether a substance is a base or acid. It measures from 1 (very acidic) to 14 (very basic), with 7 being normal.

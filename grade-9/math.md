@@ -89,6 +89,7 @@
     + The central angle is the angle formed by joining the endpoints of an arc to the center of its circle. It's facing away from the inscribed angle.
     + The inscribed angle is the angle formed by joining the endpoints of an arc to some other point on its circle.
     + The inscribed angle is equal to the central angle divided by two.
+    + One says that the central and inscribed angles of a circle are subtended by their minor arc.
 
 ---
 
