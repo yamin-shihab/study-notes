@@ -28,3 +28,20 @@
         + In a similar method, some trinomials of the form ax^2 + bx + c can be factored too, by using decomposition. Replace the bx with two terms whose coefficients have a sum of b and a product of a(c), and then factor by grouping. (3x^2 + 5x - 2 = 3x^2 + 6x - x - 2 = 3x(x + 2) - 1(x + 2) = (x + 2)(3x - 1))
     + A difference of squares, like u^2 - v^2, can be factored into (u + v)(u - v). (s^2 - 9 = (s + 3)(s - 3), 4u^2 - v^2 = (2u + v)(2u - v), p^2/3 - 1 = (p/3 + 1)(p/3 - 1), x^4 - 81 = (x^2 + 9)(x^2 - 9) = (x^2 - 9)(x + 3)(x - 3))
         + Each of these binomial factors in the end result are called conjugate pairs.
+
+## Relations and Functions
+
++ In a relation, the x-intercept is the point where the line intercepts with the x axis (y is going to be equal to 0), while the y-intercept is the point where the line intercepts with the y axis (x is going to be equal to 0). (the y-intercept of y = 3x + 5 is y = 3(0) + 5 = 3 + 5 = 8)
++ The domain of a relation is a set consisting of all the possible values for the independent or manipulated variable (x), while the range of a relation is a set consisting of all the possible values of the dependent or responding variable (y). They can both be represented in multiple ways.
+    + Words can be used to describe the domain or range. (the domain of the relation is the set of all real numbers between 0 and 10 inclusive)
+    + Number lines can also represent the domain or range of a relation.
+    + Lists are useful for giving the domain or range for discrete data. (the range of the relation is {0, 4, 8... 400})
+    + Set notation is another common way of describing the values of the domain and range of a relation. (the domain of the relation is {x | 5 < x <= 95, x is an element of R}, which means "the set of x such that x is between 5 exclusive and 95 inclusive, and x is an element of the real numbers")
+    + Interval notation uses different types of brackets to indicate an interval, where square brackets are inclusive and parentheses are exclusive. (the range of the relation is (5, 95])
++ A function is a type of relation in which each value of the independent variable is associated with exactly one value of the dependent variable (for every value in the domain there is a unique value in the range).
+    + Function notation is a symbolic notation used for writing a function. (y = 7x - 4 can be written as f(x) = 7x - 4, and f(2) = 7(2) - 4 = 14 - 4 = 10)
++ Another way to represent linear relations is with the form Ax + By + C = 0. This is called general form. (y = 6x + 1 = 6x - y + 1 = 0)
++ Yet another stupid way to represent linear relations is with the form y - y1 = m(x - x1). This is called slope-point form. (with a slope of -7 and a point at (-3, 4), y - 4 = -7(x + 3))
++ The slope is like the steepness of a relation; it's the ratio of the vertical change, or rise, to the horizontal change, or run, of a line or line segment. It can be represented with m = rise/run or m = (y1 - y2) / (x1 - x2), for example. (the slope of y = 5x + 3 is 5, and the slope of a line that goes through (2, 6) and (7, 8) is (6 - 8) / (2 - 7) = -2 / -5 = 0.4)
+    + The slopes of two line parallel to each other are equal. (a line with slope 3 is parallel to a line with slope 3)
+    + The slope of a line perpendicular to another is the reciprocal of the latter with a flipped sign. (a line with slope 4 is perpendicular to a line with slope -0.25)
