@@ -18,10 +18,5 @@ Note that as I'm still in school, more information about each unit will be writt
 + [x] [Math 9](grade-9/math.md)
 + [x] [Science 9](grade-9/science.md)
 + [x] [Social Studies 9](grade-9/social.md)
-+ [ ] [English 10-1](grade-10/english-10-1.md)
-+ [ ] [Math 10C](grade-10/math-10c.md)
-+ [ ] [Math 20-1](grade-10/math-20-1.md)
-+ [ ] [Science 10-1](grade-10/science-10-1.md)
-+ [ ] [Social Studies 10-1](grade-10/social-10-1.md)
 
 If you want to contribute, please, please, please, please, please be as consistent as possible with all the surrounding text (as if anyone is going to contribute anyway).
